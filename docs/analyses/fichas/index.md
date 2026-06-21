@@ -58,7 +58,9 @@ Fichas de análise aprofundada de cada referência, seguindo o [protocolo metodo
 |---|------------|-----|------|
 | 01 | [Memorial 5.1 — Biorrefinaria Bambu](memorial-5.1-biorrefinaria-bambu.md) | 2025 | Plataforma Amazônia Regenerativa v5.1 |
 | 02 | [Resenha — Naccache Imperveg](resenha-naccache-imperveg.md) | 2015 | PU Vegetal de Mamona — Ensaios CIV |
+| 03 | [Chung & Wang — Peeling Steam Bamboo](chung-wang-2017-peeling-steam-bamboo.md) | 2017 | Efeitos descasque/vapor em bambu |
+| 04 | [Polymers — Alkali Treatment](SCI_014_POLYMERS_ALKALI_TREATMENT.md) | 2022 | Tratamento alcalino em biocompósitos |
 
 ---
 
-> Total: **22 fichas** — 6 eixos temáticos. Atualizado em 2026-06-21.
+> Total: **25 fichas** — 6 eixos temáticos. Atualizado em 2026-06-21.

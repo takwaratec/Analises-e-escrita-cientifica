@@ -1,9 +1,10 @@
 site_name: Análises e Escrita Científica
 site_description: Repositório de análises de artigos, teses e dissertações — Estado da arte, fichas técnicas e revisões bibliográficas
-site_url: https://fabiotakwara.github.io/Analises-e-escrita-cientifica
-repo_url: https://github.com/fabiotakwara/Analises-e-escrita-cientifica
-repo_name: fabiotakwara/Analises-e-escrita-cientifica
+site_url: https://takwaratec.github.io/Analises-e-escrita-cientifica
+repo_url: https://github.com/takwaratec/Analises-e-escrita-cientifica
+repo_name: takwaratec/Analises-e-escrita-cientifica
 edit_uri: edit/main/docs/
+copyright: © Fabio Takwara, 2026. CC BY 4.0. Conteúdo das fichas e análises — uso livre mediante atribuição. Citações de terceiros mantêm seus direitos originais.
 
 theme:
   name: material

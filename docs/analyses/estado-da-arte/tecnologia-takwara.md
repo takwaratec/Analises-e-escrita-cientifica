@@ -1,36 +1,69 @@
 # Estado da Arte: Tecnologia Takwara
 
-> **Resumo:** Este eixo sistematiza 2 referências fundacionais da Tecnologia Takwara: o Memorial Técnico da Biorrefinaria de Bambu v5.1 (Plataforma Amazônia Regenerativa) e os Ensaios Imperveg/CIV de Poliuretano Vegetal de Mamona. O memorial descreve 6 inovações tecnológicas integradas (Coração Térmico, Separação de Fluxos, Economia do Metanol, SMGA) operando em duas camadas — pirólise de biomassa (Camada 1) e hidrogenação catalítica de CO₂ para metanol verde (Camada 2). Os ensaios Imperveg demonstram 95% de redução na absorção de água e 30% de incremento na rigidez do bambu tratado com PU vegetal, com toxicidade fluvial nula — validando o biocompósito como substituto de impermeabilizantes petroquímicos.
+> **Resumo:** Este eixo sistematiza as bases científicas da Tecnologia Takwara, abrangendo (1) preservação de bambu com extratos naturais (pirolenhoso, álcalis), (2) tratamento térmico e vaporização para estabilidade dimensional, e (3) biocompósitos de bambu com PU vegetal de mamona. Quatro referências fundacionais (1998-2022) ancoram a engenharia do projeto MQTF, complementadas por pesquisas internacionais sobre ácido pirolenhoso, tratamento alcalino de fibras e modificação térmica de bambu.
 
 ---
 
 ## 1. Documentos analisados
 
-| # | Ficha | Tipo | Tema central |
-|---|-------|------|-------------|
-| 01 | [Memorial 5.1 — Biorrefinaria Bambu](../fichas/memorial-5.1-biorrefinaria-bambu.md) | Memorial técnico | Plataforma Amazônia Regenerativa v5.1 |
-| 02 | [Resenha — Naccache Imperveg](../fichas/resenha-naccache-imperveg.md) | Relatório de ensaios | PU Vegetal de Mamona |
+| # | Ficha | Ano | Tema central |
+|---|-------|-----|-------------|
+| 01 | [Memorial 5.1 — Biorrefinaria Bambu](../fichas/memorial-5.1-biorrefinaria-bambu.md) | 2025 | Plataforma Amazônia Regenerativa v5.1 |
+| 02 | [Resenha — Naccache Imperveg PU](../fichas/resenha-naccache-imperveg.md) | 2015 | PU Vegetal de Mamona — Ensaios CIV |
+| 03 | [Chung & Wang — Peeling Steam Bamboo](../fichas/chung-wang-2017-peeling-steam-bamboo.md) | 2017 | Efeitos descasque/vapor em bambu |
+| 04 | [Polymers — Alkali Treatment](../fichas/SCI_014_POLYMERS_ALKALI_TREATMENT.md) | 2022 | Tratamento alcalino em biocompósitos |
 
-## 2. Inovações tecnológicas (Memorial 5.1)
+## 2. Referências fundacionais (SCI fichas)
 
-| Inovação | Função | Camada |
-|----------|--------|--------|
-| Coração Térmico | Rocket Stove + caldeira NR-13, 0 barg, tiragem natural | 1 |
-| Circular EP | 20% do gás de pirólise realimentado na caldeira | 1 |
-| Separação de Fluxos | Linha sujo/limpo para pirólise e secagem | 1 |
-| CCU Metanol | CO₂ + H₂ → CH₃OH (Economia Olah) | 2 |
-| Arquitetura Plug-and-Play | Módulos transportáveis, escalabilidade TRL 4→7 | 1+2 |
-| SMGA | Sistema de Monitoração Geoespacial Ambiental | Transversal |
+### SCI_012 — Potencial do Extrato Pirolenhoso na Preservação de Bambu
 
-## 3. Validação experimental (Imperveg/CIV)
+| Campo | Dado |
+|-------|------|
+| **Autor** | Rodolfo Gomes Silva |
+| **Instituição** | UNICAMP |
+| **Ano** | 2011 |
+| **Tipo** | Dissertação/Tese |
+| **Aplicação MQTF** | Extrato pirolenhoso (subproduto da pirólise) como fungicida natural para imunização T01 |
+| **Achado central** | Alta concentração de fenóis inibe crescimento de micélios; aplicação por imersão ou vapor enriquecido |
+| **Vantagem** | Toxicidade zero vs. pesticidas sintéticos; ciclo fechado (resíduo → pirólise → biochar + extrato) |
 
-| Ensaio | Resultado | Implicação |
-|--------|-----------|------------|
-| Absorção de água | -95% | Impermeabilização superior a petroquímicos |
-| Rigidez (tração/compressão) | +30% | Ganho estrutural significativo |
-| Toxicidade fluvial | Nula | Seguro para ecossistemas aquáticos |
-| Vida útil estimada | >15 anos | Viabilidade econômica |
+**Pesquisas relacionadas identificadas:**
+
+| Referência | Ano | Achado |
+|------------|-----|--------|
+| Peña Gómez et al. — *Chem. Characterization of Pyroligneous Acid from Guadua angustifolia* (DOI: 10.1590/1678-4324-2021190730) | 2021 | Caracterização química e propriedades antiradicalares do ácido pirolenhoso de bambu preservado |
+| Macias et al. — *Pyroligneous Acid from Guadua Bamboo in Pest Management* (DOI: 10.24857/rgsa.v18n5-191) | 2024 | Eficácia do ácido pirolenhoso de Guadua no controle de pragas do cacau |
+| Liu et al. — *Exogenous bamboo pyroligneous acid improves antioxidant capacity of apple fruit* (DOI: 10.1016/j.lwt.2020.110191) | 2020 | Ácido pirolenhoso de bambu como antioxidante pós-colheita |
+
+### SCI_017 — Efeito do Tratamento de Vaporização em Flexão Estática
+
+| Campo | Dado |
+|-------|------|
+| **Autores** | Elias Taylor Durgante Severo, Ivan Tomaselli |
+| **Instituições** | UNESP Botucatu / UFPR |
+| **Ano** | 1998 |
+| **Tipo** | Artigo científico (foco em *Eucalyptus dunnii*) |
+| **Aplicação MQTF** | Base para relaxamento de tensões internas em bambu via vaporização (100°C / 100% UR) |
+| **Achado central** | MOE estável ou aumentado; MOR reduzido por hidrólise de hemiceluloses; vaporização como pré-requisito para secagem acelerada |
+
+**Pesquisas relacionadas identificadas:**
+
+| Referência | Ano | Achado |
+|------------|-----|--------|
+| Chung & Wang — *Effects of peeling and steam treatment on bamboo* (DOI: 10.1007/s10086-017-1647-y) | 2017 | SHT a 120°C reduz holocelulose, melhora estabilidade dimensional sem afetar lignina |
+| Diversos autores — Pesquisas asiáticas sobre tratamento térmico de *Moso* e *Makino* bambu | 2010-2023 | Tratamento térmico entre 120-200°C melhora estabilidade dimensional mas reduz MOR |
+
+## 3. Panorama internacional — Preservação de Bambu
+
+| Abordagem | Vantagens | Limitações | Referências |
+|-----------|-----------|------------|-------------|
+| **Extrato pirolenhoso** | Fungicida natural, ciclo fechado, zero tóxico | Eficácia depende da espécie e concentração | Silva (2011), Peña Gómez (2021), Macias (2024) |
+| **Tratamento alcalino (NaOH)** | +21-230% resistência mecânica, melhora adesão fibra-matriz | Efluente químico, risco ambiental | Polymers (2022), Mejia (2012) |
+| **Vaporização (SHT)** | Estabilidade dimensional, alívio de tensões | Perda de MOR por hidrólise | Severo & Tomaselli (1998), Chung & Wang (2017) |
+| **Termorretificação (seca)** | Durabilidade, estabilidade | Perda de massa, redução de MOE/MOR | Literatura asiática (2010+) |
+| **INBAR standards** | Protocolos validados globalmente | Métodos com pressão requerem infraestrutura | INBAR Technical Report No.7 (1997) |
 
 ---
 
-> **Elaborado em:** 2026-06-21 | **Fichas incorporadas:** 2
+> **Elaborado em:** 2026-06-21 | **Fichas incorporadas:** 4 | **Referências relacionadas identificadas:** 8
+> **Nota:** As fichas SCI_012 (Pirolenhoso) e SCI_017 (Vaporização) têm seus originais em formato PDF que não foi localizado online para acesso aberto. As referências relacionadas foram identificadas via Crossref e Semantic Scholar APIs.

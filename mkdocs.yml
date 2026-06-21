@@ -1,0 +1,68 @@
+site_name: Análises e Escrita Científica
+site_description: Repositório de análises de artigos, teses e dissertações — Estado da arte, fichas técnicas e revisões bibliográficas
+site_url: https://fabiotakwara.github.io/Analises-e-escrita-cientifica
+repo_url: https://github.com/fabiotakwara/Analises-e-escrita-cientifica
+repo_name: fabiotakwara/Analises-e-escrita-cientifica
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+
+nav:
+  - Início: index.md
+  - Sobre: sobre.md
+  - Metodologia: metodologia.md
+  - Análises:
+    - analyses/index.md
+    - Estado da Arte:
+      - Visão Geral: analyses/estado-da-arte/index.md
+      - Percepção Social em HIS: analyses/estado-da-arte/his-percepcao-social.md
+      - Avaliação Pós-Ocupação: analyses/estado-da-arte/his-avaliacao-pos-ocupacao.md
+      - Política Habitacional: analyses/estado-da-arte/his-politica-habitacional.md
+      - Grandes Obras e Reassentamento na Amazônia: analyses/estado-da-arte/his-grandes-obras-reassentamento-amazonia.md
+    - Fichas Técnicas:
+      - analyses/fichas/index.md
+      - Joyce Santos (2009): analyses/fichas/joyce-santos-2009.md
+  - Prompts de Escrita: prompts/index.md

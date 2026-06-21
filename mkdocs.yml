@@ -65,5 +65,22 @@ nav:
       - Grandes Obras e Reassentamento na Amazônia: analyses/estado-da-arte/his-grandes-obras-reassentamento-amazonia.md
     - Fichas Técnicas:
       - analyses/fichas/index.md
-      - Joyce Santos (2009): analyses/fichas/joyce-santos-2009.md
+      - Percepção Social:
+        - Joyce Santos (2009): analyses/fichas/joyce-santos-2009.md
+        - Menezes & Mourão (2017): analyses/fichas/menezes-mourao-2017-pmcmv-qv.md
+        - Procópio & Campos (2022): analyses/fichas/procopio-campos-2022-ihas.md
+        - Nascimento & Brasil (2023): analyses/fichas/nascimento-brasil-2023-pmcmv-bh.md
+        - Oliveira & Villa (2024): analyses/fichas/oliveira-villa-2024-covid-his.md
+      - APO:
+        - Perim (2014): analyses/fichas/perim-2014-sustentabilidade-his.md
+        - Thielke (2021): analyses/fichas/thielke-2021-apo-porto-alegre.md
+        - Otoni & Villa (2024): analyses/fichas/otoni-villa-2024-resiliencia-ampliabilidade.md
+      - Política Habitacional:
+        - Lacerda (2023): analyses/fichas/lacerda-2023-padroes-espaciais.md
+        - Ferreira (2023): analyses/fichas/ferreira-2023-avaliacao-desempenho-his.md
+        - Simões & Leder (2024): analyses/fichas/simoes-leder-2024-assentamento-seriado.md
+      - Grandes Obras:
+        - Miranda Neto (2014): analyses/fichas/miranda-neto-2014-belo-monte-reassentamento.md
+        - Belforte & Cavalcante (2021): analyses/fichas/belforte-cavalcante-2021-santo-antonio.md
+        - Silva & Cavalcante (2022): analyses/fichas/silva-cavalcante-2022-reassentamento-rural-amazonia.md
   - Prompts de Escrita: prompts/index.md

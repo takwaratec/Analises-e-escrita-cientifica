@@ -198,6 +198,40 @@ Em 16/10/2025, **Hans Jürgen Kleine** — associado de longa data e voz influen
 
 **Significado**: A diretoria da BambuBR utilizou estudos de segurança alimentar (suplementos de boro para consumo oral, em microdosagens) para justificar o uso do mesmo composto químico em concentrações industriais no tratamento de bambu — uma falácia de equivalência entre contextos radicalmente diferentes. Fabio, que consome o próprio suplemento de boro oral, demonstrou conhecer a diferença entre as escalas e alertou que a concentração no tratamento do bambu excede em milhares de vezes a dose segura para ingestão humana.
 
+### 6.5 Vice-Presidente Jonas Reis (Casa e Bambu) — Desdém, Evasão e Inaptidão
+
+Jonas Reis, proprietário da empresa "Casa e Bambu" e vice-presidente da BambuBR, enviou **mais de 490 mensagens** no grupo (fev-out/2025). A análise revela um padrão de atuação incompatível com o cargo:
+
+**1. Evasão sobre o método de tratamento (L303-L306, 18/03/2024):**
+
+Quando Danilo Candia pergunta qual tratamento químico foi usado no bambu que Jonas comercializava, a resposta é nebulosa:
+
+> Danilo: *"Tratados ou in natura?"*
+> Jonas: *"Tratado."*
+> Danilo: *"**Como? Boro?**"*
+> Jonas: *"**Pode ver os detalhes com o cliente. Aquelas coisas, um monte de detalhe.**"*
+
+O vice-presidente **não sabe ou não quer dizer** qual veneno está sendo aplicado.
+
+**2. Indiferença a iniciativas da diretoria (L508-L509, 03/05/2024):**
+
+> Juliana: *"Maris teve uma ideia boa e queremos colocar em execução pela BambuBR."*
+> Jonas: *"**Imagino o seja.**" / "**Que seja.**"*
+
+**3. Bloqueio à participação democrática (L6357, 06/10/2025):**
+
+> *"**Algumas decisões na associação são de atribuição da diretoria.**"*
+
+**4. Ausência total no debate sobre tratamentos químicos (14-16/10/2025):**
+
+Durante a controvérsia mais grave da história da associação — a discussão sobre 93% de TCH do boro, a denúncia do site, a comparação com cloroquina, a retórica da FDA — Jonas não emitiu **uma única palavra** sobre o mérito científico. Suas mensagens se limitaram a: compartilhar link do site, enviar planilha Excel, dizer "Por hora, é só aguardar".
+
+**5. Celebração da marca registrada no auge da crise (L6377):**
+
+> *"**Agora somos BambuBR®️**"* — enquanto o grupo debatia se o tratamento que a associação promovia era carcinogênico.
+
+**Padrão**: 492 mensagens de boas-vindas, links e planilhas — zero contribuição técnica, científica ou estratégica. Um vice-presidente que funciona como secretário e se omite nas crises que exigem liderança.
+
 ## 8. Síntese das Evidências
 
 Este caso documenta:

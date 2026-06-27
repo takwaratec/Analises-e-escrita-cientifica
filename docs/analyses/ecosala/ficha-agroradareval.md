@@ -124,16 +124,70 @@ O AgroRadarEval insere-se no movimento global de **transformação da avaliaçã
 - **COARA** (Coalition for Advancing Research Assessment, 2022)
 - **RRI frameworks** da Comissão Europeia (Horizon Europe)
 
-A originalidade está em traduzir esses princípios gerais em uma **ferramenta concreta e operacional** para o contexto da P&D agrícola brasileira.
+---
 
-### Aplicação no ECOSALA
+## 📖 Glossário Didático
 
-O AgroRadarEval pode ser usado pelo grupo para:
+| Termo | Significado |
+|---|---|
+| **RRI** *(Responsible Research and Innovation)* | Metodologia europeia que defende que pesquisa e inovação sejam feitas **com** a sociedade, não **para** a sociedade. Quatro pilares: antecipar impactos, refletir sobre consequências, incluir diversos atores, responder a mudanças |
+| **RRA** *(Responsible Research Assessment)* | Movimento internacional que critica o uso do fator de impacto como única métrica de qualidade. Defende avaliar a pesquisa pelo **impacto societal** que gera, não apenas por citações |
+| **ECB** *(Evaluation Capacity Building)* | Processo de **capacitar** uma organização para fazer e usar avaliações — ensinar as pessoas a avaliar, criar infraestrutura de dados, incorporar a avaliação na rotina |
+| **Shiny** | Framework do R que permite criar **aplicativos web interativos** sem saber HTML/JavaScript. O usuário acessa pelo navegador, mexe em controles, e vê os resultados em tempo real |
+| **Benchmark** | Nota de referência. O AgroRadarEval compara as respostas da sua organização com a média de outras instituições que já responderam. Isso permite saber se você está acima ou abaixo da média |
+| **Gráfico Radar** | Gráfico em forma de teia de aranha com vários eixos saindo do centro. Cada eixo é uma dimensão avaliada. Quanto mais longe do centro, melhor o desempenho naquela dimensão |
+| **Stakeholder** | Qualquer pessoa ou grupo que é **afetado** pelo projeto ou **pode afetá-lo**: comunidades, financiadores, parceiros, poder público, universidades |
+| **CT&I** | Ciência, Tecnologia e Inovação |
+| **P&D&I** | Pesquisa, Desenvolvimento e Inovação |
+| **Survey** | Questionário estruturado aplicado a um grupo de pessoas para coletar dados padronizados |
+| **Revisão Sistemática** | Método de pesquisa que **levanta TODOS os artigos publicados** sobre um tema, seguindo um protocolo rigoroso, para responder uma pergunta específica |
 
-- **Avaliar a maturidade avaliativa** do ECOSALA como organização
-- **Estruturar indicadores de impacto** para a proposta Vaga Lúmen
-- **Embasar a seção de impacto societal** do Prêmio Zayed
-- **Gerar relatórios visuais** (gráficos radar) para financiadores
+---
+
+### 🎯 Aplicação no ECOSALA — Passo a Passo para os Projetos Reais
+
+#### Como usar na prática (sem precisar programar)
+
+1. **Acesse o app pronto**: [khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/](https://khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/) — funciona no navegador, não precisa instalar nada
+2. **Cada membro responde** o questionário (leva cerca de 15 minutos)
+3. **O app gera automaticamente** o gráfico radar mostrando os pontos fortes e fracos do grupo
+4. **Você usa esse diagnóstico** para justificar ações corretivas na proposta de edital
+
+#### Aplicação direta em cada projeto
+
+**📋 Vaga Lúmen (FINEP):**
+
+A FINEP exige que o proponente demonstre **capacidade de gestão e governança**. O AgroRadarEval fornece:
+
+| O que a FINEP quer | Como o AgroRadarEval responde |
+|---|---|
+| "Qual a experiência da equipe em gestão de projetos?" | Gráfico radar mostrando as 8 dimensões avaliadas → prova visual |
+| "Como serão monitorados os resultados?" | A dimensão **Monitoramento** (6) tem nota e justificativa no relatório |
+| "Como a comunidade participa do projeto?" | A dimensão **Participação e Colaboração** (1) mostra como o grupo envolve stakeholders |
+| "Qual a estratégia de comunicação?" | A dimensão **Comunicação** (8) já avalia isso |
+
+**Resultado concreto**: Você anexa ao formulário FINEP um **Relatório de Autoavaliação ECOSALA** com:
+- Gráfico radar colorido (impacto visual)
+- Diagnóstico de cada dimensão
+- Plano de melhoria baseado nas notas mais baixas
+
+**🌾 MSTJS / Prêmio Zayed (USD 100.000):**
+
+O Prêmio Zayed avalia **impacto em comunidades**. O AgroRadarEval mede justamente:
+
+- **Participação e Colaboração** (dimensão 1) → como o Viveiro-Educador envolve a comunidade do assentamento
+- **Influências do Ambiente Externo** (dimensão 7) → como políticas públicas e contexto local afetam o projeto
+- **Comunicação** (dimensão 8) → como os resultados são divulgados
+
+**Resultado concreto**: O diagnóstico do AgroRadarEval vira parte do dossiê do Prêmio Zayed, mostrando que o grupo tem **maturidade de gestão** — um diferencial que muitos projetos comunitários não têm.
+
+**🌱 ECOSALA (funcionamento interno):**
+
+| Problema que o grupo enfrenta | Como o AgroRadarEval ajuda |
+|---|---|
+| Difícil coordenar 12 pesquisadores de áreas diferentes | A dimensão **Participação e Colaboração** identifica gargalos de articulação |
+| Não sabemos se estamos no caminho certo | A dimensão **Feedback e Adaptação** avalia se o grupo aprende com os erros |
+| Falta métrica para mostrar resultado para parceiros | As 8 dimensões viram indicadores objetivos |
 
 ---
 

@@ -155,4 +155,95 @@ O TerImpact Ex-Ante pode ser adaptado para uso no ECOSALA:
 
 ---
 
+## 📖 Glossário Didático
+
+| Termo | Significado |
+|---|---|
+| **Ex-ante** | Em latim, "antes do fato". Avaliação ex-ante é feita **antes** do projeto começar, para estimar se ele terá impacto. Ao contrário de ex-post (depois de terminado) |
+| **Streamlit** | Framework Python que transforma scripts em **aplicativos web** automaticamente. O programador escreve o código e o Streamlit gera a interface sozinho |
+| **Supabase** | Plataforma que oferece banco de dados PostgreSQL + autenticação + API, tudo pronto para usar. É uma alternativa open-source ao Firebase do Google |
+| **PostgreSQL** | Sistema de banco de dados relacional (armazena dados em tabelas ligadas entre si). É o mais robusto e usado do mundo open-source |
+| **Workflow / Fluxo de trabalho** | Sequência de etapas que um documento (ou proposta) percorre. Ex: Rascunho → Enviado → Analisado → Aprovado → Arquivado |
+| **CTI** | Coordenação Técnico-Científica — instância que avalia o mérito científico de uma proposta |
+| **TT** | Transferência de Tecnologia — instância que avalia se o resultado da pesquisa pode chegar à sociedade |
+| **Governança** | Conjunto de regras, processos e estruturas que garantem que um projeto seja bem administrado, com responsabilidades claras |
+| **Auditável** | Que permite rastrear quem fez o quê, quando — todas as ações ficam registradas com data, autor e status |
+| **ID único** | Código gerado automaticamente para cada proposta (ex: `TER-20260627-A1B2C3D4`), que identifica o projeto para sempre |
+| **Dashboard / Painel** | Tela que reúne, em um só lugar, os principais indicadores — visão geral para tomada de decisão |
+| **CSV** | Arquivo de dados em formato de tabela (abre no Excel). É o formato universal para exportar dados |
+| **API** | Interface de programação — um "tradutor" que permite que dois sistemas conversem entre si |
+
+---
+
+### 🎯 Aplicação no ECOSALA — Passo a Passo
+
+#### O que este app faz, em português claro
+
+Imagine que cada projeto do grupo precisa passar por um **processo de aprovação** — igual uma revista científica, mas para projetos. O TerImpact Ex-Ante é o **sistema que gerencia esse processo**:
+
+1. Alguém **cadastra a ideia** do projeto no sistema (web)
+2. O **comitê científico** (Marcos, Vicente, Gisele) analisa — aprova ou pede ajustes
+3. O **setor de transferência** (André, Imperveg) avalia se a tecnologia chega na ponta
+4. Tudo fica **registrado com data, ID e histórico**
+5. A diretoria tem um **painel** mostrando todos os projetos e seus status
+
+#### Para que serve na prática
+
+| Problema que o grupo enfrenta | Como TerImpact Ex-Ante resolve |
+|---|---|
+| "Cada projeto segue um processo diferente" | Todos passam pelo **mesmo fluxo padronizado** |
+| "Perdemos o histórico das decisões" | Toda movimentação fica **registrada com ID, data e autor** |
+| "Não sabemos quais projetos estão andando" | O **painel** mostra todos os projetos e seus status |
+| "A FINEP quer ver governança" | Você **exporta um relatório CSV** com o histórico completo |
+| "A transferência de tecnologia é考量 depois" | O fluxo **inclui a TT como etapa obrigatória** antes da aprovação final |
+
+#### Aplicação em cada projeto real
+
+**📋 Vaga Lúmen (FINEP):**
+
+| O que a FINEP quer | Como o TerImpact Ex-Ante entrega |
+|---|---|
+| "Descreva a metodologia de avaliação do projeto" | O sistema **é** a metodologia — cadastro → indicadores → notas → relatório |
+| "Qual a governança do projeto?" | O fluxo mostra quem aprova o quê: proponente → CTI → TT |
+| "Como serão medidos os resultados?" | Os **índices calculados** (econômico, social, ambiental) geram métricas |
+| "Quem são os parceiros?" | O cadastro lista **parceiros, públicos, unidades e resultados esperados** |
+
+**Resultado**: A seção de **Metodologia de Avaliação de Impacto** da proposta FINEP pode usar este sistema. Você não precisa inventar — o sistema **já faz**.
+
+**🌾 MSTJS / Prêmio Zayed (USD 100.000):**
+
+O Zayed pede **comprovação de impacto mensurável**. O TerImpact permite:
+
+- Cadastrar indicadores de impacto do Viveiro-Educador
+- Calcular índices por dimensão (social, ambiental, econômica)
+- Gerar relatório de avaliação ex-ante do projeto
+
+**🏭 Fábrica Modelo (André/Maurílio):**
+
+Usar o sistema para **priorizar** quais tecnologias prototipar primeiro:
+
+| Tecnologia | Índice Social | Ambiental | Econômico | Prioridade |
+|---|---|---|---|---|
+| Forno ecológico | 8 | 9 | 6 | 1º |
+| Cúpula geodésica PU | 7 | 8 | 5 | 2º |
+| Biorrefinaria | 5 | 9 | 3 | 3º |
+
+#### Plano de adoção (3 passos)
+
+| Passo | O que fazer | Quem | Tempo |
+|---|---|---|---|
+| 1 | Daniela libera o acesso ou adapta o app | Daniela + Fabio | 1 dia |
+| 2 | Trocar os CSVs: unidades = membros, portfólios = eixos do grupo | Fabio | 2 dias |
+| 3 | Fazer avaliação piloto com o Vaga Lúmen | Grupo | 1 reunião |
+
+#### Resultados esperados
+
+| Prazo | Resultado |
+|---|---|
+| 1 mês | App rodando com dados do ECOSALA + 1 avaliação piloto |
+| 3 meses | Todas as propostas pelo fluxo de aprovação |
+| 6 meses | Relatório ex-ante anexado como prova de governança na FINEP |
+
+---
+
 *Ficha gerada em 27/06/2026 · Fonte: GitHub danimaciel (github.com/danimaciel/terimpact-exante), código-fonte avaliacao_ex_ante_v23.py, SUPABASE.md, arquivos CSV · Tecnologia Takwara*

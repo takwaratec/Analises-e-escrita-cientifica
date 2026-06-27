@@ -21,6 +21,9 @@ Fichas técnicas das evidências científicas coletadas para o projeto Vaga Lúm
 | 9 | [Reavaliação TRL](reavaliacao-trl-evidencias.md) | Análise comparativa TRL original vs. revisado com evidências | — |
 | 10 | [Compósitos Alternativos](compositos-alternativos-embarcacao.md) | Técnicas construtivas: PU mineral, tambores, rabetas, solar | — |
 | 11 | [Embarcações Solares SA](embarcacoes-solares-sul-america.md) | Projetos sul-americanos de referência | — |
+|
+| 🆕 | [AgroRadarEval](ficha-agroradareval.md) | Daniela Maciel — Gestão de P&D orientada a impacto societal (RRI/RRA) | DOI 10.4067/S0718-27242024000400089 |
+| 🆕 | [TerImpact Ex-Ante](ficha-terimpact-exante.md) | Daniela Maciel — Avaliação ex-ante de projetos de pesquisa (Streamlit) | GitHub danimaciel |
 
 ## Fichas dos Membros
 

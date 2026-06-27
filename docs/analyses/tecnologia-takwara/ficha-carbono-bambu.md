@@ -1,3 +1,13 @@
+---
+tipo: Síntese Técnica
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
+referencia: Sequestro de Carbono em Plantações de Bambu — Compilação de Dados
+fonte_principal: Takwara-Tech (acervo proprio do autor)
+data: 2026-06-27
+classificacao_atualizada: Síntese Técnica — compilação de dados do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
+---
+
 # Ficha Científica: Sequestro de Carbono em Plantações de Bambu
 
 **Fonte:** Takwara-Tech/docs/credito-carbono.md (seções 1–2); Takwara-Tech/docs/A2.  O Bambu/a2.4 Mercado Global.md

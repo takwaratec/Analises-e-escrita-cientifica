@@ -1,3 +1,13 @@
+---
+tipo: Síntese Técnica
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
+referencia: Forno Ecológico Multifuncional — Protótipo e Especificações
+fonte_principal: Takwara-Tech (acervo proprio do autor)
+data: 2026-06-27
+classificacao_atualizada: Síntese Técnica — compilação do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
+---
+
 # Ficha Técnica Científica: Forno Ecológico Multifuncional
 
 **Código:** TT-FT-003

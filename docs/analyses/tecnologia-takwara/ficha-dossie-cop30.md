@@ -1,5 +1,7 @@
 ---
 tipo: Ficha de Política Pública e Advocacy
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
 projeto: Tecnologia Takwara / ECOSALA
 referencia: Dossiê COP30: A Usurpação do Ouro Verde e o Paradoxo da Diplomacia Ambiental Brasileira
 status: Consolidado

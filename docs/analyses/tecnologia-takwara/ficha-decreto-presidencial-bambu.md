@@ -1,5 +1,7 @@
 ---
 tipo: Ficha de Política Pública e Advocacy
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
 projeto: Tecnologia Takwara / ECOSALA
 referencia: Proposta de Regulamentação da Lei do Bambu — PL nº 13.333/2025
 status: Consolidado

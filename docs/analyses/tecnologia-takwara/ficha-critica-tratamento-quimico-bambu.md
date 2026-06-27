@@ -1,3 +1,16 @@
+---
+tipo: Síntese Técnica — Advocacy e Denúncia
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
+projeto: ECOSALA / Tecnologia Takwara
+referencia: Crítica Ambiental aos Tratamentos Químicos do Bambu — Vácuo Regulatório e Contaminação por Boratos no Brasil
+fonte_principal: Takwara-Tech (acervo proprio); Araújo et al. (2025) Forests, DOI 10.3390/f15071078; BAMBUBR/**Denuncia/
+data: 2025-06-26
+status: Consolidado
+licenca: CC BY 4.0
+classificacao_atualizada: Síntese Técnica — documento de advocacy baseado em fontes primárias (artigo com DOI, relatórios de denúncia) e análise do autor. NÃO é artigo revisado por pares.
+---
+
 # Ficha Técnica Científica: Crítica Ambiental aos Tratamentos Químicos do Bambu
 
 **Código:** TT-FT-002

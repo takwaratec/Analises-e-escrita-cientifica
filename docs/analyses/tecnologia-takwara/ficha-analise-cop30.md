@@ -1,5 +1,7 @@
 ---
 tipo: Ficha de Política Pública e Advocacy
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
 projeto: Tecnologia Takwara / ECOSALA
 referencia: A Dupla Face da Liderança Climática Brasileira na COP30 — Uma Análise das Contradições Estruturais e Vieses Políticos
 status: Consolidado

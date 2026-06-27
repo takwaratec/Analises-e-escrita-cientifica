@@ -1,5 +1,7 @@
 ---
 tipo: Ficha de Política Pública e Advocacy
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
 projeto: Tecnologia Takwara / ECOSALA
 referencia: Relatório Analítico e Crítico do Painel "Desafios para a Manutenção da Floresta em Pé" — COP30
 status: Consolidado

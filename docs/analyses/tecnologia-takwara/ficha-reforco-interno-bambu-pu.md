@@ -1,3 +1,13 @@
+---
+tipo: Síntese Técnica
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
+referencia: Sistema de Reforço Interno de Bambu com Poliuretano Vegetal
+fonte_principal: Takwara-Tech (acervo proprio do autor)
+data: 2026-06-27
+classificacao_atualizada: Síntese Técnica — compilação do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
+---
+
 # Ficha Técnica Científica: Sistema de Reforço Interno de Bambu com PU
 
 **Código:** TT-FT-006

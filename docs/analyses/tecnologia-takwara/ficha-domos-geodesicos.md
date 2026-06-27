@@ -1,3 +1,13 @@
+---
+tipo: Síntese Técnica
+autor: Fabio Takwara
+instituicao: Tecnologia Takwara
+referencia: Domos Geodésicos — Compilação de Dados Estruturais
+fonte_principal: Takwara-Tech/docs/A4. Domos Geodésicos/a3.1 Dados Estruturais.md
+data: 2026-06-27
+classificacao_atualizada: Síntese Técnica — compilação do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
+---
+
 # Ficha Científica: Domos Geodésicos — Dados Estruturais e Especificações
 
 **Fonte:** Takwara-Tech/docs/A4. Domos Geodésicos/a3.1 Dados Estruturais.md

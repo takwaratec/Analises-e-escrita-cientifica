@@ -82,6 +82,27 @@ Araújo et al. (2025). Life Cycle Assessment of Bamboo Treatments. *Forests*, 15
 | **Associação (governança)** | "Associação de classe, ética" | Remove membro que aponta contradição científica |
 | **Projeto COP30** | "Sustentável, baixo carbono, sem contaminação" | Gera resíduos de boro com 93% de TCH |
 
+## 5.1 Evidência da Conversa Privada com Juliana Cortez (16/11/2025)
+
+Fonte: `/Users/fabiotakwara/Documents/BAMBUBR/**Denuncia/Conversa do WhatsApp com Juliana Cortez B UNESP.txt`
+
+**Fabio Takwara enviou o artigo "Casa da Floresta COP30" para revisão de Juliana Cortez**, conforme registrado na conversa privada:
+
+| Quem | Horário | Mensagem |
+|---|---|---|
+| Fabio Takwara | 16/11/2025 00:36 | Envia link do artigo `Casa_Floresta_COP30/` para "validação das informações, adendos, críticas e sugestões" |
+| Fabio Takwara | 16/11/2025 00:49 | "gostaria se possível, contar com uma entrevista sua e/ou de outros envolvidos para complementação e esclarecimentos sobre o projeto" |
+| Juliana Cortez | 16/11/2025 06:47 | "Muito obrigada pelo que está contribuindo. Vou ler assim que possível. [...] Será bem legal se vc conseguir nos ajudar com mais divulgação sobre a Casa da Floresta." |
+
+**Resultado**: Juliana Cortez agradeceu, disse que leria o artigo e propôs trabalhar juntos "em harmonia". No entanto, **nunca respondeu ao conteúdo do artigo**, não fez correções, não sugeriu alterações e **não publicou** o texto — confirmando o relato de Fabio de que a sugestão foi ignorada.
+
+A conversa privada comprova que:
+1. Fabio tomou a iniciativa de compartilhar o artigo com a presidente da associação
+2. Ofereceu o texto para validação, críticas e sugestões — uma demonstração de boa-fé técnica
+3. Pediu entrevista para aprofundar as informações — sinal de colaboração, não de confronto
+4. Juliana reconheceu a contribuição ("Muito obrigada pelo que está contribuindo") mas nunca deu retorno sobre o mérito do conteúdo
+5. Menos de 2 semanas depois (19/12/2025), Fabio foi removido do grupo da associação
+
 ## 6. Documentos de Contexto
 
 Pasta de denúncia: `/Users/fabiotakwara/Documents/BAMBUBR/**Denuncia/`

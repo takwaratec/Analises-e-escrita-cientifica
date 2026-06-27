@@ -175,7 +175,30 @@ Em 16/10/2025, **Maristela** — administradora do grupo e que se declara pesqui
 
 **Significado**: A administradora da BambuBR recorreu ao mesmo argumento usado por negacionistas da COVID-19 para desqualificar um estudo com DOI, revisão por pares e metodologia ISO 14040 — enquanto a associação continuava a promover o tratamento químico questionado.
 
-## 7. Significado para o Ecossistema Takwara
+### 6.4 Hans Cita FDA para Defender Boro — Fabio Demonstra que Estudos São de Suplementos Orais
+
+Em 16/10/2025, **Hans Jürgen Kleine** — associado de longa data e voz influente no grupo — recorreu a estudos da FDA para defender a segurança do boro (L6686):
+
+> *"Ninguém de sã consciência pode ignorar o que dizem órgãos como o **FDA**, que afirma que os compostos de boro não são tóxicos, a não ser para insetos, fungos e outros microrganismos."*
+
+**Fabio Takwara** rebateu em três movimentos:
+
+**1. Os estudos citados são sobre SUPLEMENTOS ORAIS, não sobre tratamento de bambu (L6666):**
+
+> *"**Eles tratam de suplemento de administração Oral**, eu mesmo consumo isso. **A diferença entre o remédio e o veneno é a dosagem.**"*
+
+**2. A concentração no bambu é MILHARES DE VEZES maior (L6664, L6667):**
+
+> *"**A concentração no bambu é muito maior do que os níveis que vc aponta.**"*
+> *"1/2kg de Boro aduba 1ha de terra, 10.000m². Precisa desenhar?"*
+
+**3. Os estudos da FDA são para ingestão em ratos, não para contato dérmico ou inalação de resíduos (L6687):**
+
+> *"Vc tá trazendo **testes de ingestão em ratos de laboratório com vistas a fabricação de suplementos alimentares**. A concentração é de **0,03 partes por grama**, que é o **suplemento que eu consumo**."*
+
+**Significado**: A diretoria da BambuBR utilizou estudos de segurança alimentar (suplementos de boro para consumo oral, em microdosagens) para justificar o uso do mesmo composto químico em concentrações industriais no tratamento de bambu — uma falácia de equivalência entre contextos radicalmente diferentes. Fabio, que consome o próprio suplemento de boro oral, demonstrou conhecer a diferença entre as escalas e alertou que a concentração no tratamento do bambu excede em milhares de vezes a dose segura para ingestão humana.
+
+## 8. Síntese das Evidências
 
 Este caso documenta:
 

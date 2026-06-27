@@ -10,6 +10,31 @@
 
 Aqui fica o **acervo científico** que fundamenta todos os projetos irmãos. Cada ficha é baseada em material bruto original (artigos com DOI, teses, dissertações, relatórios técnicos), seguindo a metodologia dos **200+ Prompts para Escrita Científica**.
 
+```mermaid
+flowchart TB
+    subgraph Central["🧠 Repositório Central"]
+        AC[("📚 Acervo Científico<br/>Fichas, resenhas, IFB,<br/>perfis, TRL")]
+    end
+    subgraph Projetos["📋 Projetos Ativos"]
+        EC[("🌱 ECOSALA<br/>Coletivo 12 membros")]
+        VL[("💰 Vaga Lúmen<br/>Proposta FINEP")]
+        MJ[("🌾 MSTJS<br/>Viveiro-Educador")]
+    end
+    subgraph Futuro["🔮 Novos Projetos"]
+        FM[("🏭 Fábrica Modelo<br/>André/Maurílio")]
+        NB[("💡 Novos Editais")]
+    end
+    AC -->|Fornece referências| EC
+    AC -->|Fornece referências| VL
+    AC -->|Fornece referências| MJ
+    AC -->|Fornece referências| FM
+    EC -->|Demandas| VL
+    EC -->|Demandas| MJ
+    VL -.->|Sinergia| FM
+    MJ -->|Demanda| NB
+    FM -->|Tecnologias| NB
+```
+
 ---
 
 ## 📂 Eixos temáticos

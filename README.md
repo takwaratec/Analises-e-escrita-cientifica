@@ -1,6 +1,14 @@
 # 📚 Análises e Escrita Científica
 
-> 🌱 **Bem Viver** — Este repositório é parte de um encontro de pensadores, pesquisadores e ativistas que articulam ciência, tecnologia social e saberes populares em torno do **Bem Viver**: a construção de um mundo onde a vida — humana e não-humana — seja o centro das relações econômicas, políticas e culturais. Nossos projetos integram agroecologia, bioconstrução com bambu, saneamento ecológico, bioeconomia amazônica e tecnologias regenerativas, sempre na escuta das comunidades e dos territórios.
+> 🌿 **Bem Viver** — Somos um encontro de trajetórias diversas que convergem em um propósito comum: a construção de mundos onde a vida, em todas as suas formas, ocupe o centro das relações sociais, econômicas e políticas.
+>
+> Não há aqui uma única disciplina, uma única origem ou uma única voz. Somos agrônomos, arquitetos, microbiologistas, engenheiros, educadoras, nutricionistas, psicólogas, gestoras comunitárias, desenvolvedores e pesquisadores autodidatas. Atuamos em institutos federais, centros de pesquisa, universidades, assentamentos da reforma agrária, Áreas de Proteção Ambiental e periferias urbanas.
+>
+> O que nos une não é um título, mas uma convicção: a de que a ciência deve servir à terra e aos povos que nela habitam. Trabalhamos com agroecologia e bioconstrução, com bambu e poliuretano vegetal, com saneamento ecológico e bioeconomia regenerativa, com tecnologias sociais que emergem do chão das comunidades e retornam a elas como autonomia.
+>
+> Este repositório é parte desse ecossistema — a **memória científica** que fundamenta todos os projetos irmãos. Aqui documentamos, analisamos e compartilhamos o que aprendemos, sempre na escuta dos territórios e na companhia dos que vieram antes.
+>
+> Seja bem-vinda, bem-vindo. Há lugar para quem chega com vontade de aprender, contribuir e transformar.
 
 **Repositório central de fichas técnicas, estados da arte e resenhas científicas** que embasam os projetos do ecossistema Takwara: bambu, PU vegetal, bioeconomia, habitação social e tecnologia construtiva.
 
@@ -43,7 +51,7 @@ flowchart TB
 
 | Eixo | Fichas | Conteúdo |
 |---|---|---|
-| **ECOSALA** | 22 | Fichas dos 11 membros + tecnologias (PU, biochar, pirolenhoso, fossa, biofiltro, catamarã) |
+| **ECOSALA** | 22 | Fichas dos 12 membros + tecnologias (PU, biochar, pirolenhoso, fossa, biofiltro, catamarã) |
 | **Tecnologia Takwara** | 65 | Bambu, PU vegetal (MAMONEX RD70, UG 132A, RQI), compósitos, patentes, tratamentos, ACV |
 | **Bioeconomia Amazônica** | 23 | Cadeias sociobiodiversidade, economia regenerativa, diagnósticos |
 | **Percepção Social (HIS)** | 7 | Satisfação habitacional, impacto social de programas |
@@ -51,7 +59,7 @@ flowchart TB
 | **Política Habitacional** | 5 | PMCMV, ATHIS, direito à moradia |
 | **Grandes Obras Amazônia** | 5 | Reassentamentos, hidrelétricas, impactos |
 
-> **Total: ~80 fichas + Catálogo IFB (84 referências)**
+> **Total: ~270 fichas + Catálogo IFB (70 referências)**
 
 ---
 
@@ -59,7 +67,7 @@ flowchart TB
 
 | Repositório | Conteúdo | Link |
 |---|---|---|
-| **ECOSALA** | Coletivo de 11 pesquisadores — atas, projetos, editais | [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA) |
+| **ECOSALA** | Coletivo de 12 pesquisadores — atas, projetos, editais | [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA) |
 | **Vaga Lúmen** | Proposta FINEP Mais Inovação — saneamento, habitação, bambu | [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026) |
 | **MST Mário Lago** | Viveiro-Educador Terra Viva — Juventude Solidária | [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026) |
 | **Mulheres Bioeconomia** | Zenodo DOI: 10.5281/zenodo.18827106 | [Plataforma Amazônia Regenerativa](https://zenodo.org/doi/10.5281/zenodo.18827106) |

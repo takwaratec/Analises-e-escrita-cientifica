@@ -6,6 +6,8 @@ status: Final — fundamentado em fontes externas e documentos primários
 classificacao: Estudo de Caso
 ---
 
+> ⚠️ **Aviso legal**: Este documento é um estudo de caso acadêmico-ativista. As citações de terceiros são reproduzidas ipsis litteris de fontes primárias (conversas de WhatsApp das quais o autor participa, matérias jornalísticas públicas e artigos com DOI). As análises e opiniões expressas são do autor e não constituem acusação formal. Os nomes dos envolvidos na gestão são mantidos por se tratar de figuras públicas (presidente de associação de classe, docente de universidade pública, diretoria) e por necessidade de rastreabilidade dos fatos narrados.
+
 # Análise de Controvérsia: Casa da Floresta COP30 — Entre o Discurso Sustentável e a Prática Química
 
 ## 1. Identificação
@@ -87,15 +89,15 @@ Araújo et al. (2025). Life Cycle Assessment of Bamboo Treatments. *Forests*, 15
 
 Fonte: `/Users/fabiotakwara/Documents/BAMBUBR/**Denuncia/Conversa do WhatsApp com Juliana Cortez B UNESP.txt`
 
-**Fabio Takwara enviou o artigo "Casa da Floresta COP30" para revisão de Juliana Cortez**, conforme registrado na conversa privada:
+**Fabio Takwara enviou o artigo "Casa da Floresta COP30" para revisão da presidente da BambuBR naquela gestão**, conforme registrado na conversa privada:
 
 | Quem | Horário | Mensagem |
 |---|---|---|
 | Fabio Takwara | 16/11/2025 00:36 | Envia link do artigo `Casa_Floresta_COP30/` para "validação das informações, adendos, críticas e sugestões" |
 | Fabio Takwara | 16/11/2025 00:49 | "gostaria se possível, contar com uma entrevista sua e/ou de outros envolvidos para complementação e esclarecimentos sobre o projeto" |
-| Juliana Cortez | 16/11/2025 06:47 | "Muito obrigada pelo que está contribuindo. Vou ler assim que possível. [...] Será bem legal se vc conseguir nos ajudar com mais divulgação sobre a Casa da Floresta." |
+| Presidente da BambuBR | 16/11/2025 06:47 | "Muito obrigada pelo que está contribuindo. Vou ler assim que possível. [...] Será bem legal se vc conseguir nos ajudar com mais divulgação sobre a Casa da Floresta." |
 
-**Resultado**: Juliana Cortez agradeceu, disse que leria o artigo e propôs trabalhar juntos "em harmonia". No entanto, **nunca respondeu ao conteúdo do artigo**, não fez correções, não sugeriu alterações e **não publicou** o texto — confirmando o relato de Fabio de que a sugestão foi ignorada.
+**Resultado**: A presidente da BambuBR agradeceu, disse que leria o artigo e propôs trabalhar juntos "em harmonia". No entanto, **nunca respondeu ao conteúdo do artigo**, não fez correções, não sugeriu alterações e **não publicou** o texto — confirmando o relato de Fabio de que a sugestão foi ignorada.
 
 A conversa privada comprova que:
 1. Fabio tomou a iniciativa de compartilhar o artigo com a presidente da associação
@@ -198,13 +200,13 @@ Em 16/10/2025, **Hans Jürgen Kleine** — associado de longa data e voz influen
 
 **Significado**: A diretoria da BambuBR utilizou estudos de segurança alimentar (suplementos de boro para consumo oral, em microdosagens) para justificar o uso do mesmo composto químico em concentrações industriais no tratamento de bambu — uma falácia de equivalência entre contextos radicalmente diferentes. Fabio, que consome o próprio suplemento de boro oral, demonstrou conhecer a diferença entre as escalas e alertou que a concentração no tratamento do bambu excede em milhares de vezes a dose segura para ingestão humana.
 
-### 6.5 Vice-Presidente Jonas Reis (Casa e Bambu) — Desdém, Evasão e Inaptidão
+### 6.5 Vice-Presidente Jonas Reis (Casa e Bambu) — Resposta Evasiva, Ausência de Manifestação Técnica
 
 Jonas Reis, proprietário da empresa "Casa e Bambu" e vice-presidente da BambuBR, enviou **mais de 490 mensagens** no grupo (fev-out/2025). A análise revela um padrão de atuação incompatível com o cargo:
 
-**1. Evasão sobre o método de tratamento (L303-L306, 18/03/2024):**
+**1. Resposta evasiva sobre o método de tratamento (L303-L306, 18/03/2024):**
 
-Quando Danilo Candia pergunta qual tratamento químico foi usado no bambu que Jonas comercializava, a resposta é nebulosa:
+Quando Danilo Candia pergunta qual tratamento químico foi usado no bambu que Jonas comercializava, a resposta é evasiva:
 
 > Danilo: *"Tratados ou in natura?"*
 > Jonas: *"Tratado."*

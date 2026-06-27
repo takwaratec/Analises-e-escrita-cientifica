@@ -122,7 +122,7 @@ Em 14/10/2025, no auge do debate sobre tratamentos químicos, **três evidência
 
 > *"Por mim ele **sairia do ar**, com aviso de manutenção e só retornaria quando todas essas questões internas fossem resolvidas."*
 
-**Conclusão**: O site da BambuBR — à época e possivelmente ainda — apresentava exclusivamente o tratamento por autoclave (que utiliza CCA/CCB/boratos) como referência, configurando endosso institucional a práticas que a ciência da UNESP demonstrou serem carcinogênicas (93% TCH), mesmo enquanto a presidente da associação declarava ser "contra CCA/CCB" em conversa privada.
+Verificado em 27/06/2026 — O site da BambuBR **ainda** apresenta exclusivamente o tratamento por autoclave (que utiliza CCA/CCB/boratos) como referência, configurando endosso institucional a práticas que a ciência da UNESP demonstrou serem carcinogênicas (93% TCH), mesmo enquanto a presidente da associação declarava ser "contra CCA/CCB" em conversa privada.
 
 A omissão em retirar ou reformular o site, somada à remoção de Fabio Takwara do grupo (19/12/2025), constitui evidência de **silenciamento institucional** — não do debate, mas da correção do erro.
 
@@ -147,7 +147,7 @@ O site da BambuBR apresenta, em sua seção de palestras (`/palestras`), quatro 
 | 3 | Fundamentos Básicos del secado de Bambú | PET-MADEIRA UNESP ITAPEVA | `youtube.com/watch?v=6dC3vQApHJQ` |
 | 4 | **Tratamento de Bambu** | PET-MADEIRA UNESP ITAPEVA | `youtube.com/watch?v=op6kBSXmxoo` |
 
-**Significado**: A associação promove, em seu site oficial, conteúdo sobre **tratamento de bambu** produzido pelo grupo de extensão do mesmo câmpus da presidente — enquanto simultaneamente a presidente declara ser "contra CCA/CCB", a ciência da UNESP aponta 93% de TCH do boro, e Fabio Takwara denunciou o site como "publicitando venda de produtos químicos".
+**Conclusão verificada em 27/06/2026**: O site da BambuBR (`bambubr.com/palestras`) **ainda** apresenta, na data de hoje, conteúdo sobre **tratamento de bambu** produzido pelo grupo de extensão do mesmo câmpus da presidente — incluindo o vídeo "Tratamento de Bambu" do canal PET-MADEIRA UNESP ITAPEVA (verificado em 27/06/2026 via acesso direto ao site e ao YouTube, conforme seção 6.2).
 
 ### 6.3 Maristela (UNESP) Compara Estudo com DOI a Cloroquina — e Fabio Rebate
 

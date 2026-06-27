@@ -106,6 +106,26 @@ A conversa privada comprova que:
 
 ## 6. Documentos de Contexto
 
+### 6.1 Fonte: WhatsApp BambuBR-Associados — O Site da Associação e a Contradição
+
+Em 14/10/2025, no auge do debate sobre tratamentos químicos, **três evidências documentam a relação do site da BambuBR com a controvérsia**:
+
+**Evidência A — Fabio denuncia que o site publicita tratamento químico (L6518):**
+
+> *"A legislação permite? Nem temos norma para bambu! Isso foi uma apropriação indevida de uma norma para madeira e mal aplicada. Portanto, **associação não pode endossar e muito publicitar a venda no site como está**!"*
+
+**Evidência B — LAB Bambu (Lucas) admite que o site é unilateral (L6532):**
+
+> *"Eu concordo com você no sentido que **colocar somente o autoclave como tratamento no site é um equívoco que precisa ser corrigido**."*
+
+**Evidência C — Fabio propõe a retirada total do site (L6535):**
+
+> *"Por mim ele **sairia do ar**, com aviso de manutenção e só retornaria quando todas essas questões internas fossem resolvidas."*
+
+**Conclusão**: O site da BambuBR — à época e possivelmente ainda — apresentava exclusivamente o tratamento por autoclave (que utiliza CCA/CCB/boratos) como referência, configurando endosso institucional a práticas que a ciência da UNESP demonstrou serem carcinogênicas (93% TCH), mesmo enquanto a presidente da associação declarava ser "contra CCA/CCB" em conversa privada.
+
+A omissão em retirar ou reformular o site, somada à remoção de Fabio Takwara do grupo (19/12/2025), constitui evidência de **silenciamento institucional** — não do debate, mas da correção do erro.
+
 Pasta de denúncia: `/Users/fabiotakwara/Documents/BAMBUBR/**Denuncia/`
 
 | Documento | Conteúdo |

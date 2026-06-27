@@ -1,101 +1,113 @@
 ---
-tipo: Ficha de Política Pública e Advocacy
+tipo: Documento de Denúncia e Advocacy
 projeto: Tecnologia Takwara / ECOSALA
-referencia: Projeto Casa da Floresta na COP30 — Sustentabilidade, Arquitetura Biodegradável e Protocolos de Tratamento de Bambu
-status: Consolidado
+referencia: Controvérsia BambuBR — Tratamentos Químicos, Negacionismo Científico e o Caso "Casa da Floresta"
+status: Retificado em 27/06/2026
 ---
 
-# Ficha Analítica: Projeto Casa da Floresta COP30
+# Ficha de Denúncia: O Documento que Nunca Foi Publicado — "Casa da Floresta COP30"
+
+> ⚠️ **Retificação** — Esta ficha substitui a versão anterior (que tratava o documento como projeto real). O texto "Casa da Floresta COP30" jamais foi publicado como artigo científico ou relatório institucional. Trata-se de um documento de advocacy/denúncia produzido no contexto de uma controvérsia interna da BambuBR.
 
 ## 1. Identificação do Documento
 
-- **Título**: Projeto Casa da Floresta na COP30 — Sustentabilidade, Arquitetura Biodegradável e Protocolos de Tratamento de Bambu
-- **Fonte**: Takwara-Tech Repository — `/docs/Casa_Floresta_COP30.md`
-- **Inauguração**: 3 de novembro de 2025
-- **Local**: Acará, Pará (margens do rio Guamá)
-- **Parceiros**: UNESP, Instituto Peabiru, IPAM, EMBRAPA + 30 instituições
-- **DOI**: [10.5281/zenodo.17225867](https://doi.org/10.5281/zenodo.17225867)
-- **Licença**: CC BY 4.0
-- **Status**: Pesquisa Ativa
+- **Título original do texto**: Projeto Casa da Floresta na COP30 — Sustentabilidade, Arquitetura Biodegradável e Protocolos de Tratamento de Bambu
+- **Natureza real**: Documento de denúncia/advocacy — NÃO publicado, NÃO revisado por pares
+- **Origem**: Enviado pela autora à presidência da BambuBR durante controvérsia interna sobre tratamentos químicos
+- **Autora**: Arquiteta integrante da UNESP e membro da BambuBR
+- **Data estimada**: 2025
+- **Fonte dos dados extraídos**: Takwara-Tech Repository
+- **Documentos de advocacy relacionados**: `/Users/fabiotakwara/Documents/BAMBUBR/`
 
-## 2. Contexto e Relevância
+## 2. Contexto da Controvérsia
 
-A Casa da Floresta é um pavilhão imersivo inaugurado durante a COP30 (Belém, 2025), concebido como espaço de inovação socioambiental, educação permanente e demonstração de tecnologias de baixo carbono. Representa a primeira vez que uma estrutura geodésica biodegradável de grande porte é aplicada em escala amazônica.
+### O que ocorreu
 
-## 3. Características Arquitetônicas
+A BambuBR — Associação Brasileira de Bambu — promove e difunde o uso de tratamentos químicos à base de **boratos** (bórax + ácido bórico) e, em alguns contextos, **CCB** (Arseniato de Cobre Cromatado) como métodos padrão para preservação do bambu. 
 
-| Elemento | Especificação |
-|----------|---------------|
-| Estrutura principal | Bambu amazônico (*Guadua angustifolia*) |
-| Geometria | Cúpula geodésica (otimização de cargas) |
-| Cobertura | Folhas de palmeira buçu (técnica vernacular) |
-| Amarrações | Fibras naturais + tiras de borracha reciclada |
-| Revestimentos | Tintas ecológicas Terracor (sem poliuretano) |
-| Captação de água | Sistema passivo (redução de 70% no consumo hídrico) |
-| Saneamento | Banheiros secos com compostagem |
-| Energia | Painéis fotovoltaicos de baixa potência |
-| Monitoramento | Sensores de CO₂, umidade, temperatura (dados em tempo real) |
+No entanto, estudo publicado pela **própria UNESP** (Araújo et al., 2025) demonstrou que o tratamento com bórax + ácido bórico atinge **93% de Toxicidade Carcinogênica Humana (TCH)** no impacto total do ciclo de vida do bambu tratado — com 91% do impacto concentrado nos resíduos (aparas e varas descartadas).
 
-## 4. Protocolo de Tratamento de Bambu: Ruptura Paradigmática
+### O embate
 
-### 4.1 Achado Científico (Araújo et al., 2025 — UNESP)
+Diante da divulgação desses achados, instalou-se uma controvérsia na associação. A autora do texto — arquiteta, membro da UNESP e da BambuBR — redigiu o documento "Casa da Floresta COP30" como **peça de denúncia**, mostrando à presidência da associação:
 
-> "A Toxicidade Carcinogênica Humana (TCH) atingiu 93% do impacto total gerado. [...] Resíduos de aparas e varas descartadas responderam por 91% do impacto."
+- Como **deveria** ter sido a preparação do artefato de bambu para a COP30
+- Que o método de tratamento **efetivamente difundido** pela associação contradiz a ciência publicada pela própria instituição à qual pertencem seus pares
+- Que a estrutura montada em mutirão, com o tratamento químico utilizado, resultará em **danos e contaminação** — como demonstrado pela ACV da UNESP
 
-**Causa raiz**: bórax (Na₂B₄O₇·10H₂O) e ácido bórico (H₃BO₃) usados em tratamento químico.
+### O que está em jogo
 
-### 4.2 Protocolo Adotado: "Secagem ao Ar + Proteção Vegetal"
+Trata-se de **negacionismo científico rompendo as fronteiras da ética profissional**:
 
-| Fase | Procedimento | Duração |
-|------|-------------|---------|
-| 1 | Seleção: colmos de 4-7 anos, sem danos | — |
-| 2 | Corte em lua crescente (menor amido) | — |
-| 3 | Secagem ao ar natural (umidade 60% → 15-20%) | 1-3 meses |
-| 4 | Imersão em água corrente (lixiviação de amido) | 15-30 dias |
-| 5 | Limpeza superficial manual (sem abrasivos) | — |
-| 6 | Proteção com cobertura vegetal (buçu/palha) | — |
-| 7 | Amarrações com materiais biodegradáveis | — |
-| 8 | Posicionamento elevado (50 cm do solo) | — |
-| 9 | Monitoramento e manutenção periódica | Anual/semestral |
+| Dimensão | O que a BambuBR promove | O que a UNESP publicou (Araújo et al., 2025) |
+|---|---|---|
+| Tratamento | Bórax + Ácido Bórico como padrão | 93% de Toxicidade Carcinogênica Humana (TCH) |
+| Resíduos | Sem protocolo específico de descarte | 91% do impacto concentrado em aparas descartadas |
+| Discurso público | "Tratamento natural e ecológico" | Classificado como altamente tóxico pela ACV |
+| Alcance | Mutirões, cursos, oficinas comunitárias | Populações expostas sem informação sobre o risco |
 
-### 4.3 Comparação de Métodos
+## 3. Estrutura do Documento Original
 
-| Método | Durabilidade | Toxicidade | Replicabilidade |
-|--------|-------------|-----------|-----------------|
-| Secagem ao ar + proteção vegetal | 15-25 anos | Zero | Muito alta |
-| Bórax + Ácido Bórico | >20 anos | Muito alta (93% TCH) | Alta |
-| CCB | >20 anos | Alta | Média |
+O texto de denúncia estrutura-se como um "projeto-modelo" que mostra o **caminho correto** que a Casa da Floresta deveria ter seguido:
 
-## 5. Conformidade Normativa
+- Protocolo "Secagem ao Ar + Proteção Vegetal" em contraste com o tratamento químico
+- Comparação de métodos: durabilidade vs. toxicidade vs. replicabilidade
+- Conformidade normativa (NBR 16828, ISO 14040)
+- Programação hipotética na COP30
+- Projeções de impacto
 
-| Norma | Aplicação |
-|-------|-----------|
-| ABNT NBR 16828-1:2020 | Projeto de estruturas de bambu |
-| ABNT NBR 16828-2 | Execução de estruturas de bambu |
-| ABNT NBR 17043:2023 | Colheita, tratamento e classificação |
-| ISO 14040:2014 | Avaliação de Ciclo de Vida |
+**Todos esses dados são simulação do que poderia/deveria ter sido feito — não são fatos ocorridos.**
 
-## 6. Programação na COP30 (10-21 nov 2025)
+## 4. Evidência Científica Subjacente
 
-- Rodas de conversa: saberes ancestrais e tecnologia contemporânea
-- Painéis: saúde e clima, segurança alimentar, química verde, arquitetura saudável
-- Vivências: "Banho de Floresta" (Shinrin-yoku adaptado), trilhas temáticas
-- Oficinas: micro-geodésicas, tratamento natural de bambu, meliponicultura
-- Formação: certificação em construção com bambu (40h, parceria IFAC)
+A denúncia fundamenta-se na Avaliação de Ciclo de Vida (ACV) publicada pela UNESP:
 
-## 7. Projeções e Impacto
+> Araújo et al. (2025). Life Cycle Assessment of Bamboo Treatments. *Forests*, 15(7), 1078. DOI: [10.3390/f15071078](https://doi.org/10.3390/f15071078)
 
-| Indicador | Estimativa |
-|-----------|------------|
-| Visitantes estimados (10 dias) | 1.500-2.950 |
-| Artigos em mídia convencional | 50-100 |
-| Papers acadêmicos derivados | 10-15 |
-| Replicação em localidades amazônicas | 5+ em 24 meses |
-| Vida útil da estrutura | 20-30 anos (com manutenção) |
-| Fim de vida | 100% biodegradável (compostagem) |
+**Achado central**: "A Toxicidade Carcinogênica Humana (TCH) atingiu 93% do impacto total gerado. [...] Resíduos de aparas e varas descartadas responderam por 91% do impacto."
 
-## 8. Significado Político-Científico
+**Instituição**: A mesma UNESP à qual pertencem membros da diretoria e do corpo técnico da BambuBR.
 
-A Casa da Floresta demonstra **na prática** a transição que Araújo et al. (2025) e a comunidade científica demandam: eliminação total de tratamentos químicos carcinogênicos (boro), com durabilidade comparável (15-25 anos) e toxicidade zero. O projeto posiciona-se como antítese ao modelo de tratamento químico hegemônico e como vitrine de uma bioeconomia amazônica baseada em biomateriais limpos.
+## 5. Significado Político-Científico
+
+Este documento é relevante **não** como projeto real, mas como:
+
+1. **Evidência de dissidência interna** — uma profissional da própria instituição e associação denunciando publicamente o que considera uma prática antiética
+2. **Registro de negacionismo institucional** — a associação continua promovendo tratamentos que sua própria base científica (UNESP) demonstrou serem carcinogênicos
+3. **Peça de advocacy** — o texto foi escrito para circular internamente como alerta, não para publicação
+4. **Contraponto ao discurso oficial** — enquanto a associação divulga "construção sustentável com bambu", o tratamento que promove contradiz frontalmente a ciência que a respalda
+
+## 6. Relação com o Ecossistema Takwara
+
+Para a Tecnologia Takwara, este documento serve como:
+
+- **Evidência do paradoxo regulatório**: produtos com boro e CCB entram no mercado sem fiscalização, enquanto alternativas limpas enfrentam barreiras de certificação
+- **Registro da controvérsia**: demonstra que mesmo dentro das instituições que promovem tratamentos químicos há dissidência técnica fundamentada
+- **Contraponto ao greenwashing**: o caso expõe a distância entre o discurso de sustentabilidade e a prática de envenenamento químico
+
+## 7. Documentos Relacionados (Advocacy)
+
+Pasta de documentos de advocacy em: `/Users/fabiotakwara/Documents/BAMBUBR/`
+
+| Documento | Conteúdo |
+|---|---|
+| `do-verde-às-cinzas.pdf` | Material de denúncia sobre o impacto dos tratamentos químicos |
+| `forests-15-01078.pdf` | Artigo original da ACV (Araújo et al., 2025) |
+| `sulfato-cobre-Ficha-segurança-PT.pdf` | Ficha de segurança de outro tratamento químico alternativo |
+| `WhatsApp Chat - BambuBR-Associados/` | Histórico de conversas da associação (contexto da controvérsia) |
+
+## 8. Inserção no Estado da Arte
+
+Este documento se insere em um campo mais amplo de tensão entre:
+
+- **Ciência publicada** (ACV, toxicologia) que demonstra os riscos dos tratamentos convencionais
+- **Prática institucional** (associações, cursos, mutirões) que ignora ou minimiza esses achados
+- **Advocacy técnica** (este e outros documentos) que busca alertar sobre as consequências
+
+A controvérsia da BambuBR espelha, em escala setorial, o mesmo fenômeno descrito por Oreskes & Conway (2010) em *Merchants of Doubt*: instituições que deveriam zelar pela ciência promovendo ativamente práticas que a ciência que elas mesmas produzem demonstrou serem danosas.
 
 ---
+
+> ⚠️ **Nota sobre a retificação**: A versão anterior desta ficha (criada em 26/06/2026) apresentava o documento como um projeto real da COP30. Esta versão corrige o registro. O documento original jamais foi publicado; é uma peça de denúncia/advocacy cujo valor está precisamente em sua natureza de dissidência interna — não em sua factualidade como projeto executado.
+
+*Ficha retificada em 27/06/2026 · Tecnologia Takwara*

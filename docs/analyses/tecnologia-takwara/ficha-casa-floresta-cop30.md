@@ -149,6 +149,32 @@ O site da BambuBR apresenta, em sua seção de palestras (`/palestras`), quatro 
 
 **Significado**: A associação promove, em seu site oficial, conteúdo sobre **tratamento de bambu** produzido pelo grupo de extensão do mesmo câmpus da presidente — enquanto simultaneamente a presidente declara ser "contra CCA/CCB", a ciência da UNESP aponta 93% de TCH do boro, e Fabio Takwara denunciou o site como "publicitando venda de produtos químicos".
 
+### 6.3 Maristela (UNESP) Compara Estudo com DOI a Cloroquina — e Fabio Rebate
+
+Em 16/10/2025, **Maristela** — administradora do grupo e que se declara pesquisadora da UNESP (L6663: "**EU sou pesquisadora da UNESP**") — fez intervenções que resumem a posição da diretoria:
+
+**A. Desqualificação do artigo revisado por pares (L6652-L6653):**
+
+> *"O artigo em que ele se baseia analisa **um único caso na cidade de Rio Branco**. Quem trabalha com pesquisa sabe que um único caso não é uma amostra representativa [...]. Ou então é como afirmar que **cloroquina e ivermectina servem para tratar a COVID-19**. Pode até ter funcionado pra umas poucas pessoas, mas não para um número suficiente."*
+
+**B. Afirmação incorreta sobre o conteúdo do artigo (L6657):**
+
+> *"**Em momento algum o artigo diz que o boro tem todo esse potencial carcinogênico.** Esse impacto se dá pelo fato de que a maior parte do resíduo é gerado após o tratamento."*
+
+*Nota: O artigo (DOI 10.3390/f15071078) afirma que 93% da TCH vem do tratamento químico e 91% do impacto está nas aparas contaminadas — o resíduo é tóxico **porque** foi tratado com boro.*
+
+**C. Desdém pessoal (L6659):**
+
+> *"**O excesso de boa vontade muitas vezes prejudica nossa interpretação de texto.**"*
+
+**D. Fabio rebate (L6662, L6669, L6671):**
+
+> *"Consultem os autores [do estudo], já que estão em casa suas."*
+> *"É um estudo científico com **revisão de PARES**. Não é um TCC."*
+> *"**Vcs se acham melhores que 4 cientistas?**"*
+
+**Significado**: A administradora da BambuBR recorreu ao mesmo argumento usado por negacionistas da COVID-19 para desqualificar um estudo com DOI, revisão por pares e metodologia ISO 14040 — enquanto a associação continuava a promover o tratamento químico questionado.
+
 ## 7. Significado para o Ecossistema Takwara
 
 Este caso documenta:

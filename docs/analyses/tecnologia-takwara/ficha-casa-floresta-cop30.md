@@ -1,8 +1,9 @@
 ---
-tipo: Documento de Análise de Controvérsia — com evidências primárias
+tipo: Estudo de Caso — Controvérsia Científica e Silenciamento Institucional
 projeto: Tecnologia Takwara / ECOSALA
 referencia: Projeto Casa da Floresta COP30 — Controvérsia sobre Tratamento à Base de Boro
 status: Final — fundamentado em fontes externas e documentos primários
+classificacao: Estudo de Caso
 ---
 
 # Análise de Controvérsia: Casa da Floresta COP30 — Entre o Discurso Sustentável e a Prática Química

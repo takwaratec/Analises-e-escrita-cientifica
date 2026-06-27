@@ -232,6 +232,50 @@ Durante a controvérsia mais grave da história da associação — a discussão
 
 **Padrão**: 492 mensagens de boas-vindas, links e planilhas — zero contribuição técnica, científica ou estratégica. Um vice-presidente que funciona como secretário e se omite nas crises que exigem liderança.
 
+### 6.6 Lucas (LAB Bambu) — Defesa Aberta de CCA/CCB e Agressividade contra Dissidentes
+
+Lucas, proprietário da LABambu e membro do corpo administrativo da BambuBR, atuou como organizador do catálogo da associação para a COP30 e como voz ativa nos debates técnicos. Seu comportamento revela contradições e posturas incompatíveis com a função:
+
+**1. Defesa pública do uso de CCA e CCB (L6524-L6527, 14/10/2025):**
+
+Diferentemente de Juliana (que se declarou "contra CCA/CCB"), Lucas afirmou abertamente que os utiliza:
+
+> *"Não é proibido o uso de CCA nem CCB no Brasil. Seguindo as normas indianas de tratamento de bambu, **eu utilizo peças tratadas com CCA** em locais onde o bambu pode receber sol e chuva [...]. Eu discordo de você e da Juliana na questão de impedir que se use CCA e CCB."*
+
+A posição de Lucas expõe a contradição da diretoria: enquanto a presidente diz ser contra no privado, um membro administrativo confessa publicamente que **utiliza** os produtos banidos na Europa e nos EUA, com arsênio, cromo e cobre na composição.
+
+**2. Contradição imediata — reconhece o erro do site mas não o corrige (L6532, mesmo dia):**
+
+> *"Eu concordo com você no sentido que **colocar somente o autoclave como tratamento no site é um equívoco que precisa ser corrigido**."*
+
+Lucas admite que o site é enganoso, reconhece que precisa ser corrigido, mas **nada faz a respeito** — nem ele, nem a diretoria. O site permanece igual até hoje (27/06/2026).
+
+**3. Cita estudos de ingestão em ratos como prova de segurança (L6641-L6646):**
+
+> *"Concerning genotoxicity studies, the overall picture indicates that boron-containing compounds are not genotoxic."* (citando PubMed)
+
+> *"A evidência que achei de contaminação por boro foi num estudo feito com **ratos onde ingeriam boro**, e outro em que animais **inalaram madeira com 20% de boro**, o que é muito acima da quantidade utilizada."*
+
+A mesma falácia de Hans: estudos de **suplementação oral em ratos** são usados para justificar a segurança do tratamento industrial de bambu com boro. A nota final — *"usem luvas, máscaras e não descartem as soluções no solo"* — contradiz a própria defesa que acabara de fazer.
+
+**4. Agressividade contra associados que questionam (L6443, L6456, L6493, L6585):**
+
+| Alvo | Fala | Linha |
+|---|---|---|
+| Fabio | *"Se você não participa das reuniões fica difícil de cobrar qualquer posicionamento"* | L6443 |
+| Fabio | *"Você insiste em ser **inconveniente**"* | L6585 |
+| Fabio | Manda Fabio se comunicar "por textos" (desqualificando áudios) | L6456 |
+| Cláudia | *"**Você não tem vergonha na cara?**"* (ataque pessoal) | L6493 |
+| Cláudia | *"Que boquinha, Cláudia?"* (sarcasmo/desdém) | L6484 |
+
+**5. Desorganização na coordenação da COP30 (L6606, 15/10/2025):**
+
+> *"Estou em viagem, **ainda não comecei o contato com os associados para a COP**."*
+
+A menos de um mês da COP30, Lucas — responsável por organizar a presença e o catálogo da BambuBR na conferência — **ainda não tinha começado o trabalho**.
+
+**Perfil**: Lucas (LAB Bambu) representa a face operacional do **sofisma institucional** — admite o erro do site mas não o corrige, cita estudos de suplementos orais como se fossem aplicáveis ao tratamento industrial, e trata como "inconvenientes" os associados que apontam contradições científicas. Sua defesa aberta do uso de CCA/CCB expõe a distância entre o discurso de "sustentabilidade" da associação e a prática real de seus administradores.
+
 ## 8. Síntese das Evidências
 
 Este caso documenta:

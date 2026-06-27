@@ -1,5 +1,7 @@
 # 📚 Análises e Escrita Científica
 
+> 🌱 **Bem Viver** — Este repositório é parte de um encontro de pensadores, pesquisadores e ativistas que articulam ciência, tecnologia social e saberes populares em torno do **Bem Viver**: a construção de um mundo onde a vida — humana e não-humana — seja o centro das relações econômicas, políticas e culturais. Nossos projetos integram agroecologia, bioconstrução com bambu, saneamento ecológico, bioeconomia amazônica e tecnologias regenerativas, sempre na escuta das comunidades e dos territórios.
+
 **Repositório central de fichas técnicas, estados da arte e resenhas científicas** que embasam os projetos do ecossistema Takwara: bambu, PU vegetal, bioeconomia, habitação social e tecnologia construtiva.
 
 👉 **Site:** https://takwaratec.github.io/Analises-e-escrita-cientifica/

@@ -135,6 +135,19 @@ Pasta de denúncia: `/Users/fabiotakwara/Documents/BAMBUBR/**Denuncia/`
 | `index.pdf` | Dossiê "Brazil's Environmental Crossroads" — greenwashing na COP30 |
 | `tratamento_ in_sustentavel.pdf` | Relatório sobre 59.014 toneladas de químicos tóxicos nos biomas brasileiros |
 | `[Fala.BR]...pdf` | Denúncia formal protocolada no governo federal |
+|
+### 6.2 Comprovação Visual — Site bambubr.com/palestras (verificado em 27/06/2026)
+
+O site da BambuBR apresenta, em sua seção de palestras (`/palestras`), quatro vídeos do canal **PET-MADEIRA UNESP ITAPEVA** — grupo de extensão do mesmo câmpus (UNESP Itapeva) onde a presidente Juliana Cortez é docente:
+
+| Ordem | Título do vídeo | Canal | URL |
+|---|---|---|---|
+| 1 | CELULOSE DE BAMBU (1h18min) | PET-MADEIRA UNESP ITAPEVA | `youtube.com/watch?v=q8Z0rQqtBvM` |
+| 2 | *indisponível* | — | `youtube.com/watch?v=WF3wawmT4l4` |
+| 3 | Fundamentos Básicos del secado de Bambú | PET-MADEIRA UNESP ITAPEVA | `youtube.com/watch?v=6dC3vQApHJQ` |
+| 4 | **Tratamento de Bambu** | PET-MADEIRA UNESP ITAPEVA | `youtube.com/watch?v=op6kBSXmxoo` |
+
+**Significado**: A associação promove, em seu site oficial, conteúdo sobre **tratamento de bambu** produzido pelo grupo de extensão do mesmo câmpus da presidente — enquanto simultaneamente a presidente declara ser "contra CCA/CCB", a ciência da UNESP aponta 93% de TCH do boro, e Fabio Takwara denunciou o site como "publicitando venda de produtos químicos".
 
 ## 7. Significado para o Ecossistema Takwara
 

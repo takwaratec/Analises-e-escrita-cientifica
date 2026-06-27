@@ -1,16 +1,12 @@
 # 📚 Análises e Escrita Científica
 
-> 🌿 **Bem Viver** — Somos um encontro de trajetórias diversas que convergem em um propósito comum: a construção de mundos onde a vida, em todas as suas formas, ocupe o centro das relações sociais, econômicas e políticas.
+> ⚠️ **Compartilhamento seletivo** — Este repositório não é de acesso público irrestrito. Recomendamos o compartilhamento apenas com pessoas que tenham vínculo direto com o propósito: cooperativas, pesquisadores, analistas de editais, avaliadores e orientadores. A entrada de novos membros no ecossistema se dá exclusivamente por conexão com um projeto irmão ativo — não por convite aberto.
 >
-> Não há aqui uma única disciplina, uma única origem ou uma única voz. Somos agrônomos, arquitetos, microbiologistas, engenheiros, educadoras, nutricionistas, psicólogas, gestoras comunitárias, desenvolvedores e pesquisadores autodidatas. Atuamos em institutos federais, centros de pesquisa, universidades, assentamentos da reforma agrária, Áreas de Proteção Ambiental e periferias urbanas.
+> 🎋 **Acelerador de resultados, não vitrine** — Como o bambu, que não cresce isolado mas em rede de rizomas subterrâneos, cada repositório deste ecossistema só ganha sentido quando vinculado a um projeto real. Não expomos conhecimento para validação externa — aceleramos quem está na ponta.
 >
-> O que nos une não é um título, mas uma convicção: a de que a ciência deve servir à terra e aos povos que nela habitam. Trabalhamos com agroecologia e bioconstrução, com bambu e poliuretano vegetal, com saneamento ecológico e bioeconomia regenerativa, com tecnologias sociais que emergem do chão das comunidades e retornam a elas como autonomia.
+> Trabalhamos sob duas bússolas. As **7 Lições do Bambu** nos lembram que é preciso curvar sem quebrar, criar raízes profundas, cooperar em comunidade, crescer com foco, colecionar nós de aprendizado, permanecer ocos de certezas e buscar o bem comum. Os **7 Pilares de Edgar Morin** para a educação do futuro nos ancoram no pensamento complexo: o conhecimento só é pertinente quando enfrenta a incerteza, ensina a condição humana e se compromete com a ética.
 >
-> Este repositório é parte desse ecossistema — a **memória científica** que fundamenta todos os projetos irmãos. Aqui documentamos, analisamos e compartilhamos o que aprendemos, sempre na escuta dos territórios e na companhia dos que vieram antes.
->
-> Seja bem-vinda, bem-vindo. Há lugar para quem chega com vontade de aprender, contribuir e transformar.
-
-**Repositório central de fichas técnicas, estados da arte e resenhas científicas** que embasam os projetos do ecossistema Takwara: bambu, PU vegetal, bioeconomia, habitação social e tecnologia construtiva.
+> 📚 **Este repositório** é a memória científica do ecossistema — fichas técnicas, estados da arte e resenhas com DOI rastreável que dão lastro a editais, cartas de anuência e decisões de projeto. Nenhuma ficha é publicada sem autor, fonte verificada e as 8 seções do protocolo Cavichioli (2025).
 
 👉 **Site:** https://takwaratec.github.io/Analises-e-escrita-cientifica/
 
@@ -22,55 +18,48 @@ Aqui fica o **acervo científico** que fundamenta todos os projetos irmãos. Cad
 
 ```mermaid
 flowchart TB
-    subgraph Central["🧠 Repositório Central"]
-        AC[("📚 Acervo Científico<br/>Fichas, resenhas, IFB,<br/>perfis, TRL")]
+    subgraph Central["🧠 Acervo Científico"]
+        AC["📚 Fichas técnicas · Resenhas · Perfis<br/>👥 Pesquisadores · Avaliadores<br/>🔗 Lastro científico com DOI"]
     end
     subgraph Projetos["📋 Projetos Ativos"]
-        EC[("🌱 ECOSALA<br/>Coletivo 12 membros")]
-        VL[("💰 Vaga Lúmen<br/>Proposta FINEP")]
-        MJ[("🌾 MSTJS<br/>Viveiro-Educador")]
+        EC["🌱 ECOSALA<br/>👥 12 pesquisadores<br/>🔗 Atas · Projetos · Editais"]
+        VL["💰 Vaga Lúmen<br/>👥 Avaliadores FINEP<br/>🔗 Proposta estruturada"]
+        MJ["🌾 MSTJS<br/>👥 Cooperativas · Comunidades<br/>🔗 Viveiro-Educador"]
     end
-    subgraph Futuro["🔮 Novos Projetos"]
-        FM[("🏭 Fábrica Modelo<br/>André/Maurílio")]
-        NB[("💡 Novos Editais")]
+    subgraph Futuro["🔮 Em Construção"]
+        FM["🏭 Fábrica Modelo<br/>André/Maurílio"]
+        NB["💡 Novos Editais"]
     end
-    AC -->|Fornece referências| EC
-    AC -->|Fornece referências| VL
-    AC -->|Fornece referências| MJ
-    AC -->|Fornece referências| FM
-    EC -->|Demandas| VL
-    EC -->|Demandas| MJ
-    VL -.->|Sinergia| FM
-    MJ -->|Demanda| NB
-    FM -->|Tecnologias| NB
+    AC -->|"Fornece referências ABNT"| EC
+    AC -->|"Fornece referências ABNT"| VL
+    AC -->|"Fornece referências ABNT"| MJ
+    EC -->|"Demandas"| VL
+    EC -->|"Demandas"| MJ
+    VL -.->|"Sinergia"| FM
+    MJ -->|"Demanda"| NB
+    FM -->|"Tecnologias"| NB
 ```
+
+| Repositório | O que é | Para quem | Relação com os irmãos |
+|---|---|---|---|
+| 📚 **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI | Pesquisadores, avaliadores de editais, orientadores | Fornece lastro científico para todos os projetos |
+| 🌱 **ECOSALA** | Coletivo de 12 pesquisadores: atas, projetos, articulação | Membros do coletivo, parceiros institucionais | Recebe lastro do Acervo; demanda editais para Vaga Lúmen e MSTJS |
+| 💰 **Vaga Lúmen** | Proposta FINEP Mais Inovação: saneamento, habitação, bambu | Avaliadores FINEP, proponente, equipe técnica | Transforma ciência do Acervo em projeto; recebe demandas do ECOSALA |
+| 🌾 **MSTJS** | Viveiro-Educador no Assentamento Mário Lago | Cooperativas, comunidades, financiadores | Ponte entre teoria e chão; capta editais próprios e articula com Fábrica Modelo |
+| 🔮 **Fábrica Modelo** | Prototipagem industrial — em discussão | André Blanco, Maurílio | Recebe sinergia da Vaga Lúmen; alimenta novos editais |
 
 ---
 
-## 📂 Eixos temáticos
+## 📂 Eixos temáticos e acervo
 
 | Eixo | Fichas | Conteúdo |
 |---|---|---|
-| **ECOSALA** | 22 | Fichas dos 12 membros + tecnologias (PU, biochar, pirolenhoso, fossa, biofiltro, catamarã) |
-| **Tecnologia Takwara** | 65 | Bambu, PU vegetal (MAMONEX RD70, UG 132A, RQI), compósitos, patentes, tratamentos, ACV |
-| **Bioeconomia Amazônica** | 23 | Cadeias sociobiodiversidade, economia regenerativa, diagnósticos |
-| **Percepção Social (HIS)** | 7 | Satisfação habitacional, impacto social de programas |
-| **Avaliação Pós-Ocupação** | 5 | Conforto ambiental, qualidade habitacional |
-| **Política Habitacional** | 5 | PMCMV, ATHIS, direito à moradia |
-| **Grandes Obras Amazônia** | 5 | Reassentamentos, hidrelétricas, impactos |
+| **ECOSALA** | 22 | Fichas dos 12 membros + tecnologias |
+| **Tecnologia Takwara** | 65 | Bambu, PU vegetal, compósitos, patentes |
+| **Bioeconomia Amazônica** | 23 | Cadeias sociobiodiversidade, diagnósticos |
+| **Habitação & Políticas** | 22 | HIS, APO, PMCMV, Grandes Obras |
 
 > **Total: ~270 fichas + Catálogo IFB (70 referências)**
-
----
-
-## 🔗 Projetos Irmãos
-
-| Repositório | Conteúdo | Link |
-|---|---|---|
-| **ECOSALA** | Coletivo de 12 pesquisadores — atas, projetos, editais | [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA) |
-| **Vaga Lúmen** | Proposta FINEP Mais Inovação — saneamento, habitação, bambu | [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026) |
-| **MST Mário Lago** | Viveiro-Educador Terra Viva — Juventude Solidária | [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026) |
-| **Mulheres Bioeconomia** | Zenodo DOI: 10.5281/zenodo.18827106 | [Plataforma Amazônia Regenerativa](https://zenodo.org/doi/10.5281/zenodo.18827106) |
 
 ---
 

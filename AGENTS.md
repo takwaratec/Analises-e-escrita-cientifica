@@ -113,4 +113,18 @@ Ao analisar um novo artigo/PDF:
 
 ---
 
+## Gestão de Frentes de Trabalho
+
+Consulte o arquivo `FRENTES_DE_TRABALHO.md` no repositório mestre (`Mentoria_Tecnologia_Takwara`) para o mapa completo de todas as frentes e regras de fronteira.
+
+---
+
+## Regras de Conduta para Documentos Públicos
+
+- **Filtro público vs. interno:** Codinomes internos NUNCA aparecem em documentos públicos.
+- **NUNCA fabricar citações.** Usar paráfrase explícita quando não houver transcrição literal verificada.
+- **Atribuição correta:** Cada autor com seu crédito.
+
+---
+
 *AGENTS.md mantido pelo Hermes Agent · Tecnologia Takwara · 2026*

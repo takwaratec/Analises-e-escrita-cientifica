@@ -59,8 +59,8 @@ flowchart TB
 | **Bioeconomia Amazônica** | 23 | Cadeias sociobiodiversidade, diagnósticos |
 | **Habitação & Políticas** | 22 | HIS, APO, PMCMV, Grandes Obras |
 
-| 🆕 | [AgroRadarEval](docs/analyses/ecosala/ficha-agroradareval.md) | Daniela Maciel — Gestão de P&D orientada a impacto societal | DOI 10.4067/S0718-27242024000400089 |
-| 🆕 | [TerImpact Ex-Ante](docs/analyses/ecosala/ficha-terimpact-exante.md) | Daniela Maciel — Avaliação ex-ante de projetos | GitHub danimaciel |
+| 🆕 | [AgroRadarEval](docs/analises/ecosala/ficha-agroradareval.md) | Daniela Maciel — Gestão de P&D orientada a impacto societal | DOI 10.4067/S0718-27242024000400089 |
+| 🆕 | [TerImpact Ex-Ante](docs/analises/ecosala/ficha-terimpact-exante.md) | Daniela Maciel — Avaliação ex-ante de projetos | GitHub danimaciel |
 
 > **Total: ~272 fichas + Catálogo IFB (70 referências)**
 

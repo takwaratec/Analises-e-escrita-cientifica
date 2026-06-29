@@ -14,7 +14,7 @@
 
 ## 🧭 O que é este repositório
 
-Aqui fica o **acervo científico** que fundamenta todos os projetos irmãos. Cada ficha é baseada em material bruto original (artigos com DOI, teses, dissertações, relatórios técnicos), seguindo a metodologia dos **200+ Prompts para Escrita Científica**.
+Aqui fica o **acervo científico** que fundamenta todos os projetos irmãos. Cada ficha é baseada em material bruto original (artigos com DOI, teses, dissertações, relatórios técnicos), seguindo a metodologia dos **200+ Prompts para Escrita Científica** (Cavichioli, 2025).
 
 ```mermaid
 flowchart TB
@@ -43,32 +43,48 @@ flowchart TB
 | Repositório | O que é | Para quem | Relação com os irmãos |
 |---|---|---|---|
 | 📚 **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI | Pesquisadores, avaliadores de editais, orientadores | Fornece lastro científico para todos os projetos |
-| 🌱 **ECOSALA** | Coletivo de 12 pesquisadores: atas, projetos, articulação | Membros do coletivo, parceiros institucionais | Recebe lastro do Acervo; demanda editais para Vaga Lúmen e MSTJS |
-| 💰 **Vaga Lúmen** | Proposta FINEP Mais Inovação: saneamento, habitação, bambu | Avaliadores FINEP, proponente, equipe técnica | Transforma ciência do Acervo em projeto; recebe demandas do ECOSALA |
-| 🌾 **MSTJS** | Viveiro-Educador no Assentamento Mário Lago | Cooperativas, comunidades, financiadores | Ponte entre teoria e chão; capta editais próprios e articula com Fábrica Modelo |
-| 🔮 **Fábrica Modelo** | Prototipagem industrial — em discussão | André Blanco, Maurílio | Recebe sinergia da Vaga Lúmen; alimenta novos editais |
+| 🌱 **ECOSALA** | Coletivo de 12 pesquisadores: atas, projetos, articulação | Membros do coletivo, parceiros institucionais | Recebe lastro do Acervo; demanda editais |
+| 💰 **Vaga Lúmen** | Proposta FINEP Mais Inovação | Avaliadores FINEP, equipe técnica | Transforma ciência do Acervo em projeto |
+| 🌾 **MSTJS** | Viveiro-Educador no Assentamento Mário Lago | Cooperativas, comunidades, financiadores | Ponte entre teoria e chão |
+| 🔮 **Fábrica Modelo** | Prototipagem industrial — em discussão | André Blanco, Maurílio | Recebe sinergia; alimenta novos editais |
 
 ---
 
-## 📂 Eixos temáticos e acervo
+## 📂 Eixos temáticos
+
+### Tecnologia Takwara — 8 sub-eixos (257 fichas)
+
+O eixo principal, oriundo da triagem do acervo Takwara-Tech (83 PDFs + 15 áudios), foi ramificado em 8 sub-eixos temáticos:
+
+| # | Sub-eixo | Fichas | Conteúdo |
+|---|----------|--------|----------|
+| 01 | **Núcleo Tecnológico** | 63 | PU Vegetal, Imperveg, patentes, mamona, poliuretano |
+| 02 | **Tratamento do Bambu** | 60 | Pirolenhoso, térmico, tanino, preservação, MPTDF |
+| 03 | **Materiais Compósitos** | 29 | BLC, OSB, fibras, biocompósitos, geodésicas |
+| 04 | **Habitação e Construção** | 28 | HIS, domos, geodésicas, moradia social |
+| 05 | **Meio Ambiente e Clima** | 25 | Carbono, ACV, carvão, mudanças climáticas |
+| 06 | **Manejo e Ecologia** | 7 | Espécies, zoneamento, manejo florestal |
+| 07 | **Governança e Projetos** | 9 | Editais, protocolos, advocacy, gestão |
+| 08 | **Perfis e Referências** | 29 | Pesquisadores, IFB, referências acadêmicas |
+| — | **Outros** | 7 | Não classificados |
+
+### Demais eixos (62 fichas)
 
 | Eixo | Fichas | Conteúdo |
-|---|---|---|
-| **ECOSALA** | 22 | Fichas dos 12 membros + tecnologias |
-| **Tecnologia Takwara** | 65 | Bambu, PU vegetal, compósitos, patentes |
-| **Bioeconomia Amazônica** | 23 | Cadeias sociobiodiversidade, diagnósticos |
-| **Habitação & Políticas** | 22 | HIS, APO, PMCMV, Grandes Obras |
+|------|--------|----------|
+| **ECOSALA** | 25 | Fichas dos 12 membros + tecnologias sociais |
+| **Bioeconomia Amazônica** | 22 | Cadeias sociobiodiversidade, diagnósticos territoriais |
+| **Avaliação Pós-Ocupação** | 5 | APO, qualidade habitacional |
+| **Política Habitacional** | 5 | HIS, PMCMV, políticas públicas |
+| **Grandes Obras Amazônia** | 5 | Impactos de grandes empreendimentos |
 
-| 🆕 | [AgroRadarEval](docs/analises/ecosala/ficha-agroradareval.md) | Daniela Maciel — Gestão de P&D orientada a impacto societal | DOI 10.4067/S0718-27242024000400089 |
-| 🆕 | [TerImpact Ex-Ante](docs/analises/ecosala/ficha-terimpact-exante.md) | Daniela Maciel — Avaliação ex-ante de projetos | GitHub danimaciel |
-
-> **Total: ~272 fichas + Catálogo IFB (70 referências)**
+> **Total: 319 fichas** (sendo 80 catálogos IFB de referência rápida, 239 fichas analíticas completas) — todas seguindo o protocolo Cavichioli de 8 seções, com DOI/ISBN sempre que disponível.
 
 ---
 
 ## 📋 Metodologia
 
-As análises seguem o protocolo baseado nos **200+ Prompts para Escrever Artigos Científicos** (Cavichiolli, 2025): extração → mapeamento estrutural → análise do referencial → avaliação metodológica → extração de achados → avaliação crítica → inserção no estado da arte.
+As análises seguem o protocolo baseado nos **200+ Prompts para Escrever Artigos Científicos** (Cavichioli, 2025): extração → mapeamento estrutural → análise do referencial → avaliação metodológica → extração de achados → avaliação crítica → inserção no estado da arte.
 
 Detalhes em: [`docs/metodologia.md`](docs/metodologia.md)
 
@@ -77,11 +93,10 @@ Detalhes em: [`docs/metodologia.md`](docs/metodologia.md)
 ## 🛠️ Ferramentas
 
 - **PyMuPDF** — extração de texto de PDFs
-- **Hermes Agent** — análise assistida por IA
+- **Hermes Agent** — análise assistida por IA, fichamento automatizado
 - **MkDocs Material** — site e publicação
 - **GitHub** — versionamento e deploy
-- **AgroRadarEval** 🆕 — gestão de P&D orientada a impacto societal (Daniela Maciel, Embrapa)
-- **TerImpact Ex-Ante** 🆕 — avaliação ex-ante e governança de projetos (Daniela Maciel, Embrapa)
+- **ChromaDB + all-MiniLM-L6-v2** — busca semântica vetorial 100% local no acervo completo
 
 ---
 
@@ -91,4 +106,4 @@ Detalhes em: [`docs/metodologia.md`](docs/metodologia.md)
 
 ---
 
-*Atualizado: 26/06/2026 · Tecnologia Takwara*
+*Atualizado: 29/06/2026 · Tecnologia Takwara*

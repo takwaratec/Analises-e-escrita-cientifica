@@ -54,7 +54,6 @@ Holambra-SP é reconhecida oficialmente como Capital Nacional das Flores (desde 
 
 - [Conexões Semiflexíveis com Cabo de Aço para Estruturas Geodésicas de Bambu](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-conexoes-geodesicas.md)
 - [PU Vegetal Imperveg (RQI 132)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-rqi-pu-vegetal.md)
-- [Casa Floresta COP30](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-casa-floresta-cop30.md)
 - [Domo Fábrica T11](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-domo-fabrica-t11.md)
 - Perfil Prof. Antônio Bliska Jr. (UNICAMP/NIPE) — estufas geodésicas e plasticultura
 

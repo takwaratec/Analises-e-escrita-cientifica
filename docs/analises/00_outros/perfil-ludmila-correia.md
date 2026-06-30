@@ -28,7 +28,7 @@
 | **Sociedades** | SOBRAC (Sociedade Brasileira de Acústica) — coordenação regional Centro-Oeste |
 | **Vinculação anterior** | LaPeCFaS — Laboratório de Pesquisa em Construção e Fazeres Sustentáveis (PEAC 60224, UnB Planaltina) |
 | **Localização** | Brasília/DF |
-| **Relação com Fabio** | Parceira antiga — apresentou Fabio ao Prof. Jayme Gonçalves; atuaram juntos no projeto Be Viver com povo Xukuru via LaPeCFaS |
+| **Relação com Fabio** | Parceira antiga — histórico de atuação conjunta no projeto Be Viver com povo Xukuru via LaPeCFaS, e apresentação ao Prof. Jayme Gonçalves. **Conexão retomada para parceria atual em ATHIS via CAU DF.** |
 | **Projeto atual** | ATHIS-DF — curso de capacitação (CAU DF) |
 | **Fonte dos dados** | Currículo Lattes (cert. 13/06/2026), Google Scholar, ficha PIBIT CEUB 2021 |
 | **Status** | ✅ Completo |
@@ -104,24 +104,25 @@ Apresentou Fabio Takwara ao **Prof. Jayme Gonçalves**, referência na área, es
 
 ## 6. CONEXÕES
 
-| Ficha/Projeto | Relação |
-|---------------|---------|
-| **[Ficha PIBIT CEUB 2021](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-pibit-ceub-2021-barreira-acustica.md)** | Orientação de Ludmila — painel acústico de baixo custo |
-| **Protocolo Cancún** | Salvaguardas para atuação com povos tradicionais (Xukuru) |
-| **Prof. Jayme Gonçalves** | Ludmila apresentou Fabio ao Prof. Jayme |
-| **LaPCiS (UnB/Profa. Tânia)** | LaPeCFaS antecessor do LaPCiS — mesma unidade UnB Planaltina |
-| **Fabio Takwara** | Parceiros no projeto Be Viver / Xukuru |
-| **ATHIS (Lei 11.888/2008)** | Política pública de assistência técnica habitacional |
+| Ficha/Projeto | Relação | Status |
+|---------------|---------|--------|
+| **ATHIS (Lei 11.888/2008)** | Política pública de assistência técnica habitacional — curso CAU DF | 🔵 Ativa |
+| **CAU DF** | Conselho profissional — Câmara Temática de ATHIS | 🔵 Ativa |
+| **Panã Arquitetura Social** | Coletivo de ATHIS no DF, GO e AL | 🔵 Ativa |
+| **[Ficha PIBIT CEUB 2021](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-pibit-ceub-2021-barreira-acustica.md)** | Orientação acadêmica — painel acústico de baixo custo | ⚪ Histórica |
+| **Be Viver / Xukuru** | Atuação conjunta com Fabio via LaPeCFaS | ⚪ Histórica |
+| **Prof. Jayme Gonçalves** | Apresentado por Ludmila a Fabio | ⚪ Histórica |
+| **LaPCiS (UnB/Profa. Tânia)** | LaPeCFaS antecessor do LaPCiS — mesma UnB Planaltina | ⚪ Histórica |
 
 ## 7. APLICAÇÕES PRÁTICAS
 
-| Aplicação | Potencial |
-|-----------|-----------|
-| **Articulação DF** | Via CAU DF — acesso a políticas públicas de habitação no DF |
-| **Conexão UnB** | LaPeCFaS ≈ LaPCiS — mesma unidade, reforça ponte com Profa. Tânia |
-| **Povos tradicionais** | Experiência com Xukuru — alinhada ao Protocolo Cancún |
-| **Acústica sustentável** | Painel acústico de baixo custo — pode dialogar com materiais renováveis (PU Vegetal) |
-| **Capacitação ATHIS** | Curso do CAU DF — possibilidade de inserção de tecnologias Takwara |
+| Aplicação | Potencial | Status |
+|-----------|-----------|--------|
+| **Articulação ATHIS no DF** | Via CAU DF — acesso a políticas públicas de habitação | 🔵 Ativa |
+| **Capacitação CAU DF** | Curso de ATHIS — possibilidade de inserção de tecnologias Takwara | 🔵 Ativa |
+| **Panã Arquitetura Social** | Coletivo com atuação em 3 estados — canal para projetos de habitação social | 🔵 Ativa |
+| **Conexão com SOBRAC** | Acústica arquitetônica — potencial para materiais sustentáveis (PU Vegetal) | 🟡 Latente |
+| **Rede DF** | Contatos institucionais no DF — possível convergência com Profa. Tânia (UnB) | 🟡 Latente |
 
 ## 8. REFERÊNCIAS
 

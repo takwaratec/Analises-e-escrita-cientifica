@@ -61,6 +61,6 @@ O sistema propõe conexões semiflexíveis baseadas em cabos de aço pré-tensio
 
 ## 5. Referências
 
-- Documento original: Takwara-Tech/docs/A1. Tecnologias /a1.4 Conexões Geodésicos.md
+- Documento original: a1.4 Conexões Geodésicos.md (documento interno de referência)
 - NBR 16828-1:2020 (Estruturas de bambu)
 - ISO 22157:2019 (Propriedades físicas e mecânicas do bambu)

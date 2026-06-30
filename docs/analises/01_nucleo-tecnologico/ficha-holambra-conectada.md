@@ -61,8 +61,6 @@ Holambra-SP é reconhecida oficialmente como Capital Nacional das Flores (desde 
 
 ## 6. Referências
 
-- Documento base: `/Users/fabiotakwara/Documents/GitHub/UnB/Holambra conectada/Estufas Geodesicas.md`
-- Documento complementar: `/Users/fabiotakwara/Documents/GitHub/UnB/Holambra conectada/#Projeto Eden_ Holambra.md`
-- Repositório de origem: Takwara-Tech (docs/A4. Domos Geodésicos/)
+- Documentos internos de referência: Projeto Centro de Excelência em Tecnologias Geodésicas para Holambra-SP
 - NBR 16828-1:2020 — Estruturas de bambu
 - ISO 22157:2019 — Propriedades físicas e mecânicas do bambu

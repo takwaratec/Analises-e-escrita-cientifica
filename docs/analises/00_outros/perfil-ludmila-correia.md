@@ -13,15 +13,24 @@
 | Campo | Dado |
 |-------|------|
 | **Nome** | Ludmila de Araújo Correia |
-| **Cargo/Função** | Diretora do CAU DF; Professora orientadora PIBIT UniCEUB |
-| **Formação** | Doutora |
-| **Área** | Arquitetura e Urbanismo — ATHIS, acústica arquitetônica, habitação social |
-| **Vinculação acadêmica** | UniCEUB (Centro Universitário de Brasília) |
+| **Cargo/Função** | Conselheira Distrital do CAU DF (gestão 2024-2026) — coord. Câmara Temática de ATHIS; Presidenta do Panã Arquitetura Social |
+| **Formação** | Doutora em Projeto e Planejamento Urbano e Regional — FAU/UnB (2023) |
+| **Mestrado** | Paisagem, Ambiente e Sustentabilidade — FAU/UnB (2010) |
+| **Graduação** | Arquitetura e Urbanismo — FAU/UFRJ (2007) |
+| **Especialização** | Educação Continuada e a Distância — FE/UnB (2011) |
+| **Currículo Lattes** | http://lattes.cnpq.br/K4127950D7 |
+| **ORCID** | Disponível no Lattes |
+| **Área** | Arquitetura e Urbanismo — ATHIS, acústica arquitetônica, habitação social, urbanismo |
+| **Vinculação acadêmica** | Professora de graduação (2012-2025): Projeto Urbano, Arquitetura Sustentável, Conforto Ambiental; Profa. pós-graduação em Eng. e Arquitetura Acústica |
+| **Vinculação profissional** | JL Arquitetura — consultoria em acústica, urbanismo e habitação social |
+| **Atuação atual** | Bolsista — apoio estratégico entre Secretaria Nacional de Periferias/MCID e CEMADEN/MCTI (Campanha Cidades Sem Risco) |
+| **Coletivo** | Presidenta do **Panã Arquitetura Social** — ATHIS no DF, GO e AL (desde 2017) |
+| **Sociedades** | SOBRAC (Sociedade Brasileira de Acústica) — coordenação regional Centro-Oeste |
 | **Vinculação anterior** | LaPeCFaS — Laboratório de Pesquisa em Construção e Fazeres Sustentáveis (PEAC 60224, UnB Planaltina) |
 | **Localização** | Brasília/DF |
 | **Relação com Fabio** | Parceira antiga — apresentou Fabio ao Prof. Jayme Gonçalves; atuaram juntos no projeto Be Viver com povo Xukuru via LaPeCFaS |
 | **Projeto atual** | ATHIS-DF — curso de capacitação (CAU DF) |
-| **Fonte dos dados** | Google Scholar, ficha PIBIT CEUB 2021 (Acervo) |
+| **Fonte dos dados** | Currículo Lattes (cert. 13/06/2026), Google Scholar, ficha PIBIT CEUB 2021 |
 | **Status** | ✅ Completo |
 
 ## 2. CLASSIFICAÇÃO TEMÁTICA
@@ -118,11 +127,13 @@ Apresentou Fabio Takwara ao **Prof. Jayme Gonçalves**, referência na área, es
 
 | Fonte | Tipo |
 |-------|------|
+| **Currículo Lattes** — http://lattes.cnpq.br/K4127950D7 (certificado em 13/06/2026) | Oficial CNPq |
 | Google Scholar — "Ludmila de Araújo Correia" | Base acadêmica |
 | Repositório UniCEUB — PIBIT (2019, 2021, 2022) | Institucional |
 | Anais ENANPUR (2017) | Evento científico |
 | Ficha Acervo: `resenha-pibit-ceub-2021-barreira-acustica.md` | Ficha científica |
 | CAU DF — site institucional | Conselho profissional |
+| ORCID — disponível no Lattes | Identificador persistente |
 
 ---
 

@@ -1,8 +1,9 @@
-# 📋 Ficha de Referência — Texos (Empresa Michel)
+# 📋 Ficha de Referência — Texos / Michel [RASCUNHO]
 
 > **Tipo:** Ficha de parceiro tecnológico
-> **Data:** 30/06/2026
+> **Data:** 30/06/2026 (rascunho — aguardando confirmação de dados)
 > **Vinculada ao projeto:** Fábrica Modelo (FINEP Mais Inovação)
+> **⚠️ RASCUNHO:** Dados extraídos apenas da transcrição da reunião. Aguardando confirmação de André Blanco.
 
 ---
 

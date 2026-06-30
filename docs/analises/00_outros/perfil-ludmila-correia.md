@@ -12,8 +12,8 @@
 
 | Campo | Dado |
 |-------|------|
-| **Nome** | Ludmila Correia |
-| **Cargo** | Diretora do CAU DF |
+| **Nome** | Ludmila de Araújo Correia |
+| **Cargo** | Diretora do CAU DF / Professora orientadora PIBIT UniCEUB |
 | **Área** | Assistência Técnica em Habitação de Interesse Social (ATHIS) |
 | **Formação** | Doutora |
 | **Localização** | Brasília/DF |
@@ -51,7 +51,9 @@ Apresentou Fabio ao **Prof. Jayme Gonçalves** — referência na área. Reativo
 
 - Repositório: `github.com/takwaratec/ludmila-athis-df`
 - Lei 11.888/2008 — ATHIS
+- **[Ficha PIBIT CEUB 2021 — Barreira Acústica](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-pibit-ceub-2021-barreira-acustica.md)** — Orientação de Ludmila a Lucas Aciole Vanderlei Pereira (Painel Acústico de Baixo Custo)
 
 ---
 
 > *Perfil produzido por Hermes Agent · Tecnologia Takwara · 30/06/2026*
+> *Nome completo confirmado via ficha PIBIT CEUB 2021*

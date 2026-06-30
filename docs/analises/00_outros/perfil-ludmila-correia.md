@@ -32,7 +32,7 @@
 
 ## 3. SÍNTESE
 
-Dra. Ludmila Correia é Diretora do CAU DF e parceira antiga de Fabio Takwara. Atuou junto com Fabio em ações com o **povo Xukuru** em Brasília, via **LaPeCFaS** (Laboratório de Pesquisas em Ciências Farmacêuticas), no âmbito do projeto **Be Viver** (Bem Viver).
+Dra. Ludmila Correia é Diretora do CAU DF e parceira antiga de Fabio Takwara. Atuou junto com Fabio em ações com o **povo Xukuru** em Brasília, via **LaPeCFaS** — Laboratório de Pesquisa em Construção e Fazeres Sustentáveis (PEAC 60224, UnB Planaltina), no âmbito do projeto **Be Viver** (Bem Viver).
 
 Coordena projeto de **Assistência Técnica em Habitação de Interesse Social (ATHIS)** no Distrito Federal, conforme Lei 11.888/2008.
 

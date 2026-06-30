@@ -49,7 +49,7 @@ O selo não penaliza o concreto, mas o critério Inovação permite pontuar com 
 
 ## 7. Diferenciais
 
-É a única certificação que (a) é gratuita, (b) é focada em HIS, (c) tem critério aberto a tecnologias não convencionais. Ideal para projetos-piloto do MQTF.
+É a única certificação que (a) é gratuita, (b) é focada em HIS, (c) tem critério aberto a tecnologias não convencionais. Ideal para projetos-piloto .
 
 ## 8. Conclusões
 

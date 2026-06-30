@@ -60,7 +60,7 @@ Gera créditos via substituição de clínquer (cinza/escória). Não há metodo
 
 ## 8. Conclusões
 
-VERRA é o padrão mais usado no mercado voluntário de carbono. O caminho mais viável para o MQTF é biochar (VM0003). Substituição de concreto por bambu exigiria desenvolvimento de metodologia específica — projeto de longo prazo.
+VERRA é o padrão mais usado no mercado voluntário de carbono. O caminho mais viável  é biochar (VM0003). Substituição de concreto por bambu exigiria desenvolvimento de metodologia específica — projeto de longo prazo.
 
 ## Referências
 

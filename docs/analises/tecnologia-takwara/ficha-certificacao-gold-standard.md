@@ -49,7 +49,7 @@ Não há metodologia específica para concreto. O foco é energia renovável e e
 
 ## 7. Exigências adicionais
 
-Princípios de salvaguarda (direitos humanos, trabalho decente, proteção ambiental) — alinhados ao Protocolo de Governança Cancun do MQTF.
+Princípios de salvaguarda (direitos humanos, trabalho decente, proteção ambiental) — alinhados ao Protocolo de Governança Cancun .
 
 ## 8. Conclusões
 

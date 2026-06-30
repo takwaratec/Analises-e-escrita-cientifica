@@ -53,7 +53,8 @@ Holambra-SP é reconhecida oficialmente como Capital Nacional das Flores (desde 
 ## 5. Conexões com outras fichas do Acervo
 
 - [Conexões Semiflexíveis com Cabo de Aço para Estruturas Geodésicas de Bambu](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-conexoes-geodesicas.md)
-- [PU Vegetal Imperveg (RQI 132)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-rqi-pu-vegetal.md)
+- [PU Vegetal UG132A (impermeabilizante)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md)
+- [MAMONEX RD70 (espuma expansiva vegetal)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-pu-vegetal-imperveg.md)
 - [Domo Fábrica T11](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-domo-fabrica-t11.md)
 - Perfil Prof. Antônio Bliska Jr. (UNICAMP/NIPE) — estufas geodésicas e plasticultura
 

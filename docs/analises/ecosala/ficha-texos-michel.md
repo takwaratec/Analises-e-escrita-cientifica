@@ -10,8 +10,8 @@
 
 | Campo | Dado |
 |-------|------|
-| **Empresa** | Texos (ou [nome completo a confirmar]) |
-| **Representante** | Michel [sobrenome a confirmar] |
+| **Empresa** | Texos (grafia a confirmar com André — pode ser Texus, Texos, Techsos) |
+| **Representante** | Michel [sobrenome a confirmar — André/Maurilio têm contato] |
 | **Tecnologia** | Painéis arquitetônicos estruturais para construção civil |
 | **Patente** | Sim — sistema construtivo industrializado |
 | **Acreditações** | CDHU (Companhia de Desenvolvimento Habitacional e Urbano) — SP |

@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Técnica de Tecnologia Social
+tipo: Ficha Técnica (Protocolo de Curadoria Documental — 8 seções)
 tecnologia: Holambra Conectada — Centro de Excelência em Tecnologias Geodésicas
 autor: Fabio Takwara
 instituicao: Tecnologia Takwara / Ecolaborativa
@@ -10,57 +10,89 @@ licenca: CC BY 4.0
 
 # Ficha Técnica: Holambra Conectada — Centro de Excelência em Tecnologias Geodésicas
 
-## 1. Identificação
+## 1. IDENTIFICAÇÃO
 
-**Título:** Projeto Holambra Conectada — Centro de Excelência em Tecnologias Geodésicas para Holambra-SP  
-**Campo de Aplicação:** Inovação sustentável no polo agroindustrial de Holambra — estufas geodésicas, agricultura protegida, certificação de processos e rastreabilidade  
-**Idealização:** Fábio Takwara  
-**Escopo:** Proposta de implementação de um centro de excelência integrando tecnologias geodésicas ao maior polo agroindustrial de flores do planeta, com sistema de rastreabilidade e certificação
+| Campo | Dado |
+|-------|------|
+| **Título** | Projeto Holambra Conectada — Centro de Excelência em Tecnologias Geodésicas para Holambra-SP |
+| **Idealização** | Fábio Takwara |
+| **Data** | 2026-06-30 |
+| **Status** | Consolidado |
+| **Localização** | Acervo Científico — docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md |
+| **Palavras-chave** | Holambra; geodésicas; estufas; certificação; rastreabilidade; bambu; agricultura protegida |
 
-## 2. Descrição
+## 2. CLASSIFICAÇÃO TEMÁTICA
 
-O projeto Holambra Conectada propõe a criação de um **Centro de Excelência em Tecnologias Geodésicas** na cidade de Holambra-SP, integrando inovações em conexões geodésicas com o maior polo agroindustrial de flores da América Latina. A iniciativa visa revolucionar o modelo produtivo tradicional baseado em estufas horizontais, introduzindo estruturas geodésicas que oferecem superior eficiência energética, resistência estrutural e sustentabilidade ambiental.
+- **Eixo:** 01_nucleo-tecnologico
+- **Área:** Tecnologia Social / Construção Sustentável / Agricultura Protegida
+- **Palavras-chave:** Holambra, estufas geodésicas, certificação de processos, rastreabilidade, domo geodésico, bambu tratado, PU Vegetal, agricultura protegida
 
-Paralelamente, o sistema **Holambra Conectada** estabelece um protocolo de rastreabilidade e certificação de processos construtivos sustentáveis, abrangendo:
+## 3. RESUMO / SÍNTESE
 
-- **Rastreabilidade de materiais** (bambu tratado, PU Vegetal, biocompósitos) ao longo da cadeia produtiva
-- **Certificação de estufas geodésicas** como tecnologia social — protocolos de qualidade, desempenho e replicabilidade
-- **Selo de procedência** para materiais e produtos fabricados com tecnologia geodésica
+O projeto Holambra Conectada propõe a criação de um Centro de Excelência em Tecnologias Geodésicas na cidade de Holambra-SP, integrando inovações em conexões geodésicas com o maior polo agroindustrial de flores da América Latina. A iniciativa visa substituir o modelo produtivo tradicional baseado em estufas horizontais por estruturas geodésicas, que oferecem superior eficiência energética, resistência estrutural e sustentabilidade ambiental. Paralelamente, estabelece um sistema de rastreabilidade e certificação de processos construtivos sustentáveis — protocolos de qualidade, desempenho e replicabilidade para estufas geodésicas como tecnologia social.
 
-### Contexto Territorial
+O município de Holambra-SP (~15 mil habitantes) é reconhecido como Capital Nacional das Flores desde 2011, concentrando o maior polo de floricultura do continente com uso extensivo de estufas horizontais importadas da tecnologia holandesa. A transição para geodésicas representa salto tecnológico em eficiência energética, resistência a intempéries e sustentabilidade ambiental.
 
-Holambra-SP é reconhecida oficialmente como Capital Nacional das Flores (desde 2011). O município de ~15 mil habitantes concentra o maior polo de floricultura da América Latina, com uso extensivo de estufas horizontais. A transição para estufas geodésicas representa salto tecnológico em eficiência energética, resistência a intempéries e sustentabilidade ambiental.
+## 4. ANÁLISE CRÍTICA
 
-## 3. Parâmetros Técnicos
+### Pontos Fortes
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| Inovação territorial | Holambra é polo agroindustrial consolidado — mercado e demanda reais |
+| Sinergia tecnológica | Integra 3 tecnologias do Acervo (conexões geodésicas, PU Vegetal UG132A, MAMONEX RD70) |
+| Replicabilidade | Modelo exportável para outros polos agroindustriais do Brasil |
+| Rastreabilidade | Protocolo de certificação agrega valor à produção |
+
+### Pontos de Atenção
+
+| Aspecto | Observação |
+|---------|------------|
+| TRL | Tecnologia em nível laboratorial/prototípico — necessita validação estrutural e agronômica |
+| Financiamento | Depende de articulação com ICT parceira (UNICAMP/NIPE em prospecção) |
+| Escala | Centro de demonstração de 25m de diâmetro é piloto, não produção em escala |
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+### Parâmetros Técnicos do Centro
 
 | Parâmetro | Especificação |
 |-----------|---------------|
 | Estrutura | Cúpulas geodésicas de bambu com conexões semiflexíveis de cabo de aço |
-| Diâmetro principal | 25 m (demonstração) |
+| Diâmetro principal (demonstração) | 25 m |
 | Cobertura | ETFE / filmes plásticos para ambientes protegidos |
 | Conexões | Sistema Takwara de cabos de aço pré-tensionados + PU Vegetal |
-| Impermeabilização externa | PU Vegetal UG132A (Imperveg) |
-| Preenchimento interno | PU Vegetal Expansivo MAMONEX RD70 (fixação das conexões) |
+| Impermeabilização externa | PU Vegetal UG132A (Imperveg) — revestimento protetor das conexões |
+| Preenchimento interno | PU Vegetal Expansivo MAMONEX RD70 — fixação dos cabos no colmo de bambu |
 | Município | Holambra-SP (Capital Nacional das Flores) |
 
-## 4. Aplicações
+### Cultivos Planejados para Demonstração
 
-- Demonstração de cultivo de flores em ambiente controlado (gérberas, crisântemos, antúrios, rosas)
-- Réplica de diferentes microclimas para versatilidade produtiva
-- Plataforma de pesquisa e transferência de tecnologia
-- Modelo replicável para outros polos agroindustriais
-- Sistema de certificação e rastreabilidade para cadeias produtivas sustentáveis
+Gérberas, crisântemos, antúrios e rosas em câmaras climatizadas diferenciadas, replicando microclimas para demonstrar versatilidade das espécies cultivadas em Holambra.
 
-## 5. Conexões com outras fichas do Acervo
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-- [Conexões Semiflexíveis com Cabo de Aço para Estruturas Geodésicas de Bambu](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-conexoes-geodesicas.md)
-- [PU Vegetal UG132A (impermeabilizante)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md)
-- [MAMONEX RD70 (espuma expansiva vegetal)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-pu-vegetal-imperveg.md)
-- [Domo Fábrica T11](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-domo-fabrica-t11.md)
-- Perfil Prof. Antônio Bliska Jr. (UNICAMP/NIPE) — estufas geodésicas e plasticultura
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Conexões Semiflexíveis com Cabo de Aço](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-conexoes-geodesicas.md) | Complementar — tecnologia-base para as estruturas geodésicas |
+| [PU Vegetal UG132A (impermeabilizante)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Complementar — impermeabilização externa das conexões |
+| [MAMONEX RD70 (espuma expansiva vegetal)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-pu-vegetal-imperveg.md) | Complementar — preenchimento interno e fixação das conexões |
+| [Domo Fábrica T11](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-domo-fabrica-t11.md) | Complementar — tecnologia de domos modulares |
+| Perfil Prof. Antônio Bliska Jr. (UNICAMP/NIPE) | Hierárquica — ICT parceira para validação agronômica |
 
-## 6. Referências
+## 7. APLICAÇÕES PRÁTICAS
 
-- Documentos internos de referência: Projeto Centro de Excelência em Tecnologias Geodésicas para Holambra-SP
+- Demonstração de cultivo de flores em ambiente controlado para produtores de Holambra
+- Réplica de microclimas para pesquisa em plasticultura e ambientes protegidos
+- Plataforma de transferência de tecnologia para agricultura familiar e comunidades rurais
+- Modelo replicável para outros polos agroindustriais (Petrolina-PE, São João da Boa Vista-SP, etc.)
+- Certificação e rastreabilidade para cadeias produtivas de flores e alimentos em ambiente protegido
+
+⚠️ Trabalhos com comunidades locais e produtores rurais só após observância do Protocolo de Salvaguardas de Cancún (disponível no Acervo).
+
+## 8. REFERÊNCIAS
+
+- Documentos de referência: Projeto Centro de Excelência em Tecnologias Geodésicas para Holambra-SP (Acervo Científico, 2026)
 - NBR 16828-1:2020 — Estruturas de bambu
 - ISO 22157:2019 — Propriedades físicas e mecânicas do bambu
+- Fichas correlatas no Acervo Científico (seção 6 acima)

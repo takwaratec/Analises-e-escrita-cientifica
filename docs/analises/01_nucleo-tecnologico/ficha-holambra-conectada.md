@@ -39,7 +39,8 @@ Holambra-SP é reconhecida oficialmente como Capital Nacional das Flores (desde 
 | Diâmetro principal | 25 m (demonstração) |
 | Cobertura | ETFE / filmes plásticos para ambientes protegidos |
 | Conexões | Sistema Takwara de cabos de aço pré-tensionados + PU Vegetal |
-| Impermeabilização | PU Vegetal (Imperveg UG132A, MAMONEX RD70) |
+| Impermeabilização externa | PU Vegetal UG132A (Imperveg) |
+| Preenchimento interno | PU Vegetal Expansivo MAMONEX RD70 (fixação das conexões) |
 | Município | Holambra-SP (Capital Nacional das Flores) |
 
 ## 4. Aplicações

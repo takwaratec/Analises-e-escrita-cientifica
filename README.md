@@ -66,7 +66,19 @@ O eixo principal, oriundo da triagem do acervo Takwara-Tech (83 PDFs + 15 áudio
 | 06 | **Manejo e Ecologia** | 7 | Espécies, zoneamento, manejo florestal |
 | 07 | **Governança e Projetos** | 9 | Editais, protocolos, advocacy, gestão |
 | 08 | **Perfis e Referências** | 29 | Pesquisadores, IFB, referências acadêmicas |
-| — | **Outros** | 7 | Não classificados |
+|| — | **Outros** | 7 | Não classificados |
+
+### 🆕 Últimas adições (29/06/2026)
+
+| Ficha | Sub-eixo | Tema |
+|---|---|---|
+| `ficha-certificacao-leed.md` | Governança e Projetos | LEED — certificação USGBC |
+| `ficha-certificacao-aqua-hqe.md` | Governança e Projetos | AQUA-HQE — Fundação Vanzolini |
+| `ficha-certificacao-casa-azul.md` | Governança e Projetos | Selo Casa Azul + Caixa — HIS |
+| `ficha-certificacao-verra-carbono.md` | Governança e Projetos | VERRA/VCS — créditos de carbono |
+| `ficha-certificacao-gold-standard.md` | Governança e Projetos | Gold Standard — carbono + ODS |
+| `ficha-acv-avaliacao-ciclo-vida.md` | Meio Ambiente e Clima | ACV — ISO 14040/44 |
+| `ficha-impactos-producao-cimento.md` | Meio Ambiente e Clima | Impactos globais do cimento |
 
 ### Demais eixos (62 fichas)
 

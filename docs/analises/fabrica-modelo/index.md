@@ -48,24 +48,24 @@ Pessoas em processo de aproximação — transparência total de estágio:
 
 | # | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |---|-----------|-------------|--------|-------------|-----------------|
-| 1 | Tânia Cruz | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
-| 2 | Antonio Bliska Jr. | UNICAMP | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
-| 3 | Rocco Lahr | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| 4 | A. J. F. Carvalho | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| 5 | Marcondes L. Costa | UFAC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| 6 | Romildo Toledo Filho | UFRJ / COPPE | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| 7 | Guilherme O. Silva | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| 8 | Humberto C. Furtado | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| 9 | Alan P. Oliveira | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
-| 10 | Ludmila A. Correia | CAU/DF | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| 11 | Lourival Mendes | UFLA | Em prospecção | — | — |
-| 12 | Juliano Fiorelli | USP FZEA | Em prospecção | — | — |
-| 13 | Joaquim Sando | MST | Contato inicial | Marcos Paron | Pendente |
-| 14 | Murilo Miguel | Terra Viva | Contato inicial | Marcos Paron | Pendente |
-| 15 | Raphaela Palma (C1) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 16 | Luci Okino (C2) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 17 | Henrique Bueno (C3) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 18 | Luis Felipe (C4) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 1 | Tânia Cruz | UnB / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
+| 2 | Ludmila A. Correia | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| 3 | Antonio Bliska Jr. | UNICAMP | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-bliska.md) |
+| 4 | Rocco Lahr | USP EESC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| 5 | A. J. F. Carvalho | UFSCar DEMA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| 6 | Marcondes L. Costa | UFAC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| 7 | Romildo Toledo Filho | UFRJ / COPPE | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| 8 | Guilherme O. Silva | UFBA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| 9 | Humberto C. Furtado | UFSC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| 10 | Alan P. Oliveira | IF Goiano | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| 11 | Lourival Mendes | UFLA | 🔍 Em prospecção | — | Sem carta |
+| 12 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
+| 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
+| 14 | Murilo Miguel | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
+| 15 | Raphaela Palma (C1) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 16 | Luci Okino (C2) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 17 | Henrique Bueno (C3) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 18 | Luis Felipe (C4) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
 
 > **Registro de respostas:** Quando um prospecto aceitar ou recusar, a coluna "Resposta / Link" é atualizada com o registro (issue, e-mail, formulário).
 

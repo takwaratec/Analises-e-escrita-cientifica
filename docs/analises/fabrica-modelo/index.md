@@ -50,14 +50,14 @@ Pessoas em processo de aproximação — transparência total de estágio:
 |---|-----------|-------------|--------|-------------|-----------------|
 | 1 | Tânia Cruz | UnB / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | 2 | Ludmila A. Correia | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| 3 | Antonio Bliska Jr. | UNICAMP | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-bliska.md) |
-| 4 | Rocco Lahr | USP EESC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| 5 | A. J. F. Carvalho | UFSCar DEMA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| 6 | Marcondes L. Costa | UFAC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| 7 | Romildo Toledo Filho | UFRJ / COPPE | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| 8 | Guilherme O. Silva | UFBA | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| 9 | Humberto C. Furtado | UFSC | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| 10 | Alan P. Oliveira | IF Goiano | 📄 Carta pronta | A definir | [Pendente — emissário](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| 3 | Antonio Bliska Jr. | UNICAMP | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-bliska.md) |
+| 4 | Rocco Lahr | USP EESC | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| 5 | A. J. F. Carvalho | UFSCar DEMA | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| 6 | Marcondes L. Costa | UFAC | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| 7 | Romildo Toledo Filho | UFRJ / COPPE | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| 8 | Guilherme O. Silva | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| 9 | Humberto C. Furtado | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| 10 | Alan P. Oliveira | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | 11 | Lourival Mendes | UFLA | 🔍 Em prospecção | — | Sem carta |
 | 12 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
 | 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |

@@ -1,47 +1,88 @@
 ---
-tipo: Índice de Fichas — Imperveg Polímeros Vegetais
-atualizado: 2026-07-01
+tipo: Índice de Fichas (Protocolo de Curadoria Documental — 8 seções)
+titulo: Imperveg Polímeros Vegetais — Índice de Fichas no Acervo
+data: 2026-07-01
 status: Consolidado
+tags: [imperveg, indice, PU-vegetal, mamona]
 ---
 
 # Imperveg — Índice de Fichas no Acervo
 
-> Fabricante de poliuretano vegetal à base de óleo de mamona.
-> Contato: Donizeti Cúrcio Luciano — donizeti@imperveg.com
+## 1. IDENTIFICAÇÃO
 
----
+| Campo | Dado |
+|-------|------|
+| **Empresa** | Imperveg Polímeros Vegetais |
+| **Contato** | Donizeti Cúrcio Luciano |
+| **E-mail** | donizeti@imperveg.com |
+| **Produtos** | UG 132 A, MAMONEX RD70, RQI, AGT 1315 |
+| **Origem** | Óleo de mamona (Ricinus communis) — 100% renovável |
 
-## Produtos
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** fabrica-modelo
+- **Área:** Polímeros Vegetais / Construção Civil Sustentável
+- **Palavras-chave:** Imperveg, PU vegetal, mamona, poliuretano, UG132A, MAMONEX, RQI, compósitos
+
+## 3. RESUMO / SÍNTESE
+
+Índice que reúne todas as fichas da Imperveg no Acervo Científico: 11 fichas entre perfis da empresa, fichas técnicas de produtos, ensaios laboratoriais e documentos consolidados. A Imperveg é fornecedora de PU Vegetal para o projeto Fábrica Modelo (FINEP).
+
+## 4. ANÁLISE CRÍTICA
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| Cobertura | 11 fichas cobrindo todos os produtos e ensaios disponíveis |
+| Fonte | Dados provenientes de fichas técnicas do fabricante e ensaios laboratoriais |
+
+## 5. FICHAS NO ACERVO
+
+### Produtos
 
 | # | Ficha | Conteúdo |
 |---|-------|----------|
-| 1 | [UG 132 A — Impermeabilizante](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Ficha técnica do produto — revestimento impermeabilizante bicomponente, 100% sólido, atóxico |
-| 2 | [UG 132 A — Resenha da Ficha Técnica](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-imperveg-ug132a-ficha-tecnica.md) | Análise detalhada da ficha técnica UG132A |
-| 3 | [MAMONEX RD70 — Espuma Expansiva](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma de poliuretano vegetal expansivo, 70 kg/m³ |
-| 4 | [RQI — Poliuretano Vegetal](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-rqi-pu-vegetal.md) | Ficha técnica do RQI |
+| 1 | [UG 132 A — Impermeabilizante](../01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Revestimento impermeabilizante bicomponente, 100% sólido, atóxico |
+| 2 | [UG 132 A — Resenha da Ficha Técnica](../01_nucleo-tecnologico/resenha-imperveg-ug132a-ficha-tecnica.md) | Análise detalhada da ficha técnica |
+| 3 | [MAMONEX RD70 — Espuma Expansiva](../01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma de PU vegetal expansivo, 70 kg/m³ |
+| 4 | [RQI — Poliuretano Vegetal](../01_nucleo-tecnologico/ficha-rqi-pu-vegetal.md) | Ficha técnica do RQI |
 
-## Fichas da Empresa
-
-| # | Ficha | Conteúdo |
-|---|-------|----------|
-| 5 | [Imperveg Polímeros Vegetais](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-imperveg-polimeros-vegetais.md) | Perfil da empresa, portfólio de produtos |
-| 6 | [PU Vegetal Imperveg (geral)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-pu-vegetal-imperveg.md) | Ficha geral do PU Vegetal no grupo ECOSALA |
-
-## Estudos e Ensaios
+### Empresa
 
 | # | Ficha | Conteúdo |
 |---|-------|----------|
-| 7 | [Naccache — Ensaios Imperveg](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-naccache-imperveg.md) | Ensaios e resultados de produtos Imperveg |
-| 8 | [Ensaios Imperveg (Naccache)](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/resenha-ensaios-imperveg-naccache.md) | Ensaios complementares |
+| 5 | [Imperveg Polímeros Vegetais](../01_nucleo-tecnologico/ficha-imperveg-polimeros-vegetais.md) | Perfil da empresa, portfólio |
+| 6 | [PU Vegetal Imperveg (geral)](../ecosala/ficha-pu-vegetal-imperveg.md) | Ficha geral do PU Vegetal — ECOSALA |
 
-## Documentos Consolidados
+### Ensaios
 
 | # | Ficha | Conteúdo |
 |---|-------|----------|
-| 9 | [PU Vegetal — Ficha Técnica Consolidada](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/pu-vegetal-ficha-tecnica-consolidada.md) | Compilação completa de dados técnicos do PU Vegetal |
-| 10 | [PU Vegetal — Linha de Produtos](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/pu-vegetal-linha-de-produtos.md) | Portfólio completo de produtos Imperveg |
-| 11 | [PU Orgânico vs. Sintético](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/01_nucleo-tecnologico/ficha-pu-organico-vs-sintetico.md) | Comparação entre PU vegetal e petroquímico |
+| 7 | [Naccache — Ensaios Imperveg](../01_nucleo-tecnologico/resenha-naccache-imperveg.md) | Resultados de ensaios laboratoriais |
+| 8 | [Ensaios Complementares](../01_nucleo-tecnologico/resenha-ensaios-imperveg-naccache.md) | Ensaios complementares de produtos |
 
----
+### Consolidados
 
-*Acervo Científico · fabrica-modelo/imperveg · 01/07/2026*
+| # | Ficha | Conteúdo |
+|---|-------|----------|
+| 9 | [PU Vegetal — Ficha Consolidada](../01_nucleo-tecnologico/pu-vegetal-ficha-tecnica-consolidada.md) | Compilação de dados técnicos |
+| 10 | [PU Vegetal — Linha de Produtos](../01_nucleo-tecnologico/pu-vegetal-linha-de-produtos.md) | Portfólio completo |
+| 11 | [PU Orgânico vs. Sintético](../01_nucleo-tecnologico/ficha-pu-organico-vs-sintetico.md) | Comparação entre PU vegetal e petroquímico |
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Relação |
+|-------|---------|
+| [Fábrica Modelo — Índice](index.md) | Hierárquica — projeto que utiliza os produtos Imperveg |
+| [Conexões Geodésicas](../01_nucleo-tecnologico/ficha-conexoes-geodesicas.md) | Complementar — UG132A e MAMONEX usados nas conexões |
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Consulta unificada a todas as fichas técnicas da Imperveg
+- Subsídio para cartas-convite, propostas FINEP e memoriais descritivos
+- Base para especificação técnica de produtos PU Vegetal no projeto
+
+## 8. REFERÊNCIAS
+
+- Fichas técnicas Imperveg (catálogo do fabricante)
+- Repositório: https://github.com/takwaratec/Analises-e-escrita-cientifica
+- Carta convite: fabrica-modelo/docs/cartas-convite/carta-intencao-imperveg.md

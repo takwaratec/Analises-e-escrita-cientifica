@@ -62,7 +62,7 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 12 🆕 | Imperveg (Donizeti) | Aguaí, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-intencao-imperveg.md) |
 | 13 🆕 | Kehlcoat | São Carlos, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-kehl.md) |
 | 14 🆕 | Purcom Química | Barueri, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-purcom.md) |
-| 15 🆕 | IPT (Marcelo Guedes) | São Paulo, SP | 📄 Carta pronta | André Blanco | [Aguardando envio](docs/cartas-convite/carta-proposta-ipt.md) |
+| 15 🆕 | IPT (Marcelo Guedes) | São Paulo, SP | 📄 Carta pronta | André Blanco | [⚠️ Email pendente](docs/cartas-convite/carta-proposta-ipt.md) |
 | 16 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
 | 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
 | 14 | Murilo Miguel | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |

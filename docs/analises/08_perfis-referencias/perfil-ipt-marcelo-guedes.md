@@ -3,7 +3,7 @@ tipo: Perfil de ICT (Protocolo de Curadoria Documental — 8 seções)
 nome: Instituto de Pesquisas Tecnológicas (IPT)
 instituicao: IPT — Secretaria de Desenvolvimento Econômico do Estado de SP
 contato: Marcelo Guedes (Diretor de Inovação)
-email: (consultar — marcelo.guedes@ipt.br)
+email: ⚠️ Pendente — André Blanco tem o contato
 data: 2026-07-01
 status: Rascunho — validar contato e e-mail
 tags: [IPT, São-Paulo, certificacao, laudos, NBR-15575, desempenho, ensaios]

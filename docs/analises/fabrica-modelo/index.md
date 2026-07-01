@@ -39,8 +39,7 @@
 | 4 | [Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino.md) | IFB | Fabio Takwara | Confirmado (ECOSALA) · aguardando carta formal | Forno ecológico |
 | 5 | André Blanco | IFSP / TEIA | — | [Fundador] | Coord. técnica |
 | 6 | Maurilio Chiaretti | FNA | André Blanco | Aceito | Articulação política |
-| 7 | Michel (Texos) | Texos | André Blanco | Aceito | Proponente |
-| 8 | Fabio Takwara | Ecolaborativa | André Blanco | Aceito | Assessoria |
+| 7 | Fabio Takwara | Ecolaborativa | André Blanco | Aceito | Assessoria |
 
 ### Prospecção em Andamento
 

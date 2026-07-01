@@ -62,14 +62,12 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 12 🆕 | Imperveg (Donizeti) | Aguaí, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-intencao-imperveg.md) |
 | 13 🆕 | Kehlcoat | São Carlos, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-kehl.md) |
 | 14 🆕 | Purcom Química | Barueri, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-purcom.md) |
-| 15 🆕 | IPT (Marcelo Guedes) | São Paulo, SP | 📄 Carta pronta | André Blanco | [⚠️ Email pendente](docs/cartas-convite/carta-proposta-ipt.md) |
+| 15 🆕 | IPT (Marcelo Guedes) | São Paulo, SP | ⏳ Email pendente | André Blanco | [Carta sem email](docs/cartas-convite/carta-proposta-ipt.md) |
 | 16 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
-| 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
-| 14 | Murilo Miguel | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
-| 15 | Raphaela Palma (C1) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 16 | Luci Okino (C2) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 17 | Henrique Bueno (C3) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 18 | Luis Felipe (C4) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 17 | Raphaela Palma (C1) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 18 | Luci Okino (C2) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 19 | Henrique Bueno (C3) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 20 | Luis Felipe (C4) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
 
 > **Registro de respostas:** Quando um prospecto aceitar ou recusar, a coluna "Resposta / Link" é atualizada com o registro (issue, e-mail, formulário).
 

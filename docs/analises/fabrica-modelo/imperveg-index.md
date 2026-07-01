@@ -70,6 +70,13 @@ tags: [imperveg, indice, PU-vegetal, mamona]
 | 12 🆕 | [Permeabilidade CO₂](../01_nucleo-tecnologico/resenha-imperveg-permeabilidade-co2.md) | CO₂ transmission rate — RQI 132 | Mai/2025 |
 | 13 🆕 | [Compatibilidade Térmica com Sais Descongelantes](../01_nucleo-tecnologico/resenha-imperveg-sais-descongelantes.md) | Ciclos térmicos + sais — RQI 132 | Set/2025 |
 | 14 🆕 | [Resistência Química](../01_nucleo-tecnologico/resenha-imperveg-resistencia-quimica.md) | Produtos químicos — RQI 132 | (verificar) |
+| 15 🆕 | [Coletânea de Evidências RQI 132](../01_nucleo-tecnologico/TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md) | Compilação completa de todos os ensaios Imperveg | 2026 |
+| 16 🆕 | [LAB — Aderência Pull-off (BNDES)](../01_nucleo-tecnologico/LAB_001_Aderencia_Pull_Off.md) | Laudo técnico — ensaio laboratorial | (verificar) |
+| 17 🆕 | [LAB — Aderência Envelhecimento Térmico](../01_nucleo-tecnologico/LAB_002_Aderencia_Envelhecimento_Termico.md) | Laudo técnico — ensaio laboratorial | (verificar) |
+| 18 🆕 | [LAB — Resistência Química](../01_nucleo-tecnologico/LAB_003_Resistencia_Quimica.md) | Laudo técnico — ensaio laboratorial | (verificar) |
+| 19 🆕 | [LAB — Permeabilidade CO₂](../01_nucleo-tecnologico/LAB_004_Permeabilidade_CO2.md) | Laudo técnico — ensaio laboratorial | (verificar) |
+| 20 🆕 | [LAB — Permeabilidade Vapor](../01_nucleo-tecnologico/LAB_005_Permeabilidade_Vapor.md) | Laudo técnico — ensaio laboratorial | (verificar) |
+| 21 🆕 | [LAB — Compatibilidade Térmica Gelo/Degelo](../01_nucleo-tecnologico/LAB_006_Compatibilidade_Termica_Gelo_Degelo.md) | Laudo técnico — ensaio laboratorial | (verificar) |
 
 ### Consolidados
 

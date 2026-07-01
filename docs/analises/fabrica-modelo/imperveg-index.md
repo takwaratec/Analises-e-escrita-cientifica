@@ -60,6 +60,17 @@ tags: [imperveg, indice, PU-vegetal, mamona]
 | 7 | [Naccache — Ensaios Imperveg](../01_nucleo-tecnologico/resenha-naccache-imperveg.md) | Resultados de ensaios laboratoriais |
 | 8 | [Ensaios Complementares](../01_nucleo-tecnologico/resenha-ensaios-imperveg-naccache.md) | Ensaios complementares de produtos |
 
+### Ensaios Internacionais — ITecons (Coimbra, Portugal)
+
+| # | Ficha | Ensaio | Data |
+|---|-------|--------|------|
+| 9 🆕 | [Permeabilidade ao Vapor de Água](../01_nucleo-tecnologico/resenha-imperveg-permeabilidade-vapor.md) | ISO 7783:2018 — RQI 132 | Mai/2025 |
+| 10 🆕 | [Aderência Pull-off](../01_nucleo-tecnologico/resenha-imperveg-pull-off.md) | Aderência ao substrato — RQI 132 | Abr/2024 |
+| 11 🆕 | [Pull-off 70º C](../01_nucleo-tecnologico/resenha-imperveg-pull-off-70.md) | Resistência adesiva a 70°C — RQI 132 | Fev/2025 |
+| 12 🆕 | [Permeabilidade CO₂](../01_nucleo-tecnologico/resenha-imperveg-permeabilidade-co2.md) | CO₂ transmission rate — RQI 132 | Mai/2025 |
+| 13 🆕 | [Compatibilidade Térmica com Sais Descongelantes](../01_nucleo-tecnologico/resenha-imperveg-sais-descongelantes.md) | Ciclos térmicos + sais — RQI 132 | Set/2025 |
+| 14 🆕 | [Resistência Química](../01_nucleo-tecnologico/resenha-imperveg-resistencia-quimica.md) | Produtos químicos — RQI 132 | (verificar) |
+
 ### Consolidados
 
 | # | Ficha | Conteúdo |

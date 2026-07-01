@@ -28,6 +28,7 @@
 | 13 | [Perfil Guilherme O. Silva](../08_perfis-referencias/perfil-guilherme-silva-ufba.md) | Fibras vegetais, ATHIS, materiais baixo carbono | UFBA |
 | 14 | [Perfil Humberto C. Furtado](../08_perfis-referencias/perfil-humberto-furtado-ufsc.md) | Conexões bambu, modelagem estrutural | UFSC |
 | 15 | [Perfil Alan P. Oliveira](../08_perfis-referencias/perfil-alan-oliveira-ifgoiano.md) | Agroecologia, bambu Cerrado, quilombolas | IF Goiano |
+| 16 🆕 | [Perfil IPT — Marcelo Guedes](../08_perfis-referencias/perfil-ipt-marcelo-guedes.md) | Certificação, laudos, NBR 15575 | IPT |
 
 ### Perfis do ECOSALA — Membros Ativos
 
@@ -61,7 +62,8 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 12 🆕 | Imperveg (Donizeti) | Aguaí, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-intencao-imperveg.md) |
 | 13 🆕 | Kehlcoat | São Carlos, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-kehl.md) |
 | 14 🆕 | Purcom Química | Barueri, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-purcom.md) |
-| 15 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
+| 15 🆕 | IPT (Marcelo Guedes) | São Paulo, SP | 📄 Carta pronta | André Blanco | [Aguardando envio](docs/cartas-convite/carta-proposta-ipt.md) |
+| 16 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
 | 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
 | 14 | Murilo Miguel | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
 | 15 | Raphaela Palma (C1) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
@@ -112,6 +114,7 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 12 🆕 | Imperveg (Donizeti) | [carta-intencao-imperveg.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-intencao-imperveg.md) |
 | 13 🆕 | Kehlcoat (Kehl Polímeros) | [carta-cooperacao-kehl.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-kehl.md) |
 | 14 🆕 | Purcom Química | [carta-cooperacao-purcom.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-purcom.md) |
+| 15 🆕 | IPT (Marcelo Guedes) | [carta-proposta-ipt.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-ipt.md) |
 
 ---
 

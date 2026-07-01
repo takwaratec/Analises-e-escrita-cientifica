@@ -48,7 +48,7 @@ Pessoas em processo de aproximação — transparência total de estágio:
 
 | # | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |---|-----------|-------------|--------|-------------|-----------------|
-| 1 | Tânia Cruz | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/mensagens/mensagem-prof-tania.md) |
+| 1 | Tânia Cruz | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | 2 | Antonio Bliska Jr. | UNICAMP | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
 | 3 | Rocco Lahr | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
 | 4 | A. J. F. Carvalho | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
@@ -57,14 +57,15 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 7 | Guilherme O. Silva | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
 | 8 | Humberto C. Furtado | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
 | 9 | Alan P. Oliveira | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
-| 10 | Lourival Mendes | UFLA | Em prospecção | — | — |
-| 11 | Juliano Fiorelli | USP FZEA | Em prospecção | — | — |
-| 12 | Joaquim Sando | MST | Contato inicial | Marcos Paron | Pendente |
-| 13 | Murilo Miguel | Terra Viva | Contato inicial | Marcos Paron | Pendente |
-| 14 | Raphaela Palma (C1) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 15 | Luci Okino (C2) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 16 | Henrique Bueno (C3) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 17 | Luis Felipe (C4) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 10 | Ludmila A. Correia | CAU/DF | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| 11 | Lourival Mendes | UFLA | Em prospecção | — | — |
+| 12 | Juliano Fiorelli | USP FZEA | Em prospecção | — | — |
+| 13 | Joaquim Sando | MST | Contato inicial | Marcos Paron | Pendente |
+| 14 | Murilo Miguel | Terra Viva | Contato inicial | Marcos Paron | Pendente |
+| 15 | Raphaela Palma (C1) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 16 | Luci Okino (C2) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 17 | Henrique Bueno (C3) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 18 | Luis Felipe (C4) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
 
 > **Registro de respostas:** Quando um prospecto aceitar ou recusar, a coluna "Resposta / Link" é atualizada com o registro (issue, e-mail, formulário).
 
@@ -99,6 +100,8 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 6 | Prof. Guilherme O. Silva (UFBA) | [carta-proposta-guilherme-silva-ufba.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-guilherme-silva-ufba.md) |
 | 7 | Prof. Humberto C. Furtado (UFSC) | [carta-proposta-humberto-furtado-ufsc.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-humberto-furtado-ufsc.md) |
 | 8 | Prof. Alan P. Oliveira (IF Goiano) | [carta-proposta-alan-oliveira-ifgoiano.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-alan-oliveira-ifgoiano.md) |
+| 9 | Profa. Tânia Cruz (UnB) | [carta-proposta-tania-cruz.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-tania-cruz.md) |
+| 10 | Dra. Ludmila Correia (CAU/DF) | [carta-proposta-ludmila-correia.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-ludmila-correia.md) |
 
 ---
 

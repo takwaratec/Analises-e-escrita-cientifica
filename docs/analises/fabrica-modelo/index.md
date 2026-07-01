@@ -33,9 +33,10 @@
 |---|-------|----------|
 | 1 | [Holambra Conectada](../01_nucleo-tecnologico/ficha-holambra-conectada.md) | Centro de Excelência em Tecnologias Geodésicas |
 | 2 | [Conexões Semiflexíveis com Cabo de Aço](../01_nucleo-tecnologico/ficha-conexoes-geodesicas.md) | Sistema de conexões para estruturas geodésicas de bambu |
-| 3 | [PU Vegetal UG132A](../01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Impermeabilizante de poliuretano vegetal |
-| 4 | [PU Vegetal Imperveg (geral)](../ecosala/ficha-pu-vegetal-imperveg.md) | Poliuretano vegetal de mamona |
-| 5 | [MAMONEX RD70](../01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma expansiva vegetal |
+| 3 | [Imperveg — Índice Completo](imperveg-index.md) | 11 fichas: UG132A, MAMONEX RD70, RQI, ensaios, consolidados |
+| 4 | [PU Vegetal UG132A](../01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Impermeabilizante de poliuretano vegetal |
+| 5 | [PU Vegetal Imperveg (geral)](../ecosala/ficha-pu-vegetal-imperveg.md) | Poliuretano vegetal de mamona |
+| 6 | [MAMONEX RD70](../01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma expansiva vegetal |
 
 ### Cartas Convite
 

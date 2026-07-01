@@ -20,7 +20,38 @@
 | 5 | [Perfil Lourival Marin Mendes](../08_perfis-referencias/perfil-lourival-mendes-ufla.md) | Painéis aglomerados, resinas PU mamona | UFLA |
 | 6 | [Perfil Tânia Cruz](../08_perfis-referencias/perfil-tania-cruz-unb.md) | Tecnologia social, incubação, governança comunitária | UnB/LaPCiS |
 | 7 | [Perfil Ludmila Correia](../08_perfis-referencias/perfil-ludmila-correia.md) | ATHIS, arquitetura social, licenciamento, acústica | CAU/DF |
-| 8 | [Perfil Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino-ifb.md) | Bambu, forno ecológico, agroecologia, extensão | IFB Planaltina |
+|| 8 | [Perfil Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino.md) | Bambu, forno ecológico, agroecologia, extensão | IFB Planaltina |
+|| 9 | [Perfil Marcos Paron](../08_perfis-referencias/perfil-marcos-paron.md) | Microbiologia, bioenergia, biochar, coord. ECOSALA | IFSP |
+|| 10 | [Perfil Gisele Vilela](../08_perfis-referencias/perfil-gisele-vilela.md) | Solos, remineralizadores, biocompósitos PU | Embrapa Territorial |
+
+### Perfis do ECOSALA (Ativos)
+
+| # | Ficha | Membro | Instituição | Frente |
+|---|-------|--------|-------------|--------|
+| 1 | [Daniela Maciel](../08_perfis-referencias/perfil-daniela-maciel.md) | ✅ Métricas de impacto social | Embrapa Territorial | Avaliação ex-ante |
+| 2 | [Marcos Paron](../08_perfis-referencias/perfil-marcos-paron.md) | ✅ Coord. ECOSALA, biochar | IFSP | Compostagem, bioenergia |
+| 3 | [Gisele Vilela](../08_perfis-referencias/perfil-gisele-vilela.md) | ✅ Remineralizadores | Embrapa Territorial | Biocompósitos PU |
+| 4 | [Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino.md) | ✅ Forno ecológico | IFB | Tratamento bambu |
+| 5 | André Blanco | — | IFSP / TEIA | Coord. técnica |
+| 6 | Maurilio Chiaretti | — | FNA | Articulação política |
+| 7 | Michel (Texos) | — | Texos | Proponente |
+| 8 | Fabio Takwara | — | Ecolaborativa | Assessoria |
+
+### Convidados ECOSALA (Aguardando Confirmação)
+
+| # | Convidado | Status | Instituição | Contato |
+|---|-----------|--------|-------------|---------|
+| 1 | Antonio Bliska Jr. | 📬 Carta enviada | UNICAMP | bliskajr@unicamp.br |
+| 2 | Rocco Lahr | 📬 Carta enviada | USP EESC | aguardando |
+| 3 | A.J.F. Carvalho | 📬 Carta enviada | UFSCar | aguardando |
+| 4 | Lourival Mendes | 📨 A contactar | UFLA | aguardando |
+| 5 | Juliano Fiorelli | 📨 A contactar | USP FZEA | aguardando |
+| 6 | Joaquim Sando | 🔄 Pendente | MST | dados pendentes |
+| 7 | Murilo Miguel | 🔄 Pendente | Terra Viva | dados pendentes |
+| 8 | Raphaela Palma (C1) | 🔄 Pendente | ECOSALA | aguardando dados |
+| 9 | Luci Okino (C2) | 🔄 Pendente | ECOSALA | aguardando dados |
+| 10 | Henrique Bueno (C3) | 🔄 Pendente | ECOSALA | aguardando dados |
+| 11 | Luis Felipe (C4) | 🔄 Pendente | ECOSALA | aguardando dados |
 
 ### Artigos e Resenhas — Antonio Bliska Jr. (UNICAMP)
 

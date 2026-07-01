@@ -23,6 +23,11 @@
 | 8 | [Perfil Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino.md) | Bambu, forno ecológico, agroecologia, extensão | IFB Planaltina |
 | 9 | [Perfil Marcos Paron](../08_perfis-referencias/perfil-marcos-paron.md) | Microbiologia, bioenergia, biochar, coord. ECOSALA | IFSP |
 | 10 | [Perfil Gisele Vilela](../08_perfis-referencias/perfil-gisele-vilela.md) | Solos, remineralizadores, biocompósitos PU | Embrapa Territorial |
+| 11 | [Perfil Marcondes L. Costa](../08_perfis-referencias/perfil-marcondes-costa-ufac.md) | Bambu amazônico Guadua, manejo florestal | UFAC |
+| 12 | [Perfil Romildo Toledo Filho](../08_perfis-referencias/perfil-romildo-toledo-ufrj.md) | Bambu estrutural, compósitos, ACV | UFRJ / COPPE |
+| 13 | [Perfil Guilherme O. Silva](../08_perfis-referencias/perfil-guilherme-silva-ufba.md) | Fibras vegetais, ATHIS, materiais baixo carbono | UFBA |
+| 14 | [Perfil Humberto C. Furtado](../08_perfis-referencias/perfil-humberto-furtado-ufsc.md) | Conexões bambu, modelagem estrutural | UFSC |
+| 15 | [Perfil Alan P. Oliveira](../08_perfis-referencias/perfil-alan-oliveira-ifgoiano.md) | Agroecologia, bambu Cerrado, quilombolas | IF Goiano |
 
 ### Perfis do ECOSALA — Membros Ativos
 
@@ -43,17 +48,23 @@ Pessoas em processo de aproximação — transparência total de estágio:
 
 | # | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |---|-----------|-------------|--------|-------------|-----------------|
-| 1 | Antonio Bliska Jr. | UNICAMP | Convite enviado | Fabio Takwara | [Aguardando retorno](/docs/cartas-convite/carta-proposta-bliska.md) |
-| 2 | Rocco Lahr | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](/docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| 3 | A. J. F. Carvalho | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](/docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| 4 | Lourival Mendes | UFLA | Em prospecção | — | — |
-| 5 | Juliano Fiorelli | USP FZEA | Em prospecção | — | — |
-| 6 | Joaquim Sando | MST | Contato inicial | Marcos Paron | Pendente |
-| 7 | Murilo Miguel | Terra Viva | Contato inicial | Marcos Paron | Pendente |
-| 8 | Raphaela Palma (C1) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 9 | Luci Okino (C2) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 10 | Henrique Bueno (C3) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
-| 11 | Luis Felipe (C4) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 1 | Tânia Cruz | UnB / LaPCiS | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/mensagens/mensagem-prof-tania.md) |
+| 2 | Antonio Bliska Jr. | UNICAMP | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-bliska.md) |
+| 3 | Rocco Lahr | USP EESC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| 4 | A. J. F. Carvalho | UFSCar DEMA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| 5 | Marcondes L. Costa | UFAC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| 6 | Romildo Toledo Filho | UFRJ / COPPE | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| 7 | Guilherme O. Silva | UFBA | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| 8 | Humberto C. Furtado | UFSC | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| 9 | Alan P. Oliveira | IF Goiano | Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| 10 | Lourival Mendes | UFLA | Em prospecção | — | — |
+| 11 | Juliano Fiorelli | USP FZEA | Em prospecção | — | — |
+| 12 | Joaquim Sando | MST | Contato inicial | Marcos Paron | Pendente |
+| 13 | Murilo Miguel | Terra Viva | Contato inicial | Marcos Paron | Pendente |
+| 14 | Raphaela Palma (C1) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 15 | Luci Okino (C2) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 16 | Henrique Bueno (C3) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
+| 17 | Luis Felipe (C4) | ECOSALA | Dados pendentes | — | Aguardando CPF/LinkedIn |
 
 > **Registro de respostas:** Quando um prospecto aceitar ou recusar, a coluna "Resposta / Link" é atualizada com o registro (issue, e-mail, formulário).
 
@@ -83,6 +94,11 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 1 | Prof. Antonio Bliska Jr. (UNICAMP) | [carta-proposta-bliska.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-bliska.md) |
 | 2 | Prof. Francisco Rocco Lahr (USP EESC) | [carta-proposta-rocco-lahr-usp.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-rocco-lahr-usp.md) |
 | 3 | Prof. A. J. F. Carvalho (UFSCar) | [carta-proposta-carvalho-ufscar.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-carvalho-ufscar.md) |
+| 4 | Prof. Marcondes L. Costa (UFAC) | [carta-proposta-marcondes-costa-ufac.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-marcondes-costa-ufac.md) |
+| 5 | Prof. Romildo Toledo Filho (UFRJ) | [carta-proposta-romildo-toledo-ufrj.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-romildo-toledo-ufrj.md) |
+| 6 | Prof. Guilherme O. Silva (UFBA) | [carta-proposta-guilherme-silva-ufba.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-guilherme-silva-ufba.md) |
+| 7 | Prof. Humberto C. Furtado (UFSC) | [carta-proposta-humberto-furtado-ufsc.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-humberto-furtado-ufsc.md) |
+| 8 | Prof. Alan P. Oliveira (IF Goiano) | [carta-proposta-alan-oliveira-ifgoiano.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-alan-oliveira-ifgoiano.md) |
 
 ---
 

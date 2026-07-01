@@ -59,7 +59,10 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 9 | Humberto C. Furtado | UFSC | 📄 Carta pronta | Vicente Virgolino | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
 | 10 | Alan P. Oliveira | IF Goiano | 📄 Carta pronta | Vicente Virgolino | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | 11 | Lourival Mendes | UFLA | 🔍 Em prospecção | — | Sem carta |
-| 12 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
+| 12 🆕 | Imperveg (Donizeti) | Aguaí, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-intencao-imperveg.md) |
+| 13 🆕 | Kehlcoat | São Carlos, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-kehl.md) |
+| 14 🆕 | Purcom Química | Barueri, SP | 📄 Carta pronta | Fabio Takwara | [Coop. Técnica](docs/cartas-convite/carta-cooperacao-purcom.md) |
+| 15 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
 | 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
 | 14 | Murilo Miguel | Terra Viva | 🔄 Contato inicial | Marcos Paron | Pendente |
 | 15 | Raphaela Palma (C1) | ECOSALA | ⏳ Dados pendentes | — | Aguardando CPF/LinkedIn |
@@ -105,8 +108,9 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 9 | Profa. Tânia Cruz (UnB) | [carta-proposta-tania-cruz.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | 10 | Dra. Ludmila Correia (CAU/DF) | [carta-proposta-ludmila-correia.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-ludmila-correia.md) |
 | 11 | Prof. Vicente Virgolino (IFB) | [carta-proposta-vicente-virgolino.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-vicente-virgolino.md) |
-| 12 🆕 | Kehlcoat (Kehl Polímeros) | [carta-cooperacao-kehl.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-kehl.md) |
-| 13 🆕 | Purcom Química | [carta-cooperacao-purcom.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-purcom.md) |
+| 12 🆕 | Imperveg (Donizeti) | [carta-intencao-imperveg.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-intencao-imperveg.md) |
+| 13 🆕 | Kehlcoat (Kehl Polímeros) | [carta-cooperacao-kehl.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-kehl.md) |
+| 14 🆕 | Purcom Química | [carta-cooperacao-purcom.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-purcom.md) |
 
 ---
 

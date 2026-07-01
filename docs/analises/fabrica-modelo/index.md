@@ -86,7 +86,9 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 3 | [Imperveg — Índice Completo](imperveg-index.md) | 11 fichas: UG132A, MAMONEX RD70, RQI, ensaios, consolidados |
 | 4 | [PU Vegetal UG132A](../01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Impermeabilizante de poliuretano vegetal |
 | 5 | [PU Vegetal Imperveg (geral)](../ecosala/ficha-pu-vegetal-imperveg.md) | Poliuretano vegetal de mamona |
-| 6 | [MAMONEX RD70](../01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma expansiva vegetal |
+|| 6 | [MAMONEX RD70](../01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma expansiva vegetal |
+|| 7 🆕 | [Kehlcoat — Kehl Polímeros](../01_nucleo-tecnologico/ficha-kehlcoat.md) | Membranas PU, selantes híbridos, revestimentos |
+|| 8 🆕 | [Purcom Química](../01_nucleo-tecnologico/ficha-purcom.md) | Espumas rígidas PU vegetal, BIOPIR, CIP |
 
 ### Cartas Convite
 
@@ -103,6 +105,8 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 9 | Profa. Tânia Cruz (UnB) | [carta-proposta-tania-cruz.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | 10 | Dra. Ludmila Correia (CAU/DF) | [carta-proposta-ludmila-correia.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-ludmila-correia.md) |
 | 11 | Prof. Vicente Virgolino (IFB) | [carta-proposta-vicente-virgolino.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-vicente-virgolino.md) |
+| 12 🆕 | Kehlcoat (Kehl Polímeros) | [carta-cooperacao-kehl.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-kehl.md) |
+| 13 🆕 | Purcom Química | [carta-cooperacao-purcom.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-cooperacao-purcom.md) |
 
 ---
 

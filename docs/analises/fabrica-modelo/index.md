@@ -11,13 +11,16 @@
 
 ### Perfis dos Pesquisadores
 
-| # | Ficha | Pesquisador | ICT | 
+| # | Ficha | Pesquisador | ICT |
 |---|-------|-------------|-----|
 | 1 | [Perfil Antonio Bliska Jr.](../08_perfis-referencias/perfil-antonio-bliska.md) | Estufas, plasticultura, ambientes protegidos | UNICAMP/NIPE |
 | 2 | [Perfil Francisco Rocco Lahr](../08_perfis-referencias/perfil-rocco-lahr-usp.md) | PU mamona, painéis OSB, aglomerados | USP EESC |
 | 3 | [Perfil Juliano Fiorelli](../08_perfis-referencias/perfil-juliano-fiorelli-usp.md) | Bambu+PU, painéis sustentáveis | USP FZEA |
 | 4 | [Perfil A. J. F. Carvalho](../08_perfis-referencias/perfil-antonio-carvalho-ufscar.md) | Biopolímeros, PU, compósitos | UFSCar DEMA |
 | 5 | [Perfil Lourival Marin Mendes](../08_perfis-referencias/perfil-lourival-mendes-ufla.md) | Painéis aglomerados, resinas PU mamona | UFLA |
+| 6 | [Perfil Tânia Cruz](../08_perfis-referencias/perfil-tania-cruz-unb.md) | Tecnologia social, incubação, governança comunitária | UnB/LaPCiS |
+| 7 | [Perfil Ludmila Correia](../08_perfis-referencias/perfil-ludmila-correia.md) | ATHIS, arquitetura social, licenciamento, acústica | CAU/DF |
+| 8 | [Perfil Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino-ifb.md) | Bambu, forno ecológico, agroecologia, extensão | IFB Planaltina |
 
 ### Artigos e Resenhas — Antonio Bliska Jr. (UNICAMP)
 

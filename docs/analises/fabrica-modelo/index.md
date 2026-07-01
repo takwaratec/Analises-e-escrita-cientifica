@@ -36,7 +36,7 @@
 | 1 | [Daniela Maciel](../08_perfis-referencias/perfil-daniela-maciel.md) | Embrapa Territorial | Gisele Vilela | Aceito | Métricas de impacto social |
 | 2 | [Marcos Paron](../08_perfis-referencias/perfil-marcos-paron.md) | IFSP | André Blanco | Aceito | Coord. ECOSALA, biochar |
 | 3 | [Gisele Vilela](../08_perfis-referencias/perfil-gisele-vilela.md) | Embrapa Territorial | Marcos Paron | Aceito | Remineralizadores |
-| 4 | [Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino.md) | IFB | Fabio Takwara | Aceito | Forno ecológico |
+| 4 | [Vicente Virgolino](../08_perfis-referencias/perfil-vicente-virgolino.md) | IFB | Fabio Takwara | Confirmado (ECOSALA) · aguardando carta formal | Forno ecológico |
 | 5 | André Blanco | IFSP / TEIA | — | [Fundador] | Coord. técnica |
 | 6 | Maurilio Chiaretti | FNA | André Blanco | Aceito | Articulação política |
 | 7 | Michel (Texos) | Texos | André Blanco | Aceito | Proponente |
@@ -48,16 +48,16 @@ Pessoas em processo de aproximação — transparência total de estágio:
 
 | # | Prospecto | Instituição | Status | Enviado por | Resposta / Link |
 |---|-----------|-------------|--------|-------------|-----------------|
-| 1 | Tânia Cruz | UnB / LaPCiS | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-tania-cruz.md) |
-| 2 | Ludmila A. Correia | CAU/DF | ✅ Convite enviado | Fabio Takwara | [Aguardando retorno](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
-| 3 | Antonio Bliska Jr. | UNICAMP | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-bliska.md) |
-| 4 | Rocco Lahr | USP EESC | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
-| 5 | A. J. F. Carvalho | UFSCar DEMA | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
-| 6 | Marcondes L. Costa | UFAC | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
-| 7 | Romildo Toledo Filho | UFRJ / COPPE | 📄 Carta pronta | **André Blanco** | [Aguardando envio](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
-| 8 | Guilherme O. Silva | UFBA | 📄 Carta pronta | **Tânia Cruz** | [Aguardando envio](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
-| 9 | Humberto C. Furtado | UFSC | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
-| 10 | Alan P. Oliveira | IF Goiano | 📄 Carta pronta | **Vicente Virgolino** | [Aguardando envio](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
+| 1 | Tânia Cruz | UnB / LaPCiS | 📄 Carta pronta | Fabio Takwara | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-tania-cruz.md) |
+| 2 | Ludmila A. Correia | CAU/DF | 📄 Carta pronta | Fabio Takwara | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| 3 | Antonio Bliska Jr. | UNICAMP | 📄 Carta pronta | André Blanco | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-bliska.md) |
+| 4 | Rocco Lahr | USP EESC | 📄 Carta pronta | André Blanco | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-rocco-lahr-usp.md) |
+| 5 | A. J. F. Carvalho | UFSCar DEMA | 📄 Carta pronta | André Blanco | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-carvalho-ufscar.md) |
+| 6 | Marcondes L. Costa | UFAC | 📄 Carta pronta | Tânia Cruz | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-marcondes-costa-ufac.md) |
+| 7 | Romildo Toledo Filho | UFRJ / COPPE | 📄 Carta pronta | André Blanco | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-romildo-toledo-ufrj.md) |
+| 8 | Guilherme O. Silva | UFBA | 📄 Carta pronta | Tânia Cruz | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-guilherme-silva-ufba.md) |
+| 9 | Humberto C. Furtado | UFSC | 📄 Carta pronta | Vicente Virgolino | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-humberto-furtado-ufsc.md) |
+| 10 | Alan P. Oliveira | IF Goiano | 📄 Carta pronta | Vicente Virgolino | [Aguardando envio até 03/07](docs/cartas-convite/carta-proposta-alan-oliveira-ifgoiano.md) |
 | 11 | Lourival Mendes | UFLA | 🔍 Em prospecção | — | Sem carta |
 | 12 | Juliano Fiorelli | USP FZEA | 🔍 Em prospecção | — | Sem carta |
 | 13 | Joaquim Sando | MST | 🔄 Contato inicial | Marcos Paron | Pendente |
@@ -102,6 +102,7 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 8 | Prof. Alan P. Oliveira (IF Goiano) | [carta-proposta-alan-oliveira-ifgoiano.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/carta-proposta-alan-oliveira-ifgoiano.md) |
 | 9 | Profa. Tânia Cruz (UnB) | [carta-proposta-tania-cruz.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-tania-cruz.md) |
 | 10 | Dra. Ludmila Correia (CAU/DF) | [carta-proposta-ludmila-correia.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-ludmila-correia.md) |
+| 11 | Prof. Vicente Virgolino (IFB) | [carta-proposta-vicente-virgolino.md](https://github.com/takwaratec/fabrica-modelo/blob/main/docs/cartas-convite/carta-proposta-vicente-virgolino.md) |
 
 ---
 

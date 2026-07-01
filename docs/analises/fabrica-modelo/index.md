@@ -89,7 +89,9 @@ Pessoas em processo de aproximação — transparência total de estágio:
 | 3 | [Imperveg — Índice Completo](imperveg-index.md) | 11 fichas: UG132A, MAMONEX RD70, RQI, ensaios, consolidados |
 | 4 | [PU Vegetal UG132A](../01_nucleo-tecnologico/ficha-ug132a-pu-vegetal.md) | Impermeabilizante de poliuretano vegetal |
 | 5 | [PU Vegetal Imperveg (geral)](../ecosala/ficha-pu-vegetal-imperveg.md) | Poliuretano vegetal de mamona |
-|| 6 | [MAMONEX RD70](../01_nucleo-tecnologico/resenha-mamonex-rd70-pu-vegetal.md) | Espuma expansiva vegetal |
+|| 6 🆕 | [Modelo de CLPI](../editais/modelo-clpi.md) | Consentimento Livre, Prévio e Informado para comunidades |
+| 7 🆕 | [Regras Participação Fornecedores](../editais/regras-participacao-fornecedores.md) | Framework legal para cooperação técnica |
+| 8 🆕 | [Modelo Acordo Cooperação Técnica](../editais/modelo-acordo-cooperacao-tecnica.md) | Minuta de acordo para fornecedores |
 || 7 🆕 | [Kehlcoat — Kehl Polímeros](../01_nucleo-tecnologico/ficha-kehlcoat.md) | Membranas PU, selantes híbridos, revestimentos |
 || 8 🆕 | [Purcom Química](../01_nucleo-tecnologico/ficha-purcom.md) | Espumas rígidas PU vegetal, BIOPIR, CIP |
 

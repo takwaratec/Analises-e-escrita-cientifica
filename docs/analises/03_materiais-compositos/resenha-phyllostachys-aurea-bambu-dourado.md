@@ -1,4 +1,4 @@
-# Ficha Cavichioli — Phyllostachys aurea (bambu-dourado)
+# Ficha Cavitioli — Phyllostachys aurea (bambu-dourado)
 
 **Fonte:** CABI Invasive Species Compendium — Datasheet *Phyllostachys aurea* (golden bamboo)
 **Ano da fonte:** 2019 (última modificação: 19 nov. 2019)
@@ -337,4 +337,4 @@ NINA, 2019. Zoneamento de bambus no Brasil. (Resenha: `resenha-nina-2019-zoneame
 
 ---
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Conteúdo extraído do CABI Invasive Species Compendium — Datasheet *Phyllostachys aurea* (golden bamboo), 27 páginas extraídas em Markdown. Texto original em inglês; ficha analítica em português. Arquivo-fonte: `TRIAGEM_BRUTA/PARA_REVISAO_TT/Phyllostachys_aurea__bambu_dourado_.md`.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Conteúdo extraído do CABI Invasive Species Compendium — Datasheet *Phyllostachys aurea* (golden bamboo), 27 páginas extraídas em Markdown. Texto original em inglês; ficha analítica em português. Arquivo-fonte: `TRIAGEM_BRUTA/PARA_REVISAO_TT/Phyllostachys_aurea__bambu_dourado_.md`.

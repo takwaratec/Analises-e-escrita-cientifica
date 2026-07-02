@@ -1,4 +1,4 @@
-# FICHA ACADEMICA — Método Cavichioli (8 secoes)
+# FICHA ACADEMICA — Método Cavitioli (8 secoes)
 
 ## 1. REFERENCIA (ABNT)
 
@@ -101,6 +101,6 @@ Trata-se de um estudo bem delineado para seu contexto historico, com metodologia
 
 ---
 
-*Ficha elaborada segundo metodo Cavichioli (2025) — 8 secoes*
+*Ficha elaborada segundo metodo Cavitioli (2025) — 8 secoes*
 *Data: 28/06/2026*
 *Fonte: Dissert_Vianna_DeniseL_PU_Mamona_proteses.pdf (71 paginas)*

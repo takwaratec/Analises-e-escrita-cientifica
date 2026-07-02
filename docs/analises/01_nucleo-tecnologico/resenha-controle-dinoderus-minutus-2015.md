@@ -1,4 +1,4 @@
-# FICHA ACADÊMICA — Modelo Cavichioli
+# FICHA ACADÊMICA — Modelo Cavitioli
 
 ## 1. REFERÊNCIA (ABNT)
 
@@ -116,4 +116,4 @@ A tese é seminal para estudos de controle sustentável de *D. minutus* em bambu
 
 ---
 
-*Ficha elaborada conforme modelo Cavichioli (8 seções) a partir da leitura integral do documento original. Nenhuma citação ou dado foi fabricado; todas as informações foram extraídas do texto real da tese (SILVEIRA, 2015, 159 f.).*
+*Ficha elaborada conforme modelo Cavitioli (8 seções) a partir da leitura integral do documento original. Nenhuma citação ou dado foi fabricado; todas as informações foram extraídas do texto real da tese (SILVEIRA, 2015, 159 f.).*

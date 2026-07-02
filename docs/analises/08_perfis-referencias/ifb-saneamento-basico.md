@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-E9-03
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Saneamento Básico (2020)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -50,4 +50,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Energi
 Hemerson Fernandes Calgaro, João Barbudo Filho. **O Esgoto Doméstico no Meio Rural: Tratamento e Implicações para a Saúde Humana**. Boletim Técnico CDRS, n. 253, Campinas, 2020. 2020.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*

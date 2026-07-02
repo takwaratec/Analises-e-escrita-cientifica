@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Método Cavichioli (8 Seções)
+# Ficha Acadêmica — Método Cavitioli (8 Seções)
 
 **Título:** Bamboo & Rattan Update (BRU) — Volume 6, Issue 2: "Bamboo for Climate Action"
 
@@ -317,4 +317,4 @@ HOU, Y. et al. Haplotype-based pangenomes reveal genetic variations and climate 
 
 ---
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Conteúdo extraído do PDF original da Revista Bambu 6 (INBAR BRU V6/I2, June 2025). Texto original em inglês; ficha analítica em português.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Conteúdo extraído do PDF original da Revista Bambu 6 (INBAR BRU V6/I2, June 2025). Texto original em inglês; ficha analítica em português.

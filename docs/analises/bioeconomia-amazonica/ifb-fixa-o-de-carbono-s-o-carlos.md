@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-E9-04
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Fixa O De Carbono S O Carlos
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -51,4 +51,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Energi
 Osvaldo Stella Martins. **Determinação do Potencial de Sequestro de Carbono na Recuperação de Matas Ciliares na Região de São Carlos - SP**. Tese (Doutorado em Ecologia e Recursos Naturais) - UFSCar, 2004. 136 p.. 2004.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*

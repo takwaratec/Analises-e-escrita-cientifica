@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-E7-03
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Recursos da Geodiversidade de São Thomé das Letras (2015)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -50,4 +50,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Territ
 Autores diversos. **Recursos da Geodiversidade de São Thomé das Letras, MG**. Desenvolvimento e Meio Ambiente, v. 35, p. 335-347, dez. 2015. 2015. DOI: 10.5380/dma.v35i0.41514.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*

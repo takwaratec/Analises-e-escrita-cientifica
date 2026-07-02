@@ -21,17 +21,21 @@ licenca: CC BY 4.0
 | **Localização** | Acervo Científico — docs/analises/01_nucleo-tecnologico/ficha-holambra-conectada.md |
 | **Palavras-chave** | Holambra; geodésicas; estufas; certificação; rastreabilidade; bambu; agricultura protegida |
 
-## 2. CLASSIFICAÇÃO TEMÁTICA
+## 2. Classificação Temática
 
 - **Eixo:** 01_nucleo-tecnologico
 - **Área:** Tecnologia Social / Construção Sustentável / Agricultura Protegida
-- **Palavras-chave:** Holambra, estufas geodésicas, certificação de processos, rastreabilidade, domo geodésico, bambu tratado, PU Vegetal, agricultura protegida
+- **Palavras-chave:** Holambra, estufas geodésicas, certificação de processos, rastreabilidade, domo geodésico, bambu tratado, PU Vegetal, agricultura protegida, CEAFLOR, cooperativas, manejo, HUB de distribuição
 
 ## 3. RESUMO / SÍNTESE
 
 O projeto Holambra Conectada propõe a criação de um Centro de Excelência em Tecnologias Geodésicas na cidade de Holambra-SP, integrando inovações em conexões geodésicas com o maior polo agroindustrial de flores da América Latina. A iniciativa visa substituir o modelo produtivo tradicional baseado em estufas horizontais por estruturas geodésicas, que oferecem superior eficiência energética, resistência estrutural e sustentabilidade ambiental. Paralelamente, estabelece um sistema de rastreabilidade e certificação de processos construtivos sustentáveis — protocolos de qualidade, desempenho e replicabilidade para estufas geodésicas como tecnologia social.
 
 O município de Holambra-SP (~15 mil habitantes) é reconhecido como Capital Nacional das Flores desde 2011, concentrando o maior polo de floricultura do continente com uso extensivo de estufas horizontais importadas da tecnologia holandesa. A transição para geodésicas representa salto tecnológico em eficiência energética, resistência a intempéries e sustentabilidade ambiental.
+
+### Cadeia de Suprimentos
+
+O projeto prevê a articulação com **CEAFLOR** como distribuidor de bambu tratado, a **formação de cooperativas de manejo** para extração e beneficiamento sustentável, e a estruturação de um **HUB de distribuição de matéria-prima** para industrialização da produção — garantindo suprimento contínuo de bambu de qualidade para as estufas geodésicas e demais sistemas construtivos do projeto.
 
 ## 4. ANÁLISE CRÍTICA
 

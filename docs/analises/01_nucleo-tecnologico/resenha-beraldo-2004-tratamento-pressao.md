@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Cavichioli / Resenha Científica
+tipo: Ficha Cavitioli / Resenha Científica
 referencia: Patente_Beraldo_UNICAMP_2004_Tratamento_Pressao_Bambu
 autor: Fabio Takwara
 data: 2026-06-29
@@ -7,7 +7,7 @@ status: Consolidado
 licenca: CC BY 4.0
 ---
 
-# Ficha Cavichioli — Dispositivo para Tratamento de Colmos de Bambu sob Pressão (Beraldo, UNICAMP, 2004)
+# Ficha Cavitioli — Dispositivo para Tratamento de Colmos de Bambu sob Pressão (Beraldo, UNICAMP, 2004)
 
 > **Resumo:** Patente de Modelo de Utilidade MU 8300454-8 U (UNICAMP) do Prof. Antonio Ludovico Beraldo, orientador da dissertação de Silva (2011) sobre tratamento com pirolenhoso. O dispositivo aplica o Método Boucherie Modificado — injeção de solução preservativa sob pressão em colmos de bambu — utilizando reservatório cilíndrico com válvulas, engates rápidos e conjunto filtro-regulador. O equipamento permite tratar colmos de diferentes diâmetros e comprimentos com rapidez e segurança, aumentando a durabilidade do bambu (naturalmente < 2 anos) para aplicações em construção civil. A patente é anterior e complementar ao tratamento com pirolenhoso (Silva 2011), formando a base do sub-eixo de preservação T01.
 
@@ -147,4 +147,4 @@ O dispositivo, embora funcional, não foi atualizado há mais de 20 anos e carec
 BERALDO, Antonio Ludovico. **Dispositivo para tratamento de colmos de bambu sob pressão**. MU 8300454-8 U. Instituto Nacional da Propriedade Industrial (INPI), 30 nov. 2004. Depósito: 13 mar. 2003.
 
 ---
-*Ficha catalográfica elaborada conforme método Cavichioli (2025). Dados extraídos do documento original da patente e do acervo MQTF.*
+*Ficha catalográfica elaborada conforme método Cavitioli (2025). Dados extraídos do documento original da patente e do acervo MQTF.*

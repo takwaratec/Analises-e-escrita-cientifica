@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 **Documento:** Dissertação de Mestrado — Uso do líquido pirolenhoso na preservação da madeira de Pinus elliottii
 
@@ -147,6 +147,6 @@ LAROQUE, Fabiana Fernandes. **Uso do líquido pirolenhoso na preservação da ma
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento original: resenha-pirolenhoso-eucalipto-fabiana.md*
 *Formatação: Hermes Agent*

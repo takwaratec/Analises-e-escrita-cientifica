@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Cavichioli / Resenha Científica
+tipo: Ficha Cavitioli / Resenha Científica
 referencia: Dissert_Bambu_Normas_UnB_2018
 autor: Fabio Takwara
 data: 2026-06-27
@@ -8,7 +8,7 @@ licenca: CC BY 4.0
 instituicao: Tecnologia Takwara
 ---
 
-# Ficha Cavichioli — Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu-Colmo em Estruturas Prediais
+# Ficha Cavitioli — Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu-Colmo em Estruturas Prediais
 
 > **Resumo:** A dissertação realiza uma análise comparativa das principais normas técnicas internacionais que regulamentam o uso do bambu-colmo em estruturas prediais, examinando normas da Colômbia (NSR-10), Peru (E.100), Equador, Índia e China. São comparados critérios de caracterização do material, propriedades mecânicas, métodos de ensaio, fatores de segurança, detalhamento de ligações e requisitos de durabilidade. O trabalho identifica convergências e divergências entre as normas e propõe diretrizes para subsidiar a elaboração de uma norma técnica brasileira para estruturas de bambu. A pesquisa contribui para a difusão segura e normalizada do bambu como material estrutural no Brasil, preenchendo uma lacuna crítica na regulação técnica nacional.
 
@@ -101,4 +101,4 @@ A dissertação conecta-se diretamente com a resenha da NSR-10 (norma colombiana
 MARÇAL, Vitor Hugo Silva. **Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu – Colmo em Estruturas Prediais**. 2018. 193 f. Dissertação (Mestrado em Arquitetura e Urbanismo) — Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 2018.
 
 ---
-*Ficha catalográfica elaborada conforme método Cavichioli (2025). Dados extraídos do documento original da dissertação.*
+*Ficha catalográfica elaborada conforme método Cavitioli (2025). Dados extraídos do documento original da dissertação.*

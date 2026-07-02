@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 ---
 
@@ -283,5 +283,5 @@ FORNO ECOLÓGICO para Tratamento de Bambu: A Inovação Tecnológica que Revoluc
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento base: artigo de 7 páginas sobre Forno Ecológico para tratamento de bambu (Inércia Térmica), extraído em 28/06/2026.*

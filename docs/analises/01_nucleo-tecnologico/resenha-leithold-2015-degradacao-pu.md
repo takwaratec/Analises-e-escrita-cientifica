@@ -1,4 +1,4 @@
-# FICHA ACADEMICA — Metodo Cavichioli (8 secoes)
+# FICHA ACADEMICA — Metodo Cavitioli (8 secoes)
 
 ## 1. REFERENCIA (ABNT)
 
@@ -103,6 +103,6 @@ Trata-se de um TCC bem delineado para seu nivel (graduacao), com metodologia cla
 
 ---
 
-*Ficha elaborada segundo metodo Cavichioli (2025) — 8 secoes*
+*Ficha elaborada segundo metodo Cavitioli (2025) — 8 secoes*
 *Data: 29/06/2026*
 *Fonte: LEITHOLD NETO, Alfredo. Materiais utilizados para protecao de equipamentos sensiveis: A importancia da biodegradacao em solo simulado. 2015. TCC (Bacharelado em Quimica Tecnologica com enfase em Ambiental) — UTFPR, Curitiba, 2015.*

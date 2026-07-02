@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Acadêmica Cavichioli (2025)
+tipo: Ficha Acadêmica Cavitioli (2025)
 referencia: Dissert_Berndsen_Caracterizacao_Bambu_UTFPR_2008
 autor: Fabio Takwara
 data: 2026-06-28
@@ -7,7 +7,7 @@ status: Consolidado
 licenca: CC BY 4.0
 ---
 
-# Ficha Acadêmica Cavichioli (2025) — Caracterização Anatômica, Física e Mecânica de Lâminas de Bambu (Phyllostachys pubescens)
+# Ficha Acadêmica Cavitioli (2025) — Caracterização Anatômica, Física e Mecânica de Lâminas de Bambu (Phyllostachys pubescens)
 
 > **Resumo:** A dissertação de Rodrigo S. Berndsen (UTFPR, 2008) investiga as propriedades anatômicas, físicas e mecânicas do bambu Moso (*Phyllostachys pubescens*) em função da idade (1, 3 e 5 anos) e da posição longitudinal do colmo (base, meio, topo). Foram coletados 12 colmos no município de Fazenda Rio Grande (PR), processados em lâminas com remoção das camadas externa e interna e secas até 12% de umidade. Os ensaios seguiram adaptações da norma ASTM D 143-96. A maior densidade básica encontrada foi de 0,80 g/cm³ no topo dos colmos de 5 anos. Os resultados indicam aumento significativo da maioria das propriedades físicas e mecânicas com o avanço da idade e da altura, posicionando o bambu Moso como alternativa viável para produtos de alto valor agregado.
 

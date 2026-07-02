@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Cavichioli (2025)
+# Ficha Acadêmica — Cavitioli (2025)
 
 ## 1. Referência Bibliográfica (ABNT)
 
@@ -138,4 +138,4 @@ IBRAM. **Plano de Diretrizes para Aplicação de Recursos da Compensação Flore
 
 ---
 
-*Resenha elaborada conforme metodologia Cavichioli (2025). Análise baseada exclusivamente no conteúdo real do documento fonte. Nenhuma citação ou referência foi fabricada.*
+*Resenha elaborada conforme metodologia Cavitioli (2025). Análise baseada exclusivamente no conteúdo real do documento fonte. Nenhuma citação ou referência foi fabricada.*

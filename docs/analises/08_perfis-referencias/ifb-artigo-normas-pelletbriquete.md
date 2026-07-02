@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-E4-04
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Artigo Normas Pellet/Briquete (2018)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -50,4 +50,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Brique
 Igor Cassiano Rangel, Fabrício Freitas da Silva, Claudio Márcio Pereira de Souza, Luciano José Minette, Amaury Paulo de Souza. **Normas e padrões para produção de biomassa compactada no mundo**. Acta Biomédica Brasiliensia, v. 9, n. 1, Abril de 2018. 2018. DOI: 10.18571/acbm.153.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*

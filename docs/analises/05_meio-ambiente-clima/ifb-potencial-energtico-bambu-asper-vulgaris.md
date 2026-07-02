@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-E4-06
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Potencial Energético Bambu Asper + Vulgaris (2021)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -49,4 +49,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Brique
 RUSCH, Fernando; ABREU NETO, Raul de; LÚCIO, Danielle de Moraes; HILLIG, Éverton. **Energy properties of bamboo biomass and mate co-products**. SN Applied Sciences, v. 3, 602, 2021. DOI: 10.1007/s42452-021-04584-7.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*

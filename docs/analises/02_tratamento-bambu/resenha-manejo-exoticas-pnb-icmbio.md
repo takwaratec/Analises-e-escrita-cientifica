@@ -1,4 +1,4 @@
-# Ficha Cavichioli — Resenha de Artigo
+# Ficha Cavitioli — Resenha de Artigo
 
 ## 1. Referência Bibliográfica (ABNT)
 

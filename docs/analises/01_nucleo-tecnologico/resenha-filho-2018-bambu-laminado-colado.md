@@ -180,4 +180,4 @@ Realizados conforme adaptações da ABNT NBR 7190 (1997) — Projeto de Estrutur
 
 ---
 
-*Ficha elaborada conforme modelo Cavichioli. Todos os dados extraídos diretamente do texto original da dissertação. Nenhuma citação ou valor foi fabricado.*
+*Ficha elaborada conforme modelo Cavitioli. Todos os dados extraídos diretamente do texto original da dissertação. Nenhuma citação ou valor foi fabricado.*

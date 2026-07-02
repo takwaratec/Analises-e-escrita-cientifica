@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 **Documento:** Trabalho de Conclusão / Relatório de Iniciação Científica — Tratamentos do Bambu como Reforço em Concreto
 
@@ -120,6 +120,6 @@ NACCACHE, Anna Carolina Aiex. **Tratamentos do Bambu como Reforço em Concreto**
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento base: relatório de 13 páginas sobre tratamentos impermeabilizantes para bambu como reforço em concreto (Naccache, ~2015–2018).*
 *Formatação: Hermes Agent*

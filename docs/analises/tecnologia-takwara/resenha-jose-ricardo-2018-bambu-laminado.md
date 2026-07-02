@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Método Cavichioli (8 Seções)
+# Ficha Acadêmica — Método Cavitioli (8 Seções)
 
 **Título do documento:** Bambu Laminado Colado: Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná
 

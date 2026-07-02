@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-G-53
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Resistência à Flexão Estática e Compressão de Bambu (2017)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -50,4 +50,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Geral*
 Rodrigo Strzelecki Berndsen, Ricardo Jorge Klitzke, Djeison Cesar Batista. **Resistência à Flexão Estática e à Compressão Paralela às Fibras da Madeira de Eucalyptus dunnii**. FLORESTA, Curitiba, PR, v. 43, n. 3, p. 485-494, jul./set. 2013. 2013.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*

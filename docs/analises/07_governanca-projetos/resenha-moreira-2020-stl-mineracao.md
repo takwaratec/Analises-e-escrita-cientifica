@@ -1,4 +1,4 @@
-# Ficha Cavichioli — Moreira et al. (2020) — Mineração da Pedra São Thomé
+# Ficha Cavitioli — Moreira et al. (2020) — Mineração da Pedra São Thomé
 
 > **Resumo:** Artigo publicado na revista *Desenvolvimento e Meio Ambiente* (v. 54, DOI: 10.5380/dma.v54i0.65016) com estudo etnográfico sobre os impactos da mineração da pedra São Thomé no município homônimo, sul de Minas Gerais. A pesquisa investigou a percepção de moradores sobre saúde coletiva (silicose em trabalhadores) e justiça ambiental (proximidade das cavas ao centro urbano), concluindo que a comunidade é refém da atividade mineradora — simultaneamente fonte de sobrevivência e de adoecimento. O estudo contextualiza o território de origem da Tecnologia Takwara, onde o bambu surge como alternativa econômica e ambientalmente regenerativa à mineração.
 
@@ -128,6 +128,6 @@ MOREIRA, B. M. B.; SILVA, L. F.; BUENO, M. I. C. S. Mineração da pedra "São T
 
 ---
 
-> **Ficha reformatada em:** 2026-06-29 (formato Cavichioli — 8 seções obrigatórias)
+> **Ficha reformatada em:** 2026-06-29 (formato Cavitioli — 8 seções obrigatórias)
 > **Fonte original:** FICHA_WTF_RAW_2019_-_Pedra_São_Thomé_-_estudo_etnográfico_sobre_saúde_coletiva_e_justiça_ambiental.md (MQTF)
 > **Ferramenta:** Hermes Agent

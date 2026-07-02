@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Técnica — Patente — Método Cavichioli (2025)
+tipo: Ficha Técnica — Patente — Método Cavitioli (2025)
 referencia: PES-TEC-1710-2026
 data: 2026-06-29
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # Ficha — Dispositivo de Bambu Protendido (Moreira & Silva, UFMG, 2022)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos da patente BR PI 1106035-2 B1 (INPI, 2022). Conteúdo baseado na transcrição FICHA_WTF_RAW_2022_-_conexoes_protendido_UFMG.md (MQTF).
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos da patente BR PI 1106035-2 B1 (INPI, 2022). Conteúdo baseado na transcrição FICHA_WTF_RAW_2022_-_conexoes_protendido_UFMG.md (MQTF).
 
 ## 1. Dados Gerais
 
@@ -120,4 +120,4 @@ MOREIRA, L. E.; SILVA, F. J. da. **Dispositivo de bambu protendido.** Patente BR
 
 ---
 
-*Ficha elaborada conforme método Cavichioli (2025). Conteúdo baseado na patente BR PI 1106035-2 B1 (Moreira & Silva, UFMG, 2022). Fonte: FICHA_WTF_RAW_2022_-_conexoes_protendido_UFMG.md (MQTF). Ferramenta: Hermes Agent.*
+*Ficha elaborada conforme método Cavitioli (2025). Conteúdo baseado na patente BR PI 1106035-2 B1 (Moreira & Silva, UFMG, 2022). Fonte: FICHA_WTF_RAW_2022_-_conexoes_protendido_UFMG.md (MQTF). Ferramenta: Hermes Agent.*

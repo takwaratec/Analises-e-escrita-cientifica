@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 **Documento:** Patente de invenção — Microrreator Catalítico Lignocelulósico a partir da arquitetura vascular do bambu
 
@@ -193,6 +193,6 @@ FACULDADES CATÓLICAS. PANDOLI, O. G.; GHAVAMI, K.; SÁ, D. S. **Processo de cor
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento original: resenha-pandoli-2023-microreator-bambu.md*
 *Formatação: Hermes Agent*

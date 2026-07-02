@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 ---
 
@@ -139,5 +139,5 @@ TAKWARA, Fabio Resck. **Ultimato Climático: Para Além do Capitalismo, Rumo a u
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Conteúdo baseado exclusivamente no material analisado e em suas fontes citadas, sem acréscimos ou dados fabricados.*

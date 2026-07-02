@@ -1,18 +1,18 @@
 ---
-tipo: Ficha Cavichioli — Resenha de Espécie Invasora
+tipo: Ficha Cavitioli — Resenha de Espécie Invasora
 referencia: CABI_2019_Phyllostachys_aureosulcata
 autor: Fabio Takwara
 data: 2026-06-28
 status: Consolidado
-metodo: Ficha Cavichioli (8 seções) — Método Cavichioli (2025)
+metodo: Ficha Cavitioli (8 seções) — Método Cavitioli (2025)
 licenca: CC BY 4.0
 fonte: TRIAGEM_BRUTA/PARA_REVISAO_TT/Phyllostachys_aureosulcata__bambu_de_sulco_amarelo_.md (25 páginas, extração do PDF original CABI Invasive Species Compendium)
 foco: Phyllostachys aureosulcata (bambu de sulco amarelo) — espécie invasora
 ---
 
-# Ficha Cavichioli — Phyllostachys aureosulcata (bambu de sulco amarelo)
+# Ficha Cavitioli — Phyllostachys aureosulcata (bambu de sulco amarelo)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Conteúdo extraído do *CABI Invasive Species Compendium* (2019) — folha de dados da espécie *Phyllostachys aureosulcata* McClure (bambu de sulco amarelo), 25 páginas. NENHUM dado fabricado — TODAS as citações e dados verificados no texto fonte.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Conteúdo extraído do *CABI Invasive Species Compendium* (2019) — folha de dados da espécie *Phyllostachys aureosulcata* McClure (bambu de sulco amarelo), 25 páginas. NENHUM dado fabricado — TODAS as citações e dados verificados no texto fonte.
 
 ---
 
@@ -284,7 +284,7 @@ O datasheet da CABI é uma referência internacional consolidada sobre *Phyllost
 
 ### 8.5. Inserção no acervo
 
-Esta ficha integra o **Acervo Científico do Projeto Bambu — Fichas Cavichioli (8 seções)** no eixo **Espécies Invasoras do Gênero *Phyllostachys***. Dialoga diretamente com a ficha sobre manejo de *Phyllostachys bambusoides* no Parque Nacional de Brasília (resenha-manejo-pnb-bambu.md) e com o levantamento de espécies de bambu da American Bamboo Society (resenha-especies-bambu.md).
+Esta ficha integra o **Acervo Científico do Projeto Bambu — Fichas Cavitioli (8 seções)** no eixo **Espécies Invasoras do Gênero *Phyllostachys***. Dialoga diretamente com a ficha sobre manejo de *Phyllostachys bambusoides* no Parque Nacional de Brasília (resenha-manejo-pnb-bambu.md) e com o levantamento de espécies de bambu da American Bamboo Society (resenha-especies-bambu.md).
 
 ---
 
@@ -314,4 +314,4 @@ YOUNG, R.; HAUN, J. **Bamboo in the United States**. Agriculture Handbook No. 19
 
 ---
 
-*Ficha Cavichioli elaborada a partir da leitura integral do documento original (25 páginas). Nenhuma citação ou dado foi fabricado — todos os valores e trechos foram extraídos diretamente do texto fonte. Método Cavichioli (2025).*
+*Ficha Cavitioli elaborada a partir da leitura integral do documento original (25 páginas). Nenhuma citação ou dado foi fabricado — todos os valores e trechos foram extraídos diretamente do texto fonte. Método Cavitioli (2025).*

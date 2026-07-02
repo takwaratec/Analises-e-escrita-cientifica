@@ -206,4 +206,4 @@ O relatório tem relevância direta para as linhas de pesquisa do LaPeCFaS, pois
 
 ---
 
-*Ficha elaborada conforme modelo Cavichioli de resenha analítica de trabalhos acadêmico-científicos.*
+*Ficha elaborada conforme modelo Cavitioli de resenha analítica de trabalhos acadêmico-científicos.*

@@ -1,4 +1,4 @@
-# Ficha Cavichioli — Charcoal Anatomy of Brazilian Species II
+# Ficha Cavitioli — Charcoal Anatomy of Brazilian Species II
 
 > Ficha completa extraída do PDF original via PyMuPDF. Nenhum dado foi inventado.
 

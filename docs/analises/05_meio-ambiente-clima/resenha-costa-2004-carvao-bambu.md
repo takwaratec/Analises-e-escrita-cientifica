@@ -1,4 +1,4 @@
-# FICHA ACADEMICA — Metodo Cavichioli (8 secoes)
+# FICHA ACADEMICA — Metodo Cavitioli (8 secoes)
 
 ## 1. REFERENCIA (ABNT)
 
@@ -87,6 +87,6 @@ O trabalho fornece dados de referencia para o sub-eixo de pirolise e biochar da 
 
 ---
 
-*Ficha elaborada segundo metodo Cavichioli (2025) — 8 secoes*
+*Ficha elaborada segundo metodo Cavitioli (2025) — 8 secoes*
 *Data: 29/06/2026*
 *Fonte: FICHA_WTF_RAW_2004CostaEstudoCarvao.md (MQTF)*

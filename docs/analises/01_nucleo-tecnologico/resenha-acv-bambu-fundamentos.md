@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Cavichioli / Resenha Científica
+tipo: Ficha Cavitioli / Resenha Científica
 referencia: Nascimento_Ferroli_ACV_Bambu
 autor: Fabio Takwara
 data: 2026-06-29
@@ -7,7 +7,7 @@ status: Consolidado
 licenca: CC BY 4.0
 ---
 
-# Ficha Cavichioli — Avaliação do Ciclo de Vida Aplicada ao Bambu
+# Ficha Cavitioli — Avaliação do Ciclo de Vida Aplicada ao Bambu
 
 > **Resumo:** Material didático de 12 páginas (apostila) sobre os fundamentos da Avaliação do Ciclo de Vida (ACV) aplicada ao bambu como material de construção, de autoria de Emanuele de Castro Nascimento, sob coordenação de Paulo Cesar Machado Ferroli (Dr. Eng.). O material aborda: (1) conceitos gerais de ACV e ciclo de vida de produtos; (2) histórico, propriedades físico-mecânicas e conceito do bambu; (3) processo produtivo completo — propagação, plantio, manejo, colheita, tratamentos (tradicionais e químicos); (4) aplicações do bambu na construção civil, movelaria, polpa e papel, alimentação e bambu laminado colado (BLaC); (5) descarte, reciclagem e impacto ambiental, com dados de inventário de ACV para *Guadua chacoensis* e comparação energética com materiais convencionais. Inclui referências a fornecedores e bibliografia especializada. Funciona como introdução metodológica e técnica ao bambu, sem apresentar uma ACV formal completa nos moldes ISO 14040/14044, mas fornecendo base conceitual e dados de inventário.
 

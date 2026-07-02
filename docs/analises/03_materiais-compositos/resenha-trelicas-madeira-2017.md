@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Cavichioli (2025)
+# Ficha Acadêmica — Cavitioli (2025)
 
 **Título:** Projeto estrutural de uma treliça de madeira maciça de acordo com diferentes sistemas construtivos
 **Tipo:** Trabalho de Conclusão de Curso (Bacharelado em Engenharia Civil)
@@ -303,4 +303,4 @@ Para aprofundamento, o trabalho poderia dialogar com:
 
 ---
 
-*Ficha elaborada conforme modelo Cavichioli (2025) para análise acadêmica de trabalhos científicos. Data da análise: 28/06/2026.*
+*Ficha elaborada conforme modelo Cavitioli (2025) para análise acadêmica de trabalhos científicos. Data da análise: 28/06/2026.*

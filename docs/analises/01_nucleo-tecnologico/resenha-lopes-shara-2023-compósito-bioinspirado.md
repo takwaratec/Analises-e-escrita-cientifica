@@ -1,5 +1,5 @@
 ---
-tipo: Ficha — Dissertação (Método Cavichioli)
+tipo: Ficha — Dissertação (Método Cavitioli)
 referencia: TT-E6-003
 data: 2026-06-29
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # Avaliação de um Material Compósito Polimérico Bioinspirado Reforçado com Fibra de Bagaço de Cana-de-Açúcar
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original da dissertação (106 páginas).
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original da dissertação (106 páginas).
 
 ## 1. Dados Gerais
 

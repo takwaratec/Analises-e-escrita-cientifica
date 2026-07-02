@@ -1,6 +1,6 @@
 # Sistema de Reforço Interno de Colmos de Bambu com Espuma de Poliuretano Vegetal — Memorial Descritivo de Patente
 
-> Ficha Cavichioli elaborada a partir do memorial descritivo do pedido de patente de invenção (2 páginas, 2 desenhos). Documento de prioridade da Tecnologia Takwara.
+> Ficha Cavitioli elaborada a partir do memorial descritivo do pedido de patente de invenção (2 páginas, 2 desenhos). Documento de prioridade da Tecnologia Takwara.
 
 ---
 

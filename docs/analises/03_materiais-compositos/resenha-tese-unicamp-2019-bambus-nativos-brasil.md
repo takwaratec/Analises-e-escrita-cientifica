@@ -1,4 +1,4 @@
-# FICHA TÉCNICA ACADÊMICA — Método Cavichioli (2025)
+# FICHA TÉCNICA ACADÊMICA — Método Cavitioli (2025)
 
 **Tipo de documento:** Tese de Doutorado  
 **Título:** Bambus nativos do Brasil: panorama das iniciativas para uma cadeia produtiva integrada à conservação  
@@ -402,6 +402,6 @@ LIMA, Aline Lopes e. **Bambus nativos do Brasil: panorama das iniciativas para u
 
 ---
 
-*Ficha técnica elaborada em 28/06/2026 conforme Método Cavichioli (2025) — 8 seções obrigatórias.*  
+*Ficha técnica elaborada em 28/06/2026 conforme Método Cavitioli (2025) — 8 seções obrigatórias.*  
 *Arquivo-fonte: 2019.Tese_BAmbus_Nativos_do_Brasil_Cadeia_Produtiva_e_Conservac_a_o-UNICAMPpdf.md*  
 *Documento de 375 páginas extraídas em formato Markdown.*

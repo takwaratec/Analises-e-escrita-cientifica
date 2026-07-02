@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Técnica — Resenha — Método Cavichioli (2025)
+tipo: Ficha Técnica — Resenha — Método Cavitioli (2025)
 referencia: PES-TEC-1932-2026
 data: 2026-06-29
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # Eco-Friendly Preservation of Bamboo Species (Kaur et al., 2016)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Compilação dos dados do artigo original publicados em BioResources (v. 11, n. 4, 2016).
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Compilação dos dados do artigo original publicados em BioResources (v. 11, n. 4, 2016).
 
 ## 1. Dados Gerais
 
@@ -83,4 +83,4 @@ KAUR, Perminder Jit et al. Eco-Friendly Preservation of Bamboo Species: Traditio
 
 ---
 
-*Ficha técnica elaborada conforme método Cavichioli (2025). Dados extraídos do artigo original. Fonte: FICHA_WTF_RAW_Eco-friendly_Preservation_of_bamboo_-_India.md (MQTF).*
+*Ficha técnica elaborada conforme método Cavitioli (2025). Dados extraídos do artigo original. Fonte: FICHA_WTF_RAW_Eco-friendly_Preservation_of_bamboo_-_India.md (MQTF).*

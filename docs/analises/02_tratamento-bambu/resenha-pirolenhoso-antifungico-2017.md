@@ -160,6 +160,6 @@ O licor pirolenhoso foi utilizado em sua composição completa (sem separação 
 
 ---
 
-*Ficha Cavichioli elaborada a partir da leitura integral do documento original (39 páginas, 1417 linhas). Nenhuma citação ou dado foi fabricado — todos os valores e trechos foram extraídos diretamente do texto fonte.*
+*Ficha Cavitioli elaborada a partir da leitura integral do documento original (39 páginas, 1417 linhas). Nenhuma citação ou dado foi fabricado — todos os valores e trechos foram extraídos diretamente do texto fonte.*
 
 *Documento fonte: `TRIAGEM_BRUTA/PARA_REVISAO_TT/2107_-_PR_-_Pirolenho_antifungico.md`*

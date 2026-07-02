@@ -1,4 +1,4 @@
-# Ficha Cavichioli — Biocompósitos de Bambu e Resina de Mamona (2017)
+# Ficha Cavitioli — Biocompósitos de Bambu e Resina de Mamona (2017)
 
 ---
 

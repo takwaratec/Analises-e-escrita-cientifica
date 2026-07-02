@@ -1,4 +1,4 @@
-# FICHA TÉCNICA ACADÊMICA — Método Cavichioli (2025)
+# FICHA TÉCNICA ACADÊMICA — Método Cavitioli (2025)
 
 ## 1. DADOS GERAIS
 

@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 **Documento:** Artigo científico — Análise dos Impactos das Mudanças Climáticas na Infraestrutura Urbana
 
@@ -195,6 +195,6 @@ AGUIAR, Erick Vitório Nascimento; PEREIRA, Gabriel Gomes; SANTOS, Raikson Henri
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Conteúdo baseado exclusivamente no artigo extraído e em suas fontes citadas, sem acréscimos ou dados fabricados.*
 *Arquivo original: resenha-impactos-mudancas-climaticas-infra.md*

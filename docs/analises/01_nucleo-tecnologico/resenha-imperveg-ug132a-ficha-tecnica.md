@@ -1,4 +1,4 @@
-# FICHA ACADEMICA — Metodo Cavichioli (8 secoes)
+# FICHA ACADEMICA — Metodo Cavitioli (8 secoes)
 
 ## 1. REFERENCIA (ABNT)
 
@@ -95,6 +95,6 @@ Conecta-se com fichas sobre PU de mamona (resenha-polimeros-mamona-permeabilidad
 
 ---
 
-*Ficha elaborada segundo metodo Cavichioli (2025) — 8 secoes*
+*Ficha elaborada segundo metodo Cavitioli (2025) — 8 secoes*
 *Data: 29/06/2026*
 *Fonte: Ficha_Tecnica_Imperveg_UG132A_PU_Vegetal (documento tecnico do fabricante)*

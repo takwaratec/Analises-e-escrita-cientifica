@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Cavichioli / Resenha Científica
+tipo: Ficha Cavitioli / Resenha Científica
 referencia: Palestra_Christian_Gauss_Tratamento_Bambu_2023
 autor: Fabio Takwara
 data: 2026-06-28
@@ -7,7 +7,7 @@ status: Consolidado
 licenca: CC BY 4.0
 ---
 
-# Ficha Cavichioli — Tratamentos para Bambu com Christian Gauss (2023)
+# Ficha Cavitioli — Tratamentos para Bambu com Christian Gauss (2023)
 
 > **Resumo:** Palestra de Christian Gauss (DSc. Eng. Materiais, USP; pesquisador Universidade de Waikato, Nova Zelândia; membro fundador da BambuBR) sobre preservação e durabilidade de produtos à base de bambu, promovida pela BambuBR em conjunto com o grupo PET Madeira (UNESP Itapeva). O material didático organiza-se em boas-vindas, apresentação institucional, introdução ao palestrante, importância do bambu como recurso lignocelulósico com capacidade de fixação de carbono (50-100 anos em produtos duráveis), diferenciação entre métodos passivos (capilaridade, difusão vertical) e ativos de tratamento (Boucherie modificado, autoclave), discussão de substâncias preservativas (CCA, CCB, ácido pirolenhoso, taninos, cloreto de sódio), análise de penetração com corantes naturais (açafrão/cúrcuma), durabilidade em diferentes condições de exposição (>50 anos interno, 5-15 anos externo), normas técnicas (ISO 2256, nova norma brasileira), aplicações (MDF, USB, estruturas laminadas, portas, móveis, construção civil) e considerações finais sobre ética, inclusão social e potencial do Brasil na cadeia produtiva do bambu.
 

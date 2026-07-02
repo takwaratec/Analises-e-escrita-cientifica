@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Método Cavichioli (8 Seções)
+# Ficha Acadêmica — Método Cavitioli (8 Seções)
 
 **Título do documento:** Revista Bambu — Ano 03, nº 03
 
@@ -193,4 +193,4 @@ REVISTA BAMBU. Ano 03, nº 03, novembro de 2022. Brasília: Rede Brasileira do B
 
 ---
 
-*Ficha catalográfica elaborada conforme método Cavichioli (2025). Conteúdo extraído do PDF original da Revista Bambu (40 páginas).*
+*Ficha catalográfica elaborada conforme método Cavitioli (2025). Conteúdo extraído do PDF original da Revista Bambu (40 páginas).*

@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Modelo Cavichioli
+# Ficha Acadêmica — Modelo Cavitioli
 
 ---
 
@@ -155,5 +155,5 @@ Apesar das limitações, a tese permanece como referência metodológica importa
 
 ---
 
-*Ficha elaborada em 28/06/2026 conforme modelo Cavichioli (8 seções obrigatórias).*
+*Ficha elaborada em 28/06/2026 conforme modelo Cavitioli (8 seções obrigatórias).*
 *Conteúdo extraído integralmente da tese original (161 páginas), sem fabricação de dados ou citações.*

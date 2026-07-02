@@ -1,16 +1,16 @@
 ---
-tipo: Ficha Cavichioli (2025) — 8 seções
+tipo: Ficha Cavitioli (2025) — 8 seções
 referencia: Dissert_PU_Mamona_USP_1997
 autor: Fabio Takwara
 data: 2026-06-29
 status: Consolidado
-metodo: Método Cavichioli (2025) — 8 seções
+metodo: Método Cavitioli (2025) — 8 seções
 licenca: CC BY 4.0
 ---
 
-# Ficha Cavichioli: Estudo Comparativo da Resistência Mecânica da Poliuretana Derivada do Óleo da Mamona Submetida a Ensaios de Tração
+# Ficha Cavitioli: Estudo Comparativo da Resistência Mecânica da Poliuretana Derivada do Óleo da Mamona Submetida a Ensaios de Tração
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** A dissertação investiga comparativamente a resistência mecânica da poliuretana derivada do óleo da mamona (PU de mamona) em ensaios de tração, visando sua aplicação em luvas de soquetes de próteses. A PU de mamona (Ricinus communis) é um polímero 100% vegetal, desenvolvido pelo grupo do Prof. Dr. Gilberto Chierice (IQSC-USP), que representa alternativa renovável aos polímeros petroquímicos. O estudo compara a PU de mamona com elastômero de silicone (Otto Bock) e espuma de borracha sintética (Plastazote), com e sem alma de malha tubular de poliamida, totalizando 5 grupos experimentais.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** A dissertação investiga comparativamente a resistência mecânica da poliuretana derivada do óleo da mamona (PU de mamona) em ensaios de tração, visando sua aplicação em luvas de soquetes de próteses. A PU de mamona (Ricinus communis) é um polímero 100% vegetal, desenvolvido pelo grupo do Prof. Dr. Gilberto Chierice (IQSC-USP), que representa alternativa renovável aos polímeros petroquímicos. O estudo compara a PU de mamona com elastômero de silicone (Otto Bock) e espuma de borracha sintética (Plastazote), com e sem alma de malha tubular de poliamida, totalizando 5 grupos experimentais.
 
 ## 1. Dados Gerais
 
@@ -98,4 +98,4 @@ Estudos subsequentes (Ohara et al., 1995; Ignacio et al., 1996) já haviam demon
 VIANNA, Denise Loureiro. **Estudo Comparativo da Resistência Mecânica da "Poliuretana Derivada do Óleo da Mamona", Submetida a Ensaios de Tração**. 1997. 71 f. Dissertação (Mestrado em Bioengenharia) — Escola de Engenharia de São Carlos / Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, 1997.
 
 ---
-*Ficha Cavichioli (2025) — 8 seções. Conteúdo baseado exclusivamente na dissertação original e suas fontes citadas, sem dados inventados.*
+*Ficha Cavitioli (2025) — 8 seções. Conteúdo baseado exclusivamente na dissertação original e suas fontes citadas, sem dados inventados.*

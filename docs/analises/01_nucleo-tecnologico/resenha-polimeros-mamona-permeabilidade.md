@@ -1,17 +1,17 @@
 ---
-tipo: Ficha Cavichioli (2025) — 8 seções
+tipo: Ficha Cavitioli (2025) — 8 seções
 tecnologia: Imperveg RQI 132 — Polímeros de Mamona para Impermeabilização de Infraestruturas de Concreto
 autor: Fabio Takwara
 instituicao: Tecnologia Takwara
 data: 2026-06-27
 status: Consolidado
-metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichioli, 2025)
+metodo: 200+ Prompts para Escrever Artigos Científicos (Cavitioli, 2025)
 licenca: CC BY 4.0
 ---
 
 # Resenha Científica: Imperveg RQI 132 — Polímeros de Mamona para Impermeabilização de Infraestruturas de Concreto
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** O artigo apresenta a caracterização técnica da resina IMPERVEG RQI 132, um poliuretano vegetal bicomponente derivado do óleo de mamona (Ricinus communis), avaliado como sistema de impermeabilização e proteção para infraestruturas de concreto. Ensaios conduzidos no ITecons (Coimbra, Portugal) abrangem propriedades mecânicas (resistência de adesão por pull-off), barreira ao vapor d'água (ISO 7783:2018), e desempenho em condições de envelhecimento acelerado e choque térmico. Os resultados demonstram que o PU vegetal de mamona apresenta desempenho superior ou equivalente aos sistemas petroquímicos convencionais, com redução de 99,85% na permeabilidade ao vapor d'água (de 252 para 0,37 g/m²·d) e adesão >1,1 MPa (superando o requisito normativo de 1,0 MPa), com a vantagem de ser 100% renovável, isento de VOCs e atóxico.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** O artigo apresenta a caracterização técnica da resina IMPERVEG RQI 132, um poliuretano vegetal bicomponente derivado do óleo de mamona (Ricinus communis), avaliado como sistema de impermeabilização e proteção para infraestruturas de concreto. Ensaios conduzidos no ITecons (Coimbra, Portugal) abrangem propriedades mecânicas (resistência de adesão por pull-off), barreira ao vapor d'água (ISO 7783:2018), e desempenho em condições de envelhecimento acelerado e choque térmico. Os resultados demonstram que o PU vegetal de mamona apresenta desempenho superior ou equivalente aos sistemas petroquímicos convencionais, com redução de 99,85% na permeabilidade ao vapor d'água (de 252 para 0,37 g/m²·d) e adesão >1,1 MPa (superando o requisito normativo de 1,0 MPa), com a vantagem de ser 100% renovável, isento de VOCs e atóxico.
 
 ## 1. Dados Gerais
 
@@ -92,4 +92,4 @@ NP EN 1062-6 — Paints and varnishes — Coating materials and coating systems 
 EN 13687 — Products and systems for the protection and repair of concrete structures — Test methods — Determination of thermal compatibility.
 
 ---
-*Ficha Cavichioli (2025) — 8 seções. Conteúdo baseado no preprint original. Nenhum dado foi inventado.*
+*Ficha Cavitioli (2025) — 8 seções. Conteúdo baseado no preprint original. Nenhum dado foi inventado.*

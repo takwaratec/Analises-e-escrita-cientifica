@@ -1,6 +1,6 @@
 # Zoneamento Edafoclimático para *Bambusa vulgaris* e *Dendrocalamus giganteus* no Brasil
 
-> Ficha Cavichioli — elaborada a partir do texto completo do artigo (10 p., ~40 mil caracteres). Fonte primária: PDF original (DOI 10.1590/1983-40632019v4953713).
+> Ficha Cavitioli — elaborada a partir do texto completo do artigo (10 p., ~40 mil caracteres). Fonte primária: PDF original (DOI 10.1590/1983-40632019v4953713).
 
 ---
 

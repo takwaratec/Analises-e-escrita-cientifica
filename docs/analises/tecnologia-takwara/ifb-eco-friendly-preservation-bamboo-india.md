@@ -1,5 +1,5 @@
 ---
-tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavichioli (2025)
+tipo: Ficha IFB — Projeto Bambu (2021) — Método Cavitioli (2025)
 referencia: IFB-E1-05
 data: 2026-06-27
 status: Consolidado
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # IFB — Eco-Friendly Preservation of Bamboo (India)
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Dados extraídos do PDF original. Texto original em inglês traduzido para português.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original. Texto original em inglês traduzido para português.
 
 ## 1. Dados Gerais
 | Campo | Dado |
@@ -49,4 +49,4 @@ Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Preser
 KAUR, Perminder Jit et al. Eco-Friendly Preservation of Bamboo Species: Traditional to Modern Techniques. **BioResources**, v. 11, n. 4, 2016. DOI: 10.15376/biores.11.4.Kaur.
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavichioli (2025). Conteúdo extraído do PDF original e traduzido do inglês para o português.*
+*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original e traduzido do inglês para o português.*

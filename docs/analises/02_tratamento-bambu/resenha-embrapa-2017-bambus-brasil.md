@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 ---
 
@@ -317,5 +317,5 @@ DRUMOND, Patrícia Maria; WIEDMAN, Guilherme (org.). **Bambus no Brasil: da biol
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento base: extração de 659 páginas do PDF original, processada em 28/06/2026.*

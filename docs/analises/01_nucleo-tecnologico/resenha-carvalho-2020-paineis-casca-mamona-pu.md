@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Método Cavichioli (8 Seções)
+# Ficha Acadêmica — Método Cavitioli (8 Seções)
 
 **Título do documento:** Painéis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona
 
@@ -243,6 +243,6 @@ CARVALHO, Eduardo Junio Menezes. **Painéis particulados fabricados com casca de
 
 ---
 
-*Ficha catalográfica elaborada conforme Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha catalográfica elaborada conforme Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento original: resenha-carvalho-2020-paineis-casca-mamona-pu.md*
 *Dados extraídos do texto completo da dissertação (73 páginas). Nenhum dado foi inventado; todas as informações foram extraídas ou inferidas diretamente do documento original.*

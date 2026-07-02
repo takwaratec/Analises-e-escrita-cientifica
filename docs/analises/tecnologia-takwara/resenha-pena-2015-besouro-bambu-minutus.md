@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Acadêmica Cavichioli
+tipo: Ficha Acadêmica Cavitioli
 referencia: Pena_Bostrichidae_UFSCar_2013_Dinoderus_minutus
 autor: Fabio Takwara
 data: 2026-06-28
@@ -7,7 +7,7 @@ status: Consolidado
 licenca: CC BY 4.0
 ---
 
-# Ficha Cavichioli: Dinoderus minutus (Besouro-do-Bambu) na Dissertação de Pena (2013)
+# Ficha Cavitioli: Dinoderus minutus (Besouro-do-Bambu) na Dissertação de Pena (2013)
 
 > **Nota inicial:** Esta ficha extrai e organiza exclusivamente as informações sobre *Dinoderus minutus* (Fabricius) — besouro-da-broca-do-bambu, família Bostrichidae — contidas na dissertação de mestrado de Rebeca Cristina Pena (2013), que investigou coleópteros Bostrichidae e Curculionidae (Scolytinae) associados a *Banisteriopsis caapi* (mariri/ayahuasca). O documento-fonte tem 147 folhas e foi extraído como arquivo PDF de 165 páginas numeradas.
 

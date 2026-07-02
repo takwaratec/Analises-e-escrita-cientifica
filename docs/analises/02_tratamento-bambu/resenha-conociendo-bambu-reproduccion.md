@@ -1,4 +1,4 @@
-# Ficha Cavichioli — *Conociendo el Bambú para su Reproducción*
+# Ficha Cavitioli — *Conociendo el Bambú para su Reproducción*
 
 ## 1. Referência (ABNT)
 

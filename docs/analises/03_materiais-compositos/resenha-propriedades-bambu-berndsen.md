@@ -1,4 +1,4 @@
-# Ficha Técnica Acadêmica — Método Cavichioli (2025)
+# Ficha Técnica Acadêmica — Método Cavitioli (2025)
 
 ---
 
@@ -95,6 +95,6 @@ BERNDSEN, Rodrigo S. **Caracterização Anatômica, Física e Mecânica de Lâmi
 
 ---
 
-*Ficha técnica elaborada conforme o Método Cavichioli (2025) — 8 seções obrigatórias.*
+*Ficha técnica elaborada conforme o Método Cavitioli (2025) — 8 seções obrigatórias.*
 *Documento original: resenha-propriedades-bambu-berndsen.md*
 *Formatação: Hermes Agent*

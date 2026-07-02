@@ -1,4 +1,4 @@
-# Ficha Acadêmica — Método Cavichioli (8 Seções)
+# Ficha Acadêmica — Método Cavitioli (8 Seções)
 
 **Título:** American Bamboo Society 2001 Source List #21 — Species List
 
@@ -288,4 +288,4 @@ AMERICAN BAMBOO SOCIETY. 2001 Source List #21: Species List. [S.l.]: American Ba
 
 ---
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Conteúdo extraído do PDF "especies de bambu.pdf" (20 páginas extraídas em Markdown). Texto original em inglês; ficha analítica em português.
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Conteúdo extraído do PDF "especies de bambu.pdf" (20 páginas extraídas em Markdown). Texto original em inglês; ficha analítica em português.

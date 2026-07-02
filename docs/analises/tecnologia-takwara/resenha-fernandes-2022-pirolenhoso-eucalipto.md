@@ -157,4 +157,4 @@ Fonte: Autora, 2022. Adaptado.
 
 ---
 
-*Ficha Cavichioli elaborada a partir da leitura integral do documento original (68 p.). Nenhuma citação ou dado foi fabricado — todos os valores e trechos foram extraídos diretamente do texto fonte.*
+*Ficha Cavitioli elaborada a partir da leitura integral do documento original (68 p.). Nenhuma citação ou dado foi fabricado — todos os valores e trechos foram extraídos diretamente do texto fonte.*

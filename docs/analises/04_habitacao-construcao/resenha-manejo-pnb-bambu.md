@@ -1,18 +1,18 @@
 ---
-tipo: Resenha Científica — Ficha Cavichioli
+tipo: Resenha Científica — Ficha Cavitioli
 referencia: Horowitz_et_al_2013_Manejo_PNB
 autor: Fabio Takwara
 data: 2026-06-28
 status: Consolidado
-metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichioli, 2025)
+metodo: 200+ Prompts para Escrever Artigos Científicos (Cavitioli, 2025)
 licenca: CC BY 4.0
 fonte: MAnejo_PNB.md (extração de 20 páginas do PDF original)
 foco: Phyllostachys bambusoides (bambu-japonês) — manejo PNB
 ---
 
-# Ficha Cavichioli: Manejo do Bambu-Japonês (Phyllostachys bambusoides) no Parque Nacional de Brasília
+# Ficha Cavitioli: Manejo do Bambu-Japonês (Phyllostachys bambusoides) no Parque Nacional de Brasília
 
-> **Ficha catalográfica elaborada conforme método Cavichioli (2025).** Conteúdo extraído do artigo de Horowitz et al. (2013), que analisa o contexto histórico e atual do manejo da flora exótica invasora no Parque Nacional de Brasília (PNB), com destaque para a espécie *Phyllostachys bambusoides* (bambu-japonês).
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Conteúdo extraído do artigo de Horowitz et al. (2013), que analisa o contexto histórico e atual do manejo da flora exótica invasora no Parque Nacional de Brasília (PNB), com destaque para a espécie *Phyllostachys bambusoides* (bambu-japonês).
 
 ## 1. Dados Gerais
 
@@ -101,7 +101,7 @@ O artigo também registra que o bambu-japonês encontra barreiras naturais (estr
 
 ## 8. Inserção no Estado da Arte
 
-Esta ficha integra o **Acervo Científico do Projeto Bambu — Fichas Cavichioli (8 seções)** no eixo **Manejo de Espécies Exóticas Invasoras em Unidades de Conservação**. O artigo de Horowitz et al. (2013) é uma das principais referências sobre o histórico de invasão por *Phyllostachys bambusoides* em UC federal do Cerrado. Consulte as demais fichas do mesmo eixo para visão abrangente sobre manejo de bambus exóticos invasores no Brasil.
+Esta ficha integra o **Acervo Científico do Projeto Bambu — Fichas Cavitioli (8 seções)** no eixo **Manejo de Espécies Exóticas Invasoras em Unidades de Conservação**. O artigo de Horowitz et al. (2013) é uma das principais referências sobre o histórico de invasão por *Phyllostachys bambusoides* em UC federal do Cerrado. Consulte as demais fichas do mesmo eixo para visão abrangente sobre manejo de bambus exóticos invasores no Brasil.
 
 O caso do PNB dialoga com:
 - Filgueiras (2005) — referencial sobre gramíneas asiáticas no Brasil, que excetua *Phyllostachys* como espécie agressiva
@@ -115,4 +115,4 @@ HOROWITZ, C.; OLIVEIRA, A. S.; SILVA, V.; PACHECO, G.; SOBRINHO, R. I. Manejo da
 
 ---
 
-*Ficha Cavichioli — Acervo Científico Projeto Bambu. Método Cavichioli (2025). Conteúdo extraído do PDF original do artigo (20 páginas) — NENHUM dado fabricado, TODAS as citações e dados verificados no texto fonte.*
+*Ficha Cavitioli — Acervo Científico Projeto Bambu. Método Cavitioli (2025). Conteúdo extraído do PDF original do artigo (20 páginas) — NENHUM dado fabricado, TODAS as citações e dados verificados no texto fonte.*

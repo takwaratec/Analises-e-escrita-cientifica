@@ -1,5 +1,5 @@
 ---
-tipo: Ficha Acadêmica — Método Cavichioli (8 seções)
+tipo: Ficha Acadêmica — Método Cavitioli (8 seções)
 referencia: Dissertacao_Pirolenhoso_UNICAMP_2011
 autor: Fabio Takwara
 data: 2026-06-28
@@ -9,7 +9,7 @@ licenca: CC BY 4.0
 
 # Ficha Acadêmica — Tratamento de Bambu com Ácido Pirolenhoso contra a Deterioração por Brocas
 
-> **Cavichioli (2025) — 8 seções**
+> **Cavitioli (2025) — 8 seções**
 
 ---
 

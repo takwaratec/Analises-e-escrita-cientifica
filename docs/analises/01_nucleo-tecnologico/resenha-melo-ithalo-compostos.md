@@ -1,16 +1,16 @@
 ---
-tipo: Ficha Cavichioli / Resenha Científica
+tipo: Ficha Cavitioli / Resenha Científica
 referencia: Melo_2023_Compositos_Fendas_Eucalipto
 autor: Fabio Takwara
 data: 2026-06-29
 status: Consolidado
-metodo: Cavichioli (2025) — 8 seções + Ref ABNT
+metodo: Cavitioli (2025) — 8 seções + Ref ABNT
 licenca: CC BY 4.0
 fonte: PDF "4-dissertacao-ithalo-amorim-de-melo.pdf" (114 páginas) extraído com PyMuPDF
 foco: Material compósito MPPE+RPM para reparo de fendas em madeira de Eucalipto reflorestado em Alagoas
 ---
 
-# Ficha Cavichioli — Análise de Material Compósito para Reparação e Tratamento de Fendas em Madeira de Eucalipto Reflorestado em Alagoas
+# Ficha Cavitioli — Análise de Material Compósito para Reparação e Tratamento de Fendas em Madeira de Eucalipto Reflorestado em Alagoas
 
 > **Resumo:** A dissertação investiga a viabilidade técnica de um material compósito produzido com Material Particulado de Madeira de Pinus e Eucalipto (MPPE) + Resina Poliuretana Vegetal à base do óleo da mamona (RPM — IMPERVEG® AGT 1315) para aplicação em reparos e tratamento de fendas em madeiras de Eucalipto reflorestado em Alagoas. A pesquisa, realizada em empresa alagoana de beneficiamento de madeira, compreendeu: caracterização físico-química do MPPE (análise granulométrica, FRX, DRX, MEV, densidade); definição de 4 composições (MPPE+AAP como referência + 3 variações MPPE+RPM com 60%, 70% e 80% de RPM); e ensaios mecânicos de resistência à compressão e à flexão. Os resultados indicaram que todas as amostras de madeira tratadas e não tratadas superaram os 30 MPa normativos para compressão (48,25–71,31 MPa), porém nenhuma atingiu o limite mínimo de 10,3 MPa para cisalhamento na flexão (0,037–0,108 MPa). O composto MPPE+RPM demonstrou maior fluidez que o MPPE+AAP, permitindo melhor penetração em fendas profundas. A pesquisa conclui que o compósito MPPE+RPM apresenta potencial promissor para reparos de fendas, aliando aproveitamento de resíduos de madeira a uma resina de origem vegetal renovável.
 
@@ -182,7 +182,7 @@ A RPM utilizada foi a IMPERVEG® AGT 1315 (bicomponente, proporção 1:1,5 pré-
 
 ## 8. Inserção no Estado da Arte
 
-Esta ficha integra o **Acervo Científico — Fichas Cavichioli (8 seções)** da Tecnologia Takwara no eixo **Compósitos Naturais / Tratamento e Reparo de Madeiras**.
+Esta ficha integra o **Acervo Científico — Fichas Cavitioli (8 seções)** da Tecnologia Takwara no eixo **Compósitos Naturais / Tratamento e Reparo de Madeiras**.
 
 **Conexões com o repositório:**
 
@@ -207,4 +207,4 @@ MELO, Ithalo Amorim de. **Análise de Material Compósito para Reparação e Tra
 
 ---
 
-*Ficha catalográfica elaborada conforme método Cavichioli (2025). Conteúdo extraído do PDF original da dissertação (114 páginas) com PyMuPDF. NENHUM dado fabricado — todas as citações, valores e informações foram verificados no texto fonte.*
+*Ficha catalográfica elaborada conforme método Cavitioli (2025). Conteúdo extraído do PDF original da dissertação (114 páginas) com PyMuPDF. NENHUM dado fabricado — todas as citações, valores e informações foram verificados no texto fonte.*

@@ -52,8 +52,14 @@ Este repositório é um **acervo científico aberto** de Tecnologias de Baixo Ca
 ### Pelo GitHub (mais simples)
 Navegue pelas pastas e abra os arquivos `.md`. Cada ficha tem 8 seções padronizadas.
 
-### Pelo ChromaDB (busca semântica)
+### Pelo ChromaDB (busca semântica — para quem usa Python)
+
+O acervo está indexado em um banco vetorial local que permite **buscar por significado**, não apenas por palavras. Exemplo: se você pesquisar "poliuretano vegetal bambu tratamento", ele encontra fichas sobre PU de mamona, impermeabilização de colmos e tratamentos ecológicos — mesmo que os termos exatos não estejam no título.
+
+**Para usar, abra o terminal Python e rode:**
+
 ```python
+# 1. Conectar ao banco
 import chromadb
 from sentence_transformers import SentenceTransformer
 
@@ -61,15 +67,36 @@ client = chromadb.PersistentClient(path="~/.chromadb")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 collection = client.get_collection("acervo_cientifico")
 
+# 2. Fazer uma pergunta em linguagem natural
 query = "poliuretano vegetal bambu tratamento"
+
+# 3. Buscar os resultados mais relevantes
 results = collection.query(
     query_embeddings=model.encode(query).tolist(),
-    n_results=5
+    n_results=5  # quantidade de fichas retornadas
 )
+
+# 4. Ver os resultados
+for i, (meta, dist) in enumerate(zip(results['metadatas'][0], results['distances'][0])):
+    print(f"{i+1}. [{meta['aba_title'][:40]}] {meta['arquivo']} (relevância: {1-dist:.2%})")
 ```
 
-### Pelo .agent-instructions/
-Copie o prompt em `prompt-pesquisa-acervo.json` para seu agente de IA favorito (GPT, Gemini, Claude) e faça perguntas sobre o acervo.
+> 💡 **Dica:** Quanto menor a distância (dist), mais relevante é o resultado. Acima de 70% já é uma boa correspondência.
+
+### Pelo .agent-instructions/ (para qualquer pessoa, sem Python)
+
+Na pasta `.agent-instructions/` você encontra prompts prontos para copiar e colar no **GPT, Gemini, Claude** ou qualquer outro assistente de IA. Basta:
+
+1. Abrir o arquivo [`prompt-pesquisa-acervo.json`](.agent-instructions/prompt-pesquisa-acervo.json)
+2. Copiar o conteúdo
+3. Colar no seu agente de IA favorito
+4. Fazer perguntas sobre o acervo em linguagem natural
+
+**Exemplos de perguntas que funcionam bem:**
+- "O que o acervo tem sobre tratamento de bambu com pirolenhoso?"
+- "Quais fichas tratam de PU vegetal da Imperveg?"
+- "Me mostre os perfis de pesquisadores do IFB"
+- "Existe material sobre certificação LEED para habitação social?"
 
 ---
 

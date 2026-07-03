@@ -52,14 +52,31 @@ Este repositório é um **acervo científico aberto** de Tecnologias de Baixo Ca
 ### Pelo GitHub (mais simples)
 Navegue pelas pastas e abra os arquivos `.md`. Cada ficha tem 8 seções padronizadas.
 
-### Pelo ChromaDB (busca semântica — para quem usa Python)
+### Pelo ChromaDB (busca semântica — requer instalação local)
 
-O acervo está indexado em um banco vetorial local que permite **buscar por significado**, não apenas por palavras. Exemplo: se você pesquisar "poliuretano vegetal bambu tratamento", ele encontra fichas sobre PU de mamona, impermeabilização de colmos e tratamentos ecológicos — mesmo que os termos exatos não estejam no título.
+> ⚠️ **Importante:** O ChromaDB é um banco local instalado na máquina do Fabio. Para usá-lo, você precisa instalar na sua própria máquina. Não é um serviço web. O passo a passo abaixo é para quem tem familiaridade com Python.
 
-**Para usar, abra o terminal Python e rode:**
+O acervo está indexado em um banco vetorial que permite **buscar por significado**, não apenas por palavras. Exemplo: pesquisar "poliuretano vegetal bambu tratamento" encontra fichas sobre PU de mamona, impermeabilização de colmos e tratamentos ecológicos — mesmo sem os termos exatos no título.
 
+**Passo 1 — Instalar as dependências (uma vez):**
+```bash
+pip install chromadb sentence-transformers
+```
+
+**Passo 2 — Clonar o repositório:**
+```bash
+git clone https://github.com/takwaratec/acervo-soberania-tecnologica.git
+cd acervo-soberania-tecnologica
+```
+
+**Passo 3 — Indexar o acervo na sua máquina (uma vez):**
+```bash
+python3 docs/analises/_indexar_acervo_completo.py
+```
+Isso vai gerar os vetores na sua máquina local (~30 segundos).
+
+**Passo 4 — Fazer perguntas em linguagem natural:**
 ```python
-# 1. Conectar ao banco
 import chromadb
 from sentence_transformers import SentenceTransformer
 
@@ -67,21 +84,18 @@ client = chromadb.PersistentClient(path="~/.chromadb")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 collection = client.get_collection("acervo_cientifico")
 
-# 2. Fazer uma pergunta em linguagem natural
 query = "poliuretano vegetal bambu tratamento"
 
-# 3. Buscar os resultados mais relevantes
 results = collection.query(
     query_embeddings=model.encode(query).tolist(),
-    n_results=5  # quantidade de fichas retornadas
+    n_results=5
 )
 
-# 4. Ver os resultados
 for i, (meta, dist) in enumerate(zip(results['metadatas'][0], results['distances'][0])):
     print(f"{i+1}. [{meta['aba_title'][:40]}] {meta['arquivo']} (relevância: {1-dist:.2%})")
 ```
 
-> 💡 **Dica:** Quanto menor a distância (dist), mais relevante é o resultado. Acima de 70% já é uma boa correspondência.
+> 💡 **Quanto menor a distância (dist), mais relevante.** Acima de 70% já é uma boa correspondência.
 
 ### Pelo .agent-instructions/ (para qualquer pessoa, sem Python)
 

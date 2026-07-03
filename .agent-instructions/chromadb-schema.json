@@ -1,0 +1,16 @@
+{
+  "colecao": "acervo_cientifico",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensoes": 384,
+  "espaco": "cosine",
+  "persistencia": "~/.chromadb",
+  "metadados": {
+    "origem": "takwaratec_acervo | Local_PDF | MQTF",
+    "aba_menu": "01_polimeros... | 02_bambu... | 03_habitacao... | 04_certificacoes... | 05_perfis...",
+    "eixo_original": "antigo nome do eixo",
+    "arquivo": "nome do arquivo .md",
+    "tags": "tags separadas por virgula",
+    "data_indexacao": "YYYY-MM-DD",
+    "embedding_model": "all-MiniLM-L6-v2"
+  }
+}

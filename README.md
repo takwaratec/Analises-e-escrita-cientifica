@@ -1,121 +1,105 @@
-# 📚 Análises e Escrita Científica
+# 📚 Acervo Soberania Tecnológica
 
-> ⚠️ **Compartilhamento seletivo** — Este repositório não é de acesso público irrestrito. Recomendamos o compartilhamento apenas com pessoas que tenham vínculo direto com o propósito: cooperativas, pesquisadores, analistas de editais, avaliadores e orientadores. A entrada de novos membros no ecossistema se dá exclusivamente por conexão com um projeto irmão ativo — não por convite aberto.
->
-> 🎋 **Acelerador de resultados, não vitrine** — Como o bambu, que não cresce isolado mas em rede de rizomas subterrâneos, cada repositório deste ecossistema só ganha sentido quando vinculado a um projeto real. Não expomos conhecimento para validação externa — aceleramos quem está na ponta.
->
-> Trabalhamos sob duas bússolas. As **7 Lições do Bambu** nos lembram que é preciso curvar sem quebrar, criar raízes profundas, cooperar em comunidade, crescer com foco, colecionar nós de aprendizado, permanecer ocos de certezas e buscar o bem comum. Os **7 Pilares de Edgar Morin** para a educação do futuro nos ancoram no pensamento complexo: o conhecimento só é pertinente quando enfrenta a incerteza, ensina a condição humana e se compromete com a ética.
->
-> 📚 **Este repositório** é a memória científica do ecossistema — fichas técnicas, estados da arte e resenhas com DOI rastreável que dão lastro a editais, cartas de anuência e decisões de projeto. Nenhuma ficha é publicada sem autor, fonte verificada e as 8 seções do protocolo Cavichioli (2025).
-
-👉 **Site:** https://takwaratec.github.io/Analises-e-escrita-cientifica/
+> *"Ninguém educa ninguém, ninguém se educa sozinho. Os homens se educam em comunhão."* — Paulo Freire
 
 ---
 
-## 🧭 O que é este repositório
+## 🌱 O que é este acervo
 
-Aqui fica o **acervo científico** que fundamenta todos os projetos irmãos. Cada ficha é baseada em material bruto original (artigos com DOI, teses, dissertações, relatórios técnicos), seguindo a metodologia dos **200+ Prompts para Escrita Científica** (Cavichioli, 2025).
+Este repositório é um **acervo científico aberto** de Tecnologias de Baixo Carbono, organizado por **Fabio Takwara** com curadoria documental inspirada no método **Dra. Nathalia Cavichiolli** (8 seções). São **695 fichas técnicas** cobrindo polímeros vegetais, bambu estrutural, habitação social, certificações e perfis de pesquisadores.
 
-```mermaid
-flowchart TB
-    subgraph Central["🧠 Acervo Científico"]
-        AC["📚 Fichas técnicas · Resenhas · Perfis<br/>👥 Pesquisadores · Avaliadores<br/>🔗 Lastro científico com DOI"]
-    end
-    subgraph Projetos["📋 Projetos Ativos"]
-        EC["🌱 ECOSALA<br/>👥 12 pesquisadores<br/>🔗 Atas · Projetos · Editais"]
-        VL["💰 Vaga Lúmen<br/>👥 Avaliadores FINEP<br/>🔗 Proposta estruturada"]
-        MJ["🌾 MSTJS<br/>👥 Cooperativas · Comunidades<br/>🔗 Viveiro-Educador"]
-    end
-    subgraph Futuro["🔮 Em Construção"]
-        FM["🏭 Fábrica Modelo<br/>André/Maurílio"]
-        NB["💡 Novos Editais"]
-    end
-    AC -->|"Fornece referências ABNT"| EC
-    AC -->|"Fornece referências ABNT"| VL
-    AC -->|"Fornece referências ABNT"| MJ
-    EC -->|"Demandas"| VL
-    EC -->|"Demandas"| MJ
-    VL -.->|"Sinergia"| FM
-    MJ -->|"Demanda"| NB
-    FM -->|"Tecnologias"| NB
+**Público-alvo:** Pesquisadores cidadãos, autodidatas, extensionistas universitários, movimentos sociais e qualquer pessoa interessada em construir conhecimento com autonomia.
+
+---
+
+## 🗂️ Estrutura
+
+```
+📂 acervo-soberania-tecnologica/
+│
+├── 📂 01_polimeros-vegetais-e-biocompositos/   ← 421 fichas (POL_)
+│   │   Biocompósitos, PU Vegetal, Imperveg, MQTF
+│   └── 📷 evidencias/
+│
+├── 📂 02_bambu-estrutural-e-tratamentos/        ← 119 fichas (BAM_)
+│   │   Bambu, pirolenhoso, tratamento ecológico
+│   └── 📷 evidencias/
+│
+├── 📂 03_habitacao-social-e-athis/              ← 65 fichas (SOC_)
+│   │   HIS, ATHIS, ECOSALA, UnB/IFB
+│   └── 📷 evidencias/
+│
+├── 📂 04_certificacoes-e-normas/                ← 21 fichas (CER_)
+│   │   ITecons, IPT, NBR, ABNT
+│   └── 📷 evidencias/
+│
+├── 📂 05_perfis-e-referencias/                  ← 69 fichas (PER_)
+│   │   Pesquisadores, literatura, referências
+│   └── 📷 evidencias/
+│
+├── 📂 .agent-instructions/                       ← Prompts prontos
+│   ├── prompt-pesquisa-acervo.json
+│   ├── prompt-esteira-ingestao.md
+│   └── chromadb-schema.json
+│
+└── 📄 README.md                                  ← Você está aqui
 ```
 
-| Repositório | O que é | Para quem | Relação com os irmãos |
-|---|---|---|---|
-| 📚 **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI | Pesquisadores, avaliadores de editais, orientadores | Fornece lastro científico para todos os projetos |
-| 🌱 **ECOSALA** | Coletivo de 12 pesquisadores: atas, projetos, articulação | Membros do coletivo, parceiros institucionais | Recebe lastro do Acervo; demanda editais |
-| 💰 **Vaga Lúmen** | Proposta FINEP Mais Inovação | Avaliadores FINEP, equipe técnica | Transforma ciência do Acervo em projeto |
-| 🌾 **MSTJS** | Viveiro-Educador no Assentamento Mário Lago | Cooperativas, comunidades, financiadores | Ponte entre teoria e chão |
-| 🔮 **Fábrica Modelo** | Prototipagem industrial — em discussão | André Blanco, Maurílio | Recebe sinergia; alimenta novos editais |
+---
+
+## 🔍 Como usar
+
+### Pelo GitHub (mais simples)
+Navegue pelas pastas e abra os arquivos `.md`. Cada ficha tem 8 seções padronizadas.
+
+### Pelo ChromaDB (busca semântica)
+```python
+import chromadb
+from sentence_transformers import SentenceTransformer
+
+client = chromadb.PersistentClient(path="~/.chromadb")
+model = SentenceTransformer('all-MiniLM-L6-v2')
+collection = client.get_collection("acervo_cientifico")
+
+query = "poliuretano vegetal bambu tratamento"
+results = collection.query(
+    query_embeddings=model.encode(query).tolist(),
+    n_results=5
+)
+```
+
+### Pelo .agent-instructions/
+Copie o prompt em `prompt-pesquisa-acervo.json` para seu agente de IA favorito (GPT, Gemini, Claude) e faça perguntas sobre o acervo.
 
 ---
 
-## 📂 Eixos temáticos
+## 📊 Estatísticas
 
-### Tecnologia Takwara — 8 sub-eixos (257 fichas)
-
-O eixo principal, oriundo da triagem do acervo Takwara-Tech (83 PDFs + 15 áudios), foi ramificado em 8 sub-eixos temáticos:
-
-| # | Sub-eixo | Fichas | Conteúdo |
-|---|----------|--------|----------|
-| 01 | **Núcleo Tecnológico** | 63 | PU Vegetal, Imperveg, patentes, mamona, poliuretano |
-| 02 | **Tratamento do Bambu** | 60 | Pirolenhoso, térmico, tanino, preservação, MPTDF |
-| 03 | **Materiais Compósitos** | 29 | BLC, OSB, fibras, biocompósitos, geodésicas |
-| 04 | **Habitação e Construção** | 28 | HIS, domos, geodésicas, moradia social |
-| 05 | **Meio Ambiente e Clima** | 25 | Carbono, ACV, carvão, mudanças climáticas |
-| 06 | **Manejo e Ecologia** | 7 | Espécies, zoneamento, manejo florestal |
-| 07 | **Governança e Projetos** | 9 | Editais, protocolos, advocacy, gestão |
-| 08 | **Perfis e Referências** | 29 | Pesquisadores, IFB, referências acadêmicas |
-|| — | **Outros** | 7 | Não classificados |
-
-### 🆕 Últimas adições (29/06/2026)
-
-| Ficha | Sub-eixo | Tema |
-|---|---|---|
-| `ficha-certificacao-leed.md` | Governança e Projetos | LEED — certificação USGBC |
-| `ficha-certificacao-aqua-hqe.md` | Governança e Projetos | AQUA-HQE — Fundação Vanzolini |
-| `ficha-certificacao-casa-azul.md` | Governança e Projetos | Selo Casa Azul + Caixa — HIS |
-| `ficha-certificacao-verra-carbono.md` | Governança e Projetos | VERRA/VCS — créditos de carbono |
-| `ficha-certificacao-gold-standard.md` | Governança e Projetos | Gold Standard — carbono + ODS |
-| `ficha-acv-avaliacao-ciclo-vida.md` | Meio Ambiente e Clima | ACV — ISO 14040/44 |
-| `ficha-impactos-producao-cimento.md` | Meio Ambiente e Clima | Impactos globais do cimento |
-
-### Demais eixos (62 fichas)
-
-| Eixo | Fichas | Conteúdo |
-|------|--------|----------|
-| **ECOSALA** | 25 | Fichas dos 12 membros + tecnologias sociais |
-| **Bioeconomia Amazônica** | 22 | Cadeias sociobiodiversidade, diagnósticos territoriais |
-| **Avaliação Pós-Ocupação** | 5 | APO, qualidade habitacional |
-| **Política Habitacional** | 5 | HIS, PMCMV, políticas públicas |
-| **Grandes Obras Amazônia** | 5 | Impactos de grandes empreendimentos |
-
-> **Total: 319 fichas** (sendo 80 catálogos IFB de referência rápida, 239 fichas analíticas completas) — todas seguindo o protocolo Cavichioli de 8 seções, com DOI/ISBN sempre que disponível.
+| Área | Fichas | Prefixo |
+|------|:------:|:-------:|
+| Polímeros Vegetais e Biocompósitos | 421 | POL_ |
+| Bambu Estrutural e Tratamentos | 119 | BAM_ |
+| Habitação Social e ATHIS | 65 | SOC_ |
+| Certificações e Normas | 21 | CER_ |
+| Perfis e Referências | 69 | PER_ |
+| **Total** | **695** | |
 
 ---
 
-## 📋 Metodologia
+## ⚖️ Direitos e Uso
 
-As análises seguem o protocolo baseado nos **200+ Prompts para Escrever Artigos Científicos** (Cavichioli, 2025): extração → mapeamento estrutural → análise do referencial → avaliação metodológica → extração de achados → avaliação crítica → inserção no estado da arte.
-
-Detalhes em: [`docs/metodologia.md`](docs/metodologia.md)
-
----
-
-## 🛠️ Ferramentas
-
-- **PyMuPDF** — extração de texto de PDFs
-- **Hermes Agent** — análise assistida por IA, fichamento automatizado
-- **MkDocs Material** — site e publicação
-- **GitHub** — versionamento e deploy
-- **ChromaDB + all-MiniLM-L6-v2** — busca semântica vetorial 100% local no acervo completo
+- **Conteúdo original** de terceiros: protegido por direitos autorais. As fichas são resenhas técnicas (uso justo), não substituem os originais.
+- **Conteúdo de autoria de Fabio Takwara:** CC BY 4.0, salvo indicação contrária.
+- **Método Cavichiolli:** Metodologia documental de autoria da **Dra. Nathalia Cavichiolli** (https://www.doutoranathalia.com.br/). O acervo original é comercializado por ela. Este repositório não distribui ou copia o produto original.
 
 ---
 
-## 📜 Licença
+## 🤝 Como contribuir
 
-© Fabio Takwara, 2026. CC BY 4.0. Citações de terceiros mantêm seus direitos autorais originais.
+1. Abra uma issue com sugestão de ficha ou correção
+2. Envie um pull request com novas fichas no formato Cavichiolli (8 seções)
+3. Compartilhe o acervo com quem possa se beneficiar
 
 ---
 
-*Atualizado: 29/06/2026 · Tecnologia Takwara*
+*Acervo mantido por Fabio Takwara · Tecnologia Takwara · 2026*

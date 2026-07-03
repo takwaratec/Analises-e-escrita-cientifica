@@ -1,18 +1,21 @@
 ---
 tipo: Perfil de Pesquisador (Protocolo de Curadoria Documental — 8 seções)
 nome: Marcondes Lima da Costa
-instituicao: UFAC (Universidade Federal do Acre)
+instituicao_primaria: UFPA (Universidade Federal do Pará) — Instituto de Geociências
+instituicao_cooperacao: UFAC (Universidade Federal do Acre)
 lattes: http://lattes.cnpq.br/1639498384851302
 email: marcondes.costa@ufac.br
 data: 2026-07-02
 status: Consolidado
-tags: [UFAC, Acre, bambu-amazonico, Guadua, manejo-florestal, MQTF, ICT-multiplicadora]
+tags: [UFPA, UFAC, Acre, bambu-amazonico, Guadua, solos, sedimentos, bioeconomia, Academia-Brasileira-Ciencias]
 conversao_cavichiolli: 2026-07-02
 ---
 
 # Perfil — Marcondes Lima da Costa
 
-> Professor e pesquisador da Universidade Federal do Acre (UFAC). ICT parceira do projeto Fábrica Modelo — FINEP Mais Inovação. Atuação em bambu amazônico, bioeconomia e manejo florestal.
+> **Professor Titular** do Instituto de Geociências da **UFPA** (Universidade Federal do Pará).  
+> **Membro Titular da Academia Brasileira de Ciências.**  
+> Cooperação estrita com a **UFAC** (Universidade Federal do Acre) — ICT parceira do projeto Fábrica Modelo (FINEP Mais Inovação).
 
 ---
 
@@ -21,30 +24,36 @@ conversao_cavichiolli: 2026-07-02
 | Campo | Dado |
 |-------|------|
 | **Nome** | Marcondes Lima da Costa |
-| **Instituição** | UFAC (Universidade Federal do Acre) |
+| **Vínculo primário** | Professor Titular — Instituto de Geociências, UFPA |
+| **Cooperação** | UFAC (Universidade Federal do Acre) |
+| **Título acadêmico** | Membro Titular da Academia Brasileira de Ciências |
 | **E-mail** | marcondes.costa@ufac.br |
 | **Lattes** | [http://lattes.cnpq.br/1639498384851302](http://lattes.cnpq.br/1639498384851302) |
-| **Área** | Bambu amazônico, bioeconomia, manejo florestal, Guadua spp. |
-| **Papel no projeto** | ICT parceira — região Norte (Acre) |
-| **Tags** | UFAC, Acre, bambu-amazônico, Guadua, manejo florestal, MQTF, ICT multiplicadora |
-| **Status** | Consolidado |
-| **Arquivo** | `PER_perfil-marcondes-costa-ufac.md` |
+| **Área de pesquisa** | Geologia, mineralogia, geoquímica, solos amazônicos, dinâmica pedoambiental |
+| **Papel no projeto** | ICT parceira — região Norte (Acre) — articulação interinstitucional UFPA/UFAC |
+| **Tags** | UFPA, UFAC, Academia Brasileira de Ciências, bambu amazônico, Guadua, solos, sedimentos, bioeconomia, MQTF |
 
 ---
 
 ## 2. CLASSIFICAÇÃO TEMÁTICA
 
 - **Eixo:** 05_perfis-e-referencias
-- **Área:** Perfis de Pesquisadores / ICTs Parceiras
-- **Palavras-chave:** Marcondes Lima da Costa, UFAC, Acre, bambu amazônico, Guadua, manejo florestal, bioeconomia, MQTF
+- **Área:** Perfis de Pesquisadores / ICTs Parceiras / Geociências
+- **Palavras-chave:** Marcondes Lima da Costa, UFPA, UFAC, geociências, solos amazônicos, Guadua, sedimentos, bioeconomia, jarina, biojoias
 
 ---
 
 ## 3. RESUMO / SÍNTESE
 
-Professor Marcondes Lima da Costa é pesquisador da Universidade Federal do Acre (UFAC), integrando a rede de ICTs parceiras do projeto Fábrica Modelo (FINEP Mais Inovação). Sua atuação concentra-se no bambu nativo amazônico (Guadua spp.), manejo florestal sustentável e bioeconomia na região Norte.
+O Prof. **Marcondes Lima da Costa** é Titular do Instituto de Geociências da UFPA e Membro Titular da **Academia Brasileira de Ciências**. Mantém cooperação histórica com a **UFAC (Universidade Federal do Acre)**, onde lidera estudos sobre solos, sedimentos e dinâmica pedoambiental do oeste amazônico — incluindo as regiões dominadas por florestas abertas com sub-bosque de bambu nativo (*Guadua spp.*).
 
-Foi identificado como ICT multiplicadora via articulação da Profa. Tânia Cruz (UnB/LaPCiS), com potencial para atuar na difusão de tecnologias de baixo carbono na Amazônia Ocidental, especialmente no estado do Acre — que abriga uma das maiores reservas contínuas de bambu nativo do planeta.
+Suas investigações abrangem:
+- **Geologia, mineralogia e geoquímica** dos sedimentos das bacias dos rios Purus e Juruá (Acre)
+- **Caracterização pedoambiental** de Argissolos e Gleissolos em ecossistemas de bambu nativo
+- **Aproveitamento de matérias-primas** da floresta amazônica para bioeconomia (sementes, fibras, biojoias)
+- **Orientação acadêmica** de dissertações e teses no eixo UFPA/UFAC
+
+Foi articulado como ICT parceira do projeto Fábrica Modelo via **Profa. Tânia Cruz (UnB/LaPCiS)**, conferindo lastro científico à região Norte e pontuação no critério de Descentralização e Regionalização do edital FINEP Mais Inovação.
 
 ---
 
@@ -52,31 +61,39 @@ Foi identificado como ICT multiplicadora via articulação da Profa. Tânia Cruz
 
 | Aspecto | Avaliação |
 |---------|-----------|
-| **Relevância para o Acervo** | Alta — representa a articulação do projeto na região Norte |
-| **Alinhamento com o projeto** | Direto — bambu nativo amazônico, bioeconomia, MQTF |
-| **Produção científica** | Pendente de levantamento via Lattes (acesso bloqueado por captcha) |
-| **Potencial de contribuição** | Alto — conhecimento de campo sobre Guadua spp. e manejo florestal no Acre |
+| **Relevância para o Acervo** | Alta — articulação na região Norte, bambu nativo amazônico |
+| **Produção científica** | Consolidada — pesquisador sênior, membro da Academia Brasileira de Ciências |
+| **Alinhamento com o projeto** | Direto — solos com Guadua, bioeconomia, formação de recursos humanos |
+| **Potencial de contribuição** | Alto — conhecimento de campo sobre dinâmica pedoambiental do bambu nativo |
 
-> Perfil consolidado a partir de dados institucionais e articulação com a Profa. Tânia Cruz (UnB). Recomenda-se complementar com produção científica extraída do Lattes quando o acesso for possível.
+> A atuação do Prof. Marcondes na UFPA com cooperação na UFAC fortalece o argumento de **capilaridade regional** da proposta FINEP, conectando a região Norte ao eixo Sudeste-Centro-Oeste do projeto.
 
 ---
 
 ## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-| Metadado | Valor |
-|----------|-------|
-| Nome completo | Marcondes Lima da Costa |
-| Instituição | UFAC — Universidade Federal do Acre |
-| E-mail institucional | marcondes.costa@ufac.br |
-| Lattes ID | 1639498384851302 |
-| Papel no projeto | ICT parceira (multiplicadora — região Norte) |
-| Articulado por | Profa. Tânia Cruz (UnB/LaPCiS) |
-| Data de inclusão | 01/07/2026 |
-| Fonte | Carta-convite do projeto Fábrica Modelo |
+### Vínculos Institucionais
 
-### Produção científica identificada
+| Instituição | Vínculo | Período |
+|-------------|---------|---------|
+| UFPA — Instituto de Geociências | Professor Titular | Atual |
+| Academia Brasileira de Ciências | Membro Titular | Atual |
+| UFAC — Acre | Cooperação científica | Histórica |
 
-*Pendente — Lattes requer validação manual (captcha). Sugere-se buscar no Google Scholar por "Marcondes Lima da Costa UFAC" para levantar publicações.*
+### Linhas de Pesquisa
+
+| Linha | Descrição | Produto Associado |
+|-------|-----------|-------------------|
+| **Solos e sedimentos amazônicos** | Geologia, mineralogia e geoquímica das bacias dos rios Purus e Juruá | *Geologia, Mineralogia, Geoquímica, Fertilidade e Potenciais Impactos Ambientais em Praias, Barrancos e Águas Fluviais e Lacustres no Estado do Acre* |
+| **Bambu nativo (Guadua spp.)** | Interação solo-vegetação em florestas abertas com bambu | Estudos pedoambientais na região oeste amazônica |
+| **Bioeconomia e biojoias** | Aproveitamento de sementes e fibras da floresta neotropical | *Jarina: o marfim das biojoias da Amazônia* (Costa, M. L.; Rodrigues, S. F. S.; Hohn, H.) |
+
+### Orientações Relacionadas
+
+| Tipo | Título | Orientando | Papel |
+|------|--------|------------|-------|
+| Dissertação | *Caracterização Química e Mineralógica dos Suspensatos dos Rios Purus e Juruá no Estado do Acre* | Aliane Trindade Carvalho | Orientador |
+| Dissertação | *Mineralogia, geoquímica, fertilidade e origem dos sedimentos de praia das bacias dos rios Purus e Juruá no Estado do Acre* | H. D. F. Almeida | Coorientador |
 
 ---
 
@@ -85,24 +102,29 @@ Foi identificado como ICT multiplicadora via articulação da Profa. Tânia Cruz
 | Ficha | Tipo de Relação |
 |-------|-----------------|
 | [Perfil Tânia Cruz](PER_perfil-tania-cruz-unb.md) | Hierárquica — articuladora do contato |
-| [Índice do Acervo](../index.md) | Hierárquica |
+| [Acervo — Fábrica Modelo](../fabrica-modelo/index.md) | Hierárquica — projeto que motiva a articulação |
+| [Índice de Perfis](index.md) | Hierárquica |
 
 ---
 
 ## 7. APLICAÇÕES PRÁTICAS
 
-- ICT parceira na região Norte para o projeto Fábrica Modelo (FINEP)
-- Potencial para articulação com comunidades ribeirinhas e extrativistas do Acre
-- Difusão de tecnologias de tratamento ecológico de bambu na Amazônia
-- Prospecção de bambu nativo (Guadua spp.) para cadeias produtivas sustentáveis
+- **Justificativa de interinstitucionalidade** para o edital FINEP (região Norte)
+- **Lastro científico** para relatórios ex-ante de impacto de manejo de bambu nativo
+- **Rede de ICTs multiplicadoras** — pontuação no critério de Descentralização e Regionalização
+- **Formação de recursos humanos** — orientação de dissertações no eixo UFPA/UFAC
+- **Difusão de tecnologias** de aproveitamento de fibras e sementes para bioeconomia comunitária
 
 ---
 
 ## 8. REFERÊNCIAS
 
 - Lattes: http://lattes.cnpq.br/1639498384851302
-- Instituição: UFAC — http://www.ufac.br
-- Carta-convite do projeto Fábrica Modelo (julho/2026)
+- Instituição primária: UFPA — https://www.ufpa.br
+- Cooperação: UFAC — https://www.ufac.br
+- Academia Brasileira de Ciências: https://www.abc.org.br
+- Obra: *Jarina: o marfim das biojoias da Amazônia* — Costa, M. L.; Rodrigues, S. F. S.; Hohn, H.
+- Obra: *Geologia, Mineralogia, Geoquímica, Fertilidade e Potenciais Impactos Ambientais em Praias, Barrancos e Águas Fluviais e Lacustres no Estado do Acre*
 - Articulação: Profa. Tânia Cruz (UnB/LaPCiS)
 
 ---

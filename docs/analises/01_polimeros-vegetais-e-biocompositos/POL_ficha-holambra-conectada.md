@@ -100,3 +100,9 @@ Gérberas, crisântemos, antúrios e rosas em câmaras climatizadas diferenciada
 - NBR 16828-1:2020 — Estruturas de bambu
 - ISO 22157:2019 — Propriedades físicas e mecânicas do bambu
 - Fichas correlatas no Acervo Científico (seção 6 acima)
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

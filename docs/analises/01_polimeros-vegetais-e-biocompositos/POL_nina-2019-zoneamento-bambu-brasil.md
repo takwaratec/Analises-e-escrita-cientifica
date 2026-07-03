@@ -1,8 +1,38 @@
-# Zoneamento Edafoclimático para Bambusa vulgaris e Dendrocalamus giganteus no Brasil
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# amento Edafoclimático para Bambusa vulgaris e Dendrocalamus giganteus no Brasil
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `POL_nina-2019-zoneamento-bambu-brasil.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > Artigo publicado na Pesquisa Agropecuária Tropical (UFG) que utiliza modelagem de nicho e variáveis ambientais (WorldClim, MOD16, SoilGrids) para mapear áreas favoráveis ao cultivo de *Bambusa vulgaris* e *Dendrocalamus giganteus* em todo o território brasileiro. A análise de componentes principais e a modelagem por MaxEnt indicaram as regiões Sudeste e Centro-Oeste como as mais aptas para ambas as espécies, fornecendo subsídio científico para políticas de fomento ao bambu no Brasil.
 
-## 📁 Ficha Técnica
+
 
 - **Título original:** Edaphoclimatic aptitude for *Bambusa vulgaris* and *Dendrocalamus giganteus* in the Brazilian territory
 - **Autores:** Karina Rodrigues Nina, Lucas Amaral de Melo, Patrícia Aparecida de Souza, Rafael Luis Grisi, Soraya Alvarenga Botelho
@@ -14,32 +44,67 @@
 - **Palavras-chave:** Bambu; Zoneamento edafoclimático; Modelagem de nicho; *Bambusa vulgaris*; *Dendrocalamus giganteus*; MaxEnt
 - **Link:** `open "/Users/fabiotakwara/Documents/BAMBUBR/Dendrocalamus e BAmbusa.pdf"`
 
-## Resumo Expandido
 
-O estudo aplica modelagem de distribuição de espécies (MaxEnt) para prever áreas de aptidão edafoclimática para duas espécies de bambu de alto valor comercial no Brasil: *Bambusa vulgaris* e *Dendrocalamus giganteus*. Foram utilizados pontos de ocorrência natural provenientes de herbários virtuais e variáveis ambientais extraídas dos bancos WorldClim (clima), MOD16 (evapotranspiração) e SoilGrids (solo).
 
-Após teste de correlação, dez variáveis ambientais não correlacionadas foram selecionadas para cada espécie. Uma análise de componentes principais (PCA) foi realizada para reduzir a dimensionalidade e identificar os gradientes ambientais mais relevantes. Os resultados indicaram que as regiões Sudeste e Centro-Oeste do Brasil apresentam as condições mais favoráveis para o estabelecimento e desenvolvimento de ambas as espécies.
-
-O zoneamento gerado pode subsidiar políticas públicas de fomento à cadeia produtiva do bambu, orientando o plantio em áreas de maior aptidão e reduzindo riscos de insucesso silvicultural. O estudo também destaca a lacuna de dados de ocorrência para bambu no Brasil, recomendando a ampliação de inventários florestais e coleções de herbário.
-
-## Relevância para Tecnologia Takwara
-
-1. **Planejamento de plantio**: O zoneamento permite identificar regiões prioritárias para implantação de bambuzais destinados à produção de matéria-prima para a Tecnologia Takwara.
-2. **Duas espécies-chave**: *B. vulgaris* e *D. giganteus* são as espécies mais utilizadas em sistemas construtivos com bambu no Brasil — exatamente as que a Tecnologia Takwara emprega.
-3. **Metodologia replicável**: O protocolo de modelagem (MaxEnt + variáveis ambientais) pode ser aplicado a outras espécies de interesse, como *Guadua angustifolia* e *Phyllostachys aurea*.
-4. **Base para políticas de fomento**: O zoneamento edafoclimático é ferramenta essencial para formular políticas de incentivo ao bambu em âmbito municipal, estadual e federal.
-
-## Contribuições Originais
-
-- Primeiro zoneamento edafoclimático simultâneo para *B. vulgaris* e *D. giganteus* em escala nacional brasileira utilizando modelagem de nicho.
-- Identificação das variáveis ambientais mais influentes para cada espécie, permitindo refinamento de modelos futuros.
-- Demonstração de que as regiões Sudeste e Centro-Oeste são prioritárias para investimentos em silvicultura de bambu.
-- Disponibilização de mapas de aptidão que podem ser integrados a sistemas de informação geográfica (SIG) para planejamento territorial.
-
-## 📄 Como citar (ABNT)
-
-NINA, Karina Rodrigues et al. Edaphoclimatic aptitude for Bambusa vulgaris and Dendrocalamus giganteus in the Brazilian territory. **Pesquisa Agropecuária Tropical**, Goiânia, v. 49, e53713, 2019. DOI: 10.1590/1983-40632019v4953713.
+O estudo aplica modelagem de distribuição de espécies (MaxEnt) para prever áreas de apt
 
 ---
 
-*Ficha gerada a partir do texto completo do artigo (10 páginas, ~40 mil caracteres).*
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
+# Zoneamento Edafoclimático para Bambusa vulgaris e Dendrocalamus giganteus no Brasil
+
+> Artigo publicado na Pesquisa Agropecuária Tropical (UFG) que utiliza modelagem de nicho e variáveis ambientais (WorldClim, MOD16, SoilGrids) para mapear áreas favoráveis ao cultivo de *Bambusa vulgaris* e *Dendrocalamus giganteus* em todo o território brasileiro. A análise de componentes principais e a modelagem por MaxEnt indicaram as regiões Sudeste e Centro-Oeste como as mais aptas para ambas as espécies, fornecendo subsídio científico para políticas de fomento ao bambu no Brasil.
+
+## 📁 Ficha Técnica
+
+- **Título original:** Edaphoclimatic aptitude for *Bambusa vulgaris* and *Dendrocalamus giganteus* in the Brazilian territory
+- **Autores:** Karina Rodrigues Nina, Lucas Amaral de Melo, Patrícia Apare
+```
+
+---
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

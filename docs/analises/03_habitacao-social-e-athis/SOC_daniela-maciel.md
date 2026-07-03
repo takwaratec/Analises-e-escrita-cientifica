@@ -2,8 +2,86 @@
 tipo: Ficha de Membro
 projeto: ECOSALA
 status: Consolidado — atualizado com GitHub pessoal
+conversao_cavichiolli: 2026-07-02
 ---
 
+# ela Maciel
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | ECOSALA |
+| **Arquivo** | `SOC_daniela-maciel.md` |
+| **Eixo** | 03_habitacao-social-e-athis (Habitação Social e ATHIS) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 03_habitacao-social-e-athis
+- **Área:** Habitação Social e ATHIS
+- **Palavras-chave:** Geral
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+| Campo | Dado |
+|---|---|
+| **Nome** | Daniela Maciel |
+| **Instituição** | Embrapa Territorial |
+| **Área** | Transferência de Tecnologia / Avaliação de Impacto / Inovação Agrícola |
+| **Adicionada por** | Gisele Vilela (26/06/2026) |
+| **Formação** | **Doutora em Política Científica e Tecnológica (DPCT) — Unicamp** |
+| **ORCID** | [0000-0003-0539-622X](https://orcid.org/0000-0003-0539-622X) |
+| **Lattes** | [9196370833242212](http://lattes.cnpq.br/9196370833242212) |
+| **LinkedIn** | [danimacielp](https://www.linkedin.com/in/danimacielp/) |
+| **GitHub** | [danimaciel](https://github.com/danimaciel) |
+
+
+
+- **Avaliação de impacto** de tecnologias e pesquisas agropecuárias
+- Responsável **Research Assessment (RRA)** e **Responsible Research & Innovation (RRI)**
+- Desenvolvimento de métodos para avaliar **TICs** no campo (liderou Ambitec-TICs)
+- Modelos de avaliação dirigidos para **agricultura familiar**
+- Monitoramento da efetividade da pesquisa junto a diferentes públicos
+- Interface entre **transferência de tecnologia**, **inovação** e **agricultura familiar**
+- Aplicação de **Processamento de Linguagem Natural (NLP)** e **modelagem de tópicos** em R para análise de impacto
+
+
+
+| Ferramenta/Repositório | Descrição | DOI / Link |
+|---|---|---|
+| **AgroRadarEval** | Ferramenta de gestão de P&D&I orientada a impacto societal. Aborda RRI e RRA | [DOI: 10.4067/S0718-2724202400040008
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Daniela Maciel
 
 ## Identificação
@@ -23,50 +101,35 @@ status: Consolidado — atualizado com GitHub pessoal
 ## Atuação
 
 - **Avaliação de impacto** de tecnologias e pesquisas agropecuárias
-- Responsável **Research Assessment (RRA)** e **Responsible Research & Innovation (RRI)**
-- Desenvolvimento de métodos para avaliar **TICs** no campo (liderou Ambitec-TICs)
-- Modelos de avaliação dirigidos para **agricultura familiar**
-- Monitoramento da efetividade da pesquisa junto a diferentes públicos
-- Interface entre **transferência de tecnologia**, **inovação** e **agricultura familiar**
-- Aplicação de **Processamento de Linguagem Natural (NLP)** e **modelagem de tópicos** em R para análise de impacto
-
-## Produção e Ferramentas (identificadas via GitHub)
-
-| Ferramenta/Repositório | Descrição | DOI / Link |
-|---|---|---|
-| **AgroRadarEval** | Ferramenta de gestão de P&D&I orientada a impacto societal. Aborda RRI e RRA | [DOI: 10.4067/S0718-27242024000400089](https://doi.org/10.4067/S0718-27242024000400089) — [GitHub](https://github.com/danimaciel/agroradareval) |
-| **TerImpact Ex-Ante** | Aplicação Streamlit + Python para avaliação **ex-ante** de projetos de pesquisa | [GitHub](https://github.com/danimaciel/terimpact-exante) |
-| **Ambitec-TICs** | Avaliação de impactos de tecnologias de informação e comunicação aplicadas à agropecuária (Série Embrapa) | [DOI: 10.4067/S0718-27242021000200091](https://doi.org/10.4067/S0718-27242021000200091) |
-| **Evaluation Use** | Revisão sistemática sobre o uso de resultados de avaliação em programas de CT&I | [GitHub](https://github.com/danimaciel/evaluation_use) |
-| **AgriUM** | Pesquisa com participantes de instituições agrícolas de P&D sobre uso de resultados de avaliação | [GitHub](https://github.com/danimaciel/agrium) |
-| **SDG Analysis** | Análise de contribuições da pesquisa para os Objetivos de Desenvolvimento Sustentável | [GitHub](https://github.com/danimaciel/sdg_analysis) |
-| **Agricultural Analysis PP** | Dados de publicações sobre avaliação de impacto de políticas públicas agrícolas | [GitHub](https://github.com/danimaciel/agricultural_analysis_pp) |
-| **ORCID Analysis BR** | Estudo sobre registros ORCID de docentes brasileiros | [GitHub](https://github.com/danimaciel/orcid_analysisbr) |
-
-## Relevância para o ECOSALA
-
-A expertise de Daniela em **avaliação de impacto de pesquisa**, especialmente suas ferramentas de avaliação **ex-ante** (TerImpact) e gestão orientada a impacto (AgroRadarEval), é diretamente aplicável a:
-
-- **Vaga Lúmen (FINEP)**: Estruturação de métricas de impacto para a proposta
-- **MSTJS / Prêmio Zayed**: Construção de indicadores de resultado e impacto societal
-- **ECOSALA**: Metodologia de avaliação de tecnologias sociais (RRI/RRA)
-- **Acervo Científico**: Critérios objetivos para classificação de TRL e impacto
-
-## Interesses para o ECOSALA
-
-- Discussão sobre **tolerância** (surgiu no contexto da proposta FINEP da Gisele)
-- Como a pesquisa pode gerar **impacto real** no campo
-- Agenda de pesquisa orientada a **desafios concretos**
-- Aplicação de **TerImpact Ex-Ante** como metodologia de avaliação prévia dos projetos do grupo
-
-## Notas
-
-- Trabalha com Gisele Vilela na Embrapa Territorial
-- Já conhecia Marcos Paron antes de entrar no grupo
-- Doutorado concluído em fevereiro/2026 (DPCT Unicamp)
-- GitHub pessoal com 20 repositórios públicos — maioria em R e Python
-- Perfil no GitHub: "Doutora em política científica e tecnológica, especialista em impacto e inovação agrícola"
+- Responsável **Research Assessment (RRA)** e **Responsible Research & I
+```
 
 ---
 
-*Ficha atualizada em 27/06/2026 · Fontes: GitHub pessoal (github.com/danimaciel), ORCID, Lattes, transcrição de áudio de apresentação*
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

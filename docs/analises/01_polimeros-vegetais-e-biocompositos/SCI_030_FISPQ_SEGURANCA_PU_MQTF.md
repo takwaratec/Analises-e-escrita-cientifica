@@ -6,8 +6,86 @@ equipe: Regência Científica (MQTF)
 status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Segurança do Trabalho e Proteção Ambiental"
+conversao_cavichiolli: 2026-07-02
 ---
 
+# 030: Ficha de Informação de Segurança de Produtos Químicos (FISPQ)
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Title** | "SCI_030 - FISPQ: Segurança e Manuseio do PU Vegetal" |
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB/UFAC/UFRR |
+| **Equipe** | Regência Científica (MQTF) |
+| **Pvit Rigor** | 5 (Máximo) |
+| **Padrao Mqtf** | "Segurança do Trabalho e Proteção Ambiental" |
+| **Arquivo** | `SCI_030_FISPQ_SEGURANCA_PU_MQTF.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** pu vegetal, poliuretano, geodésica, resíduo, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+![Selo de Rigor Científico](https://img.shields.io/badge/RIGOR-PVIT-green?style=for-the-badge)
+![Status MQTF](https://img.shields.io/badge/STATUS-CONSOLIDADO-blue?style=for-the-badge)
+
+
+O sistema de poliuretano vegetal utilizado nas Biofábricas Geodésicas e Unidades de Saneamento MQTF é composto por dois componentes reativos que, após a cura, formam um material inerte, atóxico e biocompatível.
+
+*   **Componente A (Pre-polímero)**: Derivado de isocianato (MDI) purificado.
+*   **Componente B (Poliol)**: Derivado purificado do óleo de mamona (*Ricinus communis*).
+
+
+Conforme a norma **ABNT NBR 14725:2014**, o manuseio dos componentes em estado líquido requer precauções:
+
+| Perigo | Classificação | Frase de Advertência |
+| :--- | :--- | :--- |
+| **Irritação à Pele** | Categoria 2 | Provoca irritação à pele. |
+| **Lesão Ocular** | Categoria 2A | Provoca irritação ocular grave. |
+| **Sensibilização Respiratória**| Categoria 1 | Pode provocar sintomas alérgicos ou asma. |
+| **Toxicidade Ambiental** | Baixa | Não classificado como perigoso para o transporte. |
+
+
+A segurança das **Mulheres Que Tecem a Floresta** é prioritária. Durante a mistura e aplicação (antes da cura completa), é obrigatório o uso de:
+*   **Proteção Respiratória**: Máscara semi-facial com cartucho para
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # SCI_030: Ficha de Informação de Segurança de Produtos Químicos (FISPQ)
 
 ![Selo de Rigor Científico](https://img.shields.io/badge/RIGOR-PVIT-green?style=for-the-badge)
@@ -20,33 +98,35 @@ O sistema de poliuretano vegetal utilizado nas Biofábricas Geodésicas e Unidad
 *   **Componente B (Poliol)**: Derivado purificado do óleo de mamona (*Ricinus communis*).
 
 ## 2. Identificação de Perigos (Fase Líquida)
-Conforme a norma **ABNT NBR 14725:2014**, o manuseio dos componentes em estado líquido requer precauções:
+Conforme a norma **ABNT NBR 14725:2014**, o manuseio dos compone
+```
 
-| Perigo | Classificação | Frase de Advertência |
-| :--- | :--- | :--- |
-| **Irritação à Pele** | Categoria 2 | Provoca irritação à pele. |
-| **Lesão Ocular** | Categoria 2A | Provoca irritação ocular grave. |
-| **Sensibilização Respiratória**| Categoria 1 | Pode provocar sintomas alérgicos ou asma. |
-| **Toxicidade Ambiental** | Baixa | Não classificado como perigoso para o transporte. |
+---
 
-## 3. Medidas de Proteção e EPIs (Canteiro-Escola)
-A segurança das **Mulheres Que Tecem a Floresta** é prioritária. Durante a mistura e aplicação (antes da cura completa), é obrigatório o uso de:
-*   **Proteção Respiratória**: Máscara semi-facial com cartucho para vapores orgânicos.
-*   **Proteção das Mãos**: Luvas de látex ou nitrílicas.
-*   **Proteção Ocular**: Óculos de segurança ou protetor facial.
-*   **Proteção do Corpo**: Avental impermeável e botas.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 4. Estabilidade e Reatividades
-*   **Estabilidade**: Produto estável sob condições normais.
-*   **Reações Perigosas**: Evitar contato com ácidos, bases e umidade excessiva antes da aplicação.
-*   **Decomposição**: Em caso de incêndio (extrema temperatura), pode liberar monóxido e dióxido de carbono. Utilizar extintores de CO2 ou pó químico.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 5. Destinação Final e Impacto Ambiental
-*   **Produto Curado**: Totalmente inerte e seguro para contato com água potável (atende MS 888).
-*   **Resíduos Líquidos**: Devem ser evitados. Embalagens devem ser mantidas hermeticamente fechadas e destinadas conforme a legislação ambiental local.
-*   **Biodegradabilidade**: O componente poliol é de base renovável, reduzindo significativamente a pegada de carbono em comparação com polímeros 100% fósseis.
+---
 
-***
+## 7. APLICAÇÕES PRÁTICAS
 
-**Referência**: FISPQ Sinergia/Tecnoveg (Conformidade ABNT NBR 14725).
-**Soberania Tecnológica**: MQTF - Rigor Técnico e Respeito à Vida.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

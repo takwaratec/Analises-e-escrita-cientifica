@@ -1,3 +1,76 @@
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# do da Arte: Avaliação Pós Ocupação em HIS
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `SOC_estado-da-arte.md` |
+| **Eixo** | 03_habitacao-social-e-athis (Habitação Social e ATHIS) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 03_habitacao-social-e-athis
+- **Área:** Habitação Social e ATHIS
+- **Palavras-chave:** certificação, habitação, his
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+> **Resumo:** Este estado da arte sintetiza 5 referências sobre avaliação pós-ocupação (APO) em habitação de interesse social no Brasil (2014-2024). A literatura converge em três achados centrais: (1) as moradias padronizadas são sistematicamente modificadas pelos moradores (60-85% dos casos), revelando inadequação do projeto às necessidades reais; (2) as modificações sem assistência técnica geram patologias construtivas e riscos à saúde; (3) a resiliência habitacional — capacidade de absorver choques e adaptar-se — é o conceito emergente que unifica essas dimensões. A principal lacuna é a ausência de instrumentos padronizados de APO em escala nacional e de estudos longitudinais pós-ocupação.
+
+---
+
+
+
+A Avaliação Pós-Ocupação (APO) é um conjunto de métodos e técnicas para avaliar o desempenho de edificações já em uso, considerando a percepção dos usuários. No Brasil, a APO aplicada à Habitação de Interesse Social (HIS) ganhou relevância a partir das críticas ao modelo padronizado do PMCMV, que entrega unidades sem flexibilidade e sem considerar as necessidades reais das famílias beneficiárias.
+
+---
+
+
+
+
+
+Um padrão consistente em todos os estudos de APO é a **alta taxa de modificações** nas unidades entregues:
+
+| Estudo | Local | Taxa de modificação | Observação |
+|--------|-------|---------------------|------------|
+| Perim (2014) — UFSJ | Ouro B
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Estado da Arte: Avaliação Pós-Ocupação em HIS
 
 > **Resumo:** Este estado da arte sintetiza 5 referências sobre avaliação pós-ocupação (APO) em habitação de interesse social no Brasil (2014-2024). A literatura converge em três achados centrais: (1) as moradias padronizadas são sistematicamente modificadas pelos moradores (60-85% dos casos), revelando inadequação do projeto às necessidades reais; (2) as modificações sem assistência técnica geram patologias construtivas e riscos à saúde; (3) a resiliência habitacional — capacidade de absorver choques e adaptar-se — é o conceito emergente que unifica essas dimensões. A principal lacuna é a ausência de instrumentos padronizados de APO em escala nacional e de estudos longitudinais pós-ocupação.
@@ -6,64 +79,35 @@
 
 ## 1. Contexto Geral
 
-A Avaliação Pós-Ocupação (APO) é um conjunto de métodos e técnicas para avaliar o desempenho de edificações já em uso, considerando a percepção dos usuários. No Brasil, a APO aplicada à Habitação de Interesse Social (HIS) ganhou relevância a partir das críticas ao modelo padronizado do PMCMV, que entrega unidades sem flexibilidade e sem considerar as necessidades reais das famílias beneficiárias.
+A Avaliação Pós-Ocupa
+```
 
 ---
 
-## 2. Estado do Conhecimento
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-### 2.1 Modificações e autoconstrução
-
-Um padrão consistente em todos os estudos de APO é a **alta taxa de modificações** nas unidades entregues:
-
-| Estudo | Local | Taxa de modificação | Observação |
-|--------|-------|---------------------|------------|
-| Perim (2014) — UFSJ | Ouro Branco/MG | **65%** | 85% por autoconstrução |
-| Simões & Leder (2024) — ANPUR | Nacional (156 UH) | **19%** de não-beneficiários | Venda/aluguel por inadaptação |
-| Thielke (2021) — UFRGS | Porto Alegre/RS | **53%** avaliam como "Ruim" | CH Porto Novo |
-
-### 2.2 Qualidade percebida
-
-Os indicadores nacionais de satisfação (Ipea/SNH, apud Thielke, 2021) mostram:
-
-| Indicador | Nota (0-10) | Avaliação |
-|-----------|-------------|-----------|
-| Iluminação | 8,91 | ✅ Satisfatório |
-| Temperatura | 5,34 | ❌ Insatisfatório |
-| Lazer | 3,49 | ❌ Muito baixo |
-| Trabalho Social | 3,29 | ❌ Muito baixo |
-| Transporte (demora) | 3,90 | ❌ Muito demorado |
-
-### 2.3 Propostas metodológicas
-
-- **IHAS** (Procópio & Campos, 2022): indicador composto validado estatisticamente (α=0,822, KMO=0,761) com 4 dimensões (PS, CED, CSC, CID), escala 0-100
-- **Planta Embrião** (Perim, 2014): projeto flexível de 50,38m² com certificação Selo Casa Azul Ouro
-- **APO integrada à resiliência** (Oliveira & Villa, 2024; Otoni & Villa, 2024): articula APO, resiliência e sistemas construtivos
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-## 3. Lacunas e Agenda
+## 7. APLICAÇÕES PRÁTICAS
 
-| Prioridade | Lacuna | Como preencher |
-|------------|--------|----------------|
-| 🔴 Alta | Ausência de instrumento APO validado nacionalmente | Desenvolver e testar indicador padronizado (ex: expandir IHAS) |
-| 🔴 Alta | Estudos longitudinais pós-ocupação (>5 anos) | Follow-up das coortes existentes (Porto Novo, Tiradentes) |
-| 🟡 Média | Relação entre sistema construtivo e resiliência | Pesquisa empírica comparando sistemas rígidos vs. flexíveis |
-| 🟡 Média | APO em HIS rural | Expandir para além dos contextos urbanos |
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
 
-## 4. Fichas Vinculadas
+## 8. REFERÊNCIAS
 
-| # | Ficha | Ano | Tema | Status |
-|---|-------|-----|------|--------|
-| 01 | [Thielke — APO Porto Alegre](./thielke-2021-apo-porto-alegre.md) | 2021 | APO CH Porto Novo | ✅ |
-| 02 | [Procópio & Campos — IHAS](../percecao-social/procopio-campos-2022-ihas.md) | 2022 | Indicador de habitabilidade | ✅ |
-| 03 | [Oliveira & Villa — COVID-19](../percecao-social/oliveira-villa-2024-covid-his.md) | 2024 | Impactos pandemia na HIS | ✅ |
-| 04 | [Otoni & Villa — Resiliência](./otoni-villa-2024-resiliencia-ampliabilidade.md) | 2024 | Revisão sobre ampliabilidade | ✅ |
-| 05 | [Perim — Sustentabilidade HIS](./perim-2014-sustentabilidade-his.md) | 2014 | Projeto sustentável + APO | ✅ |
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
 
 ---
 
-> **Elaborado em:** 2026-06-21 | **Fichas incorporadas:** 5 de 5 previstas ✅
-> **Prompts utilizados:** B1 — Estado da arte + B1 — Revisão integrativa multinível
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

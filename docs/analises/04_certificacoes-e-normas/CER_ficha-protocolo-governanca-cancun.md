@@ -141,3 +141,9 @@ O protocolo serve como **referência de governança** para qualquer intervençã
 
 > *Ficha produzida por Hermes Agent · Tecnologia Takwara · 30/06/2026*
 > *Metodologia própria de curadoria documental (8 seções)*
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

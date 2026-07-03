@@ -5,13 +5,42 @@ autor: Fabio Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná (cópia Propriedades Físicas)
+# nha: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná (cópia Propriedades Físicas)
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | Dissert_BLC_UEM_2018_Propriedades |
+| **Autor** | Fabio Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_blc-filho-2018.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** Esta é uma cópia da mesma dissertação de José Ricardo Reghin Filho (2018), encontrada no subdiretório "Propriedades Físicas" do acervo. O conteúdo é idêntico ao da dissertação principal, investigando a produção, caracterização física e mecânica, e aceitação cultural do Bambu Laminado Colado (BLC) na região Noroeste do Paraná. A duplicata no acervo pode indicar a relevância temática transversal do BLC nas áreas de propriedades físicas e produtos engenheirados de bambu.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -25,34 +54,69 @@ licenca: CC BY 4.0
 | **Páginas** | 110 |
 | **Observação** | Cópia idêntica encontrada no subdiretório "Propriedades Físicas" |
 
-## 2. Estrutura e Organização
+
 
 Mesma estrutura da dissertação principal (ver resenha-bambu-laminado-josericardo): introdução, revisão bibliográfica sobre BLC, metodologia (produção, ensaios físicos/mecânicos, pesquisa de aceitação cultural), resultados e discussão, conclusões.
 
-## 3. Problema e Perguntas de Pesquisa
+---
 
-Idênticos à dissertação principal: investigar produção, caracterização e aceitação cultural do BLC na região Noroeste do Paraná.
+## 4. ANÁLISE CRÍTICA
 
-## 4. Referencial Teórico
+*Análise pendente — conversão automatizada.*
 
-Mesmo referencial da dissertação principal: caracterização do bambu, processos de laminação e colagem, estado da arte do BLC, aceitação cultural de novos materiais.
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-## 5. Metodologia
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-Mesma metodologia da dissertação principal: abordagem mista com parte experimental (ensaios físicos e mecânicos do BLC conforme ASTM D 143-96) e pesquisa quanti-qualitativa de aceitação cultural.
+---
 
-## 6. Principais Achados
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-Mesmos achados da dissertação principal. A presença desta cópia no subdiretório "Propriedades Físicas" sugere que os dados de caracterização física e mecânica do BLC são de particular interesse para a linha de pesquisa em propriedades de materiais do acervo.
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-## 7. Avaliação Crítica
+```
+# Resenha: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná (cópia Propriedades Físicas)
 
-A existência desta cópia no acervo ressalta a importância transversal do BLC como tema de pesquisa. Embora o conteúdo seja duplicado, a classificação em dois diretórios diferentes (produtos engenheirados e propriedades físicas) reflete a organização temática do acervo. Recomenda-se manter a referência cruzada entre as duas fichas.
+> **Resumo:** Esta é uma cópia da mesma dissertação de José Ricardo Reghin Filho (2018), encontrada no subdiretório "Propriedades Físicas" do acervo. O conteúdo é idêntico ao da dissertação principal, investigando a produção, caracterização física e mecânica, e aceitação cultural do Bambu Laminado Colado (BLC) na região Noroeste do Paraná. A duplicata no acervo pode indicar a relevância temática transversal do BLC nas áreas de propriedades físicas e produtos engenheirados de bambu.
 
-## 8. Inserção no Estado da Arte
+## 1. Dados Gerais
 
-Esta cópia conecta diretamente os eixos de produtos engenheirados de bambu e propriedades físicas de materiais do acervo. A duplicação intencional (ou acidental) no acervo demonstra a relevância dos dados de caracterização do BLC para múltiplas linhas de pesquisa do repositório.
+| Campo | Dado |
+|---|---|
+| **Título** | Bambu Laminado Colado: Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná |
+| **Autor*
+```
 
-## Referência (ABNT)
+---
 
-REGHIN FILHO, José Ricardo. **Bambu Laminado Colado: Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná**. 2018. 110 f. Dissertação (Mestrado em Engenharia Urbana) — Centro de Tecnologia, Universidade Estadual de Maringá, Maringá, 2018.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

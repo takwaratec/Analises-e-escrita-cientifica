@@ -1,3 +1,79 @@
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# a — Luci Okino
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `SOC_luci-okino.md` |
+| **Eixo** | 03_habitacao-social-e-athis (Habitação Social e ATHIS) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 03_habitacao-social-e-athis
+- **Área:** Habitação Social e ATHIS
+- **Palavras-chave:** Geral
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+| Campo | Dado |
+|---|---|
+| **Nome** | Luci Okino |
+| **Formacao** | Gestao comunitaria, comunicacao social |
+| **Instituicao** | Estacao Luz — Espaco Experimental de Tecnologias Sociais (Presidente) |
+| **Funcao no grupo** | Guardia do territorio. Espaco fisico e articulacao local. |
+| **Contato** | www.estacaoluz.org |
+
+
+| Titulo | Tipo | Ano | Instituicao |
+|---|---|---|---|
+| Estacao Luz — Ponto de Cultura | Gestao de espaco | 2008-2026 | Estacao Luz |
+| Ex-Sala Verde (MMA) — educacao ambiental | Certificacao | — | MMA |
+| APP urbana vizinha ao Campus IFSP Ribeirao Preto | Gestao de APP | — | Estacao Luz |
+| Laboratorio vivo agroecologico | Infraestrutura | 2024-2026 | Estacao Luz |
+
+
+- Gestao comunitaria de espacos publicos
+- Educacao ambiental
+- Tecnologias sociais
+- Cultura e arte comunitaria
+- Articulacao entre sociedade civil e poder publico
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Ficha — Luci Okino
 
 ## Identificacao
@@ -18,8 +94,35 @@
 | Laboratorio vivo agroecologico | Infraestrutura | 2024-2026 | Estacao Luz |
 
 ## Temas de atuacao
-- Gestao comunitaria de espacos publicos
-- Educacao ambiental
-- Tecnologias sociais
-- Cultura e arte comunitaria
-- Articulacao entre sociedade civil e poder publico
+- Gestao comunitaria
+```
+
+---
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

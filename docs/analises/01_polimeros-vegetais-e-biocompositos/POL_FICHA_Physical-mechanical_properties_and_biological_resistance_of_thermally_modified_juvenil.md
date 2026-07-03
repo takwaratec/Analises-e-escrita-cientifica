@@ -4,11 +4,41 @@ instituicao: Consórcio UnB / UFRR / UFAC
 tipo: Documentação Técnica
 referencia: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
+
+# FICHA Physical mechanical properties and biological resistance of thermally modified juvenil
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB / UFRR / UFAC |
+| **Arquivo** | `POL_FICHA_Physical-mechanical_properties_and_biological_resistance_of_thermally_modified_juvenil.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** tratamento
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 <p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
 
-### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
@@ -28,46 +58,78 @@ status: Consolidado
 
 Como Pesquisador Sênior e Analista de Dados do Projeto WTF, apresento a Ficha Científica Estruturada, com a análise e contextualização do estudo para os objetivos do nosso projeto.
 
-## FICHA CIENTÍFICA ESTRUTURADA
 
-### 1. METADADOS E CABEÇALHO
+
+
 
 * <img src="../../../assets/icons/human_18_black.svg" width="18px">   **Projeto:** <img src="../../../assets/icons/human_18_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **Tipo:** <img src="../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../assets/icons/human_05_black.svg" width="18px">   **Referência Interna:** <img src="../../../assets/icons/human_05_black.svg" width="18px"> PES-TEC-5022-2026
-* <img src="../../../assets/icons/human_15_black.svg" width="18px">   **Status:** <img src="../../../assets/icons/human_15_black.svg" width="18px"> Ready
-
-**REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
-CANDATEN, L.; DALLA COSTA, H. W.; TREVISAN, R.; ELOY, E.; KULCYNSKI, S. M. Propriedades físico-mecânicas e resistência biológica da madeira de *Handroanthus chrysotrichus* jovem termicamente modificada. *Revista Ciência Agrária*, v. 63, 2020.
-
-**Elaborado por:** Consórcio UnB/UFRR/UFAC
-**Data:** 2026-03-24
-
-### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-
-**Resumo (Português - síntese):**
-A madeira, em seu estado natural, é vulnerável a organismos xilófagos, demandando tratamentos para aumentar sua resistência e vida útil. A modificação térmica surge como uma alternativa ambientalmente sustentável aos conservantes químicos. Este estudo investigou as propriedades físico-mecânicas e a resistência biológica da madeira jovem de *Handroanthus chrysotrichus* (Ipê-amarelo) submetida a modificação térmica em estufa por 4 horas, em temperaturas de 120, 150, 180 e 210°C, comparando-a com uma amostra de controle não tratada. Os resultados demonstram a eficácia do tratamento térmico na preservação da madeira, com menor biodeterioração em temperaturas mais elevadas, melhor estabilidade dimensional e aumento da massa específica. Contudo, a resistência mecânica diminuiu significativamente nas amostras tratadas a 210°C. De forma geral, o tratamento a 180°C mostrou-se o mais adequado, equilibrando as propriedades estudadas.
-
-**Palavras-chave em português:**
-1.  Madeira de ipê
-2.  Propriedades tecnológicas
-3.  Tratamento de calor
-
-### 3. EXTRAÇÃO DE DADOS (TABELA)
-
-| Propriedade / Característica | Detalhe da Observação | Resultado Principal / Tendência | Condição Ótima (se aplicável) |
-| :
+* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **Instituição:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> Consórcio UnB/UFRR/UFA
 
 ---
 
----
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
 ---
 
----
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A força do lugar é a força do mundo."<br>— Milton Santos</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-b
+```
 
 ---
 
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
 ---
-<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

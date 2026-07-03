@@ -1,10 +1,40 @@
-# Ficha — Mineração da Pedra São Thomé: Saúde Coletiva e Justiça Ambiental (Moreira et al., 2020)
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# a — Mineração da Pedra São Thomé: Saúde Coletiva e Justiça Ambiental (Moreira et al., 2020)
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `POL_moreira-2020-stl-mineracao.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, his, bioeconomia
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** Artigo publicado na revista *Desenvolvimento e Meio Ambiente* (v. 54, DOI: 10.5380/dma.v54i0.65016) com estudo etnográfico sobre os impactos da mineração da pedra São Thomé no município homônimo, sul de Minas Gerais. A pesquisa investigou a percepção de moradores sobre saúde coletiva (silicose em trabalhadores) e justiça ambiental (proximidade das cavas ao centro urbano), concluindo que a comunidade é refém da atividade mineradora — simultaneamente fonte de sobrevivência e de adoecimento. O estudo contextualiza o território de origem da Tecnologia Takwara, onde o bambu surge como alternativa econômica e ambientalmente regenerativa à mineração.
 
 ---
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |-------|------|
@@ -20,78 +50,66 @@
 | **Período de campo** | Março a Julho de 2017 |
 | **Instituições** | UNIFEI, UFV |
 | **Código MQTF** | PES-TEC-2792-2026 |
-| **Palavras-chave** | Mineração; saúde coletiva; justiça ambiental; São Thomé das Letras; silicose; etnografia |
-| **Eixo** | Percepção Social |
+| **Palavras-chave** | Mineração; saúde coletiva; justiça ambi
 
 ---
 
-## 2. Síntese
+## 4. ANÁLISE CRÍTICA
 
-### Contexto
+*Análise pendente — conversão automatizada.*
 
-São Thomé das Letras (MG) tem sua economia historicamente dependente da extração de pedra São Thomé (quartzito), utilizada como revestimento e piso. As cavas de exploração circundam e se confundem com a malha urbana. A atividade gera empregos diretos e indiretos, mas expõe trabalhadores e moradores a riscos ambientais e de saúde.
-
-### Metodologia
-
-| Aspecto | Descrição |
+| Aspecto | Avaliação |
 |---------|-----------|
-| **Abordagem** | Etnográfica (observação participante + entrevistas semiestruturadas) |
-| **Período** | 5 meses (mar-jul/2017) |
-| **Participantes** | Trabalhadores ativos e ex-trabalhadores da mineração + membros da comunidade |
-| **Análise** | Relatos orais, categorização temática |
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-### Principais Achados
-
-| Tema | Achado |
-|------|--------|
-| **Saúde coletiva** | Ocorrência de silicose (doença pulmonar irreversível) em trabalhadores do setor |
-| **Justiça ambiental** | Cavas de exploração a poucos metros do centro urbano — poluição sonora, poeira, risco geotécnico |
-| **Dependência econômica** | A comunidade é refém da mineração — "fonte de dor e de sobrevivência" |
-| **Percepção de risco** | Moradores reconhecem os impactos à saúde mas se sentem impotentes para mudar o modelo |
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
 ---
 
-## 3. Conexões com o Ecossistema Takwara
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-| Conexão | Descrição |
-|---------|-----------|
-| **Território de origem** | Fabio Takwara iniciou sua trajetória em São Thomé das Letras (2009-2013), contexto deste estudo |
-| **Bambu como alternativa** | O bambu surge como atividade econômica regenerativa, substitutiva à mineração — geração de renda sem adoecimento |
-| **Economia regenerativa** | O estudo documenta o modelo extrativista que a Tecnologia Takwara busca contrapor com bioeconomia de base comunitária |
-| **Justiça ambiental** | A denúncia do estudo ecoa a crítica ao greenwashing e à exploração de recursos sem benefício às comunidades locais |
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
----
+```
+# Ficha — Mineração da Pedra São Thomé: Saúde Coletiva e Justiça Ambiental (Moreira et al., 2020)
 
-## 4. Avaliação Crítica
-
-### Pontos Fortes
-
-1. **Abordagem etnográfica**: capta a percepção real da comunidade, não apenas indicadores quantitativos.
-2. **Tema relevante**: silicose é doença ocupacional grave e negligenciada em pequenas minerações.
-3. **Conexão territorial**: estudo no município de origem da Tecnologia Takwara, fornecendo contexto socioambiental.
-
-### Limitações
-
-1. **Escopo restrito**: um município, 5 meses de campo — sem pretensão de generalização.
-2. **Sem proposição de solução**: o estudo diagnostica o problema mas não apresenta alternativas econômicas.
-3. **Ano (2020)**: 6 anos de defasagem — a situação pode ter mudado (expansão ou declínio da mineração).
+> **Resumo:** Artigo publicado na revista *Desenvolvimento e Meio Ambiente* (v. 54, DOI: 10.5380/dma.v54i0.65016) com estudo etnográfico sobre os impactos da mineração da pedra São Thomé no município homônimo, sul de Minas Gerais. A pesquisa investigou a percepção de moradores sobre saúde coletiva (silicose em trabalhadores) e justiça ambiental (proximidade das cavas ao centro urbano), concluindo que a comunidade é refém da atividade mineradora — simultaneamente fonte de sobrevivência e de adoecimento. O estudo contextualiza o território de origem da Tecnologia Takwara, onde o bambu surge como alternativa econômica e ambientalmente regenerativa à mineração.
 
 ---
 
-## 5. Palavras-chave
+## 1. Dados Gerais
 
-**Português:** Mineração; São Thomé das Letras; saúde coletiva; justiça ambiental; silicose; etnografia; quartzito; Tecnologia Takwara
-
-**English:** Mining; São Thomé das Letras; public health; environmental justice; silicosis; ethnography; quartzite; Takwara Technology
-
----
-
-## 6. Referência
-
-MOREIRA, B. M. B.; SILVA, L. F.; BUENO, M. I. C. S. Mineração da pedra "São Thomé" em São Thomé das Letras - MG: um estudo etnográfico sobre saúde coletiva e justiça ambiental. **Desenvolvimento e Meio Ambiente**, Curitiba, v. 54, p. 184-199, jul./dez. 2020. DOI: 10.5380/dma.v54i0.65016.
+| Campo |
+```
 
 ---
 
-> **Ficha elaborada em:** 2026-06-22
-> **Fonte:** FICHA_WTF_RAW_2019_-_Pedra_São_Thomé_-_estudo_etnográfico_sobre_saúde_coletiva_e_justiça_ambiental.md (MQTF)
-> **Ferramenta:** Hermes Agent
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

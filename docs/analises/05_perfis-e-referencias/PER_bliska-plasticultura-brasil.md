@@ -91,3 +91,9 @@ O artigo traça a trajetória histórica da plasticultura no Brasil, desde a imp
 - BLISKA JR., A.; PRADA, P. Past, present and future of agricultural plastic in Brazil. *Acta Horticulturae*, n. 1252, p. 129-136, 2019. DOI: 10.17660/ActaHortic.2019.1252.18.
 - Link: https://www.actahort.org/books/1252/1252_18.htm
 - Perfil Bliska no Acervo: https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/05_perfis-e-referencias/perfil-antonio-bliska.md
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

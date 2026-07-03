@@ -71,3 +71,9 @@ Pesquisador da USP Pirassununga com foco em painéis de média densidade (OSB) u
 - Google Scholar: https://scholar.google.com.br/citations?user=G4wK9HwAAAAJ
 - SciELO: https://search.scielo.org/?q=%22Juliano+Fiorelli%22+bambu
 - Pesquisa ICTs: fabrica-modelo/docs/pesquisas-ict/pesquisa-gemini-deep-research-icts.md
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

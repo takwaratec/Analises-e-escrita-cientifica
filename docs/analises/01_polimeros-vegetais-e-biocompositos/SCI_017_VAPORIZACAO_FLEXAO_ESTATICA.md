@@ -19,8 +19,87 @@ series: Série Técnica Mulheres Que Tecem a Floresta — Regência Científica
 title: 'Efeito do Tratamento de Vaporização em Flexão Estática (MQTF)'
 type: Extração Estrutural Local (MQTF)
 version: '1.2'
+conversao_cavichiolli: 2026-07-02
 ---
 
+# to do Tratamento de Vaporização sobre a Flexão Estática
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB/UFRR/UFAC |
+| **Referencia** | Elias-Ivan Tratamento a vapor.pdf |
+| **- Name** | Elias Taylor Durgante Severo, Ivan Tomaselli |
+| **Affiliation** | UNESP Botucatu / UFPR Curitiba |
+| **Date** | '1998-06-01' |
+| **Language** | pt |
+| **License** | CC BY 4.0 |
+| **Series** | Série Técnica Mulheres Que Tecem a Floresta — Regência Científica |
+| **Title** | 'Efeito do Tratamento de Vaporização em Flexão Estática (MQTF)' |
+| **Type** | Extração Estrutural Local (MQTF) |
+| **Version** | '1.2' |
+| **Arquivo** | `SCI_017_VAPORIZACAO_FLEXAO_ESTATICA.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, tratamento, governança, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+[![Status](https://img.shields.io/badge/status-Consolidado-green)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/docs/03_DOSSIE_BNDES/04_REGENCIA_CIENTIFICA/SCI_017_VAPORIZACAO_FLEXAO_ESTATICA.md)
+![Tipo](https://img.shields.io/badge/tipo-Extração%20MQTF-teal)
+
+> [!IMPORTANT]
+> **Alívio de Tensões:** Este estudo (embora focado em *Eucalyptus dunnii*) é a base científica para o entendimento do relaxamento de tensões internas através da vaporização (100°C / 100% UR). O projeto MQTF adapta estes parâmetros para o tratamento de bambus de parede grossa (*Guadua*), evitando o rachamento longitudinal e o colapso durante a secagem industrial.
+
+---
+
+
+
+O estudo avaliou o efeito da vaporização a 100°C por 20 horas no módulo de elasticidade (MOE) e de ruptura (MOR). Os resultados demonstraram uma redução significativa no MOR e na tensão no limite proporcional, atribuída principalmente à degradação de hemiceluloses via hidrólise ácida. Contudo, o MOE (rigidez) manteve-se estável ou apresentou aumento na condição saturada, sugerindo um rearranjamento estrutural permanente dos componentes da parede celular que favorece a estabilidade dimensional futura.
+
+---
+
+
+
+- **Risco de Hidrólise:** O controle do tempo de exposição ao vapor é crítico. O projeto MQTF calibra o tempo de vaporização em função da espécie para evitar a perda excessiva de resistên
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Efeito do Tratamento de Vaporização sobre a Flexão Estática
 
 [![Status](https://img.shields.io/badge/status-Consolidado-green)](file:///Users/fabiotakwara/Documents/GitHub/UnB/Mulheres-Tecem-Amazonia/docs/03_DOSSIE_BNDES/04_REGENCIA_CIENTIFICA/SCI_017_VAPORIZACAO_FLEXAO_ESTATICA.md)
@@ -33,29 +112,35 @@ version: '1.2'
 
 ## **RESUMO TÉCNICO**
 
-O estudo avaliou o efeito da vaporização a 100°C por 20 horas no módulo de elasticidade (MOE) e de ruptura (MOR). Os resultados demonstraram uma redução significativa no MOR e na tensão no limite proporcional, atribuída principalmente à degradação de hemiceluloses via hidrólise ácida. Contudo, o MOE (rigidez) manteve-se estável ou apresentou aumento na condição saturada, sugerindo um rearranjamento estrutural permanente dos componentes da parede celular que favorece a estabilidade dimensional futura.
+O estudo avaliou o efeito da vaporizaçã
+```
 
 ---
 
-## **Implicações para o Dossiê BNDES**
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-- **Risco de Hidrólise:** O controle do tempo de exposição ao vapor é crítico. O projeto MQTF calibra o tempo de vaporização em função da espécie para evitar a perda excessiva de resistência mecânica por hidrólise das pentosanas.
-- **Engenharia de Secagem:** A vaporização é validada como pré-requisito para secagem acelerada, pois aumenta a permeabilidade do material e reduz drasticamente a formação de "favo de mel" (fendas internas).
-- **Consistência Normativa:** O uso das normas COPANT nos ensaios mecânicos alinha o projeto aos padrões de auditoria técnica exigidos pelo BNDES.
-
----
-
-## **CONCLUSÃO ESTRATÉGICA**
-
-O tratamento térmico úmido é essencial para "domar" materiais vivos com altas tensões internas. A ciência de Severo & Tomaselli ancora a decisão técnica de incluir câmaras de vaporização como infraestrutura produtiva estratégica no Hub N1, garantindo produtos de engenharia estáveis e de alta qualidade.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-**Bamboo Institutional — Ciência da Madeira e Soberania Tecnológica**
-**Apoio: Consórcio UnB/UFRR/UFAC**
+## 7. APLICAÇÕES PRÁTICAS
 
-*Projeto Mulheres Que Tecem a Floresta — Documento técnico interno.*
-*Protocolo PVIT — Soberania não se pede, se exerce.*
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

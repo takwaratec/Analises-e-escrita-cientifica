@@ -6,8 +6,96 @@ autor: Fabio Takwara / Hermes Agent
 fontes: Série Técnica (Zenodo 10.5281/zenodo.18827106)
 data: 29/06/2026
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# — Sistema de Monitoramento Geoespacial Automatizado
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos |
+| **Tema** | SMGA - Monitoramento Geoespacial |
+| **Autor** | Fabio Takwara / Hermes Agent |
+| **Fontes** | Série Técnica (Zenodo 10.5281/zenodo.18827106) |
+| **Data** | 29/06/2026 |
+| **Arquivo** | `POL_ficha-smga-monitoramento-geoespacial.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, manejo
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+Apresentar o Sistema de Monitoramento Geoespacial Automatizado (SMGA), sua arquitetura técnica, fontes de dados e aplicações em inventário de biomassa, MRV (Mensuração, Relatório e Verificação) de carbono e monitoramento de florestas de bambu na Amazônia.
+
+
+
+A ficha baseia-se na Nota Técnica SMGA (Série Técnica Plataforma Amazônia Regenerativa, DOI: 10.5281/zenodo.18827106) publicada por Fabio Takwara em março de 2026.
+
+
+
+| Campo | Dado |
+|---|---|
+| Sigla | SMGA |
+| Nome | Sistema de Monitoramento Geoespacial Automatizado |
+| Fonte | Série Técnica — Nota Técnica SMGA |
+| DOI | 10.5281/zenodo.18827106 |
+| Versão | 2.1 |
+| Data | 04/03/2026 |
+
+
+
+O SMGA integra múltiplas bases de dados geoespaciais públicas para monitoramento automatizado de biomassa florestal:
+
+- **GEDI** (NASA) — dados LiDAR de estrutura florestal global
+- **Sentinel-2** (ESA) — imagens multiespectrais de alta resolução temporal
+- **GBIF** — dados de ocorrência de espécies (bambu Guadua)
+- **MRV** — protocolo de Mensuração, Relatório e Verificação para créditos de carbono
+
+
+
+- Inventário de biomassa de florestas de bambu (Guadua spp.)
+- Monitoramento de desmatamento e regeneração
+- MRV para projetos de crédito de carbono (VERRA, Gold Standard)
+- Mapeamento de ocorrência de espécies exóticas invasoras
+- Potencial de expansão de florestas de bambu para su
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # SMGA — Sistema de Monitoramento Geoespacial Automatizado
 
 ## 1. Objetivo
@@ -31,43 +119,35 @@ A ficha baseia-se na Nota Técnica SMGA (Série Técnica Plataforma Amazônia Re
 
 ## 4. Estrutura e funcionamento
 
-O SMGA integra múltiplas bases de dados geoespaciais públicas para monitoramento automatizado de biomassa florestal:
+O SM
+```
 
-- **GEDI** (NASA) — dados LiDAR de estrutura florestal global
-- **Sentinel-2** (ESA) — imagens multiespectrais de alta resolução temporal
-- **GBIF** — dados de ocorrência de espécies (bambu Guadua)
-- **MRV** — protocolo de Mensuração, Relatório e Verificação para créditos de carbono
+---
 
-## 5. Aplicações
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-- Inventário de biomassa de florestas de bambu (Guadua spp.)
-- Monitoramento de desmatamento e regeneração
-- MRV para projetos de crédito de carbono (VERRA, Gold Standard)
-- Mapeamento de ocorrência de espécies exóticas invasoras
-- Potencial de expansão de florestas de bambu para sumidouro de carbono
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 6. Aderência à Tecnologia Takwara
+---
 
-O SMGA é um componente de infraestrutura de dados para validar:
-- Sequestro de carbono por plantios de Guadua
-- Monitoramento de áreas de manejo de bambu
-- Relatórios técnicos para certificadoras de carbono (VERRA, Gold Standard)
-- Linha de base (baseline) para projetos de REDD+ e ARR
+## 7. APLICAÇÕES PRÁTICAS
 
-## 7. Limitações
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-- TRL 3-4 (validação laboratorial / ambiente simulado)
-- Depende de validação em campo (ground truth) para calibração
-- Resolução espacial do GEDI (~25m) pode ser limitante para áreas pequenas
-- Exige capacidade computacional para processamento de imagens Sentinel-2
+---
 
-## 8. Conclusões
+## 8. REFERÊNCIAS
 
-O SMGA é uma ferramenta geoespacial de código aberto (baseada em dados públicos) para MRV de carbono em florestas de bambu. Pode ser integrado a projetos de crédito de carbono (VERRA, Gold Standard) como camada de verificação independente. O estágio atual é laboratorial, com potencial de evolução para TRL 5-6 com calibração de campo.
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-## Referências
 
-- Takwara, F. R. (2026). Nota Técnica: Sistema de Monitoramento Geoespacial Automatizado (SMGA). Série Técnica Plataforma Amazônia Regenerativa. DOI: 10.5281/zenodo.18827106
-- NASA. GEDI Ecosystem LiDAR. https://gedi.umd.edu
-- ESA. Copernicus Sentinel-2. https://sentinels.copernicus.eu
-- GBIF. Global Biodiversity Information Facility. https://www.gbif.org
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

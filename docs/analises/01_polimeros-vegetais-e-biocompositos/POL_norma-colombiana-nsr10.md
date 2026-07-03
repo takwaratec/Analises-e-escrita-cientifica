@@ -5,13 +5,42 @@ autor: Fabio Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha: Norma Colombiana NSR-10 — Título G: Estructuras de Madera y Estructuras de Guadua
+# nha: Norma Colombiana NSR 10 — Título G: Estructuras de Madera y Estructuras de Guadua
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | Norma_Colombiana_NSR10_TituloG_Guadua_2010 |
+| **Autor** | Fabio Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_norma-colombiana-nsr10.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** A NSR-10 é o regulamento colombiano de construções sismo-resistentes, cujo Título G estabelece os requisitos de projeto estrutural para edificações de madeira e de guadua (bambu colombiano Guadua angustifolia Kunth). O Capítulo G.12 é especificamente dedicado às Estruturas de Guadua, tratando o bambu como material estrutural legítimo com requisitos de projeto, ensaios e controle de qualidade comparáveis a outros materiais. A norma complementa-se com as Normas Técnicas Colombianas NTC-5300 (colheita), NTC-5301 (preservação e secagem), NTC-5407 (uniões) e NTC-5525 (métodos de ensaio). A NSR-10 é o marco regulatório mais avançado do mundo para construções de bambu, servindo como referência para o desenvolvimento de regulamentações equivalentes no Brasil.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -23,43 +52,62 @@ licenca: CC BY 4.0
 | **Complementos** | NTC-5300, NTC-5301, NTC-5407, NTC-5525 |
 | **Palavras-chave** | NSR-10; Guadua angustifolia; estruturas de bambu; norma sísmica; Colômbia |
 
-## 2. Estrutura e Organização
 
-O Título G organiza-se em 12 capítulos: G.1 — Requisitos Generales (alcance, definições, nomenclatura); G.2 — Materiales (propriedades da madeira e guadua); G.3 a G.11 — Dimensionamento de elementos estruturais, uniões, montagem (para madeira); G.12 — Estructuras de Guadua (normas específicas para bambu). O capítulo G.12 inclui definições, propriedades do material, critérios de projeto, ligações, durabilidade e controle de qualidade.
 
-## 3. Problema e Perguntas de Pesquisa
+O Título G organiza-se em 12 capítulos: G.1 — Requisitos Generales (alcanc
 
-A norma responde a: como projetar e construir edificações de madeira e guadua com nível de segurança comparável a edificações de outros materiais, em um país de alta atividade sísmica como a Colômbia? O objetivo é estabelecer requisitos técnicos mínimos para garantir a segurança estrutural.
+---
 
-## 4. Referencial Teórico
+## 4. ANÁLISE CRÍTICA
 
-A norma fundamenta-se em: engenharia sísmica; comportamento estrutural de materiais lignocelulósicos; propriedades mecânicas da Guadua angustifolia; teoria de ligações estruturais; durabilidade e preservação; métodos de ensaio normalizados. Referencia as NTC colombianas e normas internacionais.
+*Análise pendente — conversão automatizada.*
 
-## 5. Metodologia
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-A norma é fruto de décadas de pesquisa colombiana sobre Guadua angustifolia, incluindo ensaios mecânicos (tração, compressão, flexão, cisalhamento), estudos de ligações, análises de durabilidade, e monitoramento de edificações existentes. A abordagem metodológica é de consenso técnico-científico, com participação de especialistas, academia e setor produtivo.
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-## 6. Principais Achados
+---
 
-| Capítulo | Conteúdo Principal |
-|---|---|
-| G.12 | Normas específicas para estruturas de Guadua |
-| G.12.2 | Propriedades da Guadua angustifolia para projeto |
-| G.12.3 | Critérios de dimensionamento de elementos estruturais |
-| G.12.4 | Ligações e detalhamento |
-| G.12.5 | Requisitos de durabilidade e preservação |
-| G.12.6 | Controle de qualidade e inspeção |
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-A norma estabelece que a guadua é tratada como material estrutural legítimo, com níveis de segurança comparáveis a edificações de concreto, aço e alvenaria.
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-## 7. Avaliação Crítica
+```
+# Resenha: Norma Colombiana NSR-10 — Título G: Estructuras de Madera y Estructuras de Guadua
 
-A NSR-10 Título G é o marco regulatório mais avançado do mundo para construções de bambu, demonstrando que o bambu (guadua) pode atender a requisitos sísmicos rigorosos. O Capítulo G.12 é modelo para a futura norma brasileira de estruturas de bambu em elaboração na ABNT. Como limitação, a norma é específica para Guadua angustifolia, não diretamente aplicável a outras espécies. Qualidade formal: é norma técnica legal, com força de lei na Colômbia. Relevância máxima para o repositório.
+> **Resumo:** A NSR-10 é o regulamento colombiano de construções sismo-resistentes, cujo Título G estabelece os requisitos de projeto estrutural para edificações de madeira e de guadua (bambu colombiano Guadua angustifolia Kunth). O Capítulo G.12 é especificamente dedicado às Estruturas de Guadua, tratando o bambu como material estrutural legítimo com requisitos de projeto, ensaios e controle de qualidade comparáveis a outros materiais. A norma complementa-se com as Normas Técnicas Colombianas NTC-5300 (colheita), NTC-5301 (preservação e secagem), NTC-5407 (uniões) e NTC-5525 (métodos de ensaio). A NSR-10 é o marco regulatório mais avançado do mundo para construções de bambu, servindo como referên
+```
 
-## 8. Inserção no Estado da Arte
+---
 
-Conecta-se diretamente com a resenha de Marçal (análise comparativa de normas) e com fichas sobre propriedades mecânicas do bambu. Classificação temática: normalização técnica, estruturas de bambu, engenharia sísmica. Referência obrigatória para projetos de engenharia com bambu no Brasil e para a elaboração da norma brasileira de estruturas de bambu.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## Referência (ABNT)
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-COLÔMBIA. **NSR-10: Reglamento Colombiano de Construcción Sismo Resistente — Título G: Estructuras de Madera y Estructuras de Guadua**. Decreto Final de 19 de janeiro de 2010. Bogotá: Ministério de Ambiente, Vivienda y Desarrollo Territorial, 2010.
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

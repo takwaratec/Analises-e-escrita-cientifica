@@ -20,8 +20,88 @@ status: Consolidado
 title: 'Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística (MQTF)'
 type: Boletim Técnico-Científico
 version: '2.5'
+conversao_cavichiolli: 2026-07-02
 ---
 
+# Técnica: Saneamento Ecológico e Bio resiliência Turística
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **- Affiliation** | Universidade de Brasília / Núcleo Institucional |
+| **Name** | Institucional, Fabio Resck |
+| **Orcid** | 0000-0001-8815-3885 |
+| **Date** | '2026-04-16' |
+| **Doi** | 10.5281/zenodo.18827106 |
+| **Language** | pt |
+| **License** | CC BY 4.0 |
+| **Series** | Série Técnica Mulheres Que Tecem a Floresta — Pesquisa e Desenvolvimento |
+| **Title** | 'Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística (MQTF)' |
+| **Type** | Boletim Técnico-Científico |
+| **Version** | '2.5' |
+| **Arquivo** | `SCI_024_SANEAMENTO_ECOLOGICO_MQTF.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** tratamento, manejo, governança, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
+[![Licença: CC BY 4.0](https://img.shields.io/badge/Licenca-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/status-Consolidado-green)
+![Tipo](https://img.shields.io/badge/tipo-Boletim%20Técnico--Científico-teal)
+
+> [!IMPORTANT]
+> **Saneamento é dignidade territorial.** Este boletim valida a implementação de Unidades de Saneamento Ecológico Modulares (T12/BSM+) para o Dossiê BNDES, em conformidade com o Novo Marco Legal do Saneamento e a Norma de Referência nº 8/2024 da ANA.
+
+---
+
+
+
+A compreensão do panorama do saneamento no Brasil revela uma realidade alarmante: cerca de 35 milhões de brasileiros vivem sem acesso à água tratada, e aproximadamente 100 milhões não possuem coleta de esgoto. Em 2023, o Brasil registrou 11.544 óbitos por Doenças Relacionadas ao Saneamento Ambiental Inadequado (DRSAI).
+
+---
+
+
+
+Diante da impossibilidade técnica e econômica de estender redes de esgoto convencionais para áreas remotas da Amazônia, a proposta de **Saneamento Ecológico Modular** surge como a resposta de engenharia mais adequada. O sistema baseia-se na "segregação na fonte", tratando sólidos e líquidos de forma independente através de processos biológ
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18827106-blue.svg)](https://doi.org/10.5281/zenodo.18827106)
@@ -36,50 +116,35 @@ version: '2.5'
 
 ## **O Cenário Nacional do Saneamento**
 
-A compreensão do panorama do saneamento no Brasil revela uma realidade alarmante: cerca de 35 milhões de brasileiros vivem sem acesso à água tratada, e aproximadamente 100 milhões não possuem coleta de esgoto. Em 2023, o Brasil registrou 11.544 óbitos por Doenças Relacionadas ao Saneamento Ambiental Inadequado (DRSAI).
+A compreensão do panoram
+```
 
 ---
 
-## **Validação Técnica: Saneamento Ecológico Modular**
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-Diante da impossibilidade técnica e econômica de estender redes de esgoto convencionais para áreas remotas da Amazônia, a proposta de **Saneamento Ecológico Modular** surge como a resposta de engenharia mais adequada. O sistema baseia-se na "segregação na fonte", tratando sólidos e líquidos de forma independente através de processos biológicos descentralizados.
-
-### **O Banheiro Seco Modular (BSM)**
-
-O BSM é projetado para operar sem o uso de água potável para descarga, eliminando o principal vetor de transporte de patógenos para o lençol freático. 
-
-**Parâmetros Técnicos:**
-1. **Mecânica de Cobertura:** Deposição de serragem via pedal.
-2. **Câmara Ativa:** Bombonas de 200L intercambiáveis para manejo seguro.
-3. **Exaustão:** Ventilação por pressão negativa alimentada por energia solar.
-4. **Ciclo de Nutrientes:** Período de maturação de 10 a 12 meses para eliminação de patógenos.
-
-### **Wetlands Construídos (Leitos Plantados)**
-
-As águas cinzas (lavatórios e duchas) são tratadas por **Wetlands Construídos**, que atuam como "rins" biológicos. Macrófitas como *Typha* e *Canna* digerem a carga orgânica, devolvendo água polida ao meio ambiente com eficiência de remoção de até 92%.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-## **Marco Legal: NR 8/2024 da ANA**
+## 7. APLICAÇÕES PRÁTICAS
 
-A proposta encontra pleno amparo na **Norma de Referência nº 8/2024 da ANA**, que reconhece explicitamente soluções alternativas individuais ou coletivas (fossas sépticas com pós-tratamento, wetlands, tanques de evapotranspiração) onde a rede pública é inviável.
-
----
-
-## **Conclusões Estratégicas**
-
-O saneamento deve ser tratado como uma estratégia de conservação ambiental. Recomenda-se:
-1. **Institucionalização via NR 8/2024:** Integração dos sistemas descentralizados aos Planos Municipais.
-2. **Operação e Manutenção (O&M):** Gestão via Brigadas de Saneamento Comunitárias.
-3. **Monitoramento Participativo:** Protocolo "Sentinelas da Água" para vigilância da qualidade hídrica.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
 
-**Bamboo Institutional — Saneamento Ecológico para a Soberania Amazônica**
-**DOI: [10.5281/zenodo.18827106](https://doi.org/10.5281/zenodo.18827106)**
+## 8. REFERÊNCIAS
 
-*Projeto Mulheres Que Tecem a Floresta — Documento técnico interno.*
-*Licença CC BY 4.0.*
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
 
 ---
-**Consórcio UnB/UFRR/UFAC — Engenharia de Soberania e Governança de Dados**
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

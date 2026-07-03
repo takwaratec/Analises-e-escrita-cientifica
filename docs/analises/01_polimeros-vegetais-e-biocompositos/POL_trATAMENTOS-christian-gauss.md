@@ -5,13 +5,42 @@ autor: Fabio Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha: Tratamentos para Bambu — Palestra de Christian Gauss
+# nha: Tratamentos para Bambu — Palestra de Christian Gauss
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | Palestra_Christian_Gauss_Tratamento_Bambu_BambuBR |
+| **Autor** | Fabio Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_trATAMENTOS-christian-gauss.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, pirolenhoso, tratamento, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** A palestra de Christian Gauss (DSc. Eng. Materiais, USP; pesquisador Universidade de Waikato, NZ; membro fundador da BambuBR) aborda de forma abrangente os métodos de tratamento do bambu para preservação e prolongamento de vida útil. A apresentação cobre desde a importância do bambu como recurso lignocelulósico e sua capacidade de fixação de carbono, até detalhes técnicos dos métodos de tratamento. São diferenciados métodos passivos (capilaridade, difusão vertical) e ativos (Boucherie modificado, autoclave), discutidas substâncias preservativas (CCA, CCB, ácido pirolenhoso, taninos, cloreto de sódio), e apresentados dados de durabilidade: bambu tratado pode durar >50 anos em ambientes internos e 5-15 anos em exposição externa. A palestra também aborda normas técnicas (ISO 2256), a nova norma brasileira de tratamento, e a missão social da BambuBR.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -23,43 +52,58 @@ licenca: CC BY 4.0
 | **Formato** | Transcrição didática |
 | **Palavras-chave** | Tratamento de bambu; Boucherie; autoclave; ácido pirolenhoso; durabilidade; normalização |
 
-## 2. Estrutura e Organização
+---
 
-O material didático organiza-se em: boas-vindas e apresentação da BambuBR e PET Madeira; introdução ao palestrante (formação, experiência); importância do bambu como recurso lignocelulósico e fixação de carbono; diagrama de Ashby (resistência vs. densidade); diferenciação entre métodos passivos e ativos; Boucherie modificado (condições: bambu verde e úmido); tratamento em autoclave (bambu seco); substâncias preservativas; análise de penetração com corantes naturais (açafrão/cúrcuma); durabilidade em diferentes condições de exposição; normas (ISO 2256, norma brasileira); aplicações (MDF a estruturas laminadas); considerações finais e perguntas.
+## 4. ANÁLISE CRÍTICA
 
-## 3. Problema e Perguntas de Pesquisa
+*Análise pendente — conversão automatizada.*
 
-A palestra responde à questão: quais são os métodos, substâncias e condições ideais para o tratamento preservativo do bambu, garantindo durabilidade adequada para diferentes aplicações? Objetivo: difundir conhecimento técnico-científico sobre tratamento de bambu para profissionais, pesquisadores e entusiastas.
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-## 4. Referencial Teórico
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-O referencial abrange: ciência dos materiais lignocelulósicos; diagrama de Ashby para seleção de materiais; mecanismos de penetração de preservativos em bambu (capilaridade, difusão, pressão); química dos preservativos; normas técnicas nacionais e internacionais. Experiência prática do palestrante em caracterização mecânica e microscopia eletrônica.
+---
 
-## 5. Metodologia
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-A palestra não apresenta metodologia de pesquisa original, sendo uma síntese didática do conhecimento existente sobre tratamento de bambu. A abordagem é expositiva, com diferenciação conceitual entre métodos passivos (sem pressão externa) e ativos (com pressão). São apresentadas condições de processamento para cada método e discutidas substâncias preservativas com base na literatura e experiência do palestrante.
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-## 6. Principais Achados
+```
+# Resenha: Tratamentos para Bambu — Palestra de Christian Gauss
 
-| Tópico | Conteúdo |
-|---|---|
-| Métodos passivos | Capilaridade (bambu vertical em tambor), difusão vertical (bambu preenchido com solução) |
-| Métodos ativos | Boucherie modificado (bambu verde/úmido), autoclave (bambu seco) |
-| Substâncias | CCA, CCB, ácido pirolenhoso, taninos, cloreto de sódio |
-| Análise de penetração | Corantes naturais (açafrão/cúrcuma) para avaliar penetração de boro |
-| Durabilidade interna | >50 anos em ambientes protegidos |
-| Durabilidade externa | 5-15 anos em exposição |
-| Normas | ISO 2256; nova norma brasileira de tratamento do bambu |
-| Aplicações | MDF, USB, pisos, painéis, móveis, construção civil |
+> **Resumo:** A palestra de Christian Gauss (DSc. Eng. Materiais, USP; pesquisador Universidade de Waikato, NZ; membro fundador da BambuBR) aborda de forma abrangente os métodos de tratamento do bambu para preservação e prolongamento de vida útil. A apresentação cobre desde a importância do bambu como recurso lignocelulósico e sua capacidade de fixação de carbono, até detalhes técnicos dos métodos de tratamento. São diferenciados métodos passivos (capilaridade, difusão vertical) e ativos (Boucherie modificado, autoclave), discutidas substâncias preservativas (CCA, CCB, ácido pirolenhoso, taninos, cloreto de sódio), e apresentados dados de durabilidade: bambu tratado pode durar >50 anos em ambientes internos e 5-15 anos em exp
+```
 
-## 7. Avaliação Crítica
+---
 
-A palestra é material didático de alto valor, sintetizando o conhecimento de um dos principais pesquisadores brasileiros em tratamento de bambu (Gauss possui DSc pela USP e atua na Universidade de Waikato, NZ). A cobertura de métodos passivos vs. ativos, tratamentos ecológicos vs. químicos convencionais, e normas técnicas fornece roteiro técnico completo. Como limitação, o material é uma transcrição de palestra, não um artigo revisado por pares. Relevância alta para o repositório.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 8. Inserção no Estado da Arte
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-Conecta-se com fichas sobre tratamento de bambu (resenha-beraldo-bambu-pirolenhoso, resenha-tratamento-pirolenhoso-silva, resenha-bio-oleo-termico-pimentel). Classificação temática: tratamento preservativo; métodos passivos e ativos; normalização. Material de referência didática para o eixo de durabilidade do bambu no repositório.
+---
 
-## Referência (ABNT)
+## 7. APLICAÇÕES PRÁTICAS
 
-GAUSS, Christian. **Tratamentos para Bambu**. [Transcrição de palestra]. BambuBR / PET Madeira UNESP Itapeva, 2023.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

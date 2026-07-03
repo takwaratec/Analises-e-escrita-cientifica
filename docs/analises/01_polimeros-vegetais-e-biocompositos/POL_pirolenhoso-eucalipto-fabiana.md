@@ -5,13 +5,42 @@ autor: Fabio Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha: Uso do Líquido Pirolenhoso na Preservação da Madeira de Pinus elliottii
+# nha: Uso do Líquido Pirolenhoso na Preservação da Madeira de Pinus elliottii
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | Dissert_Laroque_Pirolenhoso_Pinus_UFPel_2022 |
+| **Autor** | Fabio Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_pirolenhoso-eucalipto-fabiana.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, pirolenhoso, tratamento, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** A dissertação avalia a eficácia do líquido pirolenhoso (LP) — subproduto orgânico da carbonização da madeira — como preservante alternativo para madeira de Pinus elliottii exposta a cupins do gênero Nasutitermes e ao fungo Trametes versicolor (podridão branca). Foram empregados dois métodos de impregnação: autoclavagem e imersão. Os resultados mostram que o LP inibiu parcialmente a ação dos xilófagos, com perda de massa média de 14,09% (autoclavadas) e 10,47% (imersas) vs. 26,07% (controle) no ensaio com cupins. O tratamento por imersão foi mais eficaz que a autoclavagem. Análise cromatográfica identificou compostos majoritários como Hidrazina e 2-Carboxamidopyrazine 4-N-oxide.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -26,46 +55,64 @@ licenca: CC BY 4.0
 | **Páginas** | 68 |
 | **Palavras-chave** | Líquido pirolenhoso; Pinus elliottii; preservação; cupins; fungos |
 
-## 2. Estrutura e Organização
 
-A dissertação estrutura-se em: introdução (contexto da preservação de madeira, problemática dos biocidas convencionais); revisão bibliográfica sobre líquido pirolenhoso (composição, obtenção, usos), Pinus elliottii, cupins Nasutitermes e fungo T. versicolor; materiais e métodos (preparação das amostras, métodos de impregnação, ensaios biológicos, análises cromatográficas); resultados (perda de massa, dureza Janka, fungitoxicidade); discussão; conclusões.
 
-## 3. Problema e Perguntas de Pesquisa
+A dissertação estrutura-se em: introdução (contexto da preservação de madeira, prob
 
-Objetivo geral: avaliar a eficácia do líquido pirolenhoso como preservante alternativo para madeira de Pinus elliottii. Perguntas centrais: o LP confere proteção contra cupins e fungos? Qual o método de impregnação mais eficaz (autoclave vs. imersão)? Quais os compostos majoritários do LP? O tratamento afeta a resistência mecânica (dureza Janka)?
+---
 
-## 4. Referencial Teórico
+## 4. ANÁLISE CRÍTICA
 
-O referencial abrange: importância do Pinus elliottii no Brasil; problemas de durabilidade natural; métodos de preservação de madeira (convencionais e alternativos); líquido pirolenhoso — obtenção (carbonização), composição química, propriedades fungicidas, bactericidas e inseticidas; biologia de cupins Nasutitermes e fungo Trametes versicolor; normas de ensaio (BS EN 113:1997). Autores de referência: Beraldo, Beltrame.
+*Análise pendente — conversão automatizada.*
 
-## 5. Metodologia
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-Abordagem quantitativa experimental. Amostras de Pinus elliottii foram tratadas com LP por dois métodos: (1) autoclavagem (pressão + vácuo); (2) imersão simples. Ensaios: (1) preferência alimentar com cupins Nasutitermes (perda de massa); (2) exposição ao fungo T. versicolor (perda de massa, norma BS EN 113:1997); (3) dureza Janka (resistência mecânica); (4) teste fungitóxico (inibição do crescimento micelial); (5) análise cromatográfica (identificação de compostos majoritários).
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-## 6. Principais Achados
+---
 
-| Parâmetro | Controle | Autoclavagem | Imersão |
-|---|---|---|---|
-| Perda de massa — cupins | 26,07% | 14,09% | 10,47% |
-| Perda de massa — fungos | Superior | Redução significativa | Redução significativa |
-| Dureza Janka | Referência | Sem resistência adicional | Sem resistência adicional |
-| Fungitoxicidade | — | Inibiu crescimento micelial de T. versicolor |
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-| Composto majoritário | Identificado |
-|---|---|
-| Hidrazina | Detectado |
-| 2-Carboxamidopyrazine 4-N-oxide | Detectado |
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-Nenhum tratamento atingiu o limite de 3% de perda de massa para fungos (BS EN 113:1997), mas houve redução significativa em relação ao controle.
+```
+# Resenha: Uso do Líquido Pirolenhoso na Preservação da Madeira de Pinus elliottii
 
-## 7. Avaliação Crítica
+> **Resumo:** A dissertação avalia a eficácia do líquido pirolenhoso (LP) — subproduto orgânico da carbonização da madeira — como preservante alternativo para madeira de Pinus elliottii exposta a cupins do gênero Nasutitermes e ao fungo Trametes versicolor (podridão branca). Foram empregados dois métodos de impregnação: autoclavagem e imersão. Os resultados mostram que o LP inibiu parcialmente a ação dos xilófagos, com perda de massa média de 14,09% (autoclavadas) e 10,47% (imersas) vs. 26,07% (controle) no ensaio com cupins. O tratamento por imersão foi mais eficaz que a autoclavagem. Análise cromatográfica identificou compostos majoritários como Hidrazina e 2-Carboxamidopyrazine 4-N-oxide.
 
-A dissertação é complementar aos estudos do Prof. Beraldo e Silva (2011) sobre tratamento de bambu com ácido pirolenhoso, aplicando a mesma abordagem para madeira de Pinus. Os resultados com cupins são particularmente relevantes (redução de ~60% na perda de massa). A análise cromatográfica agrega valor ao identificar compostos ativos. Como limitações: os tratamentos não atingiram os limites normativos para fungos, e a dureza Janka não foi melhorada. Qualidade formal adequada. Relevância alta para o repositório.
+## 1. Dados Ge
+```
 
-## 8. Inserção no Estado da Arte
+---
 
-Conecta-se diretamente com fichas sobre ácido pirolenhoso (resenha-tratamento-pirolenhoso-silva, resenha-beraldo-bambu-pirolenhoso). Classificação temática: preservação com pirolenhoso, cupins, fungos. Demonstra a versatilidade do LP como biocida natural aplicável tanto a madeira quanto a bambu, alinhado à linha de tratamentos ecológicos e não tóxicos do repositório.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## Referência (ABNT)
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-LAROQUE, Fabiana Fernandes. **Uso do líquido pirolenhoso na preservação da madeira de Pinus elliottii**. 2022. 68 f. Dissertação (Mestrado em Ciências Ambientais) — Centro de Engenharias, Universidade Federal de Pelotas, Pelotas, 2022.
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

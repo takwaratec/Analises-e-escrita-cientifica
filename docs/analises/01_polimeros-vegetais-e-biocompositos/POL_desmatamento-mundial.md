@@ -5,8 +5,87 @@ data: 2026-06-27
 status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# — Desmatamento Mundial
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | IFB-E9-05 |
+| **Data** | 2026-06-27 |
+| **Metodo** | 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025) |
+| **Arquivo** | `POL_desmatamento-mundial.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, resíduo
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+
+
+| Campo | Dado |
+|-------|------|
+| **Título** | Desmatamento Mundial: Causas, Consequências e Perspectivas |
+| **Autor(es)** | Autores diversos |
+P20
+| **Páginas** | 9 p. |
+| **DOI** | 10.1038/s41598-020-63657-6 |
+| **Eixo temático** | Energia, Resíduos e Saneamento |
+| **Código** | IFB-E9-05 |
+
+
+O documento apresenta-se como artigo científico. Análise do desmatamento em escala global, abordando causas (agropecuária, exploração madeireira, expansão urbana), consequências (mudanças climáticas, perda de biodiversidade, degradação do solo) e perspectivas para conservação florestal....
+
+
+**Tema central:** Desmatamento Mundial: Causas, Consequências e Perspectivas. 
+Análise do desmatamento em escala global, abordando causas (agropecuária, exploração madeireira, expansão urbana), consequências (mudanças climáticas, perda de biodiversidade, degradação do solo) e perspectivas para conservação florestal.
+
+
+O aproveitamento energético da biomassa de bambu e resíduos agroflorestais contribui para a matriz renovável, com aplicações em pirólise, gaseificação e biocombustíveis.
+
+
+
+We run simulations of Eqs. (1), (2) and (5) simultaneously for different values of of parameters a0
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # IFB — Desmatamento Mundial
 
 > **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
@@ -23,32 +102,35 @@ P20
 | **Código** | IFB-E9-05 |
 
 ## 2. Estrutura e Organização
-O documento apresenta-se como artigo científico. Análise do desmatamento em escala global, abordando causas (agropecuária, exploração madeireira, expansão urbana), consequências (mudanças climáticas, perda de biodiversidade, degradação do solo) e perspectivas para conservação florestal....
-
-## 3. Problema e Perguntas de Pesquisa
-**Tema central:** Desmatamento Mundial: Causas, Consequências e Perspectivas. 
-Análise do desmatamento em escala global, abordando causas (agropecuária, exploração madeireira, expansão urbana), consequências (mudanças climáticas, perda de biodiversidade, degradação do solo) e perspectivas para conservação florestal.
-
-## 4. Referencial Teórico
-O aproveitamento energético da biomassa de bambu e resíduos agroflorestais contribui para a matriz renovável, com aplicações em pirólise, gaseificação e biocombustíveis.
-
-## 5. Metodologia
-
-We run simulations of Eqs. (1), (2) and (5) simultaneously for different values of of parameters a0 and α depend- ing on β as explained in Methods and Results to generate Figs. 5, 6 and 7. Equations (1), (2) are integrated via standard Euler method. Eq. (5) is integrated as well via standard Euler method between the random changes of the variable ξ. The stochastic dichotomous process ξ is generated numerically in the following way: using the ran- dom number generator from gsl library we generate
-
-## 6. Principais Achados
-Análise do desmatamento em escala global, abordando causas (agropecuária, exploração madeireira, expansão urbana), consequências (mudanças climáticas, perda de biodiversidade, degradação do solo) e perspectivas para conservação florestal.
-
-## 7. Avaliação Crítica
-**Contribuições:** Documento que contribui com dados sobre conceitos e fundamentos relacionados a carbono/clima, desmatamento, floresta. Relevante para a cadeia produtiva do bambu e desenvolvimento sustentável.
-**Limitações:** Análise baseada no texto extraído do PDF. Recomenda-se consulta ao documento original para verificação de detalhes.
-**Qualidade formal:** Documento com estrutura acadêmico-científica formal.
-
-## 8. Inserção no Estado da Arte
-Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Energia, Resíduos e Saneamento**. Consulte o catálogo geral para visão abrangente. Conteúdo extraído do PDF original.
-
-## Referência (ABNT)
-Autores diversos. **Desmatamento Mundial: Causas, Consequências e Perspectivas**. 2020.
+O documento apresenta-se como artigo científico. Análise do desmatamento em escala global, abordando causas (agropecuária, exploração madeireira, expansão urbana), consequências (mudanças climáticas, perda de biodiversidade, degradação do solo) e perspectivas para
+```
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

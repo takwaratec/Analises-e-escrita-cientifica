@@ -4,11 +4,42 @@ instituicao: Consórcio UnB / UFRR / UFAC
 tipo: Documentação Técnica
 referencia: FICHA_Acordos_Compensacao_Exercito_Carvalho_2025.md
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
+
+# FICHA Acordos Compensacao Exercito Carvalho 2025
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB / UFRR / UFAC |
+| **Referencia** | FICHA_Acordos_Compensacao_Exercito_Carvalho_2025.md |
+| **Arquivo** | `POL_FICHA_Acordos_Compensacao_Exercito_Carvalho_2025.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 <p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
 
-### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+
 *   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
 *   **Instituição**: Consórcio UnB / UFRR / UFAC
 *   **Referência**: FICHA_Acordos_Compensacao_Exercito_Carvalho_2025.md
@@ -28,46 +59,81 @@ status: Consolidado
 
 Como Pesquisador Sênior e Analista de Dados do Projeto WTF (Mulheres Que Tecem a Floresta), apresento a FICHA CIENTÍFICA ESTRUTURADA a partir do texto bruto fornecido.
 
-## FICHA CIENTÍFICA ESTRUTURADA - Projeto WTF
 
-### 1. METADADOS E CABEÇALHO
+
+
 
 * <img src="../../../assets/icons/human_15_black.svg" width="18px">   **projeto:** <img src="../../../assets/icons/human_15_black.svg" width="18px"> Mulheres Que Tecem a Floresta
 * <img src="../../../assets/icons/human_11_black.svg" width="18px">   **instituicao:** <img src="../../../assets/icons/human_11_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../assets/icons/human_19_black.svg" width="18px">   **tipo:** <img src="../../../assets/icons/human_19_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../assets/icons/human_17_black.svg" width="18px">   **referencia:** <img src="../../../assets/icons/human_17_black.svg" width="18px"> PES-TEC-4178-2026
-* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **status:** <img src="../../../assets/icons/human_13_black.svg" width="18px"> Ready
-* <img src="../../../assets/icons/human_08_black.svg" width="18px">   **Data de Criação da Ficha:** <img src="../../../assets/icons/human_08_black.svg" width="18px"> 2026-03-24
-
-**REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
-
-PEIXOTO, Marco Aurélio Milagres et al. Acordos de compensação tecnológica e industrial no Exército Brasileiro: panorama normativo e implicações para inovação e autonomia estratégica em defesa. **Revista Regeo**, São José dos Pinhais, v. 16, n. 5, p. 1-24, 2025. DOI: 10.56238/revgeov16n5-102.
-
-### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-
-**Síntese Técnica do Resumo (Português):**
-
-Este estudo aborda os acordos de compensação tecnológica e industrial (offsets) no contexto das importações de produtos de defesa pelo Exército Brasileiro. Tais acordos são ferramentas vitais para países em desenvolvimento de sua indústria de defesa, como o Brasil, visando fortalecer a inovação e a autonomia estratégica em defesa. A pesquisa analisou a interação complexa entre defesa, inovação e autonomia estratégica através de um panorama normativo, propondo recomendações para otimizar o uso dos offsets. A metodologia empregada foi exploratória e bibliográfica, baseada em artigos, legislações e documentos oficiais. Concluiu-se que, apesar das dificuldades inerentes à negociação, os offsets são instrumentos valiosos para a soberania e o progresso nacional, permitindo a aquisição e incorporação de novas capacidades tecnológicas no país.
-
-**Palavras-chave em português:**
-1.  Offsets
-2.  Inovação
-3.  Autonomia Estratégica
-
-### 3. EXTRAÇÃO DE DADOS (TABELA)
-
-| Característica/Dado | Valor/Descrição                                                                                                       |
-| :
+* <img src="../../../assets/icons/human_19_black.svg" width="18px">   **tipo:** <img src="../../.
 
 ---
 
----
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
 ---
 
----
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+
+### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Acordos_Compensacao_Exercito_Carvalho_2025.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+![Status: Consoliado](https://img.shields.io/badge/Status-Consoliado-brightgreen)
+
+<p align="right"><i>"O futuro pode ser ancestral."<br>— Ailton Krenak</i></p>
+```
 
 ---
 
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
 ---
-<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

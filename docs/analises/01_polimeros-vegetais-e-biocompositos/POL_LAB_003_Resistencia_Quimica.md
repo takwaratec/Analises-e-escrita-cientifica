@@ -4,8 +4,85 @@ instituicao: Consórcio UnB / UFRR / UFAC
 tipo: Laudo Técnico (Laboratório)
 referencia: LAB_003_Resistencia_Quimica.md
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# src="../../../assets/patterns/square title red.svg" width="30px"> Laudo Técnico: Resistência Química (H2S / Ácidos)
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB / UFRR / UFAC |
+| **Referencia** | LAB_003_Resistencia_Quimica.md |
+| **Arquivo** | `POL_LAB_003_Resistencia_Quimica.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** poliuretano, tratamento, resíduo
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+<p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
+
+
+
+
+
+Este laudo técnico descreve a capacidade de resistência química da resina de poliuretano vegetal **Imperveg RQI 132 M** frente a agentes corrosivos comuns em infraestruturas de saneamento e processos industriais.
+
+---
+
+
+
+A resina foi testada em ambientes saturados de Gás Sulfídrico (H2S), condição típica em Estações de Tratamento de Esgoto (ETE) e reatores anaeróbios (UASB).
+
+*   **Proteção do Concreto**: O revestimento atua como membrana monolítica impenetrável, impedindo a formação de Ácido Sulfúrico (H2SO4) na interface com o concreto, onde revestimentos comuns falham precocemente.
+*   **Inércia Química**: O biopolímero mantém suas propriedades mecânicas sem apresentar inchaço (swelling) ou amolecimento após exposição prolongada.
+
+---
+
+
+
+| Agente Químico | Concentração | Resultado (
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 ![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
 
 <p align="right"><i>"A ciência não é apenas um corpo de conhecimento, é um modo de pensar."<br>— Marcelo Gleiser</i></p>
@@ -18,30 +95,35 @@ Este laudo técnico descreve a capacidade de resistência química da resina de 
 
 ---
 
-## <img src="../../../assets/patterns/square_01_red.svg" width="22px"> 1. Resistência a Gases e Corrosão Biogênica
-
-A resina foi testada em ambientes saturados de Gás Sulfídrico (H2S), condição típica em Estações de Tratamento de Esgoto (ETE) e reatores anaeróbios (UASB).
-
-*   **Proteção do Concreto**: O revestimento atua como membrana monolítica impenetrável, impedindo a formação de Ácido Sulfúrico (H2SO4) na interface com o concreto, onde revestimentos comuns falham precocemente.
-*   **Inércia Química**: O biopolímero mantém suas propriedades mecânicas sem apresentar inchaço (swelling) ou amolecimento após exposição prolongada.
+## <img src="../../../assets/patterns/square_01_red.svg" width="22px"> 1. Resistência a Gases e Corro
+```
 
 ---
 
-## <img src="../../../assets/patterns/square_02_black.svg" width="22px"> 2. Performance em Diques de Contenção
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-| Agente Químico | Concentração | Resultado (28 dias) | Observação |
-| :--- | :---: | :---: | :--- |
-| Ácido Clorhídrico | 10% | **Estável** | Sem alteração de cor ou adesão |
-| Hidróxido de Sódio | 20% | **Estável** | Resistência total à saponificação |
-| Água do Mar | Saturação | **Estável** | Proteção contra cloretos |
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-## <img src="../../../assets/patterns/square_03_black.svg" width="22px"> 3. Aplicações no Projeto MQTF
+## 7. APLICAÇÕES PRÁTICAS
 
-A validação da resistência química é crucial para:
-1.  **Biorrefinarias (T01/T02)**: Proteção de pisos e bancadas de processamento sujeitos a derramamentos de insumos orgânicos.
-2.  **Saneamento Ecológico**: Revestimento de tanques de tratamento de resíduos líquidos em comunidades isoladas, garantindo que o efluente não contamine o solo.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
-<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

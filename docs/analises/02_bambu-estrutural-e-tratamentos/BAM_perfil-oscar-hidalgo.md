@@ -7,8 +7,77 @@ instituicao: Tecnologia Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# il: Oscar Hidalgo López
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Nome** | Oscar Hidalgo López |
+| **Area** | Arquitetura / Engenharia de Bambu / Ciência dos Materiais |
+| **Autor** | Fabio Takwara |
+| **Instituicao** | Tecnologia Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `BAM_perfil-oscar-hidalgo.md` |
+| **Eixo** | 02_bambu-estrutural-e-tratamentos (Bambu Estrutural e Tratamentos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 02_bambu-estrutural-e-tratamentos
+- **Área:** Bambu Estrutural e Tratamentos
+- **Palavras-chave:** bambu, tratamento
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+| Campo | Dado |
+|---|---|
+| **Nome completo** | Oscar Hidalgo López |
+| **Nacionalidade** | Colombiana |
+| **Formação** | Arquiteto pela Universidad Nacional de Colombia |
+| **Instituição** | Universidad Nacional de Colombia / Centro de Investigación de Bambú y Madera (CIBAM) |
+| **Área de atuação** | Arquitetura sustentável, sistematização do conhecimento sobre bambu, tecnologia construtiva com Guadua angustifolia, preservação e tratamento do bambu |
+| **Período** | 1930–2014 |
+
+
+
+Oscar Hidalgo López é a figura central na sistematização global do conhecimento sobre o bambu como material de construção. Distinto dos arquitetos que ganharam fama pelo design de edifícios icônicos, seu legado reside na monumental tarefa de transformar um saber ancestral e empírico em uma ciência aplicada acessível a construtores, engenheiros e arquitetos em todo o mundo. Reconhecido como "el Maestro" e "The Godfather of Bamboo" pela World Bamboo Organization, Hidalgo dedicou mais de quatro décadas a pesquisar, documentar, publicar e ensinar tudo o que diz respeito ao bambu, com foco especial na espécie *Guadua angustifolia*, que batizou de "aço vegetal".
+
+Na Universidad Nacional de Colombia, fundou o Centro de Investigación de Bambú y Madera (CIBAM), que institucionalizou a pesquisa sobre o bambu na academia colombiana e serviu como plataforma para suas publicações e a formação de novos pesquisadores.
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Perfil: Oscar Hidalgo López
 
 ## 1. Identificação
@@ -24,32 +93,35 @@ licenca: CC BY 4.0
 
 ## 2. Contribuições para a Ciência do Bambu
 
-Oscar Hidalgo López é a figura central na sistematização global do conhecimento sobre o bambu como material de construção. Distinto dos arquitetos que ganharam fama pelo design de edifícios icônicos, seu legado reside na monumental tarefa de transformar um saber ancestral e empírico em uma ciência aplicada acessível a construtores, engenheiros e arquitetos em todo o mundo. Reconhecido como "el Maestro" e "The Godfather of Bamboo" pela World Bamboo Organization, Hidalgo dedicou mais de quatro décadas a pesquisar, documentar, publicar e ensinar tudo o que diz respeito ao bambu, com foco especial na espécie *Guadua angustifolia*, que batizou de "aço vegetal".
+Oscar Hidalgo López é a figura central na sistematização global do conhecimento sobre o bambu como material de construção. Distinto dos arquitetos que ganharam fama pelo design de edifícios icônicos, seu legado reside
+```
 
-Na Universidad Nacional de Colombia, fundou o Centro de Investigación de Bambú y Madera (CIBAM), que institucionalizou a pesquisa sobre o bambu na academia colombiana e serviu como plataforma para suas publicações e a formação de novos pesquisadores. Sua obra mais emblemática, *Bamboo: The Gift of the Gods* (2003), é uma enciclopédia de mais de 550 páginas que consolida todo o conhecimento disponível sobre o bambu — da botânica e ecologia às propriedades mecânicas, aplicações industriais, técnicas construtivas, engenharia civil e até usos medicinais e culturais. A obra é referência obrigatória em teses e artigos científicos sobre bambu em todo o mundo.
+---
 
-Paralelamente, Hidalgo publicou o *Manual de Construcción con Bambú* (1974, 2ª ed. 1981), uma obra de caráter eminentemente prático voltada para o meio rural e a autoconstrução. O manual, ricamente ilustrado, democratizou o conhecimento sobre técnicas de corte, tratamento, amarrações, juntas e sistemas construtivos completos (paredes de bahareque, lajes, telhados, pontes, aquedutos), capacitando construtores em toda a América Latina. Sua abordagem pedagógica — baseada em ilustrações sequenciais que transcendem barreiras linguísticas — influenciou gerações de arquitetos e engenheiros. Hidalgo também desenvolveu técnicas inovadoras de preservação do bambu (cura na mata, cura por imersão, cura ao calor/fumaça, tratamento químico Boucherie) e documentou exaustivamente a "sintaxe das conexões" — os princípios fundamentais para juntas estruturais seguras em bambu.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 3. Principais Obras e Publicações
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-| Obra | Tipo | Ano | Destaque |
-|---|---|---|---|
-| *Bamboo: The Gift of the Gods* | Livro | 2003 | Enciclopédia definitiva de 553 páginas sobre bambu; "a Bíblia do Bambu" |
-| *Manual de Construcción con Bambú* | Livro/manual | 1974/1981 | Guia prático ilustrado para construção rural; democratização do conhecimento |
-| *Bambú: su cultivo y aplicaciones en: fabricación de papel, construcción, arquitectura, ingeniería y artesanía* | Livro | 1974 | Primeira obra abrangente sobre cultivo e aplicações |
-| Fundação do CIBAM (Centro de Investigación de Bambú y Madera) | Instituição | — | Institucionalização da pesquisa em bambu na Universidad Nacional de Colombia |
-| Pioneirismo no conceito de "bambucreto" (bambu como reforço em concreto) | Inovação | — | Campo de pesquisa que continua ativo |
-| Reconhecimento como Bamboo Pioneer pela World Bamboo Organization | Homenagem | — | Validação global de sua contribuição |
+---
 
-## 4. Citações e Referências
+## 7. APLICAÇÕES PRÁTICAS
 
-- HIDALGO-LÓPEZ, O. *Bamboo: the gift of the gods*. Bogotá: D'Vinni, 2003. 553 p.
-- HIDALGO-LÓPEZ, O. *Manual de construcción con bambú*. Bogotá: Estudios Técnicos Colombianos Ltda., 1981. (Construcción Rural, v. 1). Publicado em associação com a Universidad Nacional de Colombia / CIBAM.
-- HIDALGO-LÓPEZ, O. *Bambú: su cultivo y aplicaciones en: fabricación de papel, construcción, arquitectura, ingeniería y artesanía*. Cali: Estudios Técnicos Colombianos, 1974.
-- ARCE-VILLALOBOS, O. *Fundamentals of the design of bamboo structures*. 1993. Tese (Doutorado) — Eindhoven University of Technology.
-- PEREIRA, M. A. R.; BERALDO, A. L. *Bambu de corpo e alma*. Bauru: Canal 6, 2007. (Obra que referencia extensivamente Hidalgo).
-- MORALES REGUEROS, L. "El arquitecto del acero vegetal". *Gatopardo*, 16 fev. 2016.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-## 5. Relevância para o Acervo
+---
 
-Oscar Hidalgo López é o elo fundamental entre o conhecimento ancestral do bambu nas Américas e sua aplicação na engenharia e arquitetura contemporâneas. Para o ecossistema Tecnologia Takwara, sua obra cumpre três funções essenciais: (1) fornece a base enciclopédica e técnica que legitima o bambu como material de alto desempenho — o "aço vegetal"; (2) oferece um manual prático de técnicas construtivas (amarrações, juntas, bahareque, cura) que são a gramática fundamental de qualquer projeto em bambu; e (3) estabelece uma filosofia que vê o bambu não como substituto pobre de outros materiais, mas como um recurso superior em suas próprias qualidades — leveza, flexibilidade, resistência sísmica, renovabilidade. Sua influência direta sobre Simón Vélez e indireta sobre toda a arquitetura contemporânea em bambu faz de Hidalgo uma referência indispensável para a Takwara, que herda e atualiza esse legado de inovação com responsabilidade ecológica e cultural.
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

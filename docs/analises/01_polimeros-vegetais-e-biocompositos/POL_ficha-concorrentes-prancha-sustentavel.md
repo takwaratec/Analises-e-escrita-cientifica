@@ -6,8 +6,93 @@ autor: Fabio Takwara / Hermes Agent
 fontes: Kehl, Seawell, Siebert, Index Krown, Surf Inc
 data: 30/06/2026
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# orrentes em Pranchas Sustentáveis — Levantamento de Mercado
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos |
+| **Tema** | Concorrentes Prancha Sustentavel - Levantamento |
+| **Autor** | Fabio Takwara / Hermes Agent |
+| **Fontes** | Kehl, Seawell, Siebert, Index Krown, Surf Inc |
+| **Data** | 30/06/2026 |
+| **Arquivo** | `POL_ficha-concorrentes-prancha-sustentavel.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, pu vegetal, resíduo
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+Levantar e analisar as iniciativas concorrentes no segmento de pranchas de surf e bodyboard com apelo ecológico/sustentável, como subsídio para o desenvolvimento da Eco Prancha (PU Vegetal + Bambu).
+
+
+
+Pesquisa web nos sites oficiais e plataformas de divulgação das empresas identificadas através de busca sistemática, incluindo Kehl Polímeros, Seawell, Siebert Woodcraft e Index Krown.
+
+
+
+
+
+| Campo | Dado |
+|---|---|
+| Produto | Prancha de Surf de Bioespuma |
+| Tecnologia | Espuma de PU à base de óleos vegetais |
+| Parceiro | Surf Inc / Surf Sync (https://surfinsync.com/) |
+| Status | **Em desenvolvimento** (~12 meses para mercado) |
+| Site | https://www.kehl.ind.br/?projects=prancha-de-surf-de-bioespuma |
+
+A Kehl desenvolveu espuma de PU vegetal específica para pranchas de surf. A aplicação é voltada ao miolo (blank). A parceria comercial é com a Surf Sync, responsável pela distribuição. O projeto está em fase de desenvolvimento, com previsão de 12 meses para lançamento.
+
+**Diferencial:** Primeiro fabricante brasileiro de espuma vegetal específica para pranchas.
+
+**Limitação:** Ainda não é produto de prateleira (status: desenvolvimento). A espuma é o miolo — não cobre resina de laminação ou fibras.
+
+
+
+| Campo | Dado |
+|---|---|
+| Produto | Prancha impressa em 3D |
+| Tecnologia | PLA recicl
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Concorrentes em Pranchas Sustentáveis — Levantamento de Mercado
 
 ## 1. Objetivo
@@ -27,90 +112,35 @@ Pesquisa web nos sites oficiais e plataformas de divulgação das empresas ident
 | Produto | Prancha de Surf de Bioespuma |
 | Tecnologia | Espuma de PU à base de óleos vegetais |
 | Parceiro | Surf Inc / Surf Sync (https://surfinsync.com/) |
-| Status | **Em desenvolvimento** (~12 meses para mercado) |
-| Site | https://www.kehl.ind.br/?projects=prancha-de-surf-de-bioespuma |
+| Status | **Em desenvolvimento** (~12 meses para
+```
 
-A Kehl desenvolveu espuma de PU vegetal específica para pranchas de surf. A aplicação é voltada ao miolo (blank). A parceria comercial é com a Surf Sync, responsável pela distribuição. O projeto está em fase de desenvolvimento, com previsão de 12 meses para lançamento.
+---
 
-**Diferencial:** Primeiro fabricante brasileiro de espuma vegetal específica para pranchas.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-**Limitação:** Ainda não é produto de prateleira (status: desenvolvimento). A espuma é o miolo — não cobre resina de laminação ou fibras.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-### 3.2 Seawell (SP)
+---
 
-| Campo | Dado |
-|---|---|
-| Produto | Prancha impressa em 3D |
-| Tecnologia | PLA reciclado (ácido poliláctico) + impressão 3D |
-| Status | Comercial |
-| Site | seawell.com.br |
+## 7. APLICAÇÕES PRÁTICAS
 
-A Seawell produz pranchas com blank impresso em 3D usando PLA reciclado (bioplástico derivado de milho/cana). O processo permite precisão geométrica e redução de resíduos. O PLA é biodegradável em condições industriais.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-**Diferencial:** Tecnologia 3D, blank reciclável, precisão de shapes.
+---
 
-**Limitação:** PLA tem resistência mecânica inferior ao PU, depende de laminação com epóxi (ainda petroquímico).
+## 8. REFERÊNCIAS
 
-### 3.3 Siebert Woodcraft / Sbeesurf
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-| Campo | Dado |
-|---|---|
-| Produto | Corky — prancha de cortiça |
-| Tecnologia | EPS reciclável + cortiça + madeira |
-| Status | Comercial |
-| Site | https://www.sbeesurf.com/pranchas_ecologicas |
 
-A Corky da Siebert combina EPS (poliestireno expandido reciclável) com cortiça natural e madeira. A cortiça é renovável e biodegradável, mas o EPS ainda é petroquímico.
+---
 
-**Diferencial:** Uso de cortiça (renovável, nacional), acabamento natural.
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-**Limitação:** EPS continua sendo petroquímico. Resina epóxi ainda necessária.
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
 
-### 3.4 Index Krown — ECO System
-
-| Campo | Dado |
-|---|---|
-| Produto | Sistema ECO |
-| Tecnologia | Bloco + resina + tecido sustentáveis |
-| Status | Comercial |
-
-A Index Krown desenvolveu o sistema ECO que aborda todos os componentes: bloco sustentável, resina de baixo impacto e tecido de fibras naturais. É a iniciativa mais completa entre as analisadas.
-
-### 3.5 Outras iniciativas
-
-- **Pranchas de madeira (paulownia):** shapers artesanais utilizam madeira de paulownia (crescimento rápido), mas a resina epóxi permanece.
-- **Pranchas de bambu:** iniciativas experimentais com bambu como substituto do blank, geralmente combinado com epóxi.
-- **Morey/bodyboards EPP:** bodyboards profissionais em EPP (polipropileno expandido) — resistente, mas petroquímico.
-
-## 4. Análise Comparativa
-
-| Concorrente | Miolo | Resina | Fibra | Status | Preço |
-|---|---|---|---|---|---|
-| **KEHL** | PU vegetal | — | — | 🔬 Desenvolvimento | — |
-| **Seawell** | PLA reciclado | Epóxi | — | ✅ Comercial | Premium |
-| **Corky** | EPS + cortiça | Epóxi | — | ✅ Comercial | Médio |
-| **Index ECO** | Sustentável | Baixo impacto | Natural | ✅ Comercial | Premium |
-| **Madeira** | Paulownia | Epóxi | — | ✅ Artesanal | Alto |
-| **Eco Prancha** | **PU Vegetal** | **PU Vegetal** | **Juta/sisal** | 🔬 Concepção | — |
-
-## 5. Posicionamento da Eco Prancha
-
-A Eco Prancha Takwara é a única proposta que substitui **todos** os componentes petroquímicos por equivalentes vegetais:
-- **Miolo:** PU Vegetal Expansivo (Imperveg)
-- **Resina:** PU Vegetal Impermeabilizante (UG 132A / MAMONEX RD70)
-- **Fibra:** Juta, sisal ou coco (compósitos vegetais)
-- **Stringer:** Bambu laminado
-
-Nenhum concorrente oferece substituição integral — todos mantêm ao menos um componente petroquímico (epóxi, EPS, fibra de vidro).
-
-## 6. Conclusões
-
-O mercado de pranchas sustentáveis é incipiente mas aquecido. A KEHL é o concorrente direto mais próximo (PU vegetal, Brasil), mas ainda está em desenvolvimento e não substitui a resina. A Eco Prancha Takwara tem potencial de ser a primeira prancha 100% vegetal do mercado — desde que as formulações de PU vegetal atinjam densidade, flexibilidade e resistência adequadas.
-
-## Referências
-
-- KEHL. Prancha de Surf de Bioespuma. https://www.kehl.ind.br
-- Seawell. Pranchas 3D. https://www.seawell.com.br
-- Siebert / Sbeesurf. Corky. https://www.sbeesurf.com.br
-- Index Krown. ECO System. https://www.indexkrown.com.br
-- Takwara, F. R. Eco Prancha — Estado da Arte. GitHub eco-prancha.

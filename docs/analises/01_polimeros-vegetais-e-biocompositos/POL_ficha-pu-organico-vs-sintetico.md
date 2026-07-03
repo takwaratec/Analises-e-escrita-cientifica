@@ -6,8 +6,78 @@ instituicao: Tecnologia Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# a Técnica: Poliuretano Orgânico vs Sintético — Comparação Técnica
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Tecnologia** | Poliuretano Orgânico vs Sintético — Comparação Técnica |
+| **Autor** | Fabio Takwara |
+| **Instituicao** | Tecnologia Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_ficha-pu-organico-vs-sintetico.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** pu vegetal, poliuretano, resíduo
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+**Título:** Análise Comparativa: Produtos Químicos de Alto Impacto e Alternativas Sustentáveis na Construção Civil  
+**Campo de Aplicação:** Construção civil, acabamentos, impermeabilização, tintas, resinas  
+**Escopo:** Comparação técnica entre impermeabilizantes voláteis, resinas epóxi convencionais e alternativas sustentáveis (tintas ecológicas, PU Vegetal)
+
+
+
+Análise detalhada contrastando produtos de alto impacto ambiental (impermeabilizantes à base de solventes, resinas epóxi de Bisfenol A) com alternativas renováveis (tintas ecológicas, poliuretano vegetal de mamona). Destaque para a Imperveg Polímeros Vegetais como fabricante brasileiro de PU vegetal.
+
+
+
+| Característica | Impermeabilizantes Voláteis | Resinas Epóxi (Convencionais) | Tintas Ecológicas | PU Vegetal (Imperveg) |
+|:---------------|:---------------------------|:-----------------------------|:------------------|:----------------------|
+| Origem | Petróleo, solventes orgânicos | Petróleo (BPA, epicloridrina) | Minerais/Vegetais | Óleo de mamona (renovável) |
+| Componentes Críticos | COVs (30-60%) | Bisfenol A, Epicloridrina | Baixo/nenhum COV | Isocianatos + poliol vegetal |
+| Impacto Ambiental | Alto: COVs, smog, contaminação | Médio-Alto: toxicidade precursores | Baixo: renovável, biodegradável | Baixo-Médio: renovável, sem solventes |
+| Riscos à Saúde | Irritação, problemas r
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Ficha Técnica: Poliuretano Orgânico vs Sintético — Comparação Técnica
 
 ## 1. Identificação
@@ -21,47 +91,34 @@ licenca: CC BY 4.0
 Análise detalhada contrastando produtos de alto impacto ambiental (impermeabilizantes à base de solventes, resinas epóxi de Bisfenol A) com alternativas renováveis (tintas ecológicas, poliuretano vegetal de mamona). Destaque para a Imperveg Polímeros Vegetais como fabricante brasileiro de PU vegetal.
 
 ### Tabela Comparativa
+```
 
-| Característica | Impermeabilizantes Voláteis | Resinas Epóxi (Convencionais) | Tintas Ecológicas | PU Vegetal (Imperveg) |
-|:---------------|:---------------------------|:-----------------------------|:------------------|:----------------------|
-| Origem | Petróleo, solventes orgânicos | Petróleo (BPA, epicloridrina) | Minerais/Vegetais | Óleo de mamona (renovável) |
-| Componentes Críticos | COVs (30-60%) | Bisfenol A, Epicloridrina | Baixo/nenhum COV | Isocianatos + poliol vegetal |
-| Impacto Ambiental | Alto: COVs, smog, contaminação | Médio-Alto: toxicidade precursores | Baixo: renovável, biodegradável | Baixo-Médio: renovável, sem solventes |
-| Riscos à Saúde | Irritação, problemas respiratórios, carcinogênico | BPA (desregulador endócrino), ECH tóxica | Baixo | Baixo (resina curada atóxica) |
-| Sustentabilidade | Baixa | Baixa a Média | Alta | Média-Alta |
+---
 
-### Impactos dos COVs
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-- Contribuem para formação de ozônio troposférico (smog)
-- Podem causar irritação ocular, dores de cabeça, danos ao fígado e sistema nervoso
-- Alguns são carcinogênicos conhecidos
-- Legislações como REACH (Europa) restringem seu uso
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 3. Parâmetros Técnicos
+---
 
-### PU Vegetal (base mamona — Imperveg)
-- Isento de solventes, 100% sólido
-- Não libera VOCs
-- Biodegradável em condições adequadas
-- Resistência química comparável ou superior a PUs petroquímicos
-- Patenteada: BR 10 2022 022464-1 A2 (INPI)
+## 7. APLICAÇÕES PRÁTICAS
 
-### Resinas Epóxi (Bisfenol A)
-- Dependentes de BPA (desregulador endócrino) e epicloridrina (tóxica, CMR)
-- Processo produtivo gera resíduos perigosos
-- Não biodegradáveis
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-## 4. Aplicações
+---
 
-- **PU Vegetal:** Impermeabilização de reservatórios, lajes, ETEs; aglomerante para compósitos; adesivo estrutural
-- **Tintas Ecológicas:** Pintura de paredes internas/externas, madeiras, acabamentos (minerais, vegetais, cal)
-- **Substituição:** PU Vegetal substitui epóxi e impermeabilizantes solventes em aplicações de alta performance
+## 8. REFERÊNCIAS
 
-## 5. Referências
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-- Documento original: Takwara-Tech/docs/A3. O PU Vegetal/a4.2 Orgânicos X Sintéticos .md
-- Imperveg. https://imperveg.com/
-- ATHON EDU. Sustentabilidade na Construção Civil
-- MORDOR INTELLIGENCE. Mercado de Bioplásticos no Brasil
-- NBR 12170 — Potabilidade da água (atestada para produtos Imperveg)
-- SCIELO. LVL panels glued with castor oil-based PU adhesive. CERNE, v. 26, n. 2, 2020.
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

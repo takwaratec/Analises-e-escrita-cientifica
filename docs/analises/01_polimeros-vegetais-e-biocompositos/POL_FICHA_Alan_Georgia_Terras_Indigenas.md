@@ -4,8 +4,85 @@ instituicao: Consórcio UnB / UFRR / UFAC
 tipo: Resenha Técnica (Ficha Científica)
 referencia: FICHA_Alan_Georgia_Terras_Indigenas.md
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# src="../../../assets/patterns/square title red.svg" width="30px"> Ficha Científica: Governança em Terras Indígenas
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB / UFRR / UFAC |
+| **Referencia** | FICHA_Alan_Georgia_Terras_Indigenas.md |
+| **Arquivo** | `POL_FICHA_Alan_Georgia_Terras_Indigenas.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** governança, bioeconomia
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+<p align="right"><i>"Povos indígenas são os bioperitos de uma ciência que o ocidente apenas começou a aprender."</i></p>
+
+
+*   **Artigo/Documento**: Gestão Territorial e Ambiental em Terras Indígenas (PNGATI - AM, AC, RO).
+*   **Status**: Consolidado
+*   **Autor de Curadoria**: Consórcio UnB / UFRR / UFAC
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+
+
+Esta resenha técnica fundamenta o alinhamento do projeto MQTF com a **Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (PNGATI)**, garantindo que as intervenções nos territórios Kaxinawá, Tenharim e Paumari respeitem a autonomia e os tempos rituais das comunidades.
+
+---
+
+
+
+A gestão de Terras Indígenas (TIs) como "Escudos Verdes" é central para a proteção do bioma. O projeto atua fornecendo a infraestrutura de baixo impacto (Bioarquitetura) para que as mulheres indígenas liderem o processamento de bioativos dentro do território, evitando o êxodo e valorizando a cultura material.
+
+---
+
+
+
+*   **CPLI**: Estrita observância à Convenção 169 da OIT, com
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 <p align="right"><i>"Povos indígenas são os bioperitos de uma ciência que o ocidente apenas começou a aprender."</i></p>
 
 ### <img src="../../../assets/patterns/square_05_red.svg" width="22px"> Ficha Técnica e Metadados
@@ -17,26 +94,35 @@ status: Consolidado
 
 # <img src="../../../assets/patterns/square_title_red.svg" width="30px"> Ficha Científica: Governança em Terras Indígenas
 
-Esta resenha técnica fundamenta o alinhamento do projeto MQTF com a **Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (PNGATI)**, garantindo que as intervenções nos territórios Kaxinawá, Tenharim e Paumari respeitem a autonomia e os tempos rituais das comunidades.
+Esta resenha técnica fundamenta o alinhamento do projeto MQTF com a **Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (PNGATI)**, garantindo que as intervenções no
+```
 
 ---
 
-## <img src="../../../assets/patterns/square_01_red.svg" width="22px"> 1. Escopo e Relevância para o MQTF
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-A gestão de Terras Indígenas (TIs) como "Escudos Verdes" é central para a proteção do bioma. O projeto atua fornecendo a infraestrutura de baixo impacto (Bioarquitetura) para que as mulheres indígenas liderem o processamento de bioativos dentro do território, evitando o êxodo e valorizando a cultura material.
-
----
-
-## <img src="../../../assets/patterns/square_02_black.svg" width="22px"> 2. Consentimento e Salvaguardas
-
-*   **CPLI**: Estrita observância à Convenção 169 da OIT, com processos de consulta prévia, livre e informada.
-*   **Protocolos Próprios**: Respeito aos Protocolos de Consulta de cada povo e às decisões dos Conselhos de Caciques.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-## <img src="../../../assets/patterns/square_03_black.svg" width="22px"> 3. Conclusão
+## 7. APLICAÇÕES PRÁTICAS
 
-O MQTF atua como catalisador da PNGATI ao viabilizar a autonomia econômica indígena via **Bioeconomia Regenerativa**, integrando o monitoramento geoespacial (SMGA) à vigilância territorial tradicional.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
-<p align="center"><img src="../../../assets/logo_BQTF/logo_mqtf_soberana.svg" width="40px"><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

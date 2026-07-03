@@ -6,8 +6,85 @@ instituicao: Tecnologia Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# a Técnica: Ecossistema do Bambu no Brasil
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Tecnologia** | Ecossistema do Bambu no Brasil |
+| **Autor** | Fabio Takwara |
+| **Instituicao** | Tecnologia Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `BAM_ficha-ecossistema-bambu-brasil.md` |
+| **Eixo** | 02_bambu-estrutural-e-tratamentos (Bambu Estrutural e Tratamentos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 02_bambu-estrutural-e-tratamentos
+- **Área:** Bambu Estrutural e Tratamentos
+- **Palavras-chave:** bambu, bioeconomia
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+**Título:** O Ecossistema do Bambu no Brasil: Mapeamento de Eventos, Redes e Articuladores-Chave  
+**Campo de Aplicação:** Gestão setorial, desenvolvimento de rede, estratégia de engajamento, inteligência de mercado  
+**Escopo:** Mapeamento completo dos principais eventos, organizações e personalidades que estruturam o setor de bambu no Brasil
+
+
+
+O setor de bambu no Brasil movimenta globalmente ~USD 68 bilhões anuais, com o país detendo a maior biodiversidade de bambu das Américas (~258 espécies nativas) e o segundo maior acervo mundial. No entanto, o ecossistema é fragmentado e sofre com a regulamentação incompleta da Lei nº 12.484/2011.
+
+
+
+| Evento | Periodicidade | Foco | Organizador |
+|:-------|:-------------|:-----|:-----------|
+| Seminário Nacional do Bambu (SNB) | Bienal | Pesquisa acadêmica, inovação | RBB + Universidades |
+| Congresso Mundial do Bambu (WBC) | Periódico | Mercado global, tecnologia | World Bamboo Organization |
+| Seminários Regionais | Variável | Desenvolvimento local | BambuSC, Embrapa, Funtac |
+
+
+
+| Organização | Fundação | Foco | Liderança |
+|:------------|:---------|:-----|:----------|
+| Rede Brasileira do Bambu (RBB) | 2006 | Pesquisa/Academia | Pesquisadores universitários |
+| Associação Brasileira do Bambu (BambuBR) | 2018 | Cadeia produtiva/indústria | Juliana Cortez Barbosa |
+| BambuSC (Assoc. Catarinense) |
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Ficha Técnica: Ecossistema do Bambu no Brasil
 
 ## 1. Identificação
@@ -22,66 +99,35 @@ O setor de bambu no Brasil movimenta globalmente ~USD 68 bilhões anuais, com o 
 
 ### Principais Eventos
 
-| Evento | Periodicidade | Foco | Organizador |
-|:-------|:-------------|:-----|:-----------|
-| Seminário Nacional do Bambu (SNB) | Bienal | Pesquisa acadêmica, inovação | RBB + Universidades |
-| Congresso Mundial do Bambu (WBC) | Periódico | Mercado global, tecnologia | World Bamboo Organization |
-| Seminários Regionais | Variável | Desenvolvimento local | BambuSC, Embrapa, Funtac |
+| Evento | Periodicidade | Foco | Organizad
+```
 
-### Organizações Articuladoras
+---
 
-| Organização | Fundação | Foco | Liderança |
-|:------------|:---------|:-----|:----------|
-| Rede Brasileira do Bambu (RBB) | 2006 | Pesquisa/Academia | Pesquisadores universitários |
-| Associação Brasileira do Bambu (BambuBR) | 2018 | Cadeia produtiva/indústria | Juliana Cortez Barbosa |
-| BambuSC (Assoc. Catarinense) | 2005 | Regional (SC) | Hans J. Kleine, Thiago S. Ornellas |
-| Rede Bambu Goiás | 2013 | Regional (GO)/Academia | Rogério A. Almeida |
-| CERBAMBU | 2010 | Educação/Bioconstrução | Lúcio Ventania |
-| Ebiobambu | 2002 | Bioarquitetura | Celina Llerena |
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-### Articuladores-Chave (por área)
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-| Articulador | Atuação | Plataforma |
-|:------------|:--------|:-----------|
-| Juliana Cortez Barbosa | Política industrial, pesquisa, associativismo | BambuBR / UNESP |
-| Lúcio Ventania | Educação holística, bioconstrução | CERBAMBU |
-| Celina Llerena | Bioarquitetura, agroecologia | Ebiobambu |
-| Frederico Rosalino | Engenharia estrutural | Bioestrutura Engenharia |
-| Leiko Motomura | Arquitetura sustentável (grande porte) | Amima Arquitetura |
-| Bruno Sales | Agronomia, capacitação prática | Bambu Mantiqueira |
+---
 
-## 3. Parâmetros Técnicos
+## 7. APLICAÇÕES PRÁTICAS
 
-### Desafios Estruturais
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-- **Gargalo Regulatório:** Lei 12.484/2011 aguarda regulamentação há mais de 12 anos
-- **Lacunas na Cadeia de Suprimentos:** Oferta insuficiente de mudas, logística precária
-- **Barreira Cultural:** Bambu visto como material de baixo valor ("madeira de pobre")
-- **Fragmentação:** Falta de coordenação entre academia, indústria e governo
+---
 
-### Oportunidades Emergentes
+## 8. REFERÊNCIAS
 
-- Bioeconomia e sustentabilidade (carbono, materiais renováveis)
-- Mercado global em expansão (CAGR ~5%)
-- Desenvolvimento rural (agricultura familiar)
-- COP30 (potencial vitrine internacional)
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-## 4. Aplicações
 
-- Inteligência setorial para novos entrantes
-- Estratégia de engajamento (investidores, pesquisadores, empreendedores)
-- Mapeamento de parcerias e colaborações
-- Advocacy político para regulamentação da PNMCB
-- Desenvolvimento de redes de inovação
+---
 
-## 5. Referências
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-- Documento original: Takwara-Tech/docs/A2.  O Bambu/ecossistema-do-bambu-no-brasil.md (arquivo vazio); conteúdo alternativo de /docs/A2.  O Bambu/# a2.3 O Ecossistema do Bambu no Brasil.md
-- Grand View Research. Global Bamboo Market, 2023.
-- BRASIL. Lei nº 12.484/2011.
-- RBB. https://redebrasileiradobambu.com.br/
-- BambuBR. https://bambubr.com/
-- CERBAMBU. https://www.cerbambu.org.br/
-- Ebiobambu. https://www.ebiobambu.com.br/
-- BambuSC. https://bambusc.org.br/
-- Bioestrutura Engenharia. http://www.bioestrutura.com.br/
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

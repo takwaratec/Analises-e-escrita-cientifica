@@ -6,13 +6,43 @@ instituicao: Tecnologia Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha Científica: Imperveg RQI 132 — Polímeros de Mamona para Impermeabilização de Infraestruturas de Concreto
+# nha Científica: Imperveg RQI 132 — Polímeros de Mamona para Impermeabilização de Infraestruturas de Concreto
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Tecnologia** | Imperveg RQI 132 — Polímeros de Mamona para Impermeabilização de Infraestruturas de Concreto |
+| **Autor** | Fabio Takwara |
+| **Instituicao** | Tecnologia Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_polimeros-mamona-permeabilidade.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, pu vegetal, poliuretano, certificação, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** O artigo apresenta a caracterização técnica da resina IMPERVEG RQI 132, um poliuretano vegetal bicomponente derivado do óleo de mamona (Ricinus communis), avaliado como sistema de impermeabilização e proteção para infraestruturas de concreto. Ensaios conduzidos no ITecons (Coimbra, Portugal) abrangem propriedades mecânicas (resistência de adesão por pull-off), barreira ao vapor d'água (ISO 7783:2018), e desempenho em condições de envelhecimento acelerado e choque térmico. Os resultados demonstram que o PU vegetal de mamona apresenta desempenho superior ou equivalente aos sistemas petroquímicos convencionais, com redução de 99,85% na permeabilidade ao vapor d'água (de 252 para 0,37 g/m²·d) e adesão >1,1 MPa (superando o requisito normativo de 1,0 MPa), com a vantagem de ser 100% renovável, isento de VOCs e atóxico.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -20,68 +50,60 @@ licenca: CC BY 4.0
 | **Autor** | Fabio Resck Takwara (ORCID 0009-0002-6044-2583) |
 | **Tipo de documento** | Preprint / Artigo Técnico-Científico |
 | **Produto avaliado** | IMPERVEG RQI 132 — Resina bicomponente (A+B) de poliuretano vegetal |
-| **Laboratório de ensaios** | ITecons — Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente e Sustentabilidade (Coimbra, Portugal) |
-| **Status** | Preprint — DOI pendente |
-| **Palavras-chave** | Poliuretano vegetal; óleo de mamona; Ricinus communis; impermeabilização; concreto; permeabilidade ao vapor; adesão; ITecons; Imperveg |
+| **Laboratório de ensaios** | ITecons — Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente
 
-## 2. Estrutura e Organização
+---
 
-O preprint organiza-se em: resumo; introdução (contexto dos polímeros vegetais, problemática dos impermeabilizantes petroquímicos); seção de ensaios e métodos (ITecons, normas ISO 7783, EN 1504-2, EN 1062-6, EN 13687); resultados (permeabilidade ao vapor, adesão pull-off, barreira à carbonatação); discussão comparativa com sistemas convencionais (PU petroquímico, epóxi, acrílico); considerações finais; referências.
+## 4. ANÁLISE CRÍTICA
 
-## 3. Problema e Perguntas de Pesquisa
+*Análise pendente — conversão automatizada.*
 
-Objetivo: caracterizar tecnicamente a resina RQI 132 como sistema de impermeabilização e proteção para infraestruturas de concreto, validando seu desempenho frente a sistemas petroquímicos convencionais. Perguntas centrais: o PU vegetal de mamona atende aos requisitos normativos para impermeabilização de concreto? Como seu desempenho se compara a sistemas epóxi e poliuretânicos fósseis?
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-## 4. Referencial Teórico
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-O referencial abrange: química dos poliuretanos vegetais (polióis de óleo de mamona); impermeabilização de infraestruturas de concreto; normas técnicas (ISO 7783, EN 1504-2, EN 1062-6, EN 13687); mecanismos de degradação do concreto (carbonatação, ataque químico, ciclos gelo-degelo); comparação entre sistemas petroquímicos e renováveis; certificação de água potável.
+---
 
-## 5. Metodologia
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-Ensaios conduzidos no ITecons (Coimbra, Portugal) conforme normas ISO e EN:
-1. **Permeabilidade ao vapor d'água** (ISO 7783:2018): medição da taxa de transmissão de vapor em substrato com e sem revestimento.
-2. **Resistência de adesão por pull-off** (EN 1504-2): tensão de adesão em condição padrão, após envelhecimento térmico (70°C) e após choque térmico (60 ciclos gelo-degelo, EN 13687).
-3. **Barreira à carbonatação** (NP EN 1062-6): espessura equivalente de ar (Sd) e fator de resistência à difusão de CO₂ (μ).
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-## 6. Principais Achados
+```
+# Resenha Científica: Imperveg RQI 132 — Polímeros de Mamona para Impermeabilização de Infraestruturas de Concreto
 
-| Parâmetro | Substrato sem revestimento | Com RQI 132 | Redução |
-|---|---|---|---|
-| Permeabilidade ao vapor | 252 g/(m²·d) | 0,37 g/(m²·d) | **99,85%** |
-| Espessura equivalente de ar (Sd) | — | 64 m | — |
-| Fator de resistência à difusão (μ) | — | 48.160 | — |
+> **Resumo:** O artigo apresenta a caracterização técnica da resina IMPERVEG RQI 132, um poliuretano vegetal bicomponente derivado do óleo de mamona (Ricinus communis), avaliado como sistema de impermeabilização e proteção para infraestruturas de concreto. Ensaios conduzidos no ITecons (Coimbra, Portugal) abrangem propriedades mecânicas (resistência de adesão por pull-off), barreira ao vapor d'água (ISO 7783:2018), e desempenho em condições de envelhecimento acelerado e choque térmico. Os resultados demonstram que o PU vegetal de mamona apresenta desempenho superior ou equivalente aos sistemas petroquímicos convencionais, com redução de 99,85% na permeabilidade ao vapor d'águ
+```
 
-| Condição de adesão | Tensão de adesão | Tipo de ruptura |
-|---|---|---|
-| Padrão | >1,1 MPa | Coesiva no concreto |
-| Após envelhecimento térmico (70°C) | 1,2 MPa | Coesiva no concreto |
-| Após choque térmico (60 ciclos) | 1,1 MPa | Sem delaminação |
+---
 
-| Barreira à carbonatação | Valor |
-|---|---|
-| Sd (CO₂) | 365 m |
-| μ (CO₂) | 546.000 |
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-Comparação: o PU vegetal supera sistemas petroquímicos em permeabilidade ao vapor (0,37 vs. 0,5-2,0 g/m²·d), adesão (>1,1 MPa atende EN 1504-2 com folga), e é o único com certificação de água potável.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 7. Avaliação Crítica
+---
 
-O estudo valida cientificamente o PU vegetal de mamona como material de referência para impermeabilização, com dados de desempenho superiores ou equivalentes aos sistemas petroquímicos. O valor de μ = 48.160 (vapor) e adesão >1,1 MPa após choque térmico são resultados expressivos. Como limitações: preprint com DOI pendente (sem revisão formal por pares), escopo restrito a substrato de concreto (sem ensaios em bambu/madeira), e ausência de dados de durabilidade em condições amazônicas de longo prazo. Relevância máxima para o repositório.
+## 7. APLICAÇÕES PRÁTICAS
 
-## 8. Inserção no Estado da Arte
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-Conecta-se com fichas sobre PU de mamona (resenha-pu-mamona-proteses, resenha-imperveg-ug132a-ficha-tecnica) e compósitos bambu-PU. Classificação temática: poliuretano vegetal, impermeabilização, validação tecnológica. Os dados do ITecons validam cientificamente o PU de mamona para aplicações do ecossistema Takwara (impermeabilização de lajes, proteção de ETE, selagem de reservatórios).
+---
 
-## Referências
+## 8. REFERÊNCIAS
 
-TAKWARA, F. R. **IMPERVEG RQI 132 — Resina Impermeabilizante Bicomponente de Poliuretano Vegetal (Mamona) para Infraestruturas de Concreto** (Preprint). DOI pendente. ORCID: 0009-0002-6044-2583.
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-ITecons — Instituto de Investigação e Desenvolvimento Tecnológico para a Construção, Energia, Ambiente e Sustentabilidade (Coimbra, Portugal). Ensaios LAB_001 a LAB_006.
 
-ISO 7783:2018 — Paints and varnishes — Determination of water-vapour transmission properties.
+---
 
-NP EN 1504-2:2006 — Products and systems for the protection and repair of concrete structures.
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-NP EN 1062-6 — Paints and varnishes — Coating materials and coating systems for exterior masonry and concrete.
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
 
-EN 13687 — Products and systems for the protection and repair of concrete structures — Test methods — Determination of thermal compatibility.

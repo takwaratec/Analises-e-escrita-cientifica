@@ -72,3 +72,9 @@ A Purcom Química é a maior "Casa de Sistemas" independente de Poliuretano da A
 - Site: contato@purcom.com.br / (11) 4161-8900
 - YouTube: [Sistemas de Poliuretano Purcom](https://www.youtube.com/watch?v=Ur_13cNR4og)
 - Regras de participação de fornecedores: `docs/editais/regras-participacao-fornecedores.md` (fabrica-modelo)
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

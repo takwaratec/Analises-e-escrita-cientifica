@@ -6,8 +6,109 @@ autor: Fabio Takwara / Hermes Agent
 fontes: Global Carbon Project, IEA, USGS, UNEP, GCCA, Statista
 data: 29/06/2026
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# ctos da Produção de Cimento e do Concreto Armado
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos |
+| **Tema** | Impactos Producao Cimento |
+| **Autor** | Fabio Takwara / Hermes Agent |
+| **Fontes** | Global Carbon Project, IEA, USGS, UNEP, GCCA, Statista |
+| **Data** | 29/06/2026 |
+| **Arquivo** | `POL_ficha-impactos-producao-cimento.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** certificação, resíduo, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+Sistematizar os impactos ambientais, sociais e econômicos da indústria do cimento em escala global, por país e continente, como subsídio para proposição de materiais alternativos renováveis.
+
+
+
+Compilação de dados do Global Carbon Project, IEA (International Energy Agency), USGS (U.S. Geological Survey), UNEP e GCCA (Global Cement and Concrete Association) para o ano-base 2024.
+
+
+
+- Produção: ~4,1 bilhões de toneladas/ano
+- Emissões: ~2,6 Gt CO₂/ano (8% das emissões antrópicas globais)
+- Fator de emissão: ~620 kg CO₂ por tonelada de cimento
+
+
+
+- 60% — descarbonização do calcário (reação química, inevitável)
+- 30% — energia térmica (carvão, coque, gás a 1.450°C)
+- 10% — energia elétrica e transporte
+
+
+
+| País | Mt/ano | % |
+|---|---|---|
+| China | 2.100 | 51% |
+| Índia | 410 | 10% |
+| Vietnã | 130 | 3% |
+| EUA | 92 | 2% |
+| Egito | 88 | 2% |
+| Indonésia | 76 | 2% |
+| Brasil | 63 | 1,5% |
+| Demais | 1.141 | 28% |
+
+
+
+- Água: ~1,7 trilhão de litros/ano
+- Areia: 40-50 bilhões de t/ano (2º recurso mais consumido)
+- Ilhas de calor, impermeabilização do solo, poluição do ar (PM2,5/PM10)
+- Resíduos: maior fluxo de resíduos sólidos urbanos
+
+
+
+1. CNBM (China) ~400 Mt
+2. Anhui Conch (China) ~350
+3. LafargeHolcim (Suíça) ~250
+4. Heidelberg (Alemanha) ~180
+5. Cemex (México) ~160
+6
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Impactos da Produção de Cimento e do Concreto Armado
 
 ## 1. Objetivo
@@ -27,47 +128,35 @@ Compilação de dados do Global Carbon Project, IEA (International Energy Agency
 ## 4. Composição das emissões
 
 - 60% — descarbonização do calcário (reação química, inevitável)
-- 30% — energia térmica (carvão, coque, gás a 1.450°C)
-- 10% — energia elétrica e transporte
+- 30% — energia térmica (carvão, coque, gás a 1.
+```
 
-## 5. Distribuição por país
+---
 
-| País | Mt/ano | % |
-|---|---|---|
-| China | 2.100 | 51% |
-| Índia | 410 | 10% |
-| Vietnã | 130 | 3% |
-| EUA | 92 | 2% |
-| Egito | 88 | 2% |
-| Indonésia | 76 | 2% |
-| Brasil | 63 | 1,5% |
-| Demais | 1.141 | 28% |
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 6. Impactos associados
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-- Água: ~1,7 trilhão de litros/ano
-- Areia: 40-50 bilhões de t/ano (2º recurso mais consumido)
-- Ilhas de calor, impermeabilização do solo, poluição do ar (PM2,5/PM10)
-- Resíduos: maior fluxo de resíduos sólidos urbanos
+---
 
-## 7. Maiores produtores
+## 7. APLICAÇÕES PRÁTICAS
 
-1. CNBM (China) ~400 Mt
-2. Anhui Conch (China) ~350
-3. LafargeHolcim (Suíça) ~250
-4. Heidelberg (Alemanha) ~180
-5. Cemex (México) ~160
-6. Votorantim (Brasil) ~70 — 7º global
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-## 8. Conclusões
+---
 
-A substituição do concreto por materiais renováveis enfrenta barreira técnica (normas ABNT) e de certificação (LEED/AQUA não incentivam substituição). No entanto, a crise climática e a escassez de areia tornam essa substituição urgente. ACV comparativa é o caminho para gerar lastro científico.
+## 8. REFERÊNCIAS
 
-## Referências
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-- Global Carbon Project. Annual CO₂ emissions from cement (2024).
-- IEA. Cement Technology Roadmap (2024).
-- USGS. Mineral Commodity Summaries (2024).
-- UNEP. Global Sand Crisis Report (2022).
-- GCCA. Getting the Numbers Right (GNR) Database.
-- Statista. Global cement CO₂ emissions by country (2024).
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

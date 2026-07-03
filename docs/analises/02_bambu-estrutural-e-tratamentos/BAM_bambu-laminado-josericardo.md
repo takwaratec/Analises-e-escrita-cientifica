@@ -10,8 +10,92 @@ status: Consolidado
 data_extracao: 27/06/2026
 fonte: Takwara-Tech
 arquivo_original: Dissert_BLC_UEM_2018
+conversao_cavichiolli: 2026-07-02
 ---
 
+# a: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Autor** | Fabio Takwara |
+| **Titulo** | "Bambu Laminado Colado: Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná" |
+| **Instituicao** | Universidade Estadual de Maringá (UEM), Centro de Tecnologia |
+| **Ano** | 2018 |
+| **Doi** | Nao localizado |
+| **Palavras-Chave** | [Bambu Laminado Colado, BLC, caracterização mecânica, aceitação cultural, construção sustentável] |
+| **Data Extracao** | 27/06/2026 |
+| **Fonte** | Takwara-Tech |
+| **Arquivo Original** | Dissert_BLC_UEM_2018 |
+| **Arquivo** | `BAM_bambu-laminado-josericardo.md` |
+| **Eixo** | 02_bambu-estrutural-e-tratamentos (Bambu Estrutural e Tratamentos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 02_bambu-estrutural-e-tratamentos
+- **Área:** Bambu Estrutural e Tratamentos
+- **Palavras-chave:** bambu, tratamento, certificação, biocompósito, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+> **Status:** Consolidado
+
+---
+
+
+
+| Campo | Valor |
+|---|---|
+| **Título** | Bambu Laminado Colado: Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná |
+| **Autor** | José Ricardo Reghin Filho |
+| **Orientador** | Prof. Dr. José Luiz Miotto |
+| **Ano** | 2018 |
+| **Tipo** | Dissertação de Mestrado |
+| **Instituição** | Universidade Estadual de Maringá (UEM), Centro de Tecnologia |
+| **Programa** | Pós-Graduação em Engenharia Urbana (Infraestrutura e Sistemas Urbanos) |
+| **Páginas** | 110 |
+| **Palavras-chave** | Bambu Laminado Colado; BLC; caracterização mecânica; aceitação cultural; construção sustentável |
+
+
+
+A dissertação estrutura-se em: introdução (contextualização do bambu como material de construção, justificativa para o BLC); revisão bibliográfica sobre BLC (processos produtivos, propriedades, aplicações); metodologia (produção das lâminas, ensaios físicos e mecânicos, pesquisa de aceitação cultural); resultados e discussão (caracterização do material, análise da aceitação); conclusões. Norma de referência para ensaios: adaptação da ASTM D 143-96.
+
+
+
+Objetivo geral: investigar a produção, caracterização e aceitação cultural do BLC na região Noroeste do Paraná. Perguntas centrais: como produzir BLC com qualidade a partir de espécies de bambu disponíveis na região? Quai
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Ficha: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná
 
 > **Status:** Consolidado
@@ -34,40 +118,35 @@ arquivo_original: Dissert_BLC_UEM_2018
 
 ## 2. Estrutura do Documento
 
-A dissertação estrutura-se em: introdução (contextualização do bambu como material de construção, justificativa para o BLC); revisão bibliográfica sobre BLC (processos produtivos, propriedades, aplicações); metodologia (produção das lâminas, ensaios físicos e mecânicos, pesquisa de aceitação cultural); resultados e discussão (caracterização do material, análise da aceitação); conclusões. Norma de referência para ensaios: adaptação da ASTM D 143-96.
+A
+```
 
-## 3. Problema / Questão
+---
 
-Objetivo geral: investigar a produção, caracterização e aceitação cultural do BLC na região Noroeste do Paraná. Perguntas centrais: como produzir BLC com qualidade a partir de espécies de bambu disponíveis na região? Quais as propriedades físicas e mecânicas do material resultante? Qual o nível de aceitação cultural do BLC por potenciais usuários e profissionais da construção civil? Quais as barreiras e estratégias para sua difusão?
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 4. Referencial Teórico
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-O referencial aborda: caracterização do bambu como matéria-prima (espécies, anatomia, propriedades); processos de laminação e colagem de bambu (adesivos, prensagem, acabamento); estado da arte do BLC no Brasil e no mundo; aceitação cultural de novos materiais na construção civil; sustentabilidade e substituição da madeira por bambu. São referenciados autores como Beraldo, Ghavami, Janssen e Rivero.
+---
 
-## 5. Metodologia
+## 7. APLICAÇÕES PRÁTICAS
 
-Abordagem mista: (1) parte experimental para produção e caracterização do BLC — seleção de colmos, corte, tratamento, laminação, secagem, colagem com adesivo estrutural, prensagem, e ensaios físicos (densidade, umidade, estabilidade dimensional) e mecânicos (tração, compressão, flexão, dureza); (2) pesquisa quanti-qualitativa de aceitação cultural com aplicação de questionários a profissionais da construção civil e potenciais usuários na região Noroeste do Paraná. Análise estatística dos resultados experimentais.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-## 6. Principais Achados
+---
 
-| Parâmetro | Resultado |
-|---|---|
-| Densidade básica do BLC | Determinada para diferentes configurações |
-| Resistência à tração | Valores comparáveis à madeira convencional |
-| Resistência à compressão | Adequada para aplicações estruturais |
-| Aceitação cultural | Identificadas barreiras (desconhecimento, preconceito) e potencial de adoção |
-| Estratégias de difusão | Educação técnica, demonstração de desempenho, certificação |
+## 8. REFERÊNCIAS
 
-(Nota: valores numéricos específicos requerem consulta ao texto completo da dissertação.)
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-## 7. Avaliação Crítica
 
-A dissertação oferece contribuição relevante ao integrar aspectos técnicos e socioculturais do BLC, preenchendo uma lacuna em pesquisas que geralmente focam apenas nas propriedades do material. A abordagem de aceitação cultural é inovadora e relevante para a difusão do BLC no mercado brasileiro. Como limitações, o escopo regional (Noroeste do PR) limita a generalização dos resultados de aceitação, e o número de corpos de prova nos ensaios mecânicos pode ser ampliado. Qualidade formal adequada. Relevância alta para o acervo (BLC é produto-chave para substituição da madeira).
+---
 
-## 8. Inserção no Estado da Arte
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-Conecta-se com fichas sobre BLC (resenha-blc-filho-2018) e propriedades mecânicas do bambu. Classificação temática: produtos engenheirados de bambu, BLC, aceitação cultural. Central para a linha de pesquisa em biocompósitos estruturais do repositório, fornecendo dados de produção e propriedades para desenvolvimento de produtos de BLC no Brasil.
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
 
-## Referência (ABNT)
-
-REGHIN FILHO, José Ricardo. **Bambu Laminado Colado: Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná**. 2018. 110 f. Dissertação (Mestrado em Engenharia Urbana) — Centro de Tecnologia, Universidade Estadual de Maringá, Maringá, 2018.

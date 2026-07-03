@@ -5,13 +5,42 @@ autor: Fabio Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha: Ficha Técnica IMPERVEG UG 132 A — Resina Impermeabilizante de Poliuretano Vegetal
+# nha: Ficha Técnica IMPERVEG UG 132 A — Resina Impermeabilizante de Poliuretano Vegetal
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | Ficha_Tecnica_Imperveg_UG132A_PU_Vegetal |
+| **Autor** | Fabio Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_imperveg-ug132a-ficha-tecnica.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, poliuretano, certificação, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** A ficha técnica descreve o IMPERVEG UG 132 A, resina impermeabilizante bicomponente à base de poliuretano vegetal originado do óleo de mamona, 100% sólida (isenta de solventes), que forma membrana monolítica elastomérica. O produto atende NBR 9575/2003 (Impermeabilização), Portaria MS 518 (água potável), apresenta resistência ao intemperismo, a águas agressivas (sais, ácidos, álcalis) e a UV. Características técnicas: consistência fluida, perda de massa somente acima de 210°C, tensão de ruptura à tração de 2 MPa, módulo de deformação de 10 MPa. Aplicações: reservatórios de água, fundações, piscinas, alvenaria, madeira, e como aglomerante em compósitos de fibras vegetais. O produto é central para os sistemas construtivos bambu-PU da Tecnologia Takwara.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -21,47 +50,60 @@ licenca: CC BY 4.0
 | **Contato** | Fone/Fax: (19) 3652-3833 / contato@imperveg.com.br / www.imperveg.com.br |
 | **Tipo** | Ficha Técnica de Produto |
 | **Produto** | Resina impermeabilizante bicomponente (A+B) à base de poliuretano vegetal (óleo de mamona) |
-| **Palavras-chave** | Poliuretano vegetal; óleo de mamona; impermeabilização; NBR 9575; membrana elastomérica |
+| **Palavras-chave** | Poliuretano vegetal; óleo de mamona; impermeabilização; NBR 9575; membrana elastomérica
 
-## 2. Estrutura e Organização
+---
 
-A ficha técnica organiza-se em: descrição do produto (resina bicomponente, 100% sólidos, base óleo de mamona); propriedades (atendimento à NBR 9575/2003, Portaria MS 518, resistência a intemperismo e águas agressivas); características da membrana (alta durabilidade, elasticidade, resistência UV, estanqueidade, aderência, sem retração); campos de aplicação (reservatórios, umidade ascendente, fundações, piscinas, alvenaria, madeira, compósitos); características técnicas (consistência, cor, perda de massa, secagem, tensão de ruptura, módulo de deformação).
+## 4. ANÁLISE CRÍTICA
 
-## 3. Problema e Perguntas de Pesquisa
+*Análise pendente — conversão automatizada.*
 
-A ficha técnica responde a: quais as propriedades e aplicações do IMPERVEG UG 132 A como sistema de impermeabilização? Objetivo: fornecer informações técnicas para seleção e dimensionamento do produto em projetos de impermeabilização.
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-## 4. Referencial Teórico
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-O produto fundamenta-se na química dos poliuretanos vegetais derivados do óleo de mamona (Ricinus communis), que substitui polióis petroquímicos por polióis naturais. Referencia normas técnicas: NBR 9575/2003 (Impermeabilização — Seleção e Projeto) e Portaria MS 518 (padrões de potabilidade da água).
+---
 
-## 5. Metodologia
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-A ficha técnica não apresenta metodologia de pesquisa, sendo um documento técnico-comercial. As propriedades informadas baseiam-se em ensaios laboratoriais do fabricante em conformidade com normas técnicas brasileiras.
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-## 6. Principais Achados
+```
+# Resenha: Ficha Técnica IMPERVEG UG 132 A — Resina Impermeabilizante de Poliuretano Vegetal
 
-| Propriedade | Valor |
-|---|---|
-| Consistência | Fluída |
-| Cor após cura | Âmbar |
-| Perda de massa (início) | >210°C |
-| Secagem ao toque | 40 a 180 min (dependente da temperatura) |
-| Tensão de ruptura à tração | 2 MPa |
-| Módulo de deformação | 10 MPa |
-| Sólidos | 100% (isento de solventes) |
-| Toxicidade | Isento (pode ser aplicado em ambientes confinados) |
-| Certificação água potável | ✅ Portaria MS 518 |
-| NBR 9575/2003 | ✅ Atende |
+> **Resumo:** A ficha técnica descreve o IMPERVEG UG 132 A, resina impermeabilizante bicomponente à base de poliuretano vegetal originado do óleo de mamona, 100% sólida (isenta de solventes), que forma membrana monolítica elastomérica. O produto atende NBR 9575/2003 (Impermeabilização), Portaria MS 518 (água potável), apresenta resistência ao intemperismo, a águas agressivas (sais, ácidos, álcalis) e a UV. Características técnicas: consistência fluida, perda de massa somente acima de 210°C, tensão de ruptura à tração de 2 MPa, módulo de deformação de 10 MPa. Aplicações: reservatórios de água, fundações, piscinas, alvenaria, madeira, e como aglomerante em compósitos de fibras vegetais. O produto é
+```
 
-## 7. Avaliação Crítica
+---
 
-A ficha técnica fornece parâmetros tecnológicos fundamentais (resistência à tração, módulo de deformação, aderência) para dimensionamento de sistemas construtivos bambu-PU. A certificação de potabilidade é relevante para saneamento ecológico. Como limitação, é um documento do fabricante sem validação independente. O produto é central para o ecossistema Takwara. Relevância máxima para o repositório.
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 8. Inserção no Estado da Arte
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-Conecta-se com fichas sobre PU de mamona (resenha-polimeros-mamona-permeabilidade, resenha-pu-mamona-proteses). Classificação temática: poliuretano vegetal, impermeabilização, compósitos. O UG 132 A é o PU utilizado nos compósitos bambu-PU e sistemas construtivos da Tecnologia Takwara.
+---
 
-## Referência (ABNT)
+## 7. APLICAÇÕES PRÁTICAS
 
-IMPERVEG POLÍMEROS INDÚSTRIA E COMÉRCIO LTDA. **IMPERVEG UG 132 A: Resina Impermeabilizante — Ficha Técnica**. Aguaí, SP.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

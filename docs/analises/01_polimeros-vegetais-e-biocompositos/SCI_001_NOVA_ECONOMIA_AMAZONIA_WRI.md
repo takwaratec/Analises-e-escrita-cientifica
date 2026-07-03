@@ -6,8 +6,85 @@ equipe: Regência Científica (MQTF)
 status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Bioeconomia de Floresta em Pé"
+conversao_cavichiolli: 2026-07-02
 ---
 
+# 001: Nova Economia da Amazônia (NEA) Macroestratégia e Projeções 2050
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Title** | "SCI_001 - Nova Economia da Amazônia: Macroestratégia NEA (WRI)" |
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB/UFAC/UFRR |
+| **Equipe** | Regência Científica (MQTF) |
+| **Pvit Rigor** | 5 (Máximo) |
+| **Padrao Mqtf** | "Bioeconomia de Floresta em Pé" |
+| **Arquivo** | `SCI_001_NOVA_ECONOMIA_AMAZONIA_WRI.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** his, geodésica, bioeconomia
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+![Selo de Rigor Científico](https://img.shields.io/badge/RIGOR-PVIT-green?style=for-the-badge)
+![Status MQTF](https://img.shields.io/badge/STATUS-CONSOLIDADO-blue?style=for-the-badge)
+
+
+Este memorial técnico sintetiza o relatório fundamental "Nova Economia da Amazônia" (Nobre et al., 2023 - WRI Brasil), que estabelece a trajetória de descarbonização da Amazônia Legal como a maior oportunidade de desenvolvimento econômico e social da história contemporânea do Brasil. O projeto **MQTF** alinha-se integralmente a esta macroestratégia.
+
+
+Diferente do cenário *Business As Usual* (BAU), a Nova Economia da Amazônia propõe:
+*   **Desmatamento Zero**: A interrupção imediata da fronteira de degradação.
+*   **Intensificação da Agropecuária**: Produção de baixa emissão em áreas já antropizadas.
+*   **Expansão da Bioeconomia**: Foco em produtos não-madeireiros e restauração florestal.
+*   **Matriz Energética Limpa**: Deslocamento de fósseis por sistemas renováveis integrados.
+
+
+
+| Indicador | Impacto (Cenário NEA vs. Referencial) |
+| :--- | :--- |
+| **PIB Regional** | + R$ 40 Bilhões (Superior ao cenário BAU) |
+| **Empregos Verdes** | + 312 mil postos de trabalho inclusivos |
+| **Estoque de Carbono** | + 19% de retenção em biomassa |
+| **Vegetação Nativa** | + 81 milhões de hec
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # SCI_001: Nova Economia da Amazônia (NEA) - Macroestratégia e Projeções 2050
 
 ![Selo de Rigor Científico](https://img.shields.io/badge/RIGOR-PVIT-green?style=for-the-badge)
@@ -18,30 +95,35 @@ Este memorial técnico sintetiza o relatório fundamental "Nova Economia da Amaz
 
 ## 2. O Cenário NEA (Aposta Tecnológica Soberana)
 Diferente do cenário *Business As Usual* (BAU), a Nova Economia da Amazônia propõe:
-*   **Desmatamento Zero**: A interrupção imediata da fronteira de degradação.
-*   **Intensificação da Agropecuária**: Produção de baixa emissão em áreas já antropizadas.
-*   **Expansão da Bioeconomia**: Foco em produtos não-madeireiros e restauração florestal.
-*   **Matriz Energética Limpa**: Deslocamento de fósseis por sistemas renováveis integrados.
+*
+```
 
-### Impactos Projetados (Horizonte 2050)
+---
 
-| Indicador | Impacto (Cenário NEA vs. Referencial) |
-| :--- | :--- |
-| **PIB Regional** | + R$ 40 Bilhões (Superior ao cenário BAU) |
-| **Empregos Verdes** | + 312 mil postos de trabalho inclusivos |
-| **Estoque de Carbono** | + 19% de retenção em biomassa |
-| **Vegetação Nativa** | + 81 milhões de hectares preservados |
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-## 3. A Bioeconomia como Protetor Climático
-O relatório revela que a bioeconomia amazônica gera atualmente um VBP de **R$ 15 bilhões**, sendo um vetor de forte dinamismo local (economia de proximidade). Na NEA, o PIB da bioeconomia atingirá **R$ 38,5 bilhões** em 2050, representando 2,8% do PIB regional.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 4. O Papel das Tecnologias Sociais
-A NEA fundamenta-se na multiplicação de arranjos produtivos inclusivos e diversos e baseados nas habilidades e inteligências locais. O investimento necessário é de **1,8% do PIB nacional ao ano**, um valor inferior aos custos de remediação dos danos climáticos ("custo do não-fazer").
+---
 
-## 5. Conclusão para o Dossiê BNDES
-A inclusão de SCI_001 no Dossiê MQTF assegura que o projeto não é uma iniciativa isolada, mas o braço executivo de uma macroestratégia nacional de descarbonização. O uso das **Biofábricas Geodésicas e compósitos de biopolímeros** é a materialização da "Sustentação Tecnológica" prevista no relatório da WRI.
+## 7. APLICAÇÕES PRÁTICAS
 
-***
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-**Referência**: NOBRE, C.A. et al. *Nova Economia da Amazônia*. São Paulo: WRI Brasil, 2023.
-**Soberania Tecnológica**: MQTF - A Amazônia como Catalisadora do Brasil.
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

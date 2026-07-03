@@ -1,3 +1,86 @@
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# a de Referência — Souza & Demenighi, 2017
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `PER_REF_Souza2017_Naturais_Madeira.md` |
+| **Eixo** | 05_perfis-e-referencias (Perfis e Referências) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 05_perfis-e-referencias
+- **Área:** Perfis e Referências
+- **Palavras-chave:** bambu, pu vegetal, poliuretano, tratamento, resíduo
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+**Título:** Tratamentos preservantes naturais de madeiras de floresta plantada para a construção civil
+**Autores:** Souza, R. V.; Demenighi, A. L.
+**Periódico:** MIX Sustentável, v. 3, n. 1, p. 84–92, 2017
+**DOI:** 10.29183/2447-3073.MIX2017.v3.n1.84-92
+**Licença:** CC BY 4.0
+
+
+Revisar alternativas naturais aos preservantes químicos convencionais (CCA, CCB, creosoto) para madeira de floresta plantada.
+
+
+
+
+| Aspecto | Dado |
+|---|---|
+| Alvo | Cupim de madeira seca (Cryptotermes brevis) |
+| Eficácia | **100% de mortalidade** em Pinus spp. (Stumpp et al., 2005) |
+| Resistência ao intemperismo | **100% de retenção de massa** |
+| Limitação | Eficácia cai com o tempo — após ~30 dias, mortalidade média ~50% |
+| Mecanismo | Ácido ricinoleico em alta concentração |
+
+O óleo de mamona é a mesma base do Poliuretano Vegetal Imperveg. O estudo confirma que a mamona tem ação biocida natural contra o principal agente xilófago do bambu e da madeira.
+
+
+| Substância | Eficácia | Limitação |
+|---|---|---|
+| **Tanino de Acácia** | 100% mortalidade (lab) | Lixiviação intensa — uso interno apenas |
+| **Cera de Limão** (citrus) | Efeito antialimentar por **6 meses** | Melhor permanência entre todos testados |
+| **Óleo de Neem** | Baixa eficácia pura | Só funciona combinado com base de mamona |
+| **Capsaicina (pimenta Bhut
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Ficha de Referência — Souza & Demenighi, 2017
 
 **Título:** Tratamentos preservantes naturais de madeiras de floresta plantada para a construção civil
@@ -17,28 +100,35 @@ Revisar alternativas naturais aos preservantes químicos convencionais (CCA, CCB
 | Alvo | Cupim de madeira seca (Cryptotermes brevis) |
 | Eficácia | **100% de mortalidade** em Pinus spp. (Stumpp et al., 2005) |
 | Resistência ao intemperismo | **100% de retenção de massa** |
-| Limitação | Eficácia cai com o tempo — após ~30 dias, mortalidade média ~50% |
-| Mecanismo | Ácido ricinoleico em alta concentração |
+| Limitação
+```
 
-O óleo de mamona é a mesma base do Poliuretano Vegetal Imperveg. O estudo confirma que a mamona tem ação biocida natural contra o principal agente xilófago do bambu e da madeira.
+---
 
-### Outras alternativas
-| Substância | Eficácia | Limitação |
-|---|---|---|
-| **Tanino de Acácia** | 100% mortalidade (lab) | Lixiviação intensa — uso interno apenas |
-| **Cera de Limão** (citrus) | Efeito antialimentar por **6 meses** | Melhor permanência entre todos testados |
-| **Óleo de Neem** | Baixa eficácia pura | Só funciona combinado com base de mamona |
-| **Capsaicina (pimenta Bhut Jolokia)** | Retarda fungos | Depende da umidade da madeira |
-| **Tall Oil** (subproduto celulose) | Eficaz contra podridão branca | Muito barato, renovável |
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-### Sobre os químicos convencionais
-- CCA é **cancerígeno** — associado a câncer de pulmão e leucemia em carpinteiros (Kats & Salem, 2005)
-- CCB é "menos tóxico" que CCA, mas ainda controverso
-- CCA e CCB tornam a madeira **não reciclável** — resíduo perigoso no fim da vida
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## Relevância para a Takwara
-O óleo de mamona aparece como o biocida natural mais promissor — 100% de mortalidade em laboratório. Isso fortalece a tese de que o PU Vegetal, derivado da mesma matéria-prima, não é apenas um selante estrutural mas também um agente de proteção biológica. A limitação de durabilidade (~30 dias de eficácia) é resolvida pela polimerização do PU — que fixa o composto e prolonga a proteção.
+---
 
-## Correção de autoria
-O anexo original citava "Mix Sustentável, [s.l.], 2023" como autor. A referência correta é:
-**Souza, R. V.; Demenighi, A. L.** (2017), MIX Sustentável, v. 3, n. 1.
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

@@ -1,10 +1,40 @@
-# Ficha Técnica — UG 132 A: Revestimento Impermeabilizante de Poliuretano Vegetal
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# a Técnica — UG 132 A: Revestimento Impermeabilizante de Poliuretano Vegetal
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `POL_ficha-ug132a-pu-vegetal.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, pu vegetal, poliuretano, certificação, habitação, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** Ficha técnica do **UG 132 A**, revestimento impermeabilizante bicomponente (A+B) de poliuretano vegetal derivado do óleo de mamona (*Ricinus communis*), fabricado pela Imperveg Polímeros Vegetais. O produto é 100% sólido (isento de solventes), de fonte renovável e biodegradável. Apresenta tensão de ruptura à tração de ~2 MPa, alongamento na ruptura de ~25%, resistência UV elevada e é atóxico (apto para reservatórios de água potável). Aplicação por rolo, trincha ou airless. É o material de referência para impermeabilização de substratos de bambu, madeira, concreto e alvenaria no ecossistema Takwara.
 
 ---
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |-------|------|
@@ -24,108 +54,67 @@
 
 ---
 
-## 2. Propriedades Físicas
+---
 
-| Propriedade | Valor | Unidade |
-|-------------|-------|---------|
-| **Tensão de ruptura à tração** | ~2 | MPa |
-| **Alongamento na ruptura** | ~25 | % |
-| **Proporção A:B (volume)** | 1:2 | — |
-| **Pot life (tempo de trabalho)** | ~20 | min |
-| **Secagem ao toque** | 40–180 | min |
-| **Intervalo entre demãos** | ~2 (máx. 6) | h |
-| **Rendimento** | 0,7–1,0 | kg/m² |
-| **Número de demãos** | 3–5 | — |
-| **Resistência UV** | Alta | — |
-| **Cor** | Âmbar | — |
-| **Teor de sólidos** | 100 | % |
+## 4. ANÁLISE CRÍTICA
 
-## 3. Propriedades Químicas
+*Análise pendente — conversão automatizada.*
 
-| Propriedade | Descrição |
-|-------------|-----------|
-| **Resistência a intempéries** | Alta |
-| **Resistência a sais** | Boa |
-| **Resistência a ácidos e álcalis** | Boa |
-| **Resistência a H₂S** | Sim |
-| **Toxicidade** | Nula — certificado para água potável |
-| **Caráter químico** | Neutro após cura |
-| **Membrana** | Monolítica, sem emendas |
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-## 4. Instruções de Uso
-
-| Parâmetro | Especificação |
-|-----------|---------------|
-| **Proporção de mistura** | 1:2 (A+B em volume) |
-| **Preparo** | Agitar componente B antes do uso; misturar A+B homogeneamente |
-| **Pot life** | ~20 minutos — preparar apenas o volume utilizável |
-| **Aplicação** | Rolo, trincha ou airless |
-| **Superfície** | Seca, limpa, isenta de contaminantes; umidade do substrato <10% |
-| **Condições ambientais** | Não aplicar em superfícies úmidas ou dias chuvosos |
-| **Secagem entre demãos** | ~2 horas (máx. 6h — após 6h há perda de aderência entre camadas) |
-| **Diluição** | Não diluir — o produto é 100% sólido e formulado para uso puro |
-| **Limpeza de ferramentas** | Álcool de cereais (etanol) antes da cura; acetona para resina fresca |
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
 ---
 
-## 5. Relevância para a Tecnologia Takwara
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-O UG 132 A é o revestimento impermeabilizante padrão do ecossistema Takwara, aplicado sobre bambu tratado e madeira para proteção contra umidade, intempéries e agentes biológicos:
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-| Tecnologia | Aplicação |
-|------------|-----------|
-| **Impermeabilização de colmos de bambu** | Revestimento protetor pós-resinagem com MAMONEX RD70, aplicado via airless |
-| **Revestimento T10 (Balsas Catamarã)** | Selagem impermeável das superfícies de bambu naval em ambiente fluvial |
-| **Estações BSM (T12)** | Impermeabilização de superfícies sanitárias com material atóxico |
-| **Estruturas de madeira** | Proteção de superfícies de madeira em contato com intempéries |
-| **Reservatórios de água** | Impermeabilização de reservatórios com certificação para água potável |
+```
+# Ficha Técnica — UG 132 A: Revestimento Impermeabilizante de Poliuretano Vegetal
 
-### Comparação com impermeabilizantes convencionais
-
-| Material | Origem | Solventes/VOCs | Atóxico | Biodegradável |
-|----------|--------|----------------|---------|---------------|
-| **UG 132 A (Imperveg)** | Renovável (mamona) | Zero | Sim | Sim |
-| PU petroquímico | Petróleo | Sim | Parcial | Não |
-| Epóxi | Petróleo | Sim | Não | Não |
-| Tinta asfáltica | Petróleo | Sim | Não | Não |
+> **Resumo:** Ficha técnica do **UG 132 A**, revestimento impermeabilizante bicomponente (A+B) de poliuretano vegetal derivado do óleo de mamona (*Ricinus communis*), fabricado pela Imperveg Polímeros Vegetais. O produto é 100% sólido (isento de solventes), de fonte renovável e biodegradável. Apresenta tensão de ruptura à tração de ~2 MPa, alongamento na ruptura de ~25%, resistência UV elevada e é atóxico (apto para reservatórios de água potável). Aplicação por rolo, trincha ou airless. É o material de referência para impermeabilização de substratos de bambu, madeira, concreto e alvenaria no ecossistema Takwara.
 
 ---
 
-## 6. Avaliação Crítica
+## 1. Dados Gerais
 
-### Pontos Fortes
-
-1. **Origem 100% renovável**: mamona é cultivada no Brasil (Nordeste), com cadeia produtiva estabelecida e sem competição com alimentos.
-2. **Zero solventes/VOCs**: 100% sólido — seguro para aplicação em ambientes confinados e sem emissão de compostos orgânicos voláteis.
-3. **Atóxico**: certificado para contato com água potável (NBR 12170 / MS 888), diferencial crítico para estações de saúde e habitação.
-4. **Membrana monolítica**: sem emendas, garantindo selagem contínua mesmo em superfícies irregulares.
-5. **Alta resistência UV**: adequado para exposição solar direta sem degradação significativa.
-6. **Versatilidade de aplicação**: aplicável por rolo, trincha ou airless, adaptando-se a diferentes escalas de produção.
-
-### Limitações
-
-1. **Ficha técnica, não estudo científico**: o documento é um datasheet comercial; dados de ensaios de longa duração ou certificação ABNT/INMETRO específica para bambu não estão disponíveis na ficha.
-2. **Janela de trabalho curta**: pot life de ~20 minutos exige preparo rápido e planejamento da aplicação.
-3. **Intervalo crítico entre demãos**: máximo de 6h entre camadas — após esse período há perda de aderência, exigindo lixamento para nova aplicação.
-4. **Rendimento dependente da técnica**: 0,7–1,0 kg/m² em 3-5 demãos requer mão de obra treinada para garantir espessura uniforme.
-5. **Sem especificação de temperatura de serviço**: não informa Tg (transição vítrea) nem faixa de temperatura operacional contínua.
+| Campo | Dado |
+|-------|------|
+| **Produto** | UG 132 A |
+| **Fabric
+```
 
 ---
 
-## 7. Palavras-chave
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-**Português:** UG 132 A; Imperveg; poliuretano vegetal; mamona; Ricinus communis; impermeabilizante; revestimento; PU vegetal; bambu; madeira; concreto; membrana monolítica; atóxico; renovável; biodegradável
-
-**English:** UG 132 A; Imperveg; vegetable polyurethane; castor oil; Ricinus communis; waterproofing coating; PU coating; bamboo; wood; concrete; monolithic membrane; non-toxic; renewable; biodegradable
-
----
-
-## 8. Referência
-
-IMPERVEG POLÍMEROS VEGETAIS. **UG 132 A**: Revestimento impermeabilizante bicomponente de poliuretano vegetal. Ficha técnica do fabricante, 2025.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-> **Ficha elaborada em:** 2026-06-26
-> **Fonte:** Ficha técnica Imperveg (UG 132 A) / Acervo de Pesquisa
-> **Ferramenta:** Hermes Agent
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

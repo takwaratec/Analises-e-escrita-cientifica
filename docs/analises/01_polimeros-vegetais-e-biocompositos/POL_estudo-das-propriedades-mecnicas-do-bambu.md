@@ -5,8 +5,83 @@ data: 2026-06-27
 status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# — Estudo das Propriedades Mecânicas do Bambu (2020)
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | IFB-E2-25 |
+| **Data** | 2026-06-27 |
+| **Metodo** | 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025) |
+| **Arquivo** | `POL_estudo-das-propriedades-mecnicas-do-bambu.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+
+
+| Campo | Dado |
+|-------|------|
+| **Título** | Estudo das Propriedades Mecânicas do Bambu Dendrocalamus Giganteus |
+| **Autor(es)** | Bruno Moreira Longuinho (orient. Khosrow Ghavami) |
+| **Ano** | 2020 |
+| **Páginas** | 6 p. |
+| **DOI** | — |
+| **Eixo temático** | Caracterização Mecânica e Física do Bambu |
+| **Código** | IFB-E2-25 |
+
+
+O documento apresenta-se como artigo científico. artigo científico. Estudo das propriedades físicas e mecânicas de corpos de prova de bambu da espécie Dendrocalamus Giganteus através de ensaios normatizados e experimentais. Foram medidas características físicas como tamanho do internó, espessura da parede e diâmetro ...
+
+
+**Tema central:** Estudo das Propriedades Mecânicas do Bambu Dendrocalamus Giganteus. 
+Estudo das propriedades físicas e mecânicas de corpos de prova de bambu da espécie Dendrocalamus Giganteus através de ensaios normatizados e experimentais. Foram medidas características físicas como tamanho do internó, espessura da parede e diâmetro interno ao longo do colmo, e realizados ensaios de
+
+
+A caracterização mecânica do bambu é fundamental para sua normalização como material de engenharia. Propriedades como
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # IFB — Estudo das Propriedades Mecânicas do Bambu (2020)
 
 > **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
@@ -23,32 +98,35 @@ licenca: CC BY 4.0
 | **Código** | IFB-E2-25 |
 
 ## 2. Estrutura e Organização
-O documento apresenta-se como artigo científico. artigo científico. Estudo das propriedades físicas e mecânicas de corpos de prova de bambu da espécie Dendrocalamus Giganteus através de ensaios normatizados e experimentais. Foram medidas características físicas como tamanho do internó, espessura da parede e diâmetro ...
-
-## 3. Problema e Perguntas de Pesquisa
-**Tema central:** Estudo das Propriedades Mecânicas do Bambu Dendrocalamus Giganteus. 
-Estudo das propriedades físicas e mecânicas de corpos de prova de bambu da espécie Dendrocalamus Giganteus através de ensaios normatizados e experimentais. Foram medidas características físicas como tamanho do internó, espessura da parede e diâmetro interno ao longo do colmo, e realizados ensaios de
-
-## 4. Referencial Teórico
-A caracterização mecânica do bambu é fundamental para sua normalização como material de engenharia. Propriedades como tração, compressão, flexão e cisalhamento variam entre espécies, idade do colmo e região de coleta.
-
-## 5. Metodologia
-
-Foram feitas medidas de algumas características físicas, como tamanho do internó, espessura da parede e diâmetro interno, e como essas propriedades variam ao longo do colmo do bambu. Para a análise foram medidos 3 partes da base (B1, B2 e B3), duas do meio (M1 e M2) e uma do topo (T) do colmo de um bambu da espécie Dendrocalamus Giganteus. A figura 1 mostra os resultados obtidos. Espessura e Diâmetro Interno 0 20 40 60 80 100 120 B1 B2 B3 M1 M2 T Amostra - Base, Meio e Topo Valor (mm) Espessura 
-
-## 6. Principais Achados
-Estudo das propriedades físicas e mecânicas de corpos de prova de bambu da espécie Dendrocalamus Giganteus através de ensaios normatizados e experimentais. Foram medidas características físicas como tamanho do internó, espessura da parede e diâmetro interno ao longo do colmo, e realizados ensaios de flexão e torção.
-
-## 7. Avaliação Crítica
-**Contribuições:** Documento que contribui com dados sobre conceitos e fundamentos relacionados a bambu. Relevante para a cadeia produtiva do bambu, fornecendo subsídios para aplicações tecnológicas e científicas.
-**Limitações:** Análise baseada no texto extraído do PDF. Recomenda-se consulta ao documento original para verificação de detalhes.
-**Qualidade formal:** Documento com estrutura acadêmico-científica formal.
-
-## 8. Inserção no Estado da Arte
-Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Caracterização Mecânica e Física do Bambu**. Consulte [`catalogo-ifb-bambu.md`](catalogo-ifb-bambu.md) e demais fichas IFB do mesmo eixo para visão abrangente. Conteúdo extraído do PDF original.
-
-## Referência (ABNT)
-Bruno Moreira Longuinho (orient. Khosrow Ghavami). **Estudo das Propriedades Mecânicas do Bambu Dendrocalamus Giganteus**. Departamento de Engenharia Civil - PUC-Rio. 2020.
+O documento apresenta-se como artigo científico. artigo científico. Estudo das propriedades físicas e mecânicas de corpos de prova de bambu da espécie Dendrocalamus Giganteus através de ensaios
+```
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

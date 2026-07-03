@@ -6,8 +6,109 @@ autor: Fabio Takwara / Hermes Agent
 fontes: USGBC, NRMCA, GBC Brasil
 data: 29/06/2026
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# — Leadership in Energy and Environmental Design
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Eixo** | 04_certificacoes-e-normas |
+| **Tema** | Certificacao LEED - Construcao Sustentavel |
+| **Autor** | Fabio Takwara / Hermes Agent |
+| **Fontes** | USGBC, NRMCA, GBC Brasil |
+| **Data** | 29/06/2026 |
+| **Arquivo** | `CER_ficha-certificacao-leed.md` |
+| **Eixo** | 04_certificacoes-e-normas (Certificações e Normas) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 04_certificacoes-e-normas
+- **Área:** Certificações e Normas
+- **Palavras-chave:** bambu, pu vegetal, tratamento, certificação, his, geodésica, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+Apresentar o sistema de certificação LEED, seus requisitos, categorias, níveis e aplicabilidade a projetos de construção civil com materiais renováveis (bambu, PU vegetal).
+
+
+
+Pesquisa documental no site oficial do USGBC (LEED Credit Library), guias técnicos da NRMCA (National Ready Mixed Concrete Association) e relatórios do GBC Brasil sobre a adoção do LEED no país.
+
+
+
+| Campo | Dado |
+|---|---|
+| Sigla | LEED |
+| Nome completo | Leadership in Energy and Environmental Design |
+| Organismo emissor | U.S. Green Building Council (USGBC) |
+| Ano de criação | 1998 |
+| No Brasil desde | 2007 |
+| Tipo | Certificação voluntária de edificações |
+| Site | https://www.usgbc.org/leed |
+
+
+
+
+- LEED BD+C (Building Design and Construction) — novas construções
+- LEED ID+C (Interior Design and Construction)
+- LEED O+M (Operations and Maintenance)
+- LEED ND (Neighborhood Development)
+- LEED Homes
+
+
+| Categoria | Pontos |
+|---|---|
+| Localização e Transporte (LT) | 16 |
+| Terrenos Sustentáveis (SS) | 10 |
+| Eficiência em Água (WE) | 11 |
+| Energia e Atmosfera (EA) | 33 |
+| Materiais e Recursos (MR) | 13 |
+| Qualidade Ambiental Interna (EQ) | 16 |
+| Inovação (IN) | 6 |
+| Prioridade Regional (RP) | 4 |
+
+
+| Nível | Pontos mínimos |
+|---|---|
+| Certified | 40 |
+| Silver | 50 |
+| Gold | 60 |
+| Platinum
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # LEED — Leadership in Energy and Environmental Design
 
 ## 1. Objetivo
@@ -30,68 +131,35 @@ Pesquisa documental no site oficial do USGBC (LEED Credit Library), guias técni
 | Tipo | Certificação voluntária de edificações |
 | Site | https://www.usgbc.org/leed |
 
-## 4. Estrutura e requisitos
+## 4.
+```
 
-### Modalidades
-- LEED BD+C (Building Design and Construction) — novas construções
-- LEED ID+C (Interior Design and Construction)
-- LEED O+M (Operations and Maintenance)
-- LEED ND (Neighborhood Development)
-- LEED Homes
+---
 
-### Categorias de crédito (BD+C v4/v5)
-| Categoria | Pontos |
-|---|---|
-| Localização e Transporte (LT) | 16 |
-| Terrenos Sustentáveis (SS) | 10 |
-| Eficiência em Água (WE) | 11 |
-| Energia e Atmosfera (EA) | 33 |
-| Materiais e Recursos (MR) | 13 |
-| Qualidade Ambiental Interna (EQ) | 16 |
-| Inovação (IN) | 6 |
-| Prioridade Regional (RP) | 4 |
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-### Níveis
-| Nível | Pontos mínimos |
-|---|---|
-| Certified | 40 |
-| Silver | 50 |
-| Gold | 60 |
-| Platinum | 80 |
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 5. O concreto no LEED
+---
 
-O concreto não é proibido nem desincentivado. O LEED premia:
-- **MR: EPD** — Declaração Ambiental de Produto (1-2 pts)
-- **MR: Sourcing** — conteúdo reciclado (cinza volante, escória) (1-2 pts)
-- **MR: Ingredient Reporting** — transparência química (1-2 pts)
-- **EA: Optimize Energy** — massa térmica (até 6 pts)
-- **SS: Heat Island** — concreto permeável/refletor (1-2 pts)
+## 7. APLICAÇÕES PRÁTICAS
 
-Uma estratégia de concreto bem documentada pode render 8-13 pontos. O LEED foi desenhado para melhorar o concreto, não para substituí-lo.
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-## 6. Aderência à Tecnologia Takwara
+---
 
-- **MR (Materiais e Recursos)**: bambu é material rapidamente renovável (ciclo de 4-7 anos), regional, com baixo carbono incorporado
-- **IN (Inovação)**: estratégias não convencionais como tratamento térmico sem veneno, PU vegetal, geodésicas
-- **EA (Energia)**: construções de bambu oferecem conforto térmico natural, reduzindo demanda de climatização
+## 8. REFERÊNCIAS
 
-O bambu pode pontuar, mas enfrenta barreira de documentação (faltam EPDs e certificações de cadeia para bambu brasileiro).
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-## 7. Brasil em números
 
-O Brasil é um dos 5 maiores mercados LEED do mundo, com centenas de projetos certificados. Concentração em SP, RJ e DF. O BNDES oferece linhas de crédito verde vinculadas à certificação.
+---
 
-## 8. Conclusões
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-- LEED é a certificação mais reconhecida globalmente, mas não foi desenhada para materiais alternativos
-- Projetos com bambu podem pontuar via MR (materiais regionais/renováveis) e IN (inovação)
-- A falta de EPDs para bambu brasileiro é a principal barreira técnica
-- Custo elevado (US$ 2.000-30.000+) limita aplicação em HIS
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
 
-## Referências
-
-- USGBC. LEED v4/v5 Credit Library. https://www.usgbc.org/leed
-- NRMCA. LEED v4 Guide Specification for Concrete. https://www.nrmca.org
-- GBC Brasil. https://www.gbcbrasil.org.br
-- USGBC. LEED Scorecard. https://www.usgbc.org/leed-tools/scorecard

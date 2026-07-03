@@ -71,3 +71,9 @@ A Kehl Polímeros é fabricante de sistemas profissionais de polímeros com 50 a
 - Pesquisa Gemini: `docs/pesquisas/pesquisas-ict/Pesquisa sobre a Kehl Coat e a Purcom par....md` (fabrica-modelo)
 - Site: contato@kehlcoat.com.br / (16) 3361-2122
 - Regras de participação de fornecedores: `docs/editais/regras-participacao-fornecedores.md` (fabrica-modelo)
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

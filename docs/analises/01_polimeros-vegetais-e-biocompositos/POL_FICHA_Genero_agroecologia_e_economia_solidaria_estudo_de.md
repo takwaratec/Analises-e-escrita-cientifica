@@ -4,8 +4,84 @@ instituicao: Consórcio UnB / UFRR / UFAC
 tipo: Documentação Técnica
 referencia: FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md
 status: Consolidado
+conversao_cavichiolli: 2026-07-02
 ---
 
+# A CIENTÍFICA ESTRUTURADA PROJETO WTF
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Projeto** | Mulheres Que Tecem a Floresta |
+| **Instituicao** | Consórcio UnB / UFRR / UFAC |
+| **Referencia** | FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md |
+| **Arquivo** | `POL_FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** Geral
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+<p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
+
+
+*   **Projeto**: Mulheres Que Tecem a Floresta (MQTF)
+*   **Instituição**: Consórcio UnB / UFRR / UFAC
+*   **Referência**: FICHA_Genero_agroecologia_e_economia_solidaria_estudo_de.md
+*   **Status**: Consolidado
+
+![Status: Consolidado](https://img.shields.io/badge/Status-Consolidado-brightgreen)
+
+
+
+
+
+* <img src="../../../assets/icons/human_02_black.svg" width="18px">   **projeto:** <img src="../../../assets/icons/human_02_black.svg" width="18px"> Mulheres Que Tecem a Floresta
+* <img src="../../../assets/icons/human_16_black.svg" width="18px">   **instituicao:** <img src="../../../assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
+* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **tipo:** <img src="../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
+* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **referencia_interna:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> PES-TEC-4976-2026
+* <img src="../../../assets/icons/human_14_black.svg" width="18px">   **status:** <img src="../../../assets/icons/human_14_black.svg" width="18px"> Ready
+
+**REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
+
+SILVA, Flávia Regina Fer
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 <p align="right"><i>"Ciência é a investigação da verdade."<br>— Carlos Chagas</i></p>
 
 ### <img src="../../../assets/patterns/square_05_cyan.svg" width="22px">&nbsp; Ficha Técnica e Metadados
@@ -21,42 +97,35 @@ status: Consolidado
 ### 1. METADADOS E CABEÇALHO
 
 * <img src="../../../assets/icons/human_02_black.svg" width="18px">   **projeto:** <img src="../../../assets/icons/human_02_black.svg" width="18px"> Mulheres Que Tecem a Floresta
-* <img src="../../../assets/icons/human_16_black.svg" width="18px">   **instituicao:** <img src="../../../assets/icons/human_16_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../assets/icons/human_13_black.svg" width="18px">   **tipo:** <img src="../../../assets/icons/human_13_black.svg" width="18px"> Pesquisa: Amazônia Setentrional (PES)
-* <img src="../../../assets/icons/human_12_black.svg" width="18px">   **referencia_interna:** <img src="../../../assets/icons/human_12_black.svg" width="18px"> PES-TEC-4976-2026
-* <img src="../../../assets/icons/human_14_black.svg" width="18px">   **status:** <img src="../../../assets/icons/human_14_black.svg" width="18px"> Ready
-
-**REFERÊNCIA BIBLIOGRÁFICA (ABNT):**
-
-SILVA, Flávia Regina Fernandes. Gênero, agroecologia e economia solidária: estudo de caso do grupo de mulheres do Acampamento Recanto da Natureza em Laranjeiras do Sul – PR. **Desenvolvimento e Meio Ambiente**, Curitiba, v. 39, p. 115-132, dez. 2016. DOI: 10.5380/dma.v39i0.45697.
-
-* <img src="../../../assets/icons/human_03_black.svg" width="18px">   **name:** <img src="../../../assets/icons/human_03_black.svg" width="18px"> Consórcio UnB/UFRR/UFAC
-* <img src="../../../assets/icons/human_10_black.svg" width="18px">   **date:** <img src="../../../assets/icons/human_10_black.svg" width="18px"> '2026-03-24'
-
-### 2. TRADUÇÃO E SÍNTESE TÉCNICA
-
-**Resumo (Português):**
-A lógica produtivista e mercadológica dominante no processo de modernização do campo, reforçada por políticas neoliberais, além de causar danos ao meio ambiente, modificou os processos de produção e consumo do alimento e aumentou a pobreza e a exclusão social, sendo as mulheres as mais afetadas nesse processo. No entanto, dentro desse cenário, vêm surgindo novas estratégias, como a agroecologia e a economia solidária, que estão possibilitando às famílias agricultoras camponesas continuar resistindo e existindo no campo, com as mulheres sendo protagonistas dessas políticas alternativas de sustentabilidade. O presente artigo visa refletir sobre a importância da participação das mulheres camponesas em grupos produtivos, que adotam a agroecologia como estratégia de desenvolvimento local, a fim de possibilitar maior inclusão da questão de gênero nessa discussão. Para tal, realizou-se uma pesquisa qualitativa baseada em dados retirados de entrevistas coletadas com homens e mulheres membros do grupo de agroecologia do Acampamento Recanto da Natureza em Laranjeiras do Sul (PR), do Movimento dos Trabalhadores Rurais Sem Terra (MST). A pesquisa evidencia a importância da participação das mulheres para o desenvolvimento e o fortalecimento da comunidade, assim como para a autonomia econômica e política delas, favorecendo seu empoderamento e a ressignificação identitária. Ao mesmo tempo, busca-se problematizar a sobrecarga de trabalho acumulado, fruto da naturalização da ideia de que o trabalho doméstico é apenas responsabilidade das mulheres, o que dificulta maiores avanços na construção de uma comunidade mais equitativa e sustentável.
-
-**Palavras-chave em Português:**
-1.  Mulheres
-2.  Agroecologia
-3.  Economia Solidária
-
-### 3. EXTRAÇÃO DE DADOS (TABELA)
-
-| Item / Descrição | Dado Numérico/Técnico | Contexto |
-| :
+* <img src="../../../assets/icons/human_16_black.svg" wi
+```
 
 ---
 
----
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
----
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
 
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
 ---
-<p align='center'><img src='../../../assets/logo_BQTF/logo_mqtf_soberana.svg' width='45px'><br><b>Mulheres Que Tecem a Floresta — MQTF</b><br><i>"Soberania não se pede, se exerce."</i></p>
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

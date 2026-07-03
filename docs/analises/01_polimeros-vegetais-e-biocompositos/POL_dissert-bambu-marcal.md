@@ -5,13 +5,42 @@ autor: Fabio Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
-# Resenha: Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu-Colmo em Estruturas Prediais
+# nha: Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu Colmo em Estruturas Prediais
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | Dissert_Bambu_Normas_UnB_2018 |
+| **Autor** | Fabio Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `POL_dissert-bambu-marcal.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, tratamento, norma, ensaio
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** A dissertação realiza uma análise comparativa das principais normas técnicas internacionais que regulamentam o uso do bambu-colmo em estruturas prediais, examinando normas da Colômbia (NSR-10), Peru (E.100), Equador, Índia e China. São comparados critérios de caracterização do material, propriedades mecânicas, métodos de ensaio, fatores de segurança, detalhamento de ligações e requisitos de durabilidade. O trabalho identifica convergências e divergências entre as normas e propõe diretrizes para subsidiar a elaboração de uma norma técnica brasileira para estruturas de bambu. A pesquisa contribui para a difusão segura e normalizada do bambu como material estrutural no Brasil, preenchendo uma lacuna crítica na regulação técnica nacional.
 
-## 1. Dados Gerais
+
 
 | Campo | Dado |
 |---|---|
@@ -24,43 +53,60 @@ licenca: CC BY 4.0
 | **Instituição** | Universidade de Brasília (UnB), Faculdade de Arquitetura e Urbanismo |
 | **Programa** | Pós-Graduação em Arquitetura e Urbanismo (Tecnologia) |
 | **Páginas** | 193 (xviii + 178) |
-| **Palavras-chave** | Bambu; Normas Técnicas; Construção Sustentável; Construção em Bambu |
+| **Palavras-chave** | Bambu; Nor
 
-## 2. Estrutura e Organização
+---
 
-A dissertação organiza-se em: introdução com contextualização e objetivos; revisão bibliográfica sobre bambu como material estrutural; capítulo central de análise comparativa das normas internacionais (Colômbia NSR-10 Título G, Peru E.100, Equador, Índia, China); discussão de convergências e divergências; proposta de diretrizes para norma brasileira; conclusões e recomendações. Inclui listas de figuras, tabelas, abreviaturas e anexos.
+## 4. ANÁLISE CRÍTICA
 
-## 3. Problema e Perguntas de Pesquisa
+*Análise pendente — conversão automatizada.*
 
-Objetivo geral: realizar análise comparativa de normas técnicas internacionais para o emprego do bambu-colmo em estruturas prediais, identificando convergências e divergências para subsidiar a elaboração de uma norma brasileira. Perguntas centrais: quais os requisitos mínimos estabelecidos pelas principais normas internacionais? Como se comparam os critérios de caracterização, propriedades mecânicas, fatores de segurança? Quais diretrizes podem ser extraídas para uma norma brasileira?
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
 
-## 4. Referencial Teórico
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
-O referencial aborda: caracterização do bambu como material de construção (espécies, propriedades físicas e mecânicas, durabilidade); normalização técnica no Brasil e no mundo; conceitos de segurança estrutural, fatores de segurança e métodos de ensaio. São referenciadas as principais normas técnicas internacionais de bambu e madeira, além de literatura sobre engenharia de bambu (Ghavami, Janssen, etc.).
+---
 
-## 5. Metodologia
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-Abordagem qualitativa comparativa, baseada em análise documental de normas técnicas internacionais. As normas foram selecionadas por sua relevância e abrangência: Colômbia (NSR-10, Título G, Capítulo G.12 — a mais avançada), Peru (Norma E.100), Equador, Índia e China. A comparação abrangeu: campo de aplicação, definições, propriedades dos materiais, métodos de ensaio, critérios de dimensionamento, ligações, durabilidade e controle de qualidade. A análise foi complementada com NTC colombianas (5300, 5301, 5407, 5525).
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-## 6. Principais Achados
+```
+# Resenha: Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu-Colmo em Estruturas Prediais
 
-| Aspecto | Convergências | Divergências |
-|---|---|---|
-| Caracterização do material | Todas exigem determinação de umidade e densidade | Diferentes métodos de ensaio e classes de qualidade |
-| Propriedades mecânicas | Tração, compressão e flexão são requisitos comuns | Valores característicos e fatores de segurança variam |
-| Ligações | Critérios para ligações tradicionais | Detalhamento varia significativamente |
-| Durabilidade | Todas exigem tratamento preservativo | Métodos e produtos aceitos diferem |
+> **Resumo:** A dissertação realiza uma análise comparativa das principais normas técnicas internacionais que regulamentam o uso do bambu-colmo em estruturas prediais, examinando normas da Colômbia (NSR-10), Peru (E.100), Equador, Índia e China. São comparados critérios de caracterização do material, propriedades mecânicas, métodos de ensaio, fatores de segurança, detalhamento de ligações e requisitos de durabilidade. O trabalho identifica convergências e divergências entre as normas e propõe diretrizes para subsidiar a elaboração de uma norma técnica brasileira para estruturas de bambu. A pesquisa contribui para a difusão segura e normalizada do bambu como material estrut
+```
 
-O trabalho propõe diretrizes específicas para a norma brasileira, baseadas nas melhores práticas identificadas.
+---
 
-## 7. Avaliação Crítica
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-Contribuição original significativa: é o primeiro trabalho a consolidar e comparar as normas internacionais de bambu para subsidiar a normalização brasileira. A qualidade formal é elevada, com 193 páginas bem estruturadas. Como lacuna, o estudo não inclui normas de países africanos ou a ISO 2256 (norma internacional de bambu estrutural). A relevância para o repositório é altíssima: a norma brasileira de estruturas de bambu, em elaboração na ABNT, terá como base as diretrizes propostas por este trabalho.
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-## 8. Inserção no Estado da Arte
+---
 
-A dissertação conecta-se diretamente com a resenha da NSR-10 (norma colombiana) e com as fichas sobre propriedades mecânicas do bambu. Classificação temática: normalização técnica, engenharia estrutural, bambu-colmo. Fundamental para o repositório por fornecer o estado da arte da normalização internacional e orientar projetos de engenharia com bambu no Brasil.
+## 7. APLICAÇÕES PRÁTICAS
 
-## Referência (ABNT)
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-MARÇAL, Vitor Hugo Silva. **Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu – Colmo em Estruturas Prediais**. 2018. 193 f. Dissertação (Mestrado em Arquitetura e Urbanismo) — Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 2018.
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

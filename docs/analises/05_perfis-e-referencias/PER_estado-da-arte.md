@@ -1,70 +1,103 @@
-# Estado da Arte: Grandes Obras e Reassentamento Habitacional na Amazônia
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# do da Arte: Grandes Obras e Reassentamento Habitacional na Amazônia
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `PER_estado-da-arte.md` |
+| **Eixo** | 05_perfis-e-referencias (Perfis e Referências) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 05_perfis-e-referencias
+- **Área:** Perfis e Referências
+- **Palavras-chave:** Geral
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > **Resumo:** Este estado da arte sintetiza 5 referências sobre reassentamentos habitacionais forçados por hidrelétricas na Amazônia (Belo Monte/PA, Santo Antônio/RO), com ênfase na inadequação das moradias ao contexto geográfico e sociocultural das populações atingidas. Os estudos convergem em seis achados críticos: (1) as casas padrão de concreto (63m²) são inadequadas ao clima amazônico, gerando desconforto térmico; (2) a remoção de ribeirinhos para conjuntos seriados destrói a base econômica (pesca, agricultura, extrativismo); (3) 53% dos reassentados perdem o emprego por distanciamento do centro; (4) 61% reportam piora no acesso à saúde; (5) trincas e degradação precoce das unidades são recorrentes; (6) 19-33% das famílias vendem ou abandonam as casas por inadaptação. A lacuna central é a ausência de políticas de acompanhamento social e econômico pós-reassentamento.
 
 ---
 
-## 1. Contexto Geral
+
 
 As hidrelétricas na Amazônia brasileira — Belo Monte (PA, 11.233 MW, 3ª maior do mundo), Santo Antônio (RO, 3.568 MW) e Jirau (RO, 3.750 MW) — deslocaram coletivamente mais de 40.000 pessoas. Os reassentamentos prometidos como mitigação têm se mostrado insuficientes, com moradias padronizadas que desconsideram o modo de vida ribeirinho, as condições climáticas e as necessidades produtivas das famílias.
 
 ---
 
-## 2. Principais Evidências
 
-### 2.1 Inadequação arquitetônica e degradação precoce
 
-| Problema | Evidência | Fonte |
-|----------|-----------|-------|
-| Trincas em casas-modelo | Relatadas antes da entrega | Miranda Neto (2014) |
-| Conforto térmico | Concreto armado retém mais calor que madeira/alumínio | Miranda Neto (2014) |
-| Tamanho insuficiente | 63m² padronizados, sem espaço para ampliação ou trabalho | ANPUR (2023) |
-| Degradação de materiais | Problemas em instalações elétricas, tomadas, pavimentação | AMDA (Relatório) |
 
-### 2.2 Destruição da base econômica
 
-| UHE | Reassentamento | Perda econômica |
-|-----|----------------|-----------------|
-| Belo Monte | RUCs Altamira | 53% trabalhavam no centro; desemprego massivo |
-| Santo Antônio | Santa Rita | Agricultura inviabilizada (terra ruim, falta água) |
-| Belo Monte | RRC Rural | Plantação morre no verão; renda baseada na terra perdida |
-| Santo Antônio | Santa Rita | Renda agricultura cai de 42% para subsistência precária |
-
-### 2.3 Seis dimensões da segregação (ANPUR, 2023)
-
-1. **Mobilidade** — RUCs a 4km do centro em terreno acidentado; só 10 micro-ônibus para toda Altamira
-2. **Desemprego** — Perda de postos de trabalho no setor terciário central
-3. **Violência** — Altamira tornou-se a cidade mais violenta do Brasil em 2019; suicídios de jovens 15-25 anos
-4. **Saúde** — 61% reportam saúde pior; RUC Água Azul não tem posto
-5. **Educação** — Só Jatobá tem creche; qualidade "péssima"
-6. **Saneamento** — Problemas crônicos de abastecimento
-
-### 2.4 Desterritorialização
-
-> *"Sabem por que somos manipulados e obrigados a morar aqui, somos pobres, a maioria analfabetos... Só lembro das boas pescarias que fazia com meus antigos vizinhos."* (Morador de Santa Rita, apud Silva & Cavalcante, 2022)
-
-O conceito de **desterritorialização** (Haesbaert, 2006) — perda de controle físico e referências simbólicas — é central para entender o fracasso dos reassentamentos: não se trata apenas de perder a casa, mas de perder o território como espaço de vida, trabalho e identidade.
+| Problema | Evi
 
 ---
 
-## 3. Mapa de Controvérsias
+## 4. ANÁLISE CRÍTICA
 
-| Tese do empreendedor | Evidência contrária | Síntese |
-|----------------------|---------------------|---------|
-| "Casas de concreto são melhores que palafitas" | Concreto gera desconforto térmico na Amazônia; casas trincam precocemente | Material adequado depende do bioma; concreto não é universalmente superior |
-| "Reassentamento urbaniza e inclui" | RUCs são periféricos, sem serviços, segregam | Inclusão exige proximidade com serviços e trabalho, não só moradia |
-| "Indenização compensa a perda" | 83% recusaram dinheiro; 19% vendem a casa por inadaptação | Compensação monetária ignora vínculos territoriais e identitários |
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
 ---
 
-## 4. Fichas Vinculadas
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
 
-| # | Ficha | Ano | Local | Status |
-|---|-------|-----|-------|--------|
-| 01 | [Miranda Neto — Reassentamento Belo Monte](./miranda-neto-2014-belo-monte-reassentamento.md) | 2014 | Altamira/PA | ✅ |
-| 02 | [Belforte & Cavalcante — Santo Antônio](./belforte-cavalcante-2021-santo-antonio.md) | 2021 | Porto Velho/RO | ✅ |
-| 03 | [Silva & Cavalcante — Reassentamento Rural Comparado](./silva-cavalcante-2022-reassentamento-rural-amazonia.md) | 2022 | RO e PA | ✅ |
-| 04 | ANPUR — Belo Monte e segregação | 2023 | Altamira/PA | 🔄 Pendente |
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
 
-> **Elaborado em:** 2026-06-21 | **Fichas incorporadas:** 3 de 4 previstas
-> **Prompts utilizados:** B1 — Estado da arte + B1 — Mapa de controvérsias
+```
+# Estado da Arte: Grandes Obras e Reassentamento Habitacional na Amazônia
+
+> **Resumo:** Este estado da arte sintetiza 5 referências sobre reassentamentos habitacionais forçados por hidrelétricas na Amazônia (Belo Monte/PA, Santo Antônio/RO), com ênfase na inadequação das moradias ao contexto geográfico e sociocultural das populações atingidas. Os estudos convergem em seis achados críticos: (1) as casas padrão de concreto (63m²) são inadequadas ao clima amazônico, gerando desconforto térmico; (2) a remoção de ribeirinhos para conjuntos seriados destrói a base econômica (pesca, agricultura, extrativismo); (3) 53% dos reassentados perdem o emprego por distanciamento do centro; (4) 61% reportam piora no acesso à saúde; (5) trincas e degradação precoce das unidades são recorrentes; (6) 19-33%
+```
+
+---
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

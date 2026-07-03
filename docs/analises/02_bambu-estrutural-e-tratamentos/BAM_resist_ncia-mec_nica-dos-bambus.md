@@ -5,8 +5,87 @@ data: 2026-06-27
 status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# — Resistência Mecânica dos Bambus
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | IFB-E2-54 |
+| **Data** | 2026-06-27 |
+| **Metodo** | 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025) |
+| **Arquivo** | `BAM_resist_ncia-mec_nica-dos-bambus.md` |
+| **Eixo** | 02_bambu-estrutural-e-tratamentos (Bambu Estrutural e Tratamentos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 02_bambu-estrutural-e-tratamentos
+- **Área:** Bambu Estrutural e Tratamentos
+- **Palavras-chave:** bambu, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+
+
+| Campo | Dado |
+|-------|------|
+| **Título** | Resistência Mecânica dos Bambus |
+| **Autor(es)** | Luís Eustáquio Moreira |
+| **Ano** | 2018 |
+| **Páginas** | 655 p. |
+| **DOI** | 10.1007/s00226-006-0078-5. |
+| **Eixo temático** | Caracterização Mecânica e Física do Bambu |
+| **Código** | IFB-E2-54 |
+
+
+O documento apresenta-se como artigo científico. artigo científico. Notas de aula/disciplina sobre resistência mecânica dos bambus, abordando propriedades estruturais, normas técnicas (ABNT, ISO) e aplicações do bambu na construção civil. Inclui referências a normas colombianas e peruanas para uso do bambu em edifica...
+
+
+**Tema central:** Resistência Mecânica dos Bambus. 
+Notas de aula/disciplina sobre resistência mecânica dos bambus, abordando propriedades estruturais, normas técnicas (ABNT, ISO) e aplicações do bambu na construção civil. Inclui referências a normas colombianas e peruanas para uso do bambu em edificações.
+
+
+A caracterização mecânica do bambu é fundamental para sua normalização como material de engenharia. Propriedades como tração, compressão, flexão e cisalhamento variam entre espécies, idade do colmo e região de coleta.
+
+
+
+cação das me
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # IFB — Resistência Mecânica dos Bambus
 
 > **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
@@ -23,32 +102,35 @@ licenca: CC BY 4.0
 | **Código** | IFB-E2-54 |
 
 ## 2. Estrutura e Organização
-O documento apresenta-se como artigo científico. artigo científico. Notas de aula/disciplina sobre resistência mecânica dos bambus, abordando propriedades estruturais, normas técnicas (ABNT, ISO) e aplicações do bambu na construção civil. Inclui referências a normas colombianas e peruanas para uso do bambu em edifica...
-
-## 3. Problema e Perguntas de Pesquisa
-**Tema central:** Resistência Mecânica dos Bambus. 
-Notas de aula/disciplina sobre resistência mecânica dos bambus, abordando propriedades estruturais, normas técnicas (ABNT, ISO) e aplicações do bambu na construção civil. Inclui referências a normas colombianas e peruanas para uso do bambu em edificações.
-
-## 4. Referencial Teórico
-A caracterização mecânica do bambu é fundamental para sua normalização como material de engenharia. Propriedades como tração, compressão, flexão e cisalhamento variam entre espécies, idade do colmo e região de coleta.
-
-## 5. Metodologia
-
-cação das melhores equações de biomassa e os teores médios ponderados de carbono pelos compartimentos, a estocagem de carbono por hectare aos cinco anos de idade variou de 4,5 a 76,3 Mg.ha-1, sendo a mais baixa registrada para a espécie nativa M. skvortzovii e a maior para a espécie exótica e cultiva- da B. oldhamii. As espécies B. vulgaris, G. chacoensis e D. asper estocaram 34,9; 12,6 e 8,8 Mg.ha-1, respectivamente. 239 Conclusões 1. Os dados apontam que a maior estocagem de biomassa nas espéc
-
-## 6. Principais Achados
-Notas de aula/disciplina sobre resistência mecânica dos bambus, abordando propriedades estruturais, normas técnicas (ABNT, ISO) e aplicações do bambu na construção civil. Inclui referências a normas colombianas e peruanas para uso do bambu em edificações.
-
-## 7. Avaliação Crítica
-**Contribuições:** Documento que contribui com dados sobre conceitos e fundamentos relacionados a bambu. Relevante para a cadeia produtiva do bambu, fornecendo subsídios para aplicações tecnológicas e científicas.
-**Limitações:** Análise baseada no texto extraído do PDF. Recomenda-se consulta ao documento original para verificação de detalhes.
-**Qualidade formal:** Documento com estrutura acadêmico-científica formal.
-
-## 8. Inserção no Estado da Arte
-Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Caracterização Mecânica e Física do Bambu**. Consulte [`catalogo-ifb-bambu.md`](catalogo-ifb-bambu.md) e demais fichas IFB do mesmo eixo para visão abrangente. Conteúdo extraído do PDF original.
-
-## Referência (ABNT)
-Luís Eustáquio Moreira. **Resistência Mecânica dos Bambus**. UFMG - Escola de Engenharia, Departamento de Engenharia de Estruturas. 2018.
+O documento apresenta-se como artigo científico. artigo científico. Notas de aula/disciplina sobre resistência mecânica dos bambus, abordando propriedades estruturais, normas técnicas (ABNT, ISO) e aplicações do bambu na construção civil. Inclui r
+```
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

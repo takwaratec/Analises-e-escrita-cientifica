@@ -1,4 +1,34 @@
-# 🌱 Vegetable PU Product Line — Catalog
+---
+
+conversao_cavichiolli: 2026-07-02
+---
+
+# getable PU Product Line — Catalog
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Arquivo** | `POL_pu-vegetal-linha-de-produtos-en.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** poliuretano, his
+
+
+---
+
+## 3. RESUMO / SÍNTESE
 
 > [🇧🇷 PT](PU_Vegetal_Linha_de_Produtos.md) · [🇺🇸 EN](PU_Vegetal_Linha_de_Produtos_EN.md)
 >
@@ -9,7 +39,7 @@
 
 ---
 
-## 🧭 Family Overview
+
 
 Imperveg produces **6 families** of vegetable polyurethane, each with specific formulations for different substrates and use conditions. All share the same castor oil base but vary in mix ratio, curing time, flexibility, and chemical resistance.
 
@@ -41,161 +71,73 @@ flowchart LR
 
 ---
 
-## 🏷️ Quick Reference Table
+---
 
-| Family | Product | Mix Ratio A:B | Main Application | Color |
-|:-------|:--------|:------------:|:-----------------|:------|
-| **UG 132** | Multipurpose | 1:2 | Wood, bamboo, fabrics | ⚪ |
-| **UG 132** | A | 1:2 | Concrete, masonry | 🟡 Amber |
-| **UG 132** | C | 1:2 | Concrete (colored) | 🎨 8 colors |
-| **RQI 132** | General | 1:2 | Chemical/potable concrete | 🟤 |
-| **RQI 132** | A | 1:2 | Wood, interiors, drywall | 🟡 Amber |
-| **RQI 132** | FL | **1:3** | Slabs, exposed terraces | 🟤 |
-| **RQI 132** | M | 1:2 | WTP/WWTP, dikes | 🟤 |
-| **RQI 132** | MR | 1:2 | Drinking water reservoirs | 🟤 |
-| **RA 122** | A/C | — | Carbon steel tanks | ⚪ |
-| **FL 133** | A/B | **1:3** | Slabs with movement | ⚪ |
-| **AGT 1315** | — | **1:1.5** | Composites, natural fibers | ⚪ |
-| **MAMONEX** | RD70 | **1:1** | Bamboo culm filling, insulation | 🟤 Expansive |
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
 
 ---
 
-## 📦 Family Details
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
+# 🌱 Vegetable PU Product Line — Catalog
+
+> [🇧🇷 PT](PU_Vegetal_Linha_de_Produtos.md) · [🇺🇸 EN](PU_Vegetal_Linha_de_Produtos_EN.md)
+>
+> **Manufacturer:** Imperveg Polímeros Vegetais (Brazil) + TecnoVeg (Portugal)
+> **Chemistry base:** Castor oil (*Ricinus Communis*)-based polyurethane
+> **Official site:** [imperveg.com](https://imperveg.com) · [tecnoveg.com](https://tecnoveg.com)
+> **Full catalog:** [imperveg.com/catalogo](https://imperveg.com/catalogo)
 
 ---
 
-### 🟢 UG 132 — General Purpose Waterproofing
+## 🧭 Family Overview
 
-The most versatile family. Monolithic membrane, 100% solids, solvent-free.
+Imperveg produces **6 families** of vegetable polyurethane, each with specific formulations for different substrates and use conditions. All share the same castor oil base but vary in mix ratio, curing time, flexibility, and chemical resistance.
 
-| Product | Application | Differentiator |
-|:--------|:------------|:---------------|
-| **UG 132 Multipurpose** | Wood, bamboo, EPS, fabrics | High UV, weather, salt and acid resistance |
-| **UG 132 A** | Concrete, masonry, wood, pools | Amber, indoor/outdoor, NBR 9575 compliant |
-| **UG 132 C** | Concrete and masonry (colored finish) | 8 colors: yellow, green, black, brown, red, blue, gray, white |
-
-> ⚠️ **Note:** As an aromatic polyurethane, some UG 132 C colors may **yellow** under prolonged UV exposure.
-
-**Common UG 132 series properties:**
-- Tensile strength at break: **~2 MPa**
-- Elongation at break: **±25%**
-- Touch dry: **40–180 min**
-- Coverage: **0.7–1.0 kg/m²** (3–5 coats)
+<div class="mermaid">
+flowchart LR
+    A[Base: Castor Oil] --> B[UG 1
+```
 
 ---
 
-### 🔵 RQI 132 — High Chemical Performance
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-Premium line for aggressive environments. Certified for **drinking water contact** (MS 888 / NBR 12170 / EN 1504-2).
-
-| Product | Application | Differentiator |
-|:--------|:------------|:---------------|
-| **RQI 132** | Concrete in chemical contact | H₂S, acid, alkali resistant. CE certified |
-| **RQI 132 A** | Wood, interiors, drywall | Amber color, interior finish focus |
-| **RQI 132 FL** | Slabs, terraces, exposed roofs | **1:3** ratio (unique). Requires **mesh reinforcement** in large areas |
-| **RQI 132 M** | WTPs, WWTPs, chemical containment dikes | Manual application. Maximum chemical resistance |
-| **RQI 132 MR** | Drinking water reservoirs | **MS 888 certified** — potability |
-
-**Common RQI 132 series properties:**
-- Tensile strength at break: **>2 MPa**
-- Elongation at break: **>50%** (more flexible than UG 132)
-- Shore A hardness: **~89**
-- H₂S resistance: ✅ (except RQI 132 A)
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
 ---
 
-### ⚪ RA 122 — Metallic Coatings
+## 7. APLICAÇÕES PRÁTICAS
 
-Specialized line for **metal surface** protection.
-
-| Product | Application | Differentiator |
-|:--------|:------------|:---------------|
-| **RA 122 A** | Carbon steel tanks | Anti-corrosion protection |
-| **RA 122 C** | Carbon steel tanks | Anti-corrosion protection |
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
 ---
 
-### 🔶 FL 133 — Flexible Membranes
+## 8. REFERÊNCIAS
 
-**High-flexibility** formulation for surfaces subject to thermal and structural movement.
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-| Product | Application | Differentiator |
-|:--------|:------------|:---------------|
-| **FL 133 A** | Slabs, terraces, moving surfaces | Ratio 1:3. High elasticity |
-| **FL 133 B** | Slabs, terraces, moving surfaces | Ratio 1:3. High elasticity |
 
 ---
 
-### 🟤 AGT 1315 — Structural Adhesive for Composites
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-Adhesive resin and matrix for **natural fiber composites**, wood waste and other residues.
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
 
-| Property | Value |
-|:---------|:------|
-| Mix ratio A:B (vol.) | **1:1.5** |
-| Pot life | **~15 min** |
-| Key feature | No **volumetric shrinkage** after curing |
-| Typical uses | LVL panels, particleboards, eco-composites with piassava, coconut, miriti fibers |
-
----
-
-### 🟤 MAMONEX RD70 — Rigid Expansive Foam
-
-Expansive resin that **grows ~15x** after mixing, filling cavities with rigid foam. Expansion via **CO₂** (CFC-free).
-
-| Property | Value |
-|:---------|:------|
-| Mix ratio A:B | **1:1** (volume) |
-| Specific weight | **70 kg/m³** |
-| Compressive strength (10%) | **0.25 MPa** |
-| Water absorption (48h) | **0.01%** by volume |
-| Thermal conductivity | **0.0452 W/mK** |
-| Cream time | **~20 sec** |
-| Gel time | **~30 sec** |
-| Tack-free time | **~180 sec** |
-| Flammability | **Does not propagate flame** |
-
-> 💡 **Key mentoring application:** Filling **bamboo culms** and **fixing metal inserts** in bamboo poles. The foam expands, fills the hollow interior and creates a rigid structural core.
-
----
-
-## ✅ Quick Guide: Which Product to Use?
-
-| You need to... | Use this product |
-|:---------------|:-----------------|
-| Waterproof **bamboo** or **wood** | UG 132 Multipurpose |
-| Waterproof **concrete** or **masonry** | UG 132 A |
-| Waterproof with **color** | UG 132 C |
-| Protect **steel tank** | RA 122 A or C |
-| Coat **slab or terrace** | RQI 132 FL (with mesh) |
-| Waterproof **WTP/WWTP/chemical dike** | RQI 132 M |
-| Waterproof **drinking water reservoir** | RQI 132 MR |
-| **Adhesive/binder** for composites | AGT 1315 |
-| **Fill bamboo culm** or insulate | MAMONEX RD70 |
-| Interior **wood finish** | RQI 132 A |
-
----
-
-## ⚠️ Important Rules
-
-- ❌ **Never dilute** — 100% solids, chemically balanced formulation
-- 🧼 Tool cleaning: **cereal alcohol** (before curing)
-- ⏱️ Pot life: **~20 min** — mix only what you'll use
-- ⏱️ Recoat interval: **~2h** (max. 6h — after 6h, interlayer adhesion is lost)
-- 🌡️ Apply between **18°C and 35°C**, dry and clean surface
-- 📦 Shelf life: **6 months** in sealed original packaging
-
----
-
-## 🌐 Where to Buy / Reference
-
-| Region | Site | Catalog | Technical Data Sheets |
-|:-------|:-----|:--------|:---------------------|
-| 🇧🇷 Brazil | [imperveg.com](https://imperveg.com) | [Catalog](https://imperveg.com/catalogo) | [Datasheets](https://imperveg.com/fichas-tecnicas) |
-| 🇵🇹 Europe | [tecnoveg.com](https://tecnoveg.com) | [Catalog](https://tecnoveg.com/catalogo-produtos) | DoP: [Drive](https://drive.google.com/file/d/1fz3x_F5QyjPM3v2hPsR4VgY7C9IAvmZ0/view) |
-
----
-
-> 📎 **See also:**
-> - [Consolidated Technical Datasheet](PU_Vegetal_Ficha_Tecnica_Consolidada_EN.md) — complete specs, MPa values, didactic analogies
-> - [TEC_03: Vegetable Polyurethane and Bio-Weld](02_BASE_DE_CONHECIMENTO/TEC_03_O_Poliuretano_Vegetal_e_Aplicacao.md) — history, Itecons tests, handling

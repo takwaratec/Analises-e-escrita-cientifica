@@ -76,3 +76,9 @@ Publicação técnica sobre o estabelecimento e construção de estufas para cul
 - BLISKA JÚNIOR, A.; HONÓRIO, S.L. Establishment and construction of greenhouses for vegetable cultivation. Wallingford: CAB International, 1999.
 - CABI link: https://www.cabidigitallibrary.org/doi/full/10.5555/20002402428
 - Perfil Bliska no Acervo: https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/05_perfis-e-referencias/perfil-antonio-bliska.md
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*

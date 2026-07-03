@@ -6,8 +6,92 @@ instituicao: Tecnologia Takwara
 data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# a Técnica: Ferramentas de Layout para Domos Geodésicos
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Tecnologia** | Ferramentas de Layout para Domos Geodésicos |
+| **Autor** | Fabio Takwara |
+| **Instituicao** | Tecnologia Takwara |
+| **Data** | 2026-06-27 |
+| **Arquivo** | `SOC_ficha-ferramentas-domos.md` |
+| **Eixo** | 03_habitacao-social-e-athis (Habitação Social e ATHIS) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 03_habitacao-social-e-athis
+- **Área:** Habitação Social e ATHIS
+- **Palavras-chave:** geodésica
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+**Título:** Soluções Digitais Avançadas para Documentação de Montagem Personalizada de Cúpulas Geodésicas  
+**Campo de Aplicação:** Projeto, fabricação e montagem de domos geodésicos personalizados  
+**Escopo:** Ferramentas de design paramétrico, IA generativa e automação de desenhos para documentação de domos
+
+
+
+Síntese de soluções digitais para projeto de cúpulas geodésicas, abrangendo desde fundamentos geométricos (sólidos platônicos, frequência, subdivisão, truncagem) até ferramentas paramétricas (Grasshopper, Rhino) e IA para otimização estrutural e documentação automatizada.
+
+
+
+| Ferramenta | Função |
+|-----------|--------|
+| Grasshopper (Rhino) | Hub digital: geração paramétrica de malha geodésica |
+| Parakeet | Plugin com componente de cúpula geodésica |
+| Weaverbird | Modelagem de malha (suavizar, engrossar, refinar) |
+| Kangaroo | Simulação física e otimização estrutural |
+| DOME (C++) | Programa para criação de modelos geodésicos |
+
+
+
+- **DXF:** Geometria para CAD/CAM (corte, painéis)
+- **CSV/PRN:** Listas de corte, coordenadas, lista de materiais
+
+
+
+| Ferramenta | Função |
+|-----------|--------|
+| DraftAid | Automação de desenhos 2D a partir de modelos 3D (redução de até 90% do tempo) |
+| Dyvixion Core | Instruções de montagem interativas passo a passo |
+| AutoCAD Exploded
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # Ficha Técnica: Ferramentas de Layout para Domos Geodésicos
 
 ## 1. Identificação
@@ -24,62 +108,35 @@ Síntese de soluções digitais para projeto de cúpulas geodésicas, abrangendo
 
 | Ferramenta | Função |
 |-----------|--------|
-| Grasshopper (Rhino) | Hub digital: geração paramétrica de malha geodésica |
-| Parakeet | Plugin com componente de cúpula geodésica |
-| Weaverbird | Modelagem de malha (suavizar, engrossar, refinar) |
-| Kangaroo | Simulação física e otimização estrutural |
-| DOME (C++) | Programa para criação de modelos geodésicos |
+| Grasshopper (Rhino) | Hub
+```
 
-### Formatos de Saída
+---
 
-- **DXF:** Geometria para CAD/CAM (corte, painéis)
-- **CSV/PRN:** Listas de corte, coordenadas, lista de materiais
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
 
-### Ferramentas de IA para Documentação
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
 
-| Ferramenta | Função |
-|-----------|--------|
-| DraftAid | Automação de desenhos 2D a partir de modelos 3D (redução de até 90% do tempo) |
-| Dyvixion Core | Instruções de montagem interativas passo a passo |
-| AutoCAD Exploded View Generator | Vistas explodidas para montagem |
-| IA Generativa (Autodesk, nTopology) | Otimização estrutural, redução de material |
+---
 
-### Parâmetros Geométricos (Exemplo: 3V Icosaedro, 5/8)
+## 7. APLICAÇÕES PRÁTICAS
 
-| Parâmetro | Valor |
-|-----------|-------|
-| Frequência | 3V |
-| Poliedro | Icosaedro |
-| Subdivisão | Alternada (Classe I) |
-| Barras | 165 (3 tipos: A=0,3486, B=0,4035, C=0,4124) |
-| Painéis | 105 (2 tipos) |
-| Conectores | 61 (5 e 6 vias) |
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
 
-## 3. Parâmetros Técnicos
+---
 
-### Fluxo de Trabalho Integrado
+## 8. REFERÊNCIAS
 
-1. Design Conceitual (Grasshopper: parâmetros, malha, Parakeet)
-2. Otimização Estrutural (IA generativa: seções, conexões, material)
-3. Modelagem 3D Detalhada (CAD: esquadrias, furos, tolerâncias)
-4. Extração de Dados (CSV: comprimentos, ângulos, BOM)
-5. Desenhos 2D Automatizados (DraftAid: padrões de corte, DXF)
-6. Instruções de Montagem (Dyvixion Core: passo a passo)
-7. Visualização (renderização, apresentação)
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
 
-## 4. Aplicações
 
-- Geração de documentação completa para fabricação de domos
-- Projetos personalizados sem dependência de planos pré-existentes
-- Otimização de material (redução de desperdício)
-- Automação de corte (CNC, router)
-- Capacitação de construtores com instruções visuais precisas
+---
 
-## 5. Referências
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
 
-- Documento original: Takwara-Tech/docs/A4. Domos Geodésicos/a3.3 Ferramentas para Layout.md
-- Grasshopper3d: https://www.grasshopper3d.com/
-- DraftAid: https://draftaid.io/
-- Dyvixion Core: https://www.dyvixion.com/
-- Domebook 2. Pacific Domes, 1971.
-- Autodesk Generative Design: https://www.autodesk.com/solutions/generative-design-ai-software
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

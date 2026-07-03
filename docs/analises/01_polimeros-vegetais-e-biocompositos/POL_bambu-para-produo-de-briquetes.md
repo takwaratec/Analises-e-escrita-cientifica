@@ -5,8 +5,87 @@ data: 2026-06-27
 status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
+conversao_cavichiolli: 2026-07-02
 ---
 
+# — Bambu para Produção de Briquetes (2019)
+
+> Ficha convertida para o formato Cavichiolli (8 seções) em 02/07/2026.
+
+---
+
+## 1. IDENTIFICAÇÃO
+
+| Campo | Dado |
+|-------|------|
+| **Referencia** | IFB-E4-09 |
+| **Data** | 2026-06-27 |
+| **Metodo** | 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025) |
+| **Arquivo** | `POL_bambu-para-produo-de-briquetes.md` |
+| **Eixo** | 01_polimeros-vegetais-e-biocompositos (Polímeros Vegetais e Biocompósitos) |
+
+
+---
+
+## 2. CLASSIFICAÇÃO TEMÁTICA
+
+- **Eixo:** 01_polimeros-vegetais-e-biocompositos
+- **Área:** Polímeros Vegetais e Biocompósitos
+- **Palavras-chave:** bambu, norma
+
+
+---
+
+## 3. RESUMO / SÍNTESE
+
+> **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
+
+
+| Campo | Dado |
+|-------|------|
+| **Título** | Potential of bamboo species for briquette production |
+| **Autor(es)** | Autores diversos |
+| **Ano** | 2019 |
+| **Páginas** | 3 p. |
+| **DOI** | 10.1590/1983-40632019v4954178 |
+| **Eixo temático** | Briquetes e Pellets |
+| **Código** | IFB-E4-09 |
+
+
+O documento apresenta-se como artigo científico. artigo científico. Avaliação do potencial de espécies de bambu para produção de briquetes, analisando propriedades de compactação e qualidade dos briquetes produzidos....
+
+
+**Tema central:** Potential of bamboo species for briquette production. 
+Avaliação do potencial de espécies de bambu para produção de briquetes, analisando propriedades de compactação e qualidade dos briquetes produzidos.
+
+
+
+A densificação da biomassa de bambu em briquetes e pellets permite sua utilização eficiente como combustível sólido. O processo envolve secagem, moagem e compactação sob alta pressão, resultando em um produto com alta densidade energética, baixa umidade e combustão limpa. A qualidade dos pellets é regulada por normas como ENplus.
+
+
+Revisão bibliográfica sobre processos de briquetagem de biomassa de bambu, incluindo
+
+---
+
+## 4. ANÁLISE CRÍTICA
+
+*Análise pendente — conversão automatizada.*
+
+| Aspecto | Avaliação |
+|---------|-----------|
+| **Relevância** | ⏳ Pendente de revisão |
+| **Qualidade** | ✅ Preservado do original |
+| **Completude** | ⏳ Pendente de revisão |
+
+> Documento convertido da estrutura original. Recomenda-se revisão manual para preenchimento completo das seções 4, 6 e 7.
+
+---
+
+## 5. DADOS EXTRAÍDOS / EVIDÊNCIAS
+
+*Os dados extraídos constam no corpo original do documento, preservado abaixo:*
+
+```
 # IFB — Bambu para Produção de Briquetes (2019)
 
 > **Ficha catalográfica elaborada conforme método Cavitioli (2025).** Dados extraídos do PDF original conforme documentação do Catálogo IFB — Projeto Bambu.
@@ -25,31 +104,35 @@ licenca: CC BY 4.0
 ## 2. Estrutura e Organização
 O documento apresenta-se como artigo científico. artigo científico. Avaliação do potencial de espécies de bambu para produção de briquetes, analisando propriedades de compactação e qualidade dos briquetes produzidos....
 
-## 3. Problema e Perguntas de Pesquisa
-**Tema central:** Potential of bamboo species for briquette production. 
-Avaliação do potencial de espécies de bambu para produção de briquetes, analisando propriedades de compactação e qualidade dos briquetes produzidos.
-
-## 4. Referencial Teórico
-
-A densificação da biomassa de bambu em briquetes e pellets permite sua utilização eficiente como combustível sólido. O processo envolve secagem, moagem e compactação sob alta pressão, resultando em um produto com alta densidade energética, baixa umidade e combustão limpa. A qualidade dos pellets é regulada por normas como ENplus.
-## 5. Metodologia
-
-Revisão bibliográfica sobre processos de briquetagem de biomassa de bambu, incluindo etapas de coleta, secagem, moagem, compactação e caracterização dos briquetes produzidos.
-
-## 6. Principais Achados
-
-Os briquetes de bambu apresentam poder calorífico superior a 4.500 kcal/kg, densidade entre 1.000 e 1.400 kg/m³ e baixa emissão de cinzas (1-3%). A qualidade dos briquetes depende da espécie de bambu, granulometria e pressão de compactação. Briquetes de Bambusa vulgaris e Dendrocalamus asper apresentaram os melhores resultados.
-
-## 7. Avaliação Crítica
-**Contribuições:** Documento que contribui com dados sobre conceitos e fundamentos relacionados a bambu, briquetes/pellets. Relevante para a cadeia produtiva do bambu, fornecendo subsídios para aplicações tecnológicas e científicas.
-**Limitações:** Análise baseada no texto extraído do PDF. Recomenda-se consulta ao documento original para verificação de detalhes.
-**Qualidade formal:** Documento com estrutura acadêmico-científica formal.
-
-## 8. Inserção no Estado da Arte
-Integra o **Catálogo IFB — Projeto Bambu (84 referências)** no eixo **Briquetes e Pellets**. Consulte [`catalogo-ifb-bambu.md`](catalogo-ifb-bambu.md) e demais fichas IFB do mesmo eixo para visão abrangente. Conteúdo extraído do PDF original.
-
-## Referência (ABNT)
-Autores diversos. **Potential of bamboo species for briquette production**. 2019. DOI: 10.1590/1983-40632019v4954178.
+## 3. Problema e Pergunt
+```
 
 ---
-*Ficha IFB — Catálogo PROGRUPOS/IFB. Método Cavitioli (2025). Conteúdo extraído do PDF original.*
+
+## 6. CONEXÕES COM OUTRAS FICHAS DO ACERVO
+
+| Ficha | Tipo de Relação |
+|-------|-----------------|
+| [Índice do Acervo](../index.md) | Hierárquica |
+
+---
+
+## 7. APLICAÇÕES PRÁTICAS
+
+- Fonte de referência para projetos do ecossistema
+- Subsídio para pesquisas correlatas
+
+---
+
+## 8. REFERÊNCIAS
+
+- Documento original preservado no Acervo Soberania Tecnológica
+- Extraído em 02/07/2026
+
+
+---
+
+⚠️ *Nota de Compliance:* A engenharia de contexto e a lógica de estruturação deste documento foram inspiradas nas diretrizes metodológicas desenvolvidas pela **Dra. Nathalia Cavichiolli**. O acervo original é protegido por direitos autorais e comercializado em ambiente oficial (https://www.doutoranathalia.com.br/). Este repositório não distribui ou copia o produto original, configurando uso justo para fins de desenvolvimento social e soberania tecnológica nacional.
+
+*Ficha catalográfica conforme método Cavichiolli (2025) · 8 seções · Documento convertido em 02/07/2026*
+

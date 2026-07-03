@@ -7,6 +7,9 @@ email: guilherme.silva@ufba.br
 data: 2026-07-01
 status: Rascunho — validar nome, Lattes, e-mail e dados complementares
 tags: [UFBA, Bahia, fibras-vegetais, ATHIS, materiais-cimenticios, habitacao-social, Nordeste]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Guilherme de Oliveira Silva**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-guilherme-silva-ufba.md
 ---
 
 # Perfil: Prof. Dr. Guilherme de Oliveira Silva

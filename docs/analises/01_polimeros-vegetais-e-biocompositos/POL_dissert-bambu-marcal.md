@@ -6,6 +6,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha: Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu Colmo em Estruturas Prediais**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_dissert-bambu-marcal.md
 ---
 
 # nha: Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu Colmo em Estruturas Prediais

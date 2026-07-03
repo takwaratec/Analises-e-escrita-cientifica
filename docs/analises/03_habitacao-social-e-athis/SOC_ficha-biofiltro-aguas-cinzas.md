@@ -4,6 +4,8 @@ projeto: ECOSALA / Vaga Lumen
 referencia: FICHA_BIOFILTRO_AGUAS_CINZAS
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Biofiltros e Sistemas de Tratamento de Aguas Cinzas**. , 2026. DOI: 10.47749/t/unicamp.2019.1092469
 ---
 
 # a: Biofiltros e Sistemas de Tratamento de Aguas Cinzas

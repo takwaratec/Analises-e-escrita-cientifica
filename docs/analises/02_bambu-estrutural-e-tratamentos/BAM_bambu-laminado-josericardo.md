@@ -11,6 +11,8 @@ data_extracao: 27/06/2026
 fonte: Takwara-Tech
 arquivo_original: Dissert_BLC_UEM_2018
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_bambu-laminado-josericardo.md
 ---
 
 # a: Bambu Laminado Colado — Produção, Caracterização e Aceitação Cultural na Região Noroeste do Paraná

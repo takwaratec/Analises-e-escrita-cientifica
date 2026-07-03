@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **nha PU Vegetal — Catálogo de Produtos**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_pu-vegetal-linha-de-produtos.md
 ---
 
 # nha PU Vegetal — Catálogo de Produtos

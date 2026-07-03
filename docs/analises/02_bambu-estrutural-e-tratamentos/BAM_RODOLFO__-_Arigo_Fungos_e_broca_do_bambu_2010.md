@@ -11,6 +11,9 @@ tamanho_kb: 36
 categoria_mentor: 00_outros
 chromadb_id: 34d46902efc0
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_RODOLFO__-_Arigo_Fungos_e_broca_do_bambu_2010.md
+
+how_to_cite: >
+  A identificar. **RODOLFO Arigo Fungos e broca do bambu (2010)**. Acervo Soberania Tecnológica, 2010. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_RODOLFO__-_Arigo_Fungos_e_broca_do_bambu_2010.md
 ---
 
 # RODOLFO  - Arigo Fungos e broca do bambu (2010)

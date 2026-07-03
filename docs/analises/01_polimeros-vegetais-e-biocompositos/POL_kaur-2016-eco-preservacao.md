@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Eco Friendly Preservation of Bamboo (Kaur et al., 2016)**. , 2016. DOI: 10.15376/biores.11.4.Kaur
 ---
 
 # a — Eco Friendly Preservation of Bamboo (Kaur et al., 2016)

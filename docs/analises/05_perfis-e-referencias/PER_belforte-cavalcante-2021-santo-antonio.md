@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Hidrelétrica de Santo Antônio e impactos socioterritoriais no reassentamento Santa Rita, Rondônia**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_belforte-cavalcante-2021-santo-antonio.md
 ---
 
 # a Técnica: Hidrelétrica de Santo Antônio e impactos socioterritoriais no reassentamento Santa Rita, Rondônia

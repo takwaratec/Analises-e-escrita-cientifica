@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Tecnologia Social e Saberes Populares"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **005: Relato Popular: Da Percepção da Precariedade à Autonomia Sustentável**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_005_RELATO_POPULAR_MIGRACAO_TECNOLOGICA.md
 ---
 
 # 005: Relato Popular: Da Percepção da Precariedade à Autonomia Sustentável

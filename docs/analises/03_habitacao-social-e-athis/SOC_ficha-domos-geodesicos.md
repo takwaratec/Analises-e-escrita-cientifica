@@ -7,6 +7,8 @@ fonte_principal: Takwara-Tech/docs/A4. Domos Geodésicos/a3.1 Dados Estruturais.
 data: 2026-06-27
 classificacao_atualizada: Síntese Técnica — compilação do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Científica: Domos Geodésicos — Dados Estruturais e Especificações**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_ficha-domos-geodesicos.md
 ---
 
 # a Científica: Domos Geodésicos — Dados Estruturais e Especificações

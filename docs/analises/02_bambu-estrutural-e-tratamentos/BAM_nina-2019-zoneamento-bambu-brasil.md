@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **amento Edafoclimático para *Bambusa vulgaris* e *Dendrocalamus giganteus* no Brasil**. , 2026. DOI: 10.1590/1983-40632019v4953713
 ---
 
 # amento Edafoclimático para *Bambusa vulgaris* e *Dendrocalamus giganteus* no Brasil

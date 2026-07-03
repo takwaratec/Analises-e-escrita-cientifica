@@ -11,6 +11,9 @@ tamanho_kb: 54
 categoria_mentor: 00_outros
 chromadb_id: 50c4125a7dd0
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Tratamento_e_Comercializacao_de_Varas_de_Bambu.md
+
+how_to_cite: >
+  A identificar. **Tratamento e Comercialização de Varas de Bambu**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Tratamento_e_Comercializacao_de_Varas_de_Bambu.md
 ---
 
 # Tratamento e Comercialização de Varas de Bambu

@@ -7,6 +7,9 @@ email: toledo@coc.ufrj.br
 data: 2026-07-01
 status: Rascunho — validar e-mail e produção recente
 tags: [UFRJ, COPPE, Rio-de-Janeiro, bambu-estrutural, compósitos, fibras-vegetais, ACV, Sudeste]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Romildo Dias Toledo Filho**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-romildo-toledo-ufrj.md
 ---
 
 # Perfil: Prof. Dr. Romildo Dias Toledo Filho

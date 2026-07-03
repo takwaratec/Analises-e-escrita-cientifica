@@ -7,6 +7,9 @@ email: daniela.maciel@embrapa.br
 data: 2026-07-01
 status: Consolidado
 tags: [Embrapa, ECOSALA, avaliacao-de-impacto, RRI, RRA, TerImpact, Python, Streamlit]
+
+how_to_cite: >
+  **Perfil: Dra. Daniela Maciel**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-daniela-maciel.md
 ---
 
 # Perfil: Dra. Daniela Maciel

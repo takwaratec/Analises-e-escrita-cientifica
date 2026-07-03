@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A TÉCNICA ACADÊMICA — Método Cavitioli (2025)**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_marc-al-2018-normas-bambu.md
 ---
 
 # A TÉCNICA ACADÊMICA — Método Cavitioli (2025)

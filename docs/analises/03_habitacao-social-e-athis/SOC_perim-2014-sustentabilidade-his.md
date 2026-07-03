@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica — Sustentabilidade na Habitação de Interesse Social**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_perim-2014-sustentabilidade-his.md
 ---
 
 # a Técnica — Sustentabilidade na Habitação de Interesse Social

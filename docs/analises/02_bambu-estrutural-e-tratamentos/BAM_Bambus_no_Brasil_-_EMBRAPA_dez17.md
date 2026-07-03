@@ -11,6 +11,9 @@ tamanho_kb: 21995
 categoria_mentor: 00_outros
 chromadb_id: 32207501c2a0
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Bambus_no_Brasil_-_EMBRAPA_dez17.md
+
+how_to_cite: >
+  A identificar. **Bambus no Brasil EMBRAPA dez17**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Bambus_no_Brasil_-_EMBRAPA_dez17.md
 ---
 
 # Bambus no Brasil - EMBRAPA dez17

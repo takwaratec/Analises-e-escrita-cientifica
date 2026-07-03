@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Mercado de Biocarvão (Biochar): Barreiras e Perspectivas (Thengane et al., 2021)**. , 2021. DOI: 10.1002/bbb.2280
 ---
 
 # a — Mercado de Biocarvão (Biochar): Barreiras e Perspectivas (Thengane et al., 2021)

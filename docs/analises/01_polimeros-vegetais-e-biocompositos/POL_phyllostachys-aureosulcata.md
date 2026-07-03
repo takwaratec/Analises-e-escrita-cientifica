@@ -9,6 +9,8 @@ licenca: CC BY 4.0
 fonte: TRIAGEM_BRUTA/PARA_REVISAO_TT/Phyllostachys_aureosulcata__bambu_de_sulco_amarelo_.md (25 páginas, extração do PDF original CABI Invasive Species Compendium)
 foco: Phyllostachys aureosulcata (bambu de sulco amarelo) — espécie invasora
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Cavitioli — Phyllostachys aureosulcata (bambu de sulco amarelo)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_phyllostachys-aureosulcata.md
 ---
 
 # a Cavitioli — Phyllostachys aureosulcata (bambu de sulco amarelo)

@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Soberania em Painéis Estruturais"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **027: Bio OSB de Bambu Dendrocalamus asper e Resina PU Mamona**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_027_BIO_OSB_BAMBU_MAMONA_MQTF.md
 ---
 
 # 027: Bio OSB de Bambu Dendrocalamus asper e Resina PU Mamona

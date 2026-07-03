@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Manual Indiano de Preservação de Bambu (2006)**. Acervo Soberania Tecnológica, 2006. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_manual-indiano-preservacao-2006.md
 ---
 
 # — Manual Indiano de Preservação de Bambu (2006)

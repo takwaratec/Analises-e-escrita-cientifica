@@ -7,6 +7,8 @@ fontes: Série Técnica (Zenodo 10.5281/zenodo.18827106), Patente MPTDF
 data: 29/06/2026
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara / Hermes Agent. **amento Sem Veneno — Preservação de Bambu por Vapor Saturado**. , 2026. DOI: 10.5281/zenodo.18827106
 ---
 
 # amento Sem Veneno — Preservação de Bambu por Vapor Saturado

@@ -11,6 +11,9 @@ tamanho_kb: 305
 categoria_mentor: 00_outros
 chromadb_id: df837310ed2f
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Pesquisa_Bambu_2025.md
+
+how_to_cite: >
+  A identificar. **Pesquisa Bambu 2025**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Pesquisa_Bambu_2025.md
 ---
 
 # Pesquisa Bambu 2025

@@ -7,6 +7,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha Analítica: Ultimato Climático — Para Além do Capitalismo, Rumo a uma Transição Justa e Democrática**. , 2026. DOI: 10.5281/zenodo.17225867
 ---
 
 # nha Analítica: Ultimato Climático — Para Além do Capitalismo, Rumo a uma Transição Justa e Democrática

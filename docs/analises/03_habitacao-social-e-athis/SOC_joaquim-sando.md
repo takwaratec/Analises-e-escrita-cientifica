@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Joaquim Lauro Sando**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_joaquim-sando.md
 ---
 
 # a — Joaquim Lauro Sando

@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Resistência à Flexão Estática e Compressão de Bambu (2017)**. Acervo Soberania Tecnológica, 2017. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_resistencia-flexao-compressao-2017.md
 ---
 
 # — Resistência à Flexão Estática e Compressão de Bambu (2017)

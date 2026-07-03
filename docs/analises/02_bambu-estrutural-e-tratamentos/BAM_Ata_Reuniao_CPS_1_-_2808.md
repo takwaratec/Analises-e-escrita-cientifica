@@ -11,6 +11,9 @@ tamanho_kb: 50
 categoria_mentor: 00_outros
 chromadb_id: 8bb8e36bda31
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Ata_Reuniao_CPS_1_-_2808.md
+
+how_to_cite: >
+  A identificar. **Ata Reunião CPS 1 28.08**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Ata_Reuniao_CPS_1_-_2808.md
 ---
 
 # Ata Reunião CPS 1 - 28.08

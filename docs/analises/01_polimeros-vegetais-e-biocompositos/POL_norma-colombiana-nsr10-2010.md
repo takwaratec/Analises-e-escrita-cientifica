@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica — NSR 10 Título G: Estruturas de Madeira e Estruturas de Guadua (Decreto Final 2010)**. Acervo Soberania Tecnológica, 2010. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_norma-colombiana-nsr10-2010.md
 ---
 
 # a Técnica — NSR 10 Título G: Estruturas de Madeira e Estruturas de Guadua (Decreto Final 2010)

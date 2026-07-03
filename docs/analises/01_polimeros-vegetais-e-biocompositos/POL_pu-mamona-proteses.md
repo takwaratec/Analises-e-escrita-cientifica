@@ -6,6 +6,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha: Estudo Comparativo da Resistência Mecânica da Poliuretana Derivada do Óleo da Mamona Submetida a Ensaios de Tração**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_pu-mamona-proteses.md
 ---
 
 # nha: Estudo Comparativo da Resistência Mecânica da Poliuretana Derivada do Óleo da Mamona Submetida a Ensaios de Tração

@@ -21,6 +21,8 @@ title: 'Tratamento de Bambu com Extrato Pirolenhoso (MQTF)'
 type: Extração Estrutural Local
 version: '1.2'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **ncial do Extrato Pirolenhoso na Preservação de Bambu (*Guadua*)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_012_TRATAMENTO_PIROLENHOSO_UNICAMP.md
 ---
 
 # ncial do Extrato Pirolenhoso na Preservação de Bambu (*Guadua*)

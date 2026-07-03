@@ -23,6 +23,8 @@ title: 'O Bambu e a Mamona — Os Pilares Ignorados da Soberania Tecnológica Br
 type: Síntese Científica (Master)
 version: '3.1'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **mbu e a Mamona — Os Pilares Ignorados da Soberania Tecnológica Brasileira**. , 2026. DOI: 10.5281/zenodo.18827106
 ---
 
 # mbu e a Mamona — Os Pilares Ignorados da Soberania Tecnológica Brasileira

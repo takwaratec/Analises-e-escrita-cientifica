@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **do da Arte: Grandes Obras e Reassentamento Habitacional na Amazônia**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_estado-da-arte.md
 ---
 
 # do da Arte: Grandes Obras e Reassentamento Habitacional na Amazônia

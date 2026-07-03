@@ -4,6 +4,8 @@ projeto: ECOSALA / Vaga Lumen
 referencia: FICHA_BIOCHAR_BIOENERGIA
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Biochar, Briquetes, Pellets e Bioenergia**. Energy Re, 2026. DOI: 10.1111/gcbb.12057
 ---
 
 # a: Biochar, Briquetes, Pellets e Bioenergia

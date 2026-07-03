@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica Acadêmica — Método Cavitioli (2025)**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_tese-geodesicas-unicamp.md
 ---
 
 # a Técnica Acadêmica — Método Cavitioli (2025)

@@ -11,6 +11,9 @@ tamanho_kb: 251
 categoria_mentor: 00_outros
 chromadb_id: 5160f6c9f987
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Github_-_Readme.md
+
+how_to_cite: >
+  A identificar. **Github Readme**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Github_-_Readme.md
 ---
 
 # Github - Readme

@@ -6,6 +6,9 @@ email: bliskajr@unicamp.br
 data: 2026-07-01
 status: Consolidado
 tags: [estufas, plasticultura, geodesicas, UNICAMP, NIPE, agricultura-protegida, cafe, flores]
+
+how_to_cite: >
+  **Perfil: Prof. Antônio Bliska Jr.**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-antonio-bliska.md
 ---
 
 # Perfil: Prof. Antônio Bliska Jr.

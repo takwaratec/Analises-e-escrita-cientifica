@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Propriedades do Carvão de Bambusa Clonado (2022)**. , 2022. DOI: 10.1371/journal.pone.0279586
 ---
 
 # — Propriedades do Carvão de Bambusa Clonado (2022)

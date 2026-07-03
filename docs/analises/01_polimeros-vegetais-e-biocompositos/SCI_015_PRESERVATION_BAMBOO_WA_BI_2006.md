@@ -21,6 +21,8 @@ title: 'Manual de Treinamento em Preservação de Bambu (NMBA 2006)'
 type: Extração Estrutural Local (MQTF)
 version: '1.2'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **al de Treinamento: Preservação de Bambu (NMBA)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_015_PRESERVATION_BAMBOO_WA_BI_2006.md
 ---
 
 # al de Treinamento: Preservação de Bambu (NMBA)

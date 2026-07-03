@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Microrreator Catalítico Lignocelulósico (Pandoli, Ghavami & Sá, 2023)**. Acervo Soberania Tecnológica, 2023. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_pandoli-2023-microreator-bambu.md
 ---
 
 # a — Microrreator Catalítico Lignocelulósico (Pandoli, Ghavami & Sá, 2023)

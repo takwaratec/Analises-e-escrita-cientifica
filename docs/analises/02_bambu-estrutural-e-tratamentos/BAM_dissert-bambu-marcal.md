@@ -7,6 +7,8 @@ status: Consolidado
 licenca: CC BY 4.0
 instituicao: Tecnologia Takwara
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Cavitioli — Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu Colmo em Estruturas Prediais**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_dissert-bambu-marcal.md
 ---
 
 # a Cavitioli — Análise Comparativa de Normas Técnicas Internacionais para o Emprego do Bambu Colmo em Estruturas Prediais

@@ -6,6 +6,8 @@ projeto: Tecnologia Takwara / ECOSALA
 referencia: Relatório Analítico e Crítico do Painel "Desafios para a Manutenção da Floresta em Pé" — COP30
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Analítica: Painel Floresta em Pé (COP30)**. , 2026. DOI: 10.5281/zenodo.17225867
 ---
 
 # a Analítica: Painel Floresta em Pé (COP30)

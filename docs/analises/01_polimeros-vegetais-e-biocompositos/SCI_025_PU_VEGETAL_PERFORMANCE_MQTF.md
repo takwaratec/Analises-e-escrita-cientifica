@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Não Veneno, Não Cimento, Não Voláteis"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **025: Análise Estratégica da Imperveg Polímeros Vegetais**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_025_PU_VEGETAL_PERFORMANCE_MQTF.md
 ---
 
 # 025: Análise Estratégica da Imperveg Polímeros Vegetais

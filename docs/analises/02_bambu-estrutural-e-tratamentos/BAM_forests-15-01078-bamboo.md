@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Soil Chemical Quality in Integrated Production Systems with the Presence of Native and Exotic Tree Components in the Brazilian Eastern Amazon**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_forests-15-01078-bamboo.md
 ---
 
 # a Técnica: Soil Chemical Quality in Integrated Production Systems with the Presence of Native and Exotic Tree Components in the Brazilian Eastern Amazon

@@ -5,6 +5,8 @@ tipo: Laudo Técnico (Laboratório)
 referencia: LAB_005_Permeabilidade_Vapor.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **src="../../../assets/patterns/square title red.svg" width="30px"> Laudo Técnico: Permeabilidade ao Vapor de Água**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_LAB_005_Permeabilidade_Vapor.md
 ---
 
 # src="../../../assets/patterns/square title red.svg" width="30px"> Laudo Técnico: Permeabilidade ao Vapor de Água

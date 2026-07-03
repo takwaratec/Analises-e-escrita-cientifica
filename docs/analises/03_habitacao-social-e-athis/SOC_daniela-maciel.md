@@ -3,6 +3,8 @@ tipo: Ficha de Membro
 projeto: ECOSALA
 status: Consolidado — atualizado com GitHub pessoal
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **SOC daniela-maciel**. , 2026. DOI: 10.4067/S0718-2724202400040008
 ---
 
 # ela Maciel

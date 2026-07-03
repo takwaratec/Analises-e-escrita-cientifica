@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: Bambus_no_Brasil_-_EMBRAPA_dez17.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Bambus no Brasil — Embrapa**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-bambus_no_brasil_-_embrapa_dez17.md
 ---
 
 # a: Bambus no Brasil — Embrapa

@@ -11,6 +11,9 @@ tamanho_kb: 4282
 categoria_mentor: 00_outros
 chromadb_id: e43653ebcf6a
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Relatorio_Curso_de_Capacitacao_Basica_do_Manuseio_do_Bambu_e_Criacao_de_Estrutur.md
+
+how_to_cite: >
+  A identificar. **Relatório Curso de Capacitação Básica do Manuseio do Bambu e Criação de Estruturas Arquitetônicas e Mobiliárias**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Relatorio_Curso_de_Capacitacao_Basica_do_Manuseio_do_Bambu_e_Criacao_de_Estrutur.md
 ---
 
 # Relatório Curso de Capacitação Básica do Manuseio do Bambu e Criação de Estruturas Arquitetônicas e Mobiliárias

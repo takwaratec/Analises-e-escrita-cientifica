@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Efeito do tratamento de vaporização em toras e madeira serrada de *Eucalyptus dunnii* sobre a flexão estática**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_severoTomaselli_1998_vaporizacao.md
 ---
 
 # a Técnica: Efeito do tratamento de vaporização em toras e madeira serrada de *Eucalyptus dunnii* sobre a flexão estática

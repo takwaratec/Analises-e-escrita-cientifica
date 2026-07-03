@@ -7,6 +7,8 @@ fonte_principal: Takwara-Tech (acervo proprio do autor)
 data: 2026-06-27
 classificacao_atualizada: Síntese Técnica — compilação do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica Científica: Forno Ecológico Multifuncional**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-forno-ecologico-multifuncional.md
 ---
 
 # a Técnica Científica: Forno Ecológico Multifuncional

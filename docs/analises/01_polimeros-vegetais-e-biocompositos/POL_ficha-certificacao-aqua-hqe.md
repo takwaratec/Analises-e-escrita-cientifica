@@ -7,6 +7,8 @@ fontes: Fundacao Vanzolini, Cerway, Associacao HQE
 data: 29/06/2026
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara / Hermes Agent. **HQE — Alta Qualidade Ambiental**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-certificacao-aqua-hqe.md
 ---
 
 # HQE — Alta Qualidade Ambiental

@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica Acadêmica — Método Cavitioli (2025)**. , 2025. DOI: 10.5281/zenodo.17225867
 ---
 
 # a Técnica Acadêmica — Método Cavitioli (2025)

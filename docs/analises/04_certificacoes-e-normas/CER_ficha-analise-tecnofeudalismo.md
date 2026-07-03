@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Científica: Crítica do Tecnofeudalismo no Brasil**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_ficha-analise-tecnofeudalismo.md
 ---
 
 # a Científica: Crítica do Tecnofeudalismo no Brasil

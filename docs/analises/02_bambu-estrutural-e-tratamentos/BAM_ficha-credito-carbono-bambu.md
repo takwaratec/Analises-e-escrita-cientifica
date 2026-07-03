@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Científica: Crédito de Carbono e Mercado Voluntário**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-credito-carbono-bambu.md
 ---
 
 # a Científica: Crédito de Carbono e Mercado Voluntário

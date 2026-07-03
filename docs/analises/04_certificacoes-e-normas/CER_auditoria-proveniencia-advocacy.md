@@ -5,6 +5,8 @@ data: 27/06/2026
 autor: Hermes Agent (revisão solicitada por Fabio Takwara)
 classificacao: Auditoria Interna
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Hermes Agent (revisão solicitada por Fabio Takwara). **toria de Proveniência, Autoria e Veracidade — Documentos de Advocacy do Acervo**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_auditoria-proveniencia-advocacy.md
 ---
 
 # toria de Proveniência, Autoria e Veracidade — Documentos de Advocacy do Acervo

@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica — China Bamboo Connections Review**. , 2026. DOI: 10.32604/jrm.2019.07647
 ---
 
 # a Técnica — China Bamboo Connections Review

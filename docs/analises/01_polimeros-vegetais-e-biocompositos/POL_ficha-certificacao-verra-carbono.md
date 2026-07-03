@@ -7,6 +7,8 @@ fontes: Verra, ICROA, Gold Standard Foundation
 data: 29/06/2026
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara / Hermes Agent. **A / VCS — Verified Carbon Standard**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-certificacao-verra-carbono.md
 ---
 
 # A / VCS — Verified Carbon Standard

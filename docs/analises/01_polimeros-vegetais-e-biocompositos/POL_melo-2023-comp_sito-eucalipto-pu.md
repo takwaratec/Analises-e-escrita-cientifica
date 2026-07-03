@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **ise de Material Compósito para Reparação e Tratamento de Fendas em Madeira de Eucalipto Reflorestado em Alagoas**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_melo-2023-comp_sito-eucalipto-pu.md
 ---
 
 # ise de Material Compósito para Reparação e Tratamento de Fendas em Madeira de Eucalipto Reflorestado em Alagoas

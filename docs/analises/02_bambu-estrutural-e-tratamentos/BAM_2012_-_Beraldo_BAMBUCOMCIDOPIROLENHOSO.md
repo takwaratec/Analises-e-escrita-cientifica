@@ -11,6 +11,9 @@ tamanho_kb: 314
 categoria_mentor: 00_outros
 chromadb_id: 003c594a051b
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_2012_-_Beraldo_BAMBUCOMCIDOPIROLENHOSO.md
+
+how_to_cite: >
+  A identificar. **2012 Beraldo BAMBUCOMCIDOPIROLENHOSO**. , 2012. DOI: 10.5380/rf.v44i1.30220
 ---
 
 # 2012 - Beraldo BAMBUCOMCIDOPIROLENHOSO

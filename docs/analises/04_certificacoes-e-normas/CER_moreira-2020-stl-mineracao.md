@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Cavitioli — Moreira et al. (2020) — Mineração da Pedra São Thomé**. , 2020. DOI: 10.5380/dma.v54i0.65016
 ---
 
 # a Cavitioli — Moreira et al. (2020) — Mineração da Pedra São Thomé

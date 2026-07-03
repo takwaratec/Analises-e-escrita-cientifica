@@ -7,6 +7,9 @@ email: julianofiorelli@usp.br (padrão institucional)
 data: 2026-07-01
 status: Consolidado
 tags: [USP, FZEA, bambu, paineis, PU-mamona, bagaco-cana, compositos]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Juliano Fiorelli**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-juliano-fiorelli-usp.md
 ---
 
 # Perfil: Prof. Dr. Juliano Fiorelli

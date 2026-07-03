@@ -7,6 +7,9 @@ email: gisele.vilela@embrapa.br
 data: 2026-07-01
 status: Consolidado
 tags: [Embrapa, ECOSALA, solos, remineralizadores, po-de-rocha, agronomia]
+
+how_to_cite: >
+  **Perfil: Dra. Gisele Ferreira de Vilela**. Acervo Soberania Tecnológica, 2011. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-gisele-vilela.md
 ---
 
 # Perfil: Dra. Gisele Ferreira de Vilela

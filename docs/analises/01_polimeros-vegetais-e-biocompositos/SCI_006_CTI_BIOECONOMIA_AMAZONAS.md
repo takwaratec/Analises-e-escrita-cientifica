@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Ciência, Tecnologia e Inovação Soberana"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **006: Soberania da Base Técnico Científica (CTI Bioeconomia Amazonas)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_006_CTI_BIOECONOMIA_AMAZONAS.md
 ---
 
 # 006: Soberania da Base Técnico Científica (CTI Bioeconomia Amazonas)

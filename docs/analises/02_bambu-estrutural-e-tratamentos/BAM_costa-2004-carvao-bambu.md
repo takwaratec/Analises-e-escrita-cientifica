@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A ACADEMICA — Metodo Cavitioli (8 secoes)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_costa-2004-carvao-bambu.md
 ---
 
 # A ACADEMICA — Metodo Cavitioli (8 secoes)

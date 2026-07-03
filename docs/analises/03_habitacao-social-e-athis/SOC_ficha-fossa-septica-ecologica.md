@@ -4,6 +4,8 @@ projeto: ECOSALA / Vaga Lumen
 referencia: FICHA_FOSSA_SEPTICA_ECOLOGICA
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Fossa Septica Ecologica e Saneamento Descentralizado**. , 2026. DOI: 10.1590/s1413-41522014019010000171
 ---
 
 # a: Fossa Septica Ecologica e Saneamento Descentralizado

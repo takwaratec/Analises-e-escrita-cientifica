@@ -7,6 +7,9 @@ email: ⚠️ Pendente — André Blanco tem o contato
 data: 2026-07-01
 status: Rascunho — validar contato e e-mail
 tags: [IPT, São-Paulo, certificacao, laudos, NBR-15575, desempenho, ensaios]
+
+how_to_cite: >
+  **Perfil: Instituto de Pesquisas Tecnológicas (IPT)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-ipt-marcelo-guedes.md
 ---
 
 # Perfil: Instituto de Pesquisas Tecnológicas (IPT)

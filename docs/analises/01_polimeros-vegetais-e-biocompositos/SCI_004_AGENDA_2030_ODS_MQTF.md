@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Impacto Global e Desenvolvimento Humano"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **004: Agenda 2030 e o Escalonamento de Impacto ODS (MQTF)**. Acervo Soberania Tecnológica, 2030. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_004_AGENDA_2030_ODS_MQTF.md
 ---
 
 # 004: Agenda 2030 e o Escalonamento de Impacto ODS (MQTF)

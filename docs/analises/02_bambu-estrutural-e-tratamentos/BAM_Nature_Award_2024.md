@@ -11,6 +11,9 @@ tamanho_kb: 105
 categoria_mentor: 00_outros
 chromadb_id: 5007250b17eb
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Nature_Award_2024.md
+
+how_to_cite: >
+  A identificar. **Nature Award 2024**. Acervo Soberania Tecnológica, 2024. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Nature_Award_2024.md
 ---
 
 # Nature Award 2024

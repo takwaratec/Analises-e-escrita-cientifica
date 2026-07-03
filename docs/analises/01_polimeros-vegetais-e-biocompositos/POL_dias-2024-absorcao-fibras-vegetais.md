@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **rção de Água de Fibras Vegetais Encontradas no Brasil e seu Potencial de Uso em Compósitos Termorrígidos para Áreas Externas**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_dias-2024-absorcao-fibras-vegetais.md
 ---
 
 # rção de Água de Fibras Vegetais Encontradas no Brasil e seu Potencial de Uso em Compósitos Termorrígidos para Áreas Externas

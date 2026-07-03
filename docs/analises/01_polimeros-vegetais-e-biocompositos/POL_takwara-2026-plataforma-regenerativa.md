@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **nha — Plataforma Amazônia Regenerativa: Três Manuais Técnicos para a Bioeconomia do Bambu**. , 2026. DOI: 10.5281/zenodo.18827106
 ---
 
 # nha — Plataforma Amazônia Regenerativa: Três Manuais Técnicos para a Bioeconomia do Bambu

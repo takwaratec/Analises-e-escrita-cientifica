@@ -11,6 +11,9 @@ tamanho_kb: 104
 categoria_mentor: 00_outros
 chromadb_id: c1672bde3fb9
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_EMBRAPA-MInTc.md
+
+how_to_cite: >
+  A identificar. **EMBRAPA MInTc**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_EMBRAPA-MInTc.md
 ---
 
 # EMBRAPA-MInTc

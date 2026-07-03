@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_NEA-BR_Bioeconomia_PT.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA NEA BR Bioeconomia PT**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_NEA-BR_Bioeconomia_PT.md
 ---
 
 # FICHA NEA BR Bioeconomia PT

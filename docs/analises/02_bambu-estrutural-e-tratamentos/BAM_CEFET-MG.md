@@ -11,6 +11,9 @@ tamanho_kb: 34028
 categoria_mentor: 00_outros
 chromadb_id: 1cea737be070
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_CEFET-MG.md
+
+how_to_cite: >
+  A identificar. **BAM CEFET-MG**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_CEFET-MG.md
 ---
 
 # CEFET-MG

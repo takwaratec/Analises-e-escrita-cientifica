@@ -3,6 +3,8 @@
 **Produto Avaliado:** IMPERVEG RQI 132 (Resina impermeabilizante bicomponente de poliuretano vegetal, 100% sólida e isenta de solventes)
 **Referência da Coletânea:** TEC-IMPERVEG-RQI132-2026
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **TEC IMPERVEG RQI132 COLETANEA EVIDENCIAS**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_TEC-IMPERVEG-RQI132-COLETANEA-EVIDENCIAS.md
 ---
 
 # TEC IMPERVEG RQI132 COLETANEA EVIDENCIAS

@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: Elaine_de_Fa_tima_Dutra_Pereira.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Propriedades do Bambu**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-elaine_de_fa_tima_dutra_pereira.md
 ---
 
 # a: Propriedades do Bambu

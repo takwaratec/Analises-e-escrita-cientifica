@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **rencias Cientificas — Pirolenhoso, PU Vegetal, Bioenergia**. , 2026. DOI: 10.66104/3dxs6j66.
 ---
 
 # rencias Cientificas — Pirolenhoso, PU Vegetal, Bioenergia

@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA Nota Tecnica 001 BIOECONOMIA CTI Bioeconomia no Amazonas**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Nota_Tecnica_001_BIOECONOMIA_CTI_Bioeconomia_no_Amazonas.md
 ---
 
 # FICHA Nota Tecnica 001 BIOECONOMIA CTI Bioeconomia no Amazonas

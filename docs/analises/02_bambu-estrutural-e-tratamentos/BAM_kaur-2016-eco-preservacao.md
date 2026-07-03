@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **Friendly Preservation of Bamboo Species (Kaur et al., 2016)**. , 2016. DOI: 10.15376/biores.11.4.Kaur
 ---
 
 # Friendly Preservation of Bamboo Species (Kaur et al., 2016)

@@ -7,6 +7,9 @@ email: taniacruz@unb.br
 data: 2026-07-01
 status: Consolidado
 tags: [UnB, LaPCiS, FUP, tecnologia-social, ATHIS, incubacao, cerrado]
+
+how_to_cite: >
+  **Perfil: Profa. Dra. Tânia Cristina da Silva Cruz**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-tania-cruz-unb.md
 ---
 
 # Perfil: Profa. Dra. Tânia Cristina da Silva Cruz

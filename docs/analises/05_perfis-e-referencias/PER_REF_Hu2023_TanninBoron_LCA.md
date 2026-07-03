@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a de Referência — Hu et al. 2023 (Tannin Boron LCA)**. Acervo Soberania Tecnológica, 2023. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_REF_Hu2023_TanninBoron_LCA.md
 ---
 
 # a de Referência — Hu et al. 2023 (Tannin Boron LCA)

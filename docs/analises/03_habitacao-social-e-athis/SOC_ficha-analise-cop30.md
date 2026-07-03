@@ -6,6 +6,8 @@ projeto: Tecnologia Takwara / ECOSALA
 referencia: A Dupla Face da Liderança Climática Brasileira na COP30 — Uma Análise das Contradições Estruturais e Vieses Políticos
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Analítica: Análise Crítica da COP30**. , 2026. DOI: 10.5281/zenodo.17225867
 ---
 
 # a Analítica: Análise Crítica da COP30

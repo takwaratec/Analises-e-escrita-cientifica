@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Analysis of Geodesic Domes (2021)**. , 2021. DOI: 10.1088/1757-899X/687/3/033025
 ---
 
 # — Analysis of Geodesic Domes (2021)

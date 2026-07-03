@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica — Silva (2011) — Dissertação Original**. 2011. Dissertação (Mestrado).
 ---
 
 # a Técnica — Silva (2011) — Dissertação Original

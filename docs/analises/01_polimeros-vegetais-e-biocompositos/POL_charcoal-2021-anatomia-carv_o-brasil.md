@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **omia do Carvão de Espécies Nativas Brasileiras para Antracologia**. , 2026. DOI: 10.1590/0001-3765202120190983
 ---
 
 # omia do Carvão de Espécies Nativas Brasileiras para Antracologia

@@ -7,6 +7,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica: Ecossistema do Bambu no Brasil**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-ecossistema-bambu-brasil.md
 ---
 
 # a Técnica: Ecossistema do Bambu no Brasil

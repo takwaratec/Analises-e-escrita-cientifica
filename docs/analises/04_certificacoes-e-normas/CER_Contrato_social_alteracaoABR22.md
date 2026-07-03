@@ -11,6 +11,9 @@ tamanho_kb: 1182
 categoria_mentor: 00_outros
 chromadb_id: 54bbc1b4f55d
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Contrato_social_alteracaoABR22.md
+
+how_to_cite: >
+  A identificar. **Contrato social alteraçãoABR22**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_Contrato_social_alteracaoABR22.md
 ---
 
 # Contrato social alteraçãoABR22

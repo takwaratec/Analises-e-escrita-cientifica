@@ -11,6 +11,9 @@ tamanho_kb: 417
 categoria_mentor: 00_outros
 chromadb_id: 443db020971b
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Apendice_Tecnico.md
+
+how_to_cite: >
+  A identificar. **Apêndice Técnico**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_Apendice_Tecnico.md
 ---
 
 # Apêndice Técnico

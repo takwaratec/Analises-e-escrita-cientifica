@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a de Referência — Araújo et al. 2025 (ACV Bambu Acre)**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_REF_Araujo2025_ACV_Bambu_Acre.md
 ---
 
 # a de Referência — Araújo et al. 2025 (ACV Bambu Acre)

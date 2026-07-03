@@ -23,6 +23,8 @@ title: 'Avaliação do Ciclo de Vida do Bambu (Guadua) na Amazônia Brasileira (
 type: Extração Estrutural Local
 version: '1.2'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **iação do Ciclo de Vida da Produção Artesanal de Bambu (*Guadua*) na Amazônia Brasileira**. , 2026. DOI: 10.14295/bjs.v4i4.719
 ---
 
 # iação do Ciclo de Vida da Produção Artesanal de Bambu (*Guadua*) na Amazônia Brasileira

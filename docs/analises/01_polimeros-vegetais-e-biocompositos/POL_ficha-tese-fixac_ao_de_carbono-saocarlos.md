@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: Tese-FIXAC_AO_DE_CARBONO-SAOCARLOS.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Fixação de Carbono em Florestas de Bambu**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-tese-fixac_ao_de_carbono-saocarlos.md
 ---
 
 # a: Fixação de Carbono em Florestas de Bambu

@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Silva & Cavalcante (2022) — Reassentamento Rural Coletivo na Amazônia**. Acervo Soberania Tecnológica, 2022. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_silva-cavalcante-2022-reassentamento-rural-amazonia.md
 ---
 
 # a: Silva & Cavalcante (2022) — Reassentamento Rural Coletivo na Amazônia

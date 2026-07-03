@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A CAVICHIOLI — BAMBU LAMINADO COLADO**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_filho-2018-bambu-laminado-colado.md
 ---
 
 # A CAVICHIOLI — BAMBU LAMINADO COLADO

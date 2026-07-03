@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Análise da Pós Ocupação em Habitação de Interesse Social no Brasil**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_thielke-2021-apo-porto-alegre.md
 ---
 
 # a Técnica: Análise da Pós Ocupação em Habitação de Interesse Social no Brasil

@@ -4,6 +4,9 @@ titulo: Imperveg Polímeros Vegetais — Índice de Fichas no Acervo
 data: 2026-07-01
 status: Consolidado
 tags: [imperveg, indice, PU-vegetal, mamona]
+
+how_to_cite: >
+  **Imperveg — Índice de Fichas no Acervo**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_imperveg-index.md
 ---
 
 # Imperveg — Índice de Fichas no Acervo

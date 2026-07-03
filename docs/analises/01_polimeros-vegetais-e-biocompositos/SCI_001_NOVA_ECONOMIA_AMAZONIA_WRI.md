@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Bioeconomia de Floresta em Pé"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **001: Nova Economia da Amazônia (NEA) Macroestratégia e Projeções 2050**. Acervo Soberania Tecnológica, 2050. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_001_NOVA_ECONOMIA_AMAZONIA_WRI.md
 ---
 
 # 001: Nova Economia da Amazônia (NEA) Macroestratégia e Projeções 2050

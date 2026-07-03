@@ -7,6 +7,9 @@ veiculo: Congresso Brasileiro de Engenharia Agrícola (CONBEA)
 data: 2026-07-01
 status: Consolidado
 tags: [bliska, estufas, coberturas, materiais, otica, plasticultura]
+
+how_to_cite: >
+  A. Bliska Júnior, S.L. Honório. **Ficha: Características Óticas de Materiais de Cobertura de Viveiros e Estufas**. Acervo Soberania Tecnológica, 1994. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_bliska-coberturas-estufas.md
 ---
 
 # Ficha: Características Óticas de Materiais de Cobertura de Viveiros e Estufas

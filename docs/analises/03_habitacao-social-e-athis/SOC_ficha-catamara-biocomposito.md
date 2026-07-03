@@ -4,6 +4,8 @@ projeto: ECOSALA / Vaga Lumen
 referencia: FICHA_CATAMARA_BIOCOMPOSITO
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Catamara Biocomposito Bambu + PU Vegetal**. , 2026. DOI: 10.1590/s0104-14282013005000007
 ---
 
 # a: Catamara Biocomposito Bambu + PU Vegetal

@@ -7,6 +7,9 @@ email: vicente.virgolino@ifb.edu.br
 data: 2026-07-01
 status: Consolidado
 tags: [IFB, bambu, forno-ecologico, agroecologia, ECOSALA]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Vicente de Paula Virgolino**. Acervo Soberania Tecnológica, 2018. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-vicente-virgolino.md
 ---
 
 # Perfil: Prof. Dr. Vicente de Paula Virgolino

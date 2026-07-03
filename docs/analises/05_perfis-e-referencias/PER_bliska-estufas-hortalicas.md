@@ -7,6 +7,9 @@ veiculo: CAB International
 data: 2026-07-01
 status: Consolidado
 tags: [bliska, estufas, construcao, hortalicas, cultivo-protegido]
+
+how_to_cite: >
+  A. Bliska Júnior, S.L. Honório. **Ficha: Establishment and Construction of Greenhouses for Vegetable Cultivation**. Acervo Soberania Tecnológica, 1999. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_bliska-estufas-hortalicas.md
 ---
 
 # Ficha: Establishment and Construction of Greenhouses for Vegetable Cultivation

@@ -6,6 +6,8 @@ data: 2026-06-28
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha: Exploração Madeireira e a Expansão do Bambu (Guadua spp.) em Florestas no Leste do Acre**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_pereira-elaine-bambu.md
 ---
 
 # nha: Exploração Madeireira e a Expansão do Bambu (Guadua spp.) em Florestas no Leste do Acre

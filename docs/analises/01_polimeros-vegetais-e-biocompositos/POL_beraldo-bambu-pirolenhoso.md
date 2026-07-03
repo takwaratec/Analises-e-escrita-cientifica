@@ -6,6 +6,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha: Avaliação do Tratamento Preservativo de Taliscas de Bambu com Ácido Pirolenhoso**. , 2026. DOI: 10.5380/rf.v44i1.30220
 ---
 
 # nha: Avaliação do Tratamento Preservativo de Taliscas de Bambu com Ácido Pirolenhoso

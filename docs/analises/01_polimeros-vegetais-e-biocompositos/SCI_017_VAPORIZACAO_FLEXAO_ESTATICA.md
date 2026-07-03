@@ -20,6 +20,8 @@ title: 'Efeito do Tratamento de Vaporização em Flexão Estática (MQTF)'
 type: Extração Estrutural Local (MQTF)
 version: '1.2'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **to do Tratamento de Vaporização sobre a Flexão Estática**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_017_VAPORIZACAO_FLEXAO_ESTATICA.md
 ---
 
 # to do Tratamento de Vaporização sobre a Flexão Estática

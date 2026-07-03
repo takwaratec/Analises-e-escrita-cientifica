@@ -8,6 +8,9 @@ doi: 10.17660/ActaHortic.2019.1252.18
 data: 2026-07-01
 status: Consolidado
 tags: [bliska, plasticultura, estufas, holambra, brasil, agroplasticos]
+
+how_to_cite: >
+  A. Bliska Jr., P. Prada. **Ficha: Past, Present and Future of Agricultural Plastic in Brazil**. Acervo Soberania Tecnológica, 2018. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_bliska-plasticultura-brasil.md
 ---
 
 # Ficha: Past, Present and Future of Agricultural Plastic in Brazil

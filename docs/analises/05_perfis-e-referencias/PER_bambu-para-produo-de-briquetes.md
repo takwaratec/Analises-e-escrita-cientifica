@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Bambu para Produção de Briquetes (2019)**. Acervo Soberania Tecnológica, 2019. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_bambu-para-produo-de-briquetes.md
 ---
 
 # — Bambu para Produção de Briquetes (2019)

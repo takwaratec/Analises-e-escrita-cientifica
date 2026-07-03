@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **oo Resources Assessment — Metodologia SEPAL com Estudos de Caso na Ásia (FAO 2025)**. , 2025. DOI: 10.4060/cd6448en
 ---
 
 # oo Resources Assessment — Metodologia SEPAL com Estudos de Caso na Ásia (FAO 2025)

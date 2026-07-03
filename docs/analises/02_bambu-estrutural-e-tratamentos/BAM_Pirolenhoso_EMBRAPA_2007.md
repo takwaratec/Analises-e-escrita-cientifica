@@ -11,6 +11,9 @@ tamanho_kb: 144
 categoria_mentor: 00_outros
 chromadb_id: 46dffd8ef390
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Pirolenhoso_EMBRAPA_2007.md
+
+how_to_cite: >
+  A identificar. **Pirolenhoso EMBRAPA (2007)**. Acervo Soberania Tecnológica, 2007. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Pirolenhoso_EMBRAPA_2007.md
 ---
 
 # Pirolenhoso EMBRAPA (2007)

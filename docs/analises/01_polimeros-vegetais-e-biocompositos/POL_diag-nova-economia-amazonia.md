@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: WRI/NEA — Nova Economia da Amazônia (2023)**. Acervo Soberania Tecnológica, 2023. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_diag-nova-economia-amazonia.md
 ---
 
 # a: WRI/NEA — Nova Economia da Amazônia (2023)

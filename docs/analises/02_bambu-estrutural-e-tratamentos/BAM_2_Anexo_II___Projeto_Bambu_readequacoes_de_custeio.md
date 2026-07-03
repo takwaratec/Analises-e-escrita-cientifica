@@ -11,6 +11,9 @@ tamanho_kb: 805
 categoria_mentor: 00_outros
 chromadb_id: 1cca3fd16071
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_2_Anexo_II___Projeto_Bambu_readequacoes_de_custeio.md
+
+how_to_cite: >
+  A identificar. **2 Anexo II Projeto Bambu readequações de custeio**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_2_Anexo_II___Projeto_Bambu_readequacoes_de_custeio.md
 ---
 
 # 2 Anexo II   Projeto Bambu readequações de custeio

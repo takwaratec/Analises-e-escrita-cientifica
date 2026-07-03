@@ -6,6 +6,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha: Norma Colombiana NSR 10 — Título G: Estructuras de Madera y Estructuras de Guadua**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_norma-colombiana-nsr10.md
 ---
 
 # nha: Norma Colombiana NSR 10 — Título G: Estructuras de Madera y Estructuras de Guadua

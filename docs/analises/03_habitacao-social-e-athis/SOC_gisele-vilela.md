@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Cientifica — Gisele Freitas Vilela**. , 2026. DOI: 10.54507/viaviva.2020.05
 ---
 
 # a Cientifica — Gisele Freitas Vilela

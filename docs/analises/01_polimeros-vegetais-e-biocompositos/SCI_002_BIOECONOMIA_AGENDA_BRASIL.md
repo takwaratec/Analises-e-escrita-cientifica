@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Biorrefinaria de Bolso e Valor Local"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **002: Estratégias de Bioeconomia e Valor Agregado (Biorrefinaria 5.1)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_002_BIOECONOMIA_AGENDA_BRASIL.md
 ---
 
 # 002: Estratégias de Bioeconomia e Valor Agregado (Biorrefinaria 5.1)

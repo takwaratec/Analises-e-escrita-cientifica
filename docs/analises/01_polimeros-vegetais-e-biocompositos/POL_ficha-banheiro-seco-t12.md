@@ -7,6 +7,8 @@ data: 2026-06-26
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica: Banheiro Seco Modular T12 (BSM)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-banheiro-seco-t12.md
 ---
 
 # a Técnica: Banheiro Seco Modular T12 (BSM)

@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_Physical-mechanical properties and biological resistance of thermally modified juvenile Handroanthus chrysotrichuswood.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA Physical mechanical properties and biological resistance of thermally modified juvenil**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Physical-mechanical_properties_and_biological_resistance_of_thermally_modified_juvenil.md
 ---
 
 # FICHA Physical mechanical properties and biological resistance of thermally modified juvenil

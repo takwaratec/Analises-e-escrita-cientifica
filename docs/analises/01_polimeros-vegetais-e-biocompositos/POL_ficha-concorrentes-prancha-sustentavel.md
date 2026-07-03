@@ -7,6 +7,8 @@ fontes: Kehl, Seawell, Siebert, Index Krown, Surf Inc
 data: 30/06/2026
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara / Hermes Agent. **orrentes em Pranchas Sustentáveis — Levantamento de Mercado**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-concorrentes-prancha-sustentavel.md
 ---
 
 # orrentes em Pranchas Sustentáveis — Levantamento de Mercado

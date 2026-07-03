@@ -11,6 +11,9 @@ tamanho_kb: 153
 categoria_mentor: 00_outros
 chromadb_id: 5eb085e5d4a4
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Ata_Reuniao_1_-_3008.md
+
+how_to_cite: >
+  A identificar. **Ata Reunião 1 30.08**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Ata_Reuniao_1_-_3008.md
 ---
 
 # Ata Reunião 1 - 30.08

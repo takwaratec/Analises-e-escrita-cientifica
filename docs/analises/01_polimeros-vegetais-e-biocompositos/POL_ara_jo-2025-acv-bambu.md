@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Araújo et al. (2025) — ACV da Haste de Bambu Artesanal na Amazônia**. , 2025. DOI: 10.14295/bjs.v4i4.719
 ---
 
 # a: Araújo et al. (2025) — ACV da Haste de Bambu Artesanal na Amazônia

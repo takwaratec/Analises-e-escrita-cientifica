@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **ise: Dissertação de Mestrado — Joyce Costa Santos (2009)**. 2009. Dissertação (Mestrado).
 ---
 
 # ise: Dissertação de Mestrado — Joyce Costa Santos (2009)

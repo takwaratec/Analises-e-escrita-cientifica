@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Biochar e Sequestro de Carbono Geológico"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **008: Biochar e a Industrialização Descentralizada (NETs)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_008_BIOCHAR_ESTADO_DA_ARTE.md
 ---
 
 # 008: Biochar e a Industrialização Descentralizada (NETs)

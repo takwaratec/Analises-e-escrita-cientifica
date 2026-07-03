@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: Norma_Colombiana_NSR-10-Decreto-Final-2010-01-19_1_.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Norma Colombiana NSR 10 — Bambu na Construção**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-norma_colombiana_nsr-10-decreto-final-2010-01-19_1_.md
 ---
 
 # a: Norma Colombiana NSR 10 — Bambu na Construção

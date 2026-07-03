@@ -11,6 +11,9 @@ tamanho_kb: 510
 categoria_mentor: 00_outros
 chromadb_id: cf9252ff83ed
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_geodesic-Tom_Davis.md
+
+how_to_cite: >
+  A identificar. **geodesic Tom Davis**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_geodesic-Tom_Davis.md
 ---
 
 # geodesic-Tom Davis

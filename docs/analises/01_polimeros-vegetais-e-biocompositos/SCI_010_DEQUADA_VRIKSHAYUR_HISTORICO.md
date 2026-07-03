@@ -21,6 +21,8 @@ title: 'Vrikshayurveda: A Prática Milenar da Alcalinização (Dequada)'
 type: Extração Estrutural Local (MQTF)
 version: '1.2'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **shayurveda — Uma Dádiva para a Soberania Tecnológica**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_010_DEQUADA_VRIKSHAYUR_HISTORICO.md
 ---
 
 # shayurveda — Uma Dádiva para a Soberania Tecnológica

@@ -4,6 +4,8 @@ projeto: ECOSALA / Vaga Lumen
 referencia: FICHA_PIROLENHOSO_BIOFERTILIZANTE
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Acido Pirolenhoso — Biofertilizante e Biodefensivo**. , 2026. DOI: 10.66104/3dxs6j66
 ---
 
 # a: Acido Pirolenhoso — Biofertilizante e Biodefensivo

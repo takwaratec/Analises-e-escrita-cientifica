@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Governança Socioambiental e Geoprocessamento"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **022: Mapeamento de Tabocais e Governança em Territórios Indígenas**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_022_BAMBU_INDIGENAS_GIS.md
 ---
 
 # 022: Mapeamento de Tabocais e Governança em Territórios Indígenas

@@ -7,6 +7,9 @@ email: humberto.furtado@ufsc.br
 data: 2026-07-01
 status: Rascunho — validar nome, Lattes, e-mail
 tags: [UFSC, Santa-Catarina, bambu, conexoes-estruturais, modelagem, Sul]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Humberto Cesar Chaves Furtado**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-humberto-furtado-ufsc.md
 ---
 
 # Perfil: Prof. Dr. Humberto Cesar Chaves Furtado

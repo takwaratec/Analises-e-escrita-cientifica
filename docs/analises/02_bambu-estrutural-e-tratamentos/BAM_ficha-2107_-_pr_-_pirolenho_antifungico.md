@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: 2107_-_PR_-_Pirolenho_antifungico.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Efeito Antifúngico do Ácido Pirolenhoso**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-2107_-_pr_-_pirolenho_antifungico.md
 ---
 
 # a: Efeito Antifúngico do Ácido Pirolenhoso

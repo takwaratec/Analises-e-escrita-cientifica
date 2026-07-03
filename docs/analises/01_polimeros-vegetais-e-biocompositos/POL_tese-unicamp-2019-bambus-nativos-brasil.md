@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A TÉCNICA ACADÊMICA — Método Cavitioli (2025)**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_tese-unicamp-2019-bambus-nativos-brasil.md
 ---
 
 # A TÉCNICA ACADÊMICA — Método Cavitioli (2025)

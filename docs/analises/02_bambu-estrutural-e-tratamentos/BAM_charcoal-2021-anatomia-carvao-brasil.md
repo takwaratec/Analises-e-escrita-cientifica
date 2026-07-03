@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Cavitioli — Charcoal Anatomy of Brazilian Species II**. , 2026. DOI: 10.1590/0001-3765202120190983
 ---
 
 # a Cavitioli — Charcoal Anatomy of Brazilian Species II

@@ -7,6 +7,8 @@ data: 2026-06-26
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica: Infraestrutura Verde Chapada Diamantina**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-infraestrutura-verde-chapada.md
 ---
 
 # a Técnica: Infraestrutura Verde Chapada Diamantina

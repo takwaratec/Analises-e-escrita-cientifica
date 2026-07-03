@@ -5,6 +5,8 @@ tipo: Resenha Técnica (Ficha Científica)
 referencia: FICHA_Administracao_Sustentabilidade_ODS.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **src="../../../assets/patterns/square title red.svg" width="30px"> Ficha Científica: Administração e ODS**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Administra__o_Cl_ssica_e_Sustentabilidade_Um_Di_logo_Entre_Fayol_e_os_ODS.md
 ---
 
 # src="../../../assets/patterns/square title red.svg" width="30px"> Ficha Científica: Administração e ODS

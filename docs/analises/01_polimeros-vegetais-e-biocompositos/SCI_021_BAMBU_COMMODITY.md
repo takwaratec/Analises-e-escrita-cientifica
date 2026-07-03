@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Soberania Tecnológica e Valor Agregado"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **021: O Ponto de Mutação e a Soberania dos Povos da Amazônia**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_021_BAMBU_COMMODITY.md
 ---
 
 # 021: O Ponto de Mutação e a Soberania dos Povos da Amazônia

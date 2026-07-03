@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_Sustainability and Technology- Proposals and Recommendations for the 2050 Amazon .md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA Sustainability Technology Amazon 2050**. Acervo Soberania Tecnológica, 2050. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Sustainability_Technology_Amazon_2050.md
 ---
 
 # FICHA Sustainability Technology Amazon 2050

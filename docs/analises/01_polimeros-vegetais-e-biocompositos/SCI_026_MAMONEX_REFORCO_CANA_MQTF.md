@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Bio-Inspirado e Resíduo Zero"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **026: Avaliação de Material Compósito Polimérico Bioinspirado (Mamonex)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_026_MAMONEX_REFORCO_CANA_MQTF.md
 ---
 
 # 026: Avaliação de Material Compósito Polimérico Bioinspirado (Mamonex)

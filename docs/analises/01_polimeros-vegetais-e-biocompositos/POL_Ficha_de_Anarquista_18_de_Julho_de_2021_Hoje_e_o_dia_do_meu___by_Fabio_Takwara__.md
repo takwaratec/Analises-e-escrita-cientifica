@@ -11,6 +11,9 @@ tamanho_kb: 10407
 categoria_mentor: 02_permacultura_ao_pe_da_letra
 chromadb_id: c1f19bbab215
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Ficha_de_Anarquista_18_de_Julho_de_2021_Hoje_e_o_dia_do_meu___by_Fabio_Takwara__.md
+
+how_to_cite: >
+  A identificar. **Ficha de Anarquista. 18 de Julho de 2021 Hoje é o dia do meu… by Fabio Takwara Medium**. Acervo Soberania Tecnológica, 2021. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_Ficha_de_Anarquista_18_de_Julho_de_2021_Hoje_e_o_dia_do_meu___by_Fabio_Takwara__.md
 ---
 
 # Ficha de Anarquista. 18 de Julho de 2021 Hoje é o dia do meu…   by Fabio Takwara   Medium

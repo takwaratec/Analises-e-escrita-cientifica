@@ -11,6 +11,9 @@ tamanho_kb: 764
 categoria_mentor: 00_outros
 chromadb_id: 1d2806a74eaa
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_2_Anexo_II___Projeto_Bambu_final.md
+
+how_to_cite: >
+  A identificar. **2 Anexo II Projeto Bambu final**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_2_Anexo_II___Projeto_Bambu_final.md
 ---
 
 # 2 Anexo II   Projeto Bambu final

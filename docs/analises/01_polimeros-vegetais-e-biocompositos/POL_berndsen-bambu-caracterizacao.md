@@ -6,6 +6,8 @@ data: 2026-06-28
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Acadêmica Cavitioli (2025) — Caracterização Anatômica, Física e Mecânica de Lâminas de Bambu (Phyllostachys pubescens)**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_berndsen-bambu-caracterizacao.md
 ---
 
 # a Acadêmica Cavitioli (2025) — Caracterização Anatômica, Física e Mecânica de Lâminas de Bambu (Phyllostachys pubescens)

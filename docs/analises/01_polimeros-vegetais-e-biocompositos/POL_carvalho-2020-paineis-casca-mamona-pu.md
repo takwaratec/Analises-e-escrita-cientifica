@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **éis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_carvalho-2020-paineis-casca-mamona-pu.md
 ---
 
 # éis particulados fabricados com casca de mamona e poliuretano à base de óleo de mamona

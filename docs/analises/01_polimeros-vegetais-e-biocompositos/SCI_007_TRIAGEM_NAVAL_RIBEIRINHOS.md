@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Navegação Limpa e Biocompósitos Navais"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **007: Inovação Naval e Mobilidade Hidroviária Sustentável**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_007_TRIAGEM_NAVAL_RIBEIRINHOS.md
 ---
 
 # 007: Inovação Naval e Mobilidade Hidroviária Sustentável

@@ -5,6 +5,9 @@ instituicao: UNICAMP / NIPE
 data: 2026-07-01
 status: Consolidado
 tags: [bliska, indice, estufas, plasticultura, UNICAMP]
+
+how_to_cite: >
+  **Antonio Bliska Júnior — Índice de Fichas no Acervo**. Acervo Soberania Tecnológica, 1994. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_index-bliska.md
 ---
 
 # Antonio Bliska Júnior — Índice de Fichas no Acervo

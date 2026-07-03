@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Dispositivo para Tratamento de Colmos de Bambu sob Pressão (Beraldo, UNICAMP, 2004)**. Acervo Soberania Tecnológica, 2004. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_beraldo-2004-tratamento-pressao.md
 ---
 
 # a — Dispositivo para Tratamento de Colmos de Bambu sob Pressão (Beraldo, UNICAMP, 2004)

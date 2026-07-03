@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— OSB PU Veg — Henrique Barbirato (2022)**. Santa Maria, 2022. DOI: 10.5902/1980509846908
 ---
 
 # — OSB PU Veg — Henrique Barbirato (2022)

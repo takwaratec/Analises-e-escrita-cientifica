@@ -7,6 +7,8 @@ fonte_principal: Takwara-Tech (acervo proprio do autor)
 data: 2026-06-27
 classificacao_atualizada: Síntese Técnica — compilação de dados do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Científica: Sequestro de Carbono em Plantações de Bambu**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-carbono-bambu.md
 ---
 
 # a Científica: Sequestro de Carbono em Plantações de Bambu

@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Ferreira — Avaliação de Desempenho da Política HIS em Ponta Grossa (2023)**. Acervo Soberania Tecnológica, 2023. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_ferreira-2023-avaliacao-desempenho-his.md
 ---
 
 # a: Ferreira — Avaliação de Desempenho da Política HIS em Ponta Grossa (2023)

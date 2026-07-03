@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Soberania Territorial e Logística Fluvial"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **020: Geoestratégia, Logística e Vulnerabilidades (Eixo Juruá Purus)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_020_ANALISE_GEOESTRATEGICA_JURUA.md
 ---
 
 # 020: Geoestratégia, Logística e Vulnerabilidades (Eixo Juruá Purus)

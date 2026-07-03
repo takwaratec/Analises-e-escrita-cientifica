@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Caracterização Física de Briquetes de Bambu + Angelim (2017)**. , 2017. DOI: 10.4336/2016.pfb.36.88.879.
 ---
 
 # — Caracterização Física de Briquetes de Bambu + Angelim (2017)

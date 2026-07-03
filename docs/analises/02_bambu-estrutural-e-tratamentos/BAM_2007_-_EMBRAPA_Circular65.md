@@ -11,6 +11,9 @@ tamanho_kb: 144
 categoria_mentor: 00_outros
 chromadb_id: 2e28c46ae042
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_2007_-_EMBRAPA_Circular65.md
+
+how_to_cite: >
+  A identificar. **2007 EMBRAPA Circular65**. Acervo Soberania Tecnológica, 2007. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_2007_-_EMBRAPA_Circular65.md
 ---
 
 # 2007 - EMBRAPA Circular65

@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A CAVICHIOLI — PIBIT CEUB 2021 — Barreira Acústica**. Acervo Soberania Tecnológica, 2021. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_pibit-ceub-2021-barreira-acustica.md
 ---
 
 # A CAVICHIOLI — PIBIT CEUB 2021 — Barreira Acústica

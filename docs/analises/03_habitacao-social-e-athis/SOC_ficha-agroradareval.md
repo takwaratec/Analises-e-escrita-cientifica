@@ -7,6 +7,8 @@ doi: 10.4067/S0718-27242024000400089
 status: Consolidado
 classificacao: Ficha Científica — Metodologia de Avaliação de Impacto
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Daniela Maciel Pinto (Embrapa Territorial). **a Científica: AgroRadarEval — Gestão de P&D&I para Impacto Societal**. , 2026. DOI: 10.4067/S0718-27242024000400089
 ---
 
 # a Científica: AgroRadarEval — Gestão de P&D&I para Impacto Societal

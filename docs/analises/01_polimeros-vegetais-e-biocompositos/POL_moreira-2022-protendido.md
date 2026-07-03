@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Dispositivo de Bambu Protendido (Moreira & Silva, UFMG, 2022)**. Acervo Soberania Tecnológica, 2022. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_moreira-2022-protendido.md
 ---
 
 # a — Dispositivo de Bambu Protendido (Moreira & Silva, UFMG, 2022)

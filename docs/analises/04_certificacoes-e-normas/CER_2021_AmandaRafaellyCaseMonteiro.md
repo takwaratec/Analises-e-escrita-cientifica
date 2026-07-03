@@ -11,6 +11,9 @@ tamanho_kb: 14396
 categoria_mentor: 00_outros
 chromadb_id: 90cc2c6a46f3
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_2021_AmandaRafaellyCaseMonteiro.md
+
+how_to_cite: >
+  A identificar. **2021 AmandaRafaellyCaséMonteiro**. Acervo Soberania Tecnológica, 2021. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_2021_AmandaRafaellyCaseMonteiro.md
 ---
 
 # 2021 AmandaRafaellyCaséMonteiro

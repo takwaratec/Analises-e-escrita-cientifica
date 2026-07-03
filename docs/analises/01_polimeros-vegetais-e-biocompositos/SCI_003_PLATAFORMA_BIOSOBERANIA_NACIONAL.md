@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Soberania Material e Oleoquímica Nacional"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **003: Plataforma Biosoberania Nacional: A Tríade Bambu, Mamona e Solo**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_003_PLATAFORMA_BIOSOBERANIA_NACIONAL.md
 ---
 
 # 003: Plataforma Biosoberania Nacional: A Tríade Bambu, Mamona e Solo

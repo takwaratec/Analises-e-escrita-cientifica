@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Bamboo: A Very Sustainable Construction Material (2021)**. , 2021. DOI: 10.54113/j.sust.2022.000015
 ---
 
 # — Bamboo: A Very Sustainable Construction Material (2021)

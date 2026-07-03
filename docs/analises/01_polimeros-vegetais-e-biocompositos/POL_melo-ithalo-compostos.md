@@ -9,6 +9,8 @@ licenca: CC BY 4.0
 fonte: PDF "4-dissertacao-ithalo-amorim-de-melo.pdf" (114 páginas) extraído com PyMuPDF
 foco: Material compósito MPPE+RPM para reparo de fendas em madeira de Eucalipto reflorestado em Alagoas
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Cavitioli — Análise de Material Compósito para Reparação e Tratamento de Fendas em Madeira de Eucalipto Reflorestado em Alagoas**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_melo-ithalo-compostos.md
 ---
 
 # a Cavitioli — Análise de Material Compósito para Reparação e Tratamento de Fendas em Madeira de Eucalipto Reflorestado em Alagoas

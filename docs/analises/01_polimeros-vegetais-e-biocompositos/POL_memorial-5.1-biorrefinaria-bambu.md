@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Memorial 5.1 — Biorrefinaria de Bambu (Plataforma Amazônia Regenerativa)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_memorial-5.1-biorrefinaria-bambu.md
 ---
 
 # a: Memorial 5.1 — Biorrefinaria de Bambu (Plataforma Amazônia Regenerativa)

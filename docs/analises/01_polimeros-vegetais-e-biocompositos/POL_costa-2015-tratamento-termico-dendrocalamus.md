@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica — Costa (2015)**. Acervo Soberania Tecnológica, 2015. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_costa-2015-tratamento-termico-dendrocalamus.md
 ---
 
 # a Técnica — Costa (2015)

@@ -7,6 +7,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica: Conexões Semiflexíveis com Cabo de Aço para Estruturas Geodésicas de Bambu**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-conexoes-geodesicas.md
 ---
 
 # a Técnica: Conexões Semiflexíveis com Cabo de Aço para Estruturas Geodésicas de Bambu

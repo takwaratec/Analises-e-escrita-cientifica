@@ -9,6 +9,8 @@ data: 2026-07-02
 status: Consolidado
 tags: [UFPA, UFAC, Acre, bambu-amazonico, Guadua, solos, sedimentos, bioeconomia, Academia-Brasileira-Ciencias]
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **Perfil — Marcondes Lima da Costa**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-marcondes-costa-ufac.md
 ---
 
 # Perfil — Marcondes Lima da Costa

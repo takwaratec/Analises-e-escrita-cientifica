@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: D.Minutus__Besouro_do_Bambu__-_Rebeca_C_Pena__2015_Univ_S_Carlos-SP_.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Controle de Dinoderus minutus em Bambu**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-dminutus__besouro_do_bambu__-_rebeca_c_pena__2015_univ_s_ca.md
 ---
 
 # a: Controle de Dinoderus minutus em Bambu

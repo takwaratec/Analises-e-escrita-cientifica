@@ -8,6 +8,8 @@ data_analise: 2026-06-21
 status: Consolidado
 classificacao: Mapeamento de referências e endpoints precisos para consulta externa e amparo técnico-jurídico
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A TÉCNICA: BIBLIOGRAFIA MESTRA MQTF (DOY SYNC)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_bibliografia-mestra-mqtf.md
 ---
 
 # A TÉCNICA: BIBLIOGRAFIA MESTRA MQTF (DOY SYNC)

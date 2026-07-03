@@ -11,6 +11,9 @@ tamanho_kb: 139
 categoria_mentor: 00_outros
 chromadb_id: dcbf68b7fd0e
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_O_Poliuretano_Vegetal.md
+
+how_to_cite: >
+  A identificar. **O Poliuretano Vegetal**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_O_Poliuretano_Vegetal.md
 ---
 
 # O Poliuretano Vegetal

@@ -6,6 +6,8 @@ data: 2026-06-28
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Cavitioli: Dinoderus minutus (Besouro do Bambu) na Dissertação de Pena (2013)**. 2013. Dissertação (Mestrado) — Instituição. DOI: N/A
 ---
 
 # a Cavitioli: Dinoderus minutus (Besouro do Bambu) na Dissertação de Pena (2013)

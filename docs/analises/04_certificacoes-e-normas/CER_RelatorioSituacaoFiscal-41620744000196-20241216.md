@@ -11,6 +11,9 @@ tamanho_kb: 22
 categoria_mentor: 00_outros
 chromadb_id: a8767939a46d
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_RelatorioSituacaoFiscal-41620744000196-20241216.md
+
+how_to_cite: >
+  A identificar. **RelatorioSituacaoFiscal 41620744000196 20241216**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_RelatorioSituacaoFiscal-41620744000196-20241216.md
 ---
 
 # RelatorioSituacaoFiscal-41620744000196-20241216

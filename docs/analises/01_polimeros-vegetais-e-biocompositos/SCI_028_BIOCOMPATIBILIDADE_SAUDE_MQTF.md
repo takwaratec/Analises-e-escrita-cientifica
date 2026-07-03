@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Segurança Humana e Biocompatibilidade"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **028: Estudo de Biocompatibilidade e Resistência da PU Mamona**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_028_BIOCOMPATIBILIDADE_SAUDE_MQTF.md
 ---
 
 # 028: Estudo de Biocompatibilidade e Resistência da PU Mamona

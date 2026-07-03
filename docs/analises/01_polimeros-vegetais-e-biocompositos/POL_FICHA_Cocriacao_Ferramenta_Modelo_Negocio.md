@@ -5,6 +5,8 @@ tipo: Resenha Técnica (Ficha Científica)
 referencia: FICHA_Cocriacao_Ferramenta_Modelo_Negocio.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **src="../../../assets/patterns/square title red.svg" width="30px"> Ficha Científica: Co Criação e Bioeconomia Soberana**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Cocriacao_Ferramenta_Modelo_Negocio.md
 ---
 
 # src="../../../assets/patterns/square title red.svg" width="30px"> Ficha Científica: Co Criação e Bioeconomia Soberana

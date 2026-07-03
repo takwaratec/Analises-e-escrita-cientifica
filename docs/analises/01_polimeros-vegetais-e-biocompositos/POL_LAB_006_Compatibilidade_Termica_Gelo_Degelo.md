@@ -5,6 +5,8 @@ tipo: Laudo Técnico (Laboratório)
 referencia: LAB_006_Compatibilidade_Termica_Gelo_Degelo.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **src="../../../assets/patterns/square title red.svg" width="30px"> Laudo Técnico: Compatibilidade Térmica (Gelo Degelo)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_LAB_006_Compatibilidade_Termica_Gelo_Degelo.md
 ---
 
 # src="../../../assets/patterns/square title red.svg" width="30px"> Laudo Técnico: Compatibilidade Térmica (Gelo Degelo)

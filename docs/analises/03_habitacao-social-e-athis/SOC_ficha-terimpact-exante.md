@@ -6,6 +6,8 @@ autor: Daniela Maciel (Embrapa Territorial)
 status: Consolidado
 classificacao: Ficha Científica — Ferramenta de Avaliação de Impacto
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Daniela Maciel (Embrapa Territorial). **a Científica: TerImpact Ex Ante — Avaliação Prévia de Projetos de Pesquisa**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_ficha-terimpact-exante.md
 ---
 
 # a Científica: TerImpact Ex Ante — Avaliação Prévia de Projetos de Pesquisa

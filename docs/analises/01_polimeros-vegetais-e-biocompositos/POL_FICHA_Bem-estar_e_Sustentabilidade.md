@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_Bem-estar+e+Sustentabilidade.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **A CIENTÍFICA ESTRUTURADA**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Bem-estar_e_Sustentabilidade.md
 ---
 
 # A CIENTÍFICA ESTRUTURADA

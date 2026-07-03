@@ -7,6 +7,9 @@ email: antoniocarvalho@ufscar.br (padrão institucional)
 data: 2026-07-01
 status: Consolidado
 tags: [UFSCar, DEMA, biopolimeros, poliuretanos, compositos, fibras-naturais]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Antônio José Felix de Carvalho**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-antonio-carvalho-ufscar.md
 ---
 
 # Perfil: Prof. Dr. Antônio José Felix de Carvalho

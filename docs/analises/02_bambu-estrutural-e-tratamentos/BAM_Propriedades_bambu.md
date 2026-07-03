@@ -11,6 +11,9 @@ tamanho_kb: 458
 categoria_mentor: 00_outros
 chromadb_id: e6ffd3384605
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Propriedades_bambu.md
+
+how_to_cite: >
+  A identificar. **Propriedades bambu**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Propriedades_bambu.md
 ---
 
 # Propriedades bambu

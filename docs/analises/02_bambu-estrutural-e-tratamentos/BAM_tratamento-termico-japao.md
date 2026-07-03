@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Tratamento Térmico (Japão)**. , 2026. DOI: 10.3390/ma14040974
 ---
 
 # — Tratamento Térmico (Japão)

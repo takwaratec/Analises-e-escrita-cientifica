@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_+DESMATAMENTO+E+SUSTENTABILIDADE+AMAZONIA.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA DESMATAMENTO E SUSTENTABILIDADE AMAZONIA**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA__DESMATAMENTO_E_SUSTENTABILIDADE_AMAZONIA.md
 ---
 
 # FICHA DESMATAMENTO E SUSTENTABILIDADE AMAZONIA

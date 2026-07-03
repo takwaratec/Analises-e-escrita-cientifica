@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Severo & Tomaselli — Tratamento a Vapor (Eucalyptus) (1998)**. Acervo Soberania Tecnológica, 1998. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_severo-tomaselli-tratamento-vapor.md
 ---
 
 # — Severo & Tomaselli — Tratamento a Vapor (Eucalyptus) (1998)

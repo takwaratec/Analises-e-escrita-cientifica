@@ -4,6 +4,8 @@ projeto: ECOSALA / Vaga Lumen
 referencia: FICHA_PU_VEGETAL_IMPERVEG
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Poliuretano Vegetal de Mamona (Imperveg)**. Polymers Ad, 2026. DOI: 10.11606/t.75.1997.tde-13032026-101959
 ---
 
 # a: Poliuretano Vegetal de Mamona (Imperveg)

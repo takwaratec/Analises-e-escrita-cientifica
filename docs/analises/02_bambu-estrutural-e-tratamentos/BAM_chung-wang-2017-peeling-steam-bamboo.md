@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Effects of Peeling and Steam Heating Treatment on Basic Properties of Two Types of Bamboo Culms (Phyllostachys makinoi and Phyllostachys pubescens)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_chung-wang-2017-peeling-steam-bamboo.md
 ---
 
 # a Técnica: Effects of Peeling and Steam Heating Treatment on Basic Properties of Two Types of Bamboo Culms (Phyllostachys makinoi and Phyllostachys pubescens)

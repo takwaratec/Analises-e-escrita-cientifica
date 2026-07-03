@@ -7,6 +7,9 @@ email: frocco@sc.usp.br (padrão institucional)
 data: 2026-07-01
 status: Consolidado
 tags: [USP, EESC, paineis, OSB, PU-mamona, compositos, residuos]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Francisco Antonio Rocco Lahr**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-rocco-lahr-usp.md
 ---
 
 # Perfil: Prof. Dr. Francisco Antonio Rocco Lahr

@@ -7,6 +7,8 @@ fontes: USGBC, NRMCA, GBC Brasil
 data: 29/06/2026
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara / Hermes Agent. **— Leadership in Energy and Environmental Design**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_ficha-certificacao-leed.md
 ---
 
 # — Leadership in Energy and Environmental Design

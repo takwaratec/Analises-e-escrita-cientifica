@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Combustão de Alta Performance e Baixa Emissão"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **009: Engenharia Térmica de Rocket Stoves (Biorrefinaria 5.1)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_009_ROCKET_STOVE_EFICIENCIA_TERMICA.md
 ---
 
 # 009: Engenharia Térmica de Rocket Stoves (Biorrefinaria 5.1)

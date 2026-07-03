@@ -6,6 +6,8 @@ projeto: Tecnologia Takwara / ECOSALA
 referencia: Proposta de Regulamentação da Lei do Bambu — PL nº 13.333/2025
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Analítica: Minuta de Decreto — Regulamentação da Lei 12.484/2011 (PNMCB)**. , 2011. DOI: 10.5281/zenodo.17253772
 ---
 
 # a Analítica: Minuta de Decreto — Regulamentação da Lei 12.484/2011 (PNMCB)

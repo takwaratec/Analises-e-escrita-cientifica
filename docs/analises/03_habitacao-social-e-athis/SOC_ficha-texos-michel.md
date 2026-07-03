@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **cha de Referência — Texos / Michel [RASCUNHO]**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_ficha-texos-michel.md
 ---
 
 # cha de Referência — Texos / Michel [RASCUNHO]

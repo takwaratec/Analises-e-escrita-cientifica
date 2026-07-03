@@ -11,6 +11,9 @@ tamanho_kb: 72
 categoria_mentor: 00_outros
 chromadb_id: cca5e25bf874
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Ata_reuniao_2_LaPeCFas_0210.md
+
+how_to_cite: >
+  A identificar. **Ata reunião 2 LaPeCFas 02.10**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Ata_reuniao_2_LaPeCFas_0210.md
 ---
 
 # Ata reunião 2 LaPeCFas 02.10

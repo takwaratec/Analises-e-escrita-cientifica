@@ -6,6 +6,8 @@ data: 2026-06-27
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **nha: Revistas Bambu — Rede Brasileira do Bambu (2022) e INBAR Bamboo & Rattan Update (2025)**. Acervo Soberania Tecnológica, 2022. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_revista-bambu.md
 ---
 
 # nha: Revistas Bambu — Rede Brasileira do Bambu (2022) e INBAR Bamboo & Rattan Update (2025)

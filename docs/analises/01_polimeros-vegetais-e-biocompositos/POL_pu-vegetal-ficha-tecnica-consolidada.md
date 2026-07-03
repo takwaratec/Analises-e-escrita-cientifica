@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **cha Técnica Consolidada — Poliuretano Vegetal (PU Vegetal)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_pu-vegetal-ficha-tecnica-consolidada.md
 ---
 
 # cha Técnica Consolidada — Poliuretano Vegetal (PU Vegetal)

@@ -21,6 +21,8 @@ title: 'Nota Técnica: Saneamento Ecológico e Bio-resiliência Turística (MQTF
 type: Boletim Técnico-Científico
 version: '2.5'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **Técnica: Saneamento Ecológico e Bio resiliência Turística**. , 2026. DOI: 10.5281/zenodo.18827106
 ---
 
 # Técnica: Saneamento Ecológico e Bio resiliência Turística

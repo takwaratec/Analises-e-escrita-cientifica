@@ -21,6 +21,8 @@ title: 'Efeitos do Descasque e Vaporização em Colmos de Bambu (MQTF)'
 type: Extração Estrutural Local (MQTF)
 version: '1.2'
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **tos do Descasque e Vaporização em Colmos de Bambu**. , 2026. DOI: 10.1007/s10086-017-1647-y
 ---
 
 # tos do Descasque e Vaporização em Colmos de Bambu

@@ -10,6 +10,8 @@ status: Consolidado
 licenca: CC BY 4.0
 classificacao_atualizada: Síntese Técnica — documento de advocacy baseado em fontes primárias (artigo com DOI, relatórios de denúncia) e análise do autor. NÃO é artigo revisado por pares.
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica Científica: Crítica Ambiental aos Tratamentos Químicos do Bambu**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-critica-tratamento-quimico-bambu.md
 ---
 
 # a Técnica Científica: Crítica Ambiental aos Tratamentos Químicos do Bambu

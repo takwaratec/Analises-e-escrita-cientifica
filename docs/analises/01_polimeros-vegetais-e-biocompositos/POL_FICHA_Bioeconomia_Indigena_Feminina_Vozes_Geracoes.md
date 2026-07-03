@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA Bioeconomia Indigena Feminina Vozes Geracoes**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Bioeconomia_Indigena_Feminina_Vozes_Geracoes.md
 ---
 
 # FICHA Bioeconomia Indigena Feminina Vozes Geracoes

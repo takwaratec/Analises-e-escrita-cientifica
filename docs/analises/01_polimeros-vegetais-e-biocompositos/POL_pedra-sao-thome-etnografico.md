@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Pedra São Thomé — Estudo Etnográfico (2019)**. , 2019. DOI: 10.5380/dma.v54i0.65016.
 ---
 
 # — Pedra São Thomé — Estudo Etnográfico (2019)

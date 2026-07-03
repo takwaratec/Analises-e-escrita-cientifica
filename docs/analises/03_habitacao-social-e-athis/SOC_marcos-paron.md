@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Cientifica — Prof. Dr. Marcos Eduardo Paron**. , 2026. DOI: 10.7867/1983-1501.2017v19n1p6-17
 ---
 
 # a Cientifica — Prof. Dr. Marcos Eduardo Paron

@@ -1,4 +1,7 @@
-# 📋 Ficha Científica — Protocolo Unificado de Governança e Salvaguardas de Cancún
+---
+how_to_cite: >
+  **📋 Ficha Científica — Protocolo Unificado de Governança e Salvaguardas de Cancún**. , 2026. DOI: 10.5281/zenodo.18827106
+---# 📋 Ficha Científica — Protocolo Unificado de Governança e Salvaguardas de Cancún
 
 > **Metodologia:** Curadoria documental (8 seções)
 > **Ficha:** FICHA_GOV_PROTOCOLO_CANCUN.md

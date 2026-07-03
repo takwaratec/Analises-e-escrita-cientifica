@@ -6,6 +6,9 @@ localizacao: São Carlos - SP
 data: 2026-07-01
 status: Rascunho — dados parciais, validar contato
 tags: [Kehl, Kehlcoat, poliuretano, revestimentos, polimeros, Sao-Carlos, fornecedor]
+
+how_to_cite: >
+  **Ficha: Kehl Polímeros LTDA — Kehlcoat**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-kehlcoat.md
 ---
 
 # Ficha: Kehl Polímeros LTDA — Kehlcoat

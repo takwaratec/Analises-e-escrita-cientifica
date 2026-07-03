@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Kamaruddin et al. (2022) — Tratamento Alcalino de Fibras de Capim Limão para Biocompósitos**. Acervo Soberania Tecnológica, 2022. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_014_POLYMERS_ALKALI_TREATMENT.md
 ---
 
 # a: Kamaruddin et al. (2022) — Tratamento Alcalino de Fibras de Capim Limão para Biocompósitos

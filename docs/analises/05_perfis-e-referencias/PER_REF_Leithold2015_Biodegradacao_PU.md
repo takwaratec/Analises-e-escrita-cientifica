@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a de Referência — Leithold Neto, 2015 — Biodegradação de Bioespumas PU**. Acervo Soberania Tecnológica, 2015. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_REF_Leithold2015_Biodegradacao_PU.md
 ---
 
 # a de Referência — Leithold Neto, 2015 — Biodegradação de Bioespumas PU

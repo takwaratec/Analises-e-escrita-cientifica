@@ -6,6 +6,9 @@ instituicao: Tecnologia Takwara / Ecolaborativa
 data: 2026-06-30
 status: Consolidado
 licenca: CC BY 4.0
+
+how_to_cite: >
+  Fabio Takwara. **Ficha Técnica: Holambra Conectada — Centro de Excelência em Tecnologias Geodésicas**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-holambra-conectada.md
 ---
 
 # Ficha Técnica: Holambra Conectada — Centro de Excelência em Tecnologias Geodésicas

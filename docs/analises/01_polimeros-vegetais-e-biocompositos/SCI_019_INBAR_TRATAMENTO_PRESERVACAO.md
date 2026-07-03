@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Normatização Internacional e Durabilidade"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **019: Normas Técnicas para Tratamento e Preservação (Padrão INBAR)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_019_INBAR_TRATAMENTO_PRESERVACAO.md
 ---
 
 # 019: Normas Técnicas para Tratamento e Preservação (Padrão INBAR)

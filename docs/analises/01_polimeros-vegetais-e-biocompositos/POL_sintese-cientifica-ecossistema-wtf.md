@@ -6,6 +6,8 @@ documento_origem: RES_sintese-cientifica-ecossistema-WTF.md
 status: Finalizado
 data_analise: 2026-06-21
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Síntese Científica — Ecossistema WTF**. , 2026. DOI: 10.5281/zenodo.18827106
 ---
 
 # a Técnica: Síntese Científica — Ecossistema WTF

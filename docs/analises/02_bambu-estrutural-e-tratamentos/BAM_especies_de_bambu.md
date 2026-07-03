@@ -11,6 +11,9 @@ tamanho_kb: 176
 categoria_mentor: 00_outros
 chromadb_id: 88a169889aab
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_especies_de_bambu.md
+
+how_to_cite: >
+  A identificar. **especies de bambu**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_especies_de_bambu.md
 ---
 
 # especies de bambu

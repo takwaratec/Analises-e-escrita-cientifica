@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a: Lacerda — Padrões Espaciais da Política Habitacional (2023)**. , 2023. DOI: 10.22296/2317-1529.rbeur.202332
 ---
 
 # a: Lacerda — Padrões Espaciais da Política Habitacional (2023)

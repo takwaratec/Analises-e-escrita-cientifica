@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Resiliência, ampliabilidade e sistemas construtivos em habitações sociais: uma revisão de literatura**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/03_habitacao-social-e-athis/SOC_otoni-villa-2024-resiliencia-ampliabilidade.md
 ---
 
 # a Técnica: Resiliência, ampliabilidade e sistemas construtivos em habitações sociais: uma revisão de literatura

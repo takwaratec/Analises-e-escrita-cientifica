@@ -11,6 +11,9 @@ tamanho_kb: 80
 categoria_mentor: 00_outros
 chromadb_id: cdd069c24c9d
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_ESECAE_GRUPO_DE_MANEJO_tabela.md
+
+how_to_cite: >
+  A identificar. **ESECAE GRUPO DE MANEJO tabela**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_ESECAE_GRUPO_DE_MANEJO_tabela.md
 ---
 
 # ESECAE GRUPO DE MANEJO tabela

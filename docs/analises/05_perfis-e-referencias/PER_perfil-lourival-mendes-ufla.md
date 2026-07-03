@@ -6,6 +6,9 @@ departamento: Engenharia Florestal / Ciência da Madeira
 data: 2026-07-01
 status: Consolidado
 tags: [UFLA, paineis, OSB, resinas-PU, mamona, fibras, compositos]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Lourival Marin Mendes**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-lourival-mendes-ufla.md
 ---
 
 # Perfil: Prof. Dr. Lourival Marin Mendes

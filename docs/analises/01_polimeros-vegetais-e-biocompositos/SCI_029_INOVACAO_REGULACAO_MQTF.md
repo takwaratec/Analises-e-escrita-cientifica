@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Conformidade Normativa Internacional"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **029: Inovação e Certificação Técnica do Biopolímero (Padrão UE)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_029_INOVACAO_REGULACAO_MQTF.md
 ---
 
 # 029: Inovação e Certificação Técnica do Biopolímero (Padrão UE)

@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **tório de Reavaliação TRL — Proposta Vaga Lúmen**. , 2026. DOI: 10.47749/t/unicamp.2019.1092469
 ---
 
 # tório de Reavaliação TRL — Proposta Vaga Lúmen

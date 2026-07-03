@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a Técnica: Neotropical Woody Bamboo for Sustainable Biobased Products and Bioenergy — a Review**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_neotropical-bamboo-review-2024.md
 ---
 
 # a Técnica: Neotropical Woody Bamboo for Sustainable Biobased Products and Bioenergy — a Review

@@ -7,6 +7,8 @@ status: Consolidado (Audit-Ready)
 pvit_rigor: 5 (Máximo)
 padrao_mqtf: "Segurança do Trabalho e Proteção Ambiental"
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **030: Ficha de Informação de Segurança de Produtos Químicos (FISPQ)**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/SCI_030_FISPQ_SEGURANCA_PU_MQTF.md
 ---
 
 # 030: Ficha de Informação de Segurança de Produtos Químicos (FISPQ)

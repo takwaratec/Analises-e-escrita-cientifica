@@ -7,6 +7,8 @@ fonte_principal: Takwara-Tech (acervo proprio do autor)
 data: 2026-06-27
 classificacao_atualizada: Síntese Técnica — compilação do acervo Takwara-Tech por Fabio Takwara. NÃO é artigo revisado por pares.
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Técnica Científica: Sistema de Reforço Interno de Bambu com PU**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-reforco-interno-bambu-pu.md
 ---
 
 # a Técnica Científica: Sistema de Reforço Interno de Bambu com PU

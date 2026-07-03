@@ -7,6 +7,9 @@ email: alan.olivera@ifgoiano.edu.br
 data: 2026-07-01
 status: Rascunho — validar nome, Lattes, e-mail, campus
 tags: [IF-Goiano, Goias, Centro-Oeste, agroecologia, Cerrado, bambu, quilombolas, capacitacao]
+
+how_to_cite: >
+  **Perfil: Prof. Dr. Alan Prestes de Oliveira**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/05_perfis-e-referencias/PER_perfil-alan-oliveira-ifgoiano.md
 ---
 
 # Perfil: Prof. Dr. Alan Prestes de Oliveira

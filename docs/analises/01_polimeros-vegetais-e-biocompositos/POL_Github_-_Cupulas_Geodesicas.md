@@ -11,6 +11,9 @@ tamanho_kb: 184
 categoria_mentor: 00_outros
 chromadb_id: 7be39d102db4
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Github_-_Cupulas_Geodesicas.md
+
+how_to_cite: >
+  A identificar. **Github Cúpulas Geodesicas**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_Github_-_Cupulas_Geodesicas.md
 ---
 
 # Github - Cúpulas Geodesicas

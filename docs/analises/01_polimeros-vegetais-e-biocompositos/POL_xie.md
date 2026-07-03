@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— XIE — Modificação Química da Madeira**. , 2026. DOI: 10.1007/s00107-013-0693-4
 ---
 
 # — XIE — Modificação Química da Madeira

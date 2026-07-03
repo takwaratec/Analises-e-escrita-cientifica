@@ -11,6 +11,9 @@ tamanho_kb: 83
 categoria_mentor: 00_outros
 chromadb_id: ae015afd01ab
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_Github_-_Santos_Dumont.md
+
+how_to_cite: >
+  A identificar. **Github Santos Dumont**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_Github_-_Santos_Dumont.md
 ---
 
 # Github - Santos Dumont

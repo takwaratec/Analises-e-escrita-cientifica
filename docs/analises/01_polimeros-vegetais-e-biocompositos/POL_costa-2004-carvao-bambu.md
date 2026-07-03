@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **a — Carvão Vegetal de Bambu *Bambusa vulgaris* (Costa, IPEN/USP, 2004)**. Acervo Soberania Tecnológica, 2004. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_costa-2004-carvao-bambu.md
 ---
 
 # a — Carvão Vegetal de Bambu *Bambusa vulgaris* (Costa, IPEN/USP, 2004)

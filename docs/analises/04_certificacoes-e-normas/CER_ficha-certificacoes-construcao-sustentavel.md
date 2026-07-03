@@ -7,6 +7,8 @@ fontes: USGBC, Fundacao Vanzolini, Caixa, Verra, Gold Standard, ISO, IEA, Global
 data: 29/06/2026
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara / Hermes Agent. **ificações Ambientais na Construção Civil — Panorama Comparativo**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/04_certificacoes-e-normas/CER_ficha-certificacoes-construcao-sustentavel.md
 ---
 
 # ificações Ambientais na Construção Civil — Panorama Comparativo

@@ -9,6 +9,8 @@ licenca: CC BY 4.0
 fonte: MAnejo_PNB.md (extração de 20 páginas do PDF original)
 foco: Phyllostachys bambusoides (bambu-japonês) — manejo PNB
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Cavitioli: Manejo do Bambu Japonês (Phyllostachys bambusoides) no Parque Nacional de Brasília**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_manejo-pnb-bambu.md
 ---
 
 # a Cavitioli: Manejo do Bambu Japonês (Phyllostachys bambusoides) no Parque Nacional de Brasília

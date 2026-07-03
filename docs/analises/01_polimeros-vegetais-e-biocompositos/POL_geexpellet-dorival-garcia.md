@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— GEExPELLET — Dorival Garcia (2017)**. , 2017. DOI: 10.5380/rf.v47i1.50952
 ---
 
 # — GEExPELLET — Dorival Garcia (2017)

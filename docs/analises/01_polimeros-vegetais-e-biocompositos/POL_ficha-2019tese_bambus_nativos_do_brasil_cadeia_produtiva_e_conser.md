@@ -11,6 +11,8 @@ data_extracao: 28/06/2026
 fonte: Takwara-Tech (Chatbot_TK/fontes-privadas/)
 arquivo_original: 2019.Tese_BAmbus_Nativos_do_Brasil_Cadeia_Produtiva_e_Conservac_a_o-UNICAMPpdf.md
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  A extrair do texto. **a: Bambus Nativos do Brasil: Cadeia Produtiva e Conservação**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-2019tese_bambus_nativos_do_brasil_cadeia_produtiva_e_conser.md
 ---
 
 # a: Bambus Nativos do Brasil: Cadeia Produtiva e Conservação

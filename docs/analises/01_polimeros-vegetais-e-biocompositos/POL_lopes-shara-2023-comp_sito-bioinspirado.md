@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **iação de um Material Compósito Polimérico Bioinspirado Reforçado com Fibra de Bagaço de Cana de Açúcar**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_lopes-shara-2023-comp_sito-bioinspirado.md
 ---
 
 # iação de um Material Compósito Polimérico Bioinspirado Reforçado com Fibra de Bagaço de Cana de Açúcar

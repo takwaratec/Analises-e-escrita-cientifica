@@ -6,6 +6,8 @@ projeto: Tecnologia Takwara / ECOSALA
 referencia: Dossiê COP30: A Usurpação do Ouro Verde e o Paradoxo da Diplomacia Ambiental Brasileira
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Analítica: Dossiê COP30 — Captura Corporativa da PNMCB**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-dossie-cop30.md
 ---
 
 # a Analítica: Dossiê COP30 — Captura Corporativa da PNMCB

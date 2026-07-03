@@ -5,6 +5,8 @@ referencia: Projeto Casa da Floresta COP30 — Controvérsia sobre Tratamento à
 status: Final — fundamentado em fontes externas e documentos primários
 classificacao: Estudo de Caso
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **ise de Controvérsia: Casa da Floresta COP30 — Entre o Discurso Sustentável e a Prática Química**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_ficha-casa-floresta-cop30.md
 ---
 
 # ise de Controvérsia: Casa da Floresta COP30 — Entre o Discurso Sustentável e a Prática Química

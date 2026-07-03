@@ -6,6 +6,8 @@ status: Consolidado
 metodo: 200+ Prompts para Escrever Artigos Científicos (Cavichiolli, 2025)
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **— Carvão Bambu Indonésia (2019)**. , 2019. DOI: 10.15376/biores.14.2.4224-4235
 ---
 
 # — Carvão Bambu Indonésia (2019)

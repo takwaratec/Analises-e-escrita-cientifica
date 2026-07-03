@@ -11,6 +11,9 @@ tamanho_kb: 36
 categoria_mentor: 00_outros
 chromadb_id: e83497149375
 arquivo_original: /Users/fabiotakwara/Documents/Premio Zayed 2025/fichas/ficha_ficha-tecnica-imperveg-ug132-a1.md
+
+how_to_cite: >
+  A identificar. **ficha tecnica imperveg ug132 a1**. Acervo Soberania Tecnológica, 2025. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/02_bambu-estrutural-e-tratamentos/BAM_ficha-tecnica-imperveg-ug132-a1.md
 ---
 
 # ficha-tecnica-imperveg-ug132-a1

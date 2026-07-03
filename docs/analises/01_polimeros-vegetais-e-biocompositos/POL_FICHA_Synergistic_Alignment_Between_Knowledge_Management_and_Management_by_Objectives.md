@@ -5,6 +5,8 @@ tipo: Documentação Técnica
 referencia: FICHA_Synergistic+Alignment+Between+Knowledge+Management+and+Management+by+Objectives.md
 status: Consolidado
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **FICHA Synergistic Alignment Between Knowledge Management and Management by Objectives**. Acervo Soberania Tecnológica, 2026. Documento técnico. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_FICHA_Synergistic_Alignment_Between_Knowledge_Management_and_Management_by_Objectives.md
 ---
 
 # FICHA Synergistic Alignment Between Knowledge Management and Management by Objectives

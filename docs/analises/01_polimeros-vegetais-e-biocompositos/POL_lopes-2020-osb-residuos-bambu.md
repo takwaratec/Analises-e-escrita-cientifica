@@ -1,6 +1,8 @@
 ---
 
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  **de Resíduos de Bambu como Reforço na Fabricação de Compósitos para Utilização como OSB**. Acervo Soberania Tecnológica, 2026. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_lopes-2020-osb-residuos-bambu.md
 ---
 
 # de Resíduos de Bambu como Reforço na Fabricação de Compósitos para Utilização como OSB

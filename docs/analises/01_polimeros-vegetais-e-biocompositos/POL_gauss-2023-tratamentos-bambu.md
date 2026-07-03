@@ -6,6 +6,8 @@ data: 2026-06-28
 status: Consolidado
 licenca: CC BY 4.0
 conversao_cavichiolli: 2026-07-02
+how_to_cite: >
+  Fabio Takwara. **a Cavitioli — Tratamentos para Bambu com Christian Gauss (2023)**. Acervo Soberania Tecnológica, 2023. Disponível em: https://github.com/takwaratec/acervo-soberania-tecnologica/blob/main/docs/analises/01_polimeros-vegetais-e-biocompositos/POL_gauss-2023-tratamentos-bambu.md
 ---
 
 # a Cavitioli — Tratamentos para Bambu com Christian Gauss (2023)

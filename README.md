@@ -6,7 +6,7 @@
 
 ## 🌱 O que é este acervo
 
-Este repositório é um **acervo científico aberto** de Tecnologias de Baixo Carbono, organizado por **Fabio Takwara** com curadoria documental inspirada no método **Dra. Nathalia Cavichiolli** (8 seções). São **594 fichas técnicas** cobrindo polímeros vegetais, bambu estrutural, habitação social, certificações e perfis de pesquisadores.
+Este repositório é um **acervo científico aberto** de Tecnologias de Baixo Carbono, organizado por **Fabio Takwara** com curadoria documental inspirada no método **Dra. Nathalia Cavichiolli** (8 seções). São **590 fichas técnicas** cobrindo polímeros vegetais, bambu estrutural, habitação social, certificações e perfis de pesquisadores.
 
 **Público-alvo:** Pesquisadores cidadãos, autodidatas, extensionistas universitários, movimentos sociais e qualquer pessoa interessada em construir conhecimento com autonomia.
 
@@ -17,7 +17,7 @@ Este repositório é um **acervo científico aberto** de Tecnologias de Baixo Ca
 ```
 📂 acervo-soberania-tecnologica/
 │
-├── 📂 01_polimeros-vegetais-e-biocompositos/   ← 330 fichas (POL_)
+├── 📂 01_polimeros-vegetais-e-biocompositos/   ← 328 fichas (POL_)
 │   │   Biocompósitos, PU Vegetal, Imperveg, MQTF
 │   └── 📷 evidencias/
 │
@@ -118,12 +118,12 @@ Na pasta `.agent-instructions/` você encontra prompts prontos para copiar e col
 
 | Área | Fichas | Prefixo |
 |------|:------:|:-------:|
-| Polímeros Vegetais e Biocompósitos | 330 | POL_ |
+| Polímeros Vegetais e Biocompósitos | 328 | POL_ |
 | Bambu Estrutural e Tratamentos | 112 | BAM_ |
 | Habitação Social e ATHIS | 64 | SOC_ |
 | Certificações e Normas | 21 | CER_ |
 | Perfis e Referências | 67 | PER_ |
-| **Total** | **594** | |
+| **Total** | **590** | |
 
 ---
 
